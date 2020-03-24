@@ -434,6 +434,11 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "114lk.com": {
+        "epoch": 1682035200.0,
+        "expiration_date": "21-apr-2023",
+        "state": "future"
+    },
     "114oldest.com": {
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
