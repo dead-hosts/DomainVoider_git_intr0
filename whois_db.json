@@ -502,7 +502,7 @@
     "11hrcnll.com": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "11nux.com": {
         "epoch": 1591833600.0,
@@ -847,7 +847,7 @@
     "1ea1sley.com": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "1el-1el-fie.com": {
         "epoch": 1585872000.0,
@@ -2460,8 +2460,8 @@
         "state": "future"
     },
     "4736.in": {
-        "epoch": 1585785600.0,
-        "expiration_date": "02-apr-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "473863a8ef28.com": {
@@ -2550,8 +2550,8 @@
         "state": "future"
     },
     "4dex.io": {
-        "epoch": 1585785600.0,
-        "expiration_date": "02-apr-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "4dexports.com": {
@@ -3612,7 +3612,7 @@
     "79zgycmr.com": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "7a6421ee67fdb0f660.com": {
         "epoch": 1589241600.0,
@@ -4157,7 +4157,7 @@
     "8wey4x0c.com": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "8yxupue8.com": {
         "epoch": 1615680000.0,
