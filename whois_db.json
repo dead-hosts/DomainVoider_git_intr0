@@ -2189,6 +2189,26 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "365online-charge.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "365online-deactivation.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "365online-reviewal.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "365online-transaction.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
     "365sbaffiliates.com": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
@@ -2352,6 +2372,11 @@
     "3delllwrite.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "3dforcovid.com": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
         "state": "future"
     },
     "3dlivestats.com": {
