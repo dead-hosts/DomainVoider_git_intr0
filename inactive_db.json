@@ -328,13 +328,6 @@
             "last_retested_at_epoch": 1585514404.0,
             "last_retested_at_iso": "2020-03-29T20:40:04",
             "status": "INACTIVE"
-        },
-        "9juj88.com": {
-            "included_at_epoch": 1585355931.0,
-            "included_at_iso": "2020-03-28T00:38:51",
-            "last_retested_at_epoch": 1585355931.0,
-            "last_retested_at_iso": "2020-03-28T00:38:51",
-            "status": "INACTIVE"
         }
     }
 }
