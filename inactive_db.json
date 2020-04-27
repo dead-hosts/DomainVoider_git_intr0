@@ -623,6 +623,13 @@
             "last_retested_at_iso": "2020-04-26T16:26:55.311319",
             "status": "INACTIVE"
         },
+        "18grup.getz1.shop": {
+            "included_at_epoch": 1587977884.599878,
+            "included_at_iso": "2020-04-27T08:58:04.599878",
+            "last_retested_at_epoch": 1587977884.599878,
+            "last_retested_at_iso": "2020-04-27T08:58:04.599878",
+            "status": "INACTIVE"
+        },
         "18nation.": {
             "included_at_epoch": 1587918415.333124,
             "included_at_iso": "2020-04-26T16:26:55.333124",
