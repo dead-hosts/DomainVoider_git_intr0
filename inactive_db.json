@@ -1225,6 +1225,13 @@
             "last_retested_at_iso": "2020-04-27T17:02:37.843277",
             "status": "INACTIVE"
         },
+        "2ssltome.ga": {
+            "included_at_epoch": 1588036021.959856,
+            "included_at_iso": "2020-04-28T01:07:01.959856",
+            "last_retested_at_epoch": 1588036021.959856,
+            "last_retested_at_iso": "2020-04-28T01:07:01.959856",
+            "status": "INACTIVE"
+        },
         "2taa9ib4ib.com": {
             "included_at_epoch": 1587182731.0,
             "included_at_iso": "2020-04-18T04:05:31",
