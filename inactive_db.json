@@ -1225,6 +1225,13 @@
             "last_retested_at_iso": "2020-04-30T12:38:34.591396",
             "status": "INACTIVE"
         },
+        "3.googlenews.xorg.pl": {
+            "included_at_epoch": 1588292888.775699,
+            "included_at_iso": "2020-05-01T00:28:08.775699",
+            "last_retested_at_epoch": 1588292888.775699,
+            "last_retested_at_iso": "2020-05-01T00:28:08.775699",
+            "status": "INACTIVE"
+        },
         "3.mobile-billing.com": {
             "included_at_epoch": 1587958865.850722,
             "included_at_iso": "2020-04-27T03:41:05.850722",
@@ -1309,6 +1316,13 @@
             "last_retested_at_iso": "2020-04-30T13:38:26.654646",
             "status": "INACTIVE"
         },
+        "395131115419474531.002.sh.cn": {
+            "included_at_epoch": 1588292889.767622,
+            "included_at_iso": "2020-05-01T00:28:09.767622",
+            "last_retested_at_epoch": 1588292889.767622,
+            "last_retested_at_iso": "2020-05-01T00:28:09.767622",
+            "status": "INACTIVE"
+        },
         "3a64ddc048d277.com": {
             "included_at_epoch": 1587920498.396406,
             "included_at_iso": "2020-04-26T17:01:38.396406",
@@ -1349,6 +1363,13 @@
             "included_at_iso": "2020-04-08T07:35:53",
             "last_retested_at_epoch": 1588280909.551614,
             "last_retested_at_iso": "2020-04-30T21:08:29.551614",
+            "status": "INACTIVE"
+        },
+        "4.googlenews.xorg.pl": {
+            "included_at_epoch": 1588292890.468246,
+            "included_at_iso": "2020-05-01T00:28:10.468246",
+            "last_retested_at_epoch": 1588292890.468246,
+            "last_retested_at_iso": "2020-05-01T00:28:10.468246",
             "status": "INACTIVE"
         },
         "400cao.com": {
