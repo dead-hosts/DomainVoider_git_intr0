@@ -12270,6 +12270,55 @@
             "last_retested_at_epoch": 1588407259.225126,
             "last_retested_at_iso": "2020-05-02T08:14:19.225126",
             "status": "INACTIVE"
+        },
+        "covid-19test.co.nz": {
+            "included_at_epoch": 1588408884.199018,
+            "included_at_iso": "2020-05-02T08:41:24.199018",
+            "last_retested_at_epoch": 1588408884.199018,
+            "last_retested_at_iso": "2020-05-02T08:41:24.199018",
+            "status": "INACTIVE"
+        },
+        "covid-lacaf.com": {
+            "included_at_epoch": 1588408907.733859,
+            "included_at_iso": "2020-05-02T08:41:47.733859",
+            "last_retested_at_epoch": 1588408907.733859,
+            "last_retested_at_iso": "2020-05-02T08:41:47.733859",
+            "status": "INACTIVE"
+        },
+        "covid-recov.com": {
+            "included_at_epoch": 1588408910.781753,
+            "included_at_iso": "2020-05-02T08:41:50.781753",
+            "last_retested_at_epoch": 1588408910.781753,
+            "last_retested_at_iso": "2020-05-02T08:41:50.781753",
+            "status": "INACTIVE"
+        },
+        "covid19-fg-grant.blogspot.com": {
+            "included_at_epoch": 1588408927.724982,
+            "included_at_iso": "2020-05-02T08:42:07.724982",
+            "last_retested_at_epoch": 1588408927.724982,
+            "last_retested_at_iso": "2020-05-02T08:42:07.724982",
+            "status": "INACTIVE"
+        },
+        "covid19-grants.com": {
+            "included_at_epoch": 1588408929.458802,
+            "included_at_iso": "2020-05-02T08:42:09.458802",
+            "last_retested_at_epoch": 1588408929.458802,
+            "last_retested_at_iso": "2020-05-02T08:42:09.458802",
+            "status": "INACTIVE"
+        },
+        "covid19-latest-updates.afyfr.com": {
+            "included_at_epoch": 1588408933.50104,
+            "included_at_iso": "2020-05-02T08:42:13.501040",
+            "last_retested_at_epoch": 1588408933.50104,
+            "last_retested_at_iso": "2020-05-02T08:42:13.501040",
+            "status": "INACTIVE"
+        },
+        "covid19-loans.org": {
+            "included_at_epoch": 1588408934.739085,
+            "included_at_iso": "2020-05-02T08:42:14.739085",
+            "last_retested_at_epoch": 1588408934.739085,
+            "last_retested_at_iso": "2020-05-02T08:42:14.739085",
+            "status": "INACTIVE"
         }
     }
 }
