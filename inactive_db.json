@@ -11731,6 +11731,76 @@
             "last_retested_at_epoch": 1588395806.578659,
             "last_retested_at_iso": "2020-05-02T05:03:26.578659",
             "status": "INACTIVE"
+        },
+        "coronalhandyman.info": {
+            "included_at_epoch": 1588396773.388603,
+            "included_at_iso": "2020-05-02T05:19:33.388603",
+            "last_retested_at_epoch": 1588396773.388603,
+            "last_retested_at_iso": "2020-05-02T05:19:33.388603",
+            "status": "INACTIVE"
+        },
+        "coronaliqua.ml": {
+            "included_at_epoch": 1588396774.108967,
+            "included_at_iso": "2020-05-02T05:19:34.108967",
+            "last_retested_at_epoch": 1588396774.108967,
+            "last_retested_at_iso": "2020-05-02T05:19:34.108967",
+            "status": "INACTIVE"
+        },
+        "coronaliqua.tk": {
+            "included_at_epoch": 1588396774.213507,
+            "included_at_iso": "2020-05-02T05:19:34.213507",
+            "last_retested_at_epoch": 1588396774.213507,
+            "last_retested_at_iso": "2020-05-02T05:19:34.213507",
+            "status": "INACTIVE"
+        },
+        "coronals.stream": {
+            "included_at_epoch": 1588396777.31283,
+            "included_at_iso": "2020-05-02T05:19:37.312830",
+            "last_retested_at_epoch": 1588396777.31283,
+            "last_retested_at_iso": "2020-05-02T05:19:37.312830",
+            "status": "INACTIVE"
+        },
+        "coronalse.in": {
+            "included_at_epoch": 1588396777.342468,
+            "included_at_iso": "2020-05-02T05:19:37.342468",
+            "last_retested_at_epoch": 1588396777.342468,
+            "last_retested_at_iso": "2020-05-02T05:19:37.342468",
+            "status": "INACTIVE"
+        },
+        "coronalsupport.info": {
+            "included_at_epoch": 1588396777.372149,
+            "included_at_iso": "2020-05-02T05:19:37.372149",
+            "last_retested_at_epoch": 1588396777.372149,
+            "last_retested_at_iso": "2020-05-02T05:19:37.372149",
+            "status": "INACTIVE"
+        },
+        "coronaltab.info": {
+            "included_at_epoch": 1588396777.401389,
+            "included_at_iso": "2020-05-02T05:19:37.401389",
+            "last_retested_at_epoch": 1588396777.401389,
+            "last_retested_at_iso": "2020-05-02T05:19:37.401389",
+            "status": "INACTIVE"
+        },
+        "coronaorsemiproof.bid": {
+            "included_at_epoch": 1588396796.933652,
+            "included_at_iso": "2020-05-02T05:19:56.933652",
+            "last_retested_at_epoch": 1588396796.933652,
+            "last_retested_at_iso": "2020-05-02T05:19:56.933652",
+            "status": "INACTIVE"
+        },
+        "coronapayments.estrodev.com": {
+            "included_at_epoch": 1588396799.725564,
+            "included_at_iso": "2020-05-02T05:19:59.725564",
+            "last_retested_at_epoch": 1588396799.725564,
+            "last_retested_at_iso": "2020-05-02T05:19:59.725564",
+            "status": "INACTIVE"
+        },
+        "coronaproducecompare11.info": {
+            "included_at_epoch": 1588396806.557922,
+            "included_at_iso": "2020-05-02T05:20:06.557922",
+            "last_retested_at_epoch": 1588396806.557922,
+            "last_retested_at_iso": "2020-05-02T05:20:06.557922",
+            "status": "INACTIVE"
         }
     }
 }
