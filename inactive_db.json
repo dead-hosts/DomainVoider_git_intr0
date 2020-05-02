@@ -12067,6 +12067,146 @@
             "last_retested_at_epoch": 1588405567.802313,
             "last_retested_at_iso": "2020-05-02T07:46:07.802313",
             "status": "INACTIVE"
+        },
+        "coronaviruswalk.xyz": {
+            "included_at_epoch": 1588406424.330935,
+            "included_at_iso": "2020-05-02T08:00:24.330935",
+            "last_retested_at_epoch": 1588406424.330935,
+            "last_retested_at_iso": "2020-05-02T08:00:24.330935",
+            "status": "INACTIVE"
+        },
+        "corp1.site": {
+            "included_at_epoch": 1588406455.000812,
+            "included_at_iso": "2020-05-02T08:00:55.000812",
+            "last_retested_at_epoch": 1588406455.000812,
+            "last_retested_at_iso": "2020-05-02T08:00:55.000812",
+            "status": "INACTIVE"
+        },
+        "corp10.site": {
+            "included_at_epoch": 1588406455.034534,
+            "included_at_iso": "2020-05-02T08:00:55.034534",
+            "last_retested_at_epoch": 1588406455.034534,
+            "last_retested_at_iso": "2020-05-02T08:00:55.034534",
+            "status": "INACTIVE"
+        },
+        "corp11.site": {
+            "included_at_epoch": 1588406455.10222,
+            "included_at_iso": "2020-05-02T08:00:55.102220",
+            "last_retested_at_epoch": 1588406455.10222,
+            "last_retested_at_iso": "2020-05-02T08:00:55.102220",
+            "status": "INACTIVE"
+        },
+        "corp5.site": {
+            "included_at_epoch": 1588406455.068453,
+            "included_at_iso": "2020-05-02T08:00:55.068453",
+            "last_retested_at_epoch": 1588406455.068453,
+            "last_retested_at_iso": "2020-05-02T08:00:55.068453",
+            "status": "INACTIVE"
+        },
+        "corp6.site": {
+            "included_at_epoch": 1588406455.169908,
+            "included_at_iso": "2020-05-02T08:00:55.169908",
+            "last_retested_at_epoch": 1588406455.169908,
+            "last_retested_at_iso": "2020-05-02T08:00:55.169908",
+            "status": "INACTIVE"
+        },
+        "corp7.site": {
+            "included_at_epoch": 1588406455.136039,
+            "included_at_iso": "2020-05-02T08:00:55.136039",
+            "last_retested_at_epoch": 1588406455.136039,
+            "last_retested_at_iso": "2020-05-02T08:00:55.136039",
+            "status": "INACTIVE"
+        },
+        "corp8.site": {
+            "included_at_epoch": 1588406455.203997,
+            "included_at_iso": "2020-05-02T08:00:55.203997",
+            "last_retested_at_epoch": 1588406455.203997,
+            "last_retested_at_iso": "2020-05-02T08:00:55.203997",
+            "status": "INACTIVE"
+        },
+        "corp9.site": {
+            "included_at_epoch": 1588406455.237752,
+            "included_at_iso": "2020-05-02T08:00:55.237752",
+            "last_retested_at_epoch": 1588406455.237752,
+            "last_retested_at_iso": "2020-05-02T08:00:55.237752",
+            "status": "INACTIVE"
+        },
+        "coshfgpgab.com": {
+            "included_at_epoch": 1588406455.658937,
+            "included_at_iso": "2020-05-02T08:00:55.658937",
+            "last_retested_at_epoch": 1588406455.658937,
+            "last_retested_at_iso": "2020-05-02T08:00:55.658937",
+            "status": "INACTIVE"
+        },
+        "cottawa.info": {
+            "included_at_epoch": 1588406456.673761,
+            "included_at_iso": "2020-05-02T08:00:56.673761",
+            "last_retested_at_epoch": 1588406456.673761,
+            "last_retested_at_iso": "2020-05-02T08:00:56.673761",
+            "status": "INACTIVE"
+        },
+        "count-cnt.ru": {
+            "included_at_epoch": 1588406457.217557,
+            "included_at_iso": "2020-05-02T08:00:57.217557",
+            "last_retested_at_epoch": 1588406457.217557,
+            "last_retested_at_iso": "2020-05-02T08:00:57.217557",
+            "status": "INACTIVE"
+        },
+        "counter.rian.ru": {
+            "included_at_epoch": 1588406459.084748,
+            "included_at_iso": "2020-05-02T08:00:59.084748",
+            "last_retested_at_epoch": 1588406459.084748,
+            "last_retested_at_iso": "2020-05-02T08:00:59.084748",
+            "status": "INACTIVE"
+        },
+        "countercity.de": {
+            "included_at_epoch": 1588406459.656406,
+            "included_at_iso": "2020-05-02T08:00:59.656406",
+            "last_retested_at_epoch": 1588406459.656406,
+            "last_retested_at_iso": "2020-05-02T08:00:59.656406",
+            "status": "INACTIVE"
+        },
+        "countrywideaustralicovid19.com": {
+            "included_at_epoch": 1588406462.259345,
+            "included_at_iso": "2020-05-02T08:01:02.259345",
+            "last_retested_at_epoch": 1588406462.259345,
+            "last_retested_at_iso": "2020-05-02T08:01:02.259345",
+            "status": "INACTIVE"
+        },
+        "courprink.hopto.org": {
+            "included_at_epoch": 1588406463.239585,
+            "included_at_iso": "2020-05-02T08:01:03.239585",
+            "last_retested_at_epoch": 1588406463.239585,
+            "last_retested_at_iso": "2020-05-02T08:01:03.239585",
+            "status": "INACTIVE"
+        },
+        "cov-19.payment2020.estrodev.com": {
+            "included_at_epoch": 1588406463.548284,
+            "included_at_iso": "2020-05-02T08:01:03.548284",
+            "last_retested_at_epoch": 1588406463.548284,
+            "last_retested_at_iso": "2020-05-02T08:01:03.548284",
+            "status": "INACTIVE"
+        },
+        "cov19-payment.estrodev.com": {
+            "included_at_epoch": 1588406463.583529,
+            "included_at_iso": "2020-05-02T08:01:03.583529",
+            "last_retested_at_epoch": 1588406463.583529,
+            "last_retested_at_iso": "2020-05-02T08:01:03.583529",
+            "status": "INACTIVE"
+        },
+        "coveome.augerqiscience.top": {
+            "included_at_epoch": 1588406463.618236,
+            "included_at_iso": "2020-05-02T08:01:03.618236",
+            "last_retested_at_epoch": 1588406463.618236,
+            "last_retested_at_iso": "2020-05-02T08:01:03.618236",
+            "status": "INACTIVE"
+        },
+        "covid-19-business-continuity-epic-uk-limited.azurewebsites.net": {
+            "included_at_epoch": 1588406465.27271,
+            "included_at_iso": "2020-05-02T08:01:05.272710",
+            "last_retested_at_epoch": 1588406465.27271,
+            "last_retested_at_iso": "2020-05-02T08:01:05.272710",
+            "status": "INACTIVE"
         }
     }
 }
