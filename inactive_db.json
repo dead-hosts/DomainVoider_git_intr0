@@ -12431,6 +12431,41 @@
             "last_retested_at_epoch": 1588413384.846259,
             "last_retested_at_iso": "2020-05-02T09:56:24.846259",
             "status": "INACTIVE"
+        },
+        "covidbetaalpas.nl": {
+            "included_at_epoch": 1588414157.476587,
+            "included_at_iso": "2020-05-02T10:09:17.476587",
+            "last_retested_at_epoch": 1588414157.476587,
+            "last_retested_at_iso": "2020-05-02T10:09:17.476587",
+            "status": "INACTIVE"
+        },
+        "covideuso.club": {
+            "included_at_epoch": 1588414200.214848,
+            "included_at_iso": "2020-05-02T10:10:00.214848",
+            "last_retested_at_epoch": 1588414200.214848,
+            "last_retested_at_iso": "2020-05-02T10:10:00.214848",
+            "status": "INACTIVE"
+        },
+        "covidflix19.xyz": {
+            "included_at_epoch": 1588414204.947525,
+            "included_at_iso": "2020-05-02T10:10:04.947525",
+            "last_retested_at_epoch": 1588414204.947525,
+            "last_retested_at_iso": "2020-05-02T10:10:04.947525",
+            "status": "INACTIVE"
+        },
+        "covidi9.ga": {
+            "included_at_epoch": 1588414220.565237,
+            "included_at_iso": "2020-05-02T10:10:20.565237",
+            "last_retested_at_epoch": 1588414220.565237,
+            "last_retested_at_iso": "2020-05-02T10:10:20.565237",
+            "status": "INACTIVE"
+        },
+        "covidi9.gq": {
+            "included_at_epoch": 1588414220.601503,
+            "included_at_iso": "2020-05-02T10:10:20.601503",
+            "last_retested_at_epoch": 1588414220.601503,
+            "last_retested_at_iso": "2020-05-02T10:10:20.601503",
+            "status": "INACTIVE"
         }
     }
 }
