@@ -12011,6 +12011,62 @@
             "last_retested_at_epoch": 1588403356.584515,
             "last_retested_at_iso": "2020-05-02T07:09:16.584515",
             "status": "INACTIVE"
+        },
+        "coronavirussoftware.xyz": {
+            "included_at_epoch": 1588405505.701192,
+            "included_at_iso": "2020-05-02T07:45:05.701192",
+            "last_retested_at_epoch": 1588405505.701192,
+            "last_retested_at_iso": "2020-05-02T07:45:05.701192",
+            "status": "INACTIVE"
+        },
+        "coronavirusstatistics.icu": {
+            "included_at_epoch": 1588405509.233558,
+            "included_at_iso": "2020-05-02T07:45:09.233558",
+            "last_retested_at_epoch": 1588405509.233558,
+            "last_retested_at_iso": "2020-05-02T07:45:09.233558",
+            "status": "INACTIVE"
+        },
+        "coronavirusstatus.space": {
+            "included_at_epoch": 1588405509.512388,
+            "included_at_iso": "2020-05-02T07:45:09.512388",
+            "last_retested_at_epoch": 1588405509.512388,
+            "last_retested_at_iso": "2020-05-02T07:45:09.512388",
+            "status": "INACTIVE"
+        },
+        "coronavirusstatus.xyz": {
+            "included_at_epoch": 1588405509.795591,
+            "included_at_iso": "2020-05-02T07:45:09.795591",
+            "last_retested_at_epoch": 1588405509.795591,
+            "last_retested_at_iso": "2020-05-02T07:45:09.795591",
+            "status": "INACTIVE"
+        },
+        "coronavirusupdate.tech": {
+            "included_at_epoch": 1588405561.917623,
+            "included_at_iso": "2020-05-02T07:46:01.917623",
+            "last_retested_at_epoch": 1588405561.917623,
+            "last_retested_at_iso": "2020-05-02T07:46:01.917623",
+            "status": "INACTIVE"
+        },
+        "coronavirusupdate.tk": {
+            "included_at_epoch": 1588405561.883565,
+            "included_at_iso": "2020-05-02T07:46:01.883565",
+            "last_retested_at_epoch": 1588405561.883565,
+            "last_retested_at_iso": "2020-05-02T07:46:01.883565",
+            "status": "INACTIVE"
+        },
+        "coronavirusupdates.online": {
+            "included_at_epoch": 1588405562.739556,
+            "included_at_iso": "2020-05-02T07:46:02.739556",
+            "last_retested_at_epoch": 1588405562.739556,
+            "last_retested_at_iso": "2020-05-02T07:46:02.739556",
+            "status": "INACTIVE"
+        },
+        "coronavirusvaccineavailable.com": {
+            "included_at_epoch": 1588405567.802313,
+            "included_at_iso": "2020-05-02T07:46:07.802313",
+            "last_retested_at_epoch": 1588405567.802313,
+            "last_retested_at_iso": "2020-05-02T07:46:07.802313",
+            "status": "INACTIVE"
         }
     }
 }
