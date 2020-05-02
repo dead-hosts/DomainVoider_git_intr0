@@ -11556,6 +11556,55 @@
             "last_retested_at_epoch": 1588391292.198364,
             "last_retested_at_iso": "2020-05-02T03:48:12.198364",
             "status": "INACTIVE"
+        },
+        "corona-skins.fun": {
+            "included_at_epoch": 1588392778.146699,
+            "included_at_iso": "2020-05-02T04:12:58.146699",
+            "last_retested_at_epoch": 1588392778.146699,
+            "last_retested_at_iso": "2020-05-02T04:12:58.146699",
+            "status": "INACTIVE"
+        },
+        "corona-store.in": {
+            "included_at_epoch": 1588392779.305663,
+            "included_at_iso": "2020-05-02T04:12:59.305663",
+            "last_retested_at_epoch": 1588392779.305663,
+            "last_retested_at_iso": "2020-05-02T04:12:59.305663",
+            "status": "INACTIVE"
+        },
+        "corona-virus-test-kits.online": {
+            "included_at_epoch": 1588392785.990122,
+            "included_at_iso": "2020-05-02T04:13:05.990122",
+            "last_retested_at_epoch": 1588392785.990122,
+            "last_retested_at_iso": "2020-05-02T04:13:05.990122",
+            "status": "INACTIVE"
+        },
+        "corona-virusapps.com": {
+            "included_at_epoch": 1588392788.507877,
+            "included_at_iso": "2020-05-02T04:13:08.507877",
+            "last_retested_at_epoch": 1588392788.507877,
+            "last_retested_at_iso": "2020-05-02T04:13:08.507877",
+            "status": "INACTIVE"
+        },
+        "corona3.xyz": {
+            "included_at_epoch": 1588392796.931315,
+            "included_at_iso": "2020-05-02T04:13:16.931315",
+            "last_retested_at_epoch": 1588392796.931315,
+            "last_retested_at_iso": "2020-05-02T04:13:16.931315",
+            "status": "INACTIVE"
+        },
+        "corona4.xyz": {
+            "included_at_epoch": 1588392797.097709,
+            "included_at_iso": "2020-05-02T04:13:17.097709",
+            "last_retested_at_epoch": 1588392797.097709,
+            "last_retested_at_iso": "2020-05-02T04:13:17.097709",
+            "status": "INACTIVE"
+        },
+        "coronabay.net": {
+            "included_at_epoch": 1588392805.186589,
+            "included_at_iso": "2020-05-02T04:13:25.186589",
+            "last_retested_at_epoch": 1588392805.186589,
+            "last_retested_at_iso": "2020-05-02T04:13:25.186589",
+            "status": "INACTIVE"
         }
     }
 }
