@@ -12466,6 +12466,20 @@
             "last_retested_at_epoch": 1588414220.601503,
             "last_retested_at_iso": "2020-05-02T10:10:20.601503",
             "status": "INACTIVE"
+        },
+        "covidrecov.com": {
+            "included_at_epoch": 1588415268.212563,
+            "included_at_iso": "2020-05-02T10:27:48.212563",
+            "last_retested_at_epoch": 1588415268.212563,
+            "last_retested_at_iso": "2020-05-02T10:27:48.212563",
+            "status": "INACTIVE"
+        },
+        "covidsfthesuh.co.uk": {
+            "included_at_epoch": 1588415284.154025,
+            "included_at_iso": "2020-05-02T10:28:04.154025",
+            "last_retested_at_epoch": 1588415284.154025,
+            "last_retested_at_iso": "2020-05-02T10:28:04.154025",
+            "status": "INACTIVE"
         }
     }
 }
