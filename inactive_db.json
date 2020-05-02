@@ -11920,6 +11920,27 @@
             "last_retested_at_epoch": 1588399878.154143,
             "last_retested_at_iso": "2020-05-02T06:11:18.154143",
             "status": "INACTIVE"
+        },
+        "coronaviruscombat.com": {
+            "included_at_epoch": 1588400778.533677,
+            "included_at_iso": "2020-05-02T06:26:18.533677",
+            "last_retested_at_epoch": 1588400778.533677,
+            "last_retested_at_iso": "2020-05-02T06:26:18.533677",
+            "status": "INACTIVE"
+        },
+        "coronaviruscovid19-informationp.com": {
+            "included_at_epoch": 1588400785.634623,
+            "included_at_iso": "2020-05-02T06:26:25.634623",
+            "last_retested_at_epoch": 1588400785.634623,
+            "last_retested_at_iso": "2020-05-02T06:26:25.634623",
+            "status": "INACTIVE"
+        },
+        "coronaviruse-map.com": {
+            "included_at_epoch": 1588400813.542913,
+            "included_at_iso": "2020-05-02T06:26:53.542913",
+            "last_retested_at_epoch": 1588400813.542913,
+            "last_retested_at_iso": "2020-05-02T06:26:53.542913",
+            "status": "INACTIVE"
         }
     }
 }
