@@ -11801,6 +11801,62 @@
             "last_retested_at_epoch": 1588396806.557922,
             "last_retested_at_iso": "2020-05-02T05:20:06.557922",
             "status": "INACTIVE"
+        },
+        "coronarycareunit.biz": {
+            "included_at_epoch": 1588398112.038054,
+            "included_at_iso": "2020-05-02T05:41:52.038054",
+            "last_retested_at_epoch": 1588398112.038054,
+            "last_retested_at_iso": "2020-05-02T05:41:52.038054",
+            "status": "INACTIVE"
+        },
+        "coronarycareunit.us": {
+            "included_at_epoch": 1588398112.148113,
+            "included_at_iso": "2020-05-02T05:41:52.148113",
+            "last_retested_at_epoch": 1588398112.148113,
+            "last_retested_at_iso": "2020-05-02T05:41:52.148113",
+            "status": "INACTIVE"
+        },
+        "coronasafetymask.tk": {
+            "included_at_epoch": 1588398113.305034,
+            "included_at_iso": "2020-05-02T05:41:53.305034",
+            "last_retested_at_epoch": 1588398113.305034,
+            "last_retested_at_iso": "2020-05-02T05:41:53.305034",
+            "status": "INACTIVE"
+        },
+        "coronate.ga": {
+            "included_at_epoch": 1588398138.703368,
+            "included_at_iso": "2020-05-02T05:42:18.703368",
+            "last_retested_at_epoch": 1588398138.703368,
+            "last_retested_at_iso": "2020-05-02T05:42:18.703368",
+            "status": "INACTIVE"
+        },
+        "coronatime.club": {
+            "included_at_epoch": 1588398145.818241,
+            "included_at_iso": "2020-05-02T05:42:25.818241",
+            "last_retested_at_epoch": 1588398145.818241,
+            "last_retested_at_iso": "2020-05-02T05:42:25.818241",
+            "status": "INACTIVE"
+        },
+        "coronationfunction.site": {
+            "included_at_epoch": 1588398146.354175,
+            "included_at_iso": "2020-05-02T05:42:26.354175",
+            "last_retested_at_epoch": 1588398146.354175,
+            "last_retested_at_iso": "2020-05-02T05:42:26.354175",
+            "status": "INACTIVE"
+        },
+        "coronationgulf.tk": {
+            "included_at_epoch": 1588398146.384392,
+            "included_at_iso": "2020-05-02T05:42:26.384392",
+            "last_retested_at_epoch": 1588398146.384392,
+            "last_retested_at_iso": "2020-05-02T05:42:26.384392",
+            "status": "INACTIVE"
+        },
+        "coronations.in": {
+            "included_at_epoch": 1588398146.498701,
+            "included_at_iso": "2020-05-02T05:42:26.498701",
+            "last_retested_at_epoch": 1588398146.498701,
+            "last_retested_at_iso": "2020-05-02T05:42:26.498701",
+            "status": "INACTIVE"
         }
     }
 }
