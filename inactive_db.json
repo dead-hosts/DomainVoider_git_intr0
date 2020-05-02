@@ -11941,6 +11941,27 @@
             "last_retested_at_epoch": 1588400813.542913,
             "last_retested_at_iso": "2020-05-02T06:26:53.542913",
             "status": "INACTIVE"
+        },
+        "coronavirusglobalimpact.rainbowgist.com": {
+            "included_at_epoch": 1588402033.098014,
+            "included_at_iso": "2020-05-02T06:47:13.098014",
+            "last_retested_at_epoch": 1588402033.098014,
+            "last_retested_at_iso": "2020-05-02T06:47:13.098014",
+            "status": "INACTIVE"
+        },
+        "coronavirusgroup.co.uk": {
+            "included_at_epoch": 1588402035.967539,
+            "included_at_iso": "2020-05-02T06:47:15.967539",
+            "last_retested_at_epoch": 1588402035.967539,
+            "last_retested_at_iso": "2020-05-02T06:47:15.967539",
+            "status": "INACTIVE"
+        },
+        "coronavirushelp.company": {
+            "included_at_epoch": 1588402045.099993,
+            "included_at_iso": "2020-05-02T06:47:25.099993",
+            "last_retested_at_epoch": 1588402045.099993,
+            "last_retested_at_iso": "2020-05-02T06:47:25.099993",
+            "status": "INACTIVE"
         }
     }
 }
