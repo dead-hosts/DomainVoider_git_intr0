@@ -12207,6 +12207,69 @@
             "last_retested_at_epoch": 1588406465.27271,
             "last_retested_at_iso": "2020-05-02T08:01:05.272710",
             "status": "INACTIVE"
+        },
+        "covid-19-news.xyz": {
+            "included_at_epoch": 1588407212.553505,
+            "included_at_iso": "2020-05-02T08:13:32.553505",
+            "last_retested_at_epoch": 1588407212.553505,
+            "last_retested_at_iso": "2020-05-02T08:13:32.553505",
+            "status": "INACTIVE"
+        },
+        "covid-19-uk.xyz": {
+            "included_at_epoch": 1588407217.669763,
+            "included_at_iso": "2020-05-02T08:13:37.669763",
+            "last_retested_at_epoch": 1588407217.669763,
+            "last_retested_at_iso": "2020-05-02T08:13:37.669763",
+            "status": "INACTIVE"
+        },
+        "covid-19.bdtime.news": {
+            "included_at_epoch": 1588407218.495778,
+            "included_at_iso": "2020-05-02T08:13:38.495778",
+            "last_retested_at_epoch": 1588407218.495778,
+            "last_retested_at_iso": "2020-05-02T08:13:38.495778",
+            "status": "INACTIVE"
+        },
+        "covid-19.xxx-wa.com": {
+            "included_at_epoch": 1588407220.69999,
+            "included_at_iso": "2020-05-02T08:13:40.699990",
+            "last_retested_at_epoch": 1588407220.69999,
+            "last_retested_at_iso": "2020-05-02T08:13:40.699990",
+            "status": "INACTIVE"
+        },
+        "covid-19antibodycheck.com": {
+            "included_at_epoch": 1588407222.542464,
+            "included_at_iso": "2020-05-02T08:13:42.542464",
+            "last_retested_at_epoch": 1588407222.542464,
+            "last_retested_at_iso": "2020-05-02T08:13:42.542464",
+            "status": "INACTIVE"
+        },
+        "covid-19facts.online": {
+            "included_at_epoch": 1588407243.13549,
+            "included_at_iso": "2020-05-02T08:14:03.135490",
+            "last_retested_at_epoch": 1588407243.13549,
+            "last_retested_at_iso": "2020-05-02T08:14:03.135490",
+            "status": "INACTIVE"
+        },
+        "covid-19helpline.org": {
+            "included_at_epoch": 1588407248.458191,
+            "included_at_iso": "2020-05-02T08:14:08.458191",
+            "last_retested_at_epoch": 1588407248.458191,
+            "last_retested_at_iso": "2020-05-02T08:14:08.458191",
+            "status": "INACTIVE"
+        },
+        "covid-19kit.store": {
+            "included_at_epoch": 1588407252.017794,
+            "included_at_iso": "2020-05-02T08:14:12.017794",
+            "last_retested_at_epoch": 1588407252.017794,
+            "last_retested_at_iso": "2020-05-02T08:14:12.017794",
+            "status": "INACTIVE"
+        },
+        "covid-19news.xyz": {
+            "included_at_epoch": 1588407259.225126,
+            "included_at_iso": "2020-05-02T08:14:19.225126",
+            "last_retested_at_epoch": 1588407259.225126,
+            "last_retested_at_iso": "2020-05-02T08:14:19.225126",
+            "status": "INACTIVE"
         }
     }
 }
