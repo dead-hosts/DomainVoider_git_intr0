@@ -12396,6 +12396,41 @@
             "last_retested_at_epoch": 1588412252.381858,
             "last_retested_at_iso": "2020-05-02T09:37:32.381858",
             "status": "INACTIVE"
+        },
+        "covid19testkiti.xyz": {
+            "included_at_epoch": 1588413335.423189,
+            "included_at_iso": "2020-05-02T09:55:35.423189",
+            "last_retested_at_epoch": 1588413335.423189,
+            "last_retested_at_iso": "2020-05-02T09:55:35.423189",
+            "status": "INACTIVE"
+        },
+        "covid19track.xyz": {
+            "included_at_epoch": 1588413344.470592,
+            "included_at_iso": "2020-05-02T09:55:44.470592",
+            "last_retested_at_epoch": 1588413344.470592,
+            "last_retested_at_iso": "2020-05-02T09:55:44.470592",
+            "status": "INACTIVE"
+        },
+        "covid19trackerbw.xyz": {
+            "included_at_epoch": 1588413344.796219,
+            "included_at_iso": "2020-05-02T09:55:44.796219",
+            "last_retested_at_epoch": 1588413344.796219,
+            "last_retested_at_iso": "2020-05-02T09:55:44.796219",
+            "status": "INACTIVE"
+        },
+        "covidapp-19.site": {
+            "included_at_epoch": 1588413384.810508,
+            "included_at_iso": "2020-05-02T09:56:24.810508",
+            "last_retested_at_epoch": 1588413384.810508,
+            "last_retested_at_iso": "2020-05-02T09:56:24.810508",
+            "status": "INACTIVE"
+        },
+        "covidapp-19.space": {
+            "included_at_epoch": 1588413384.846259,
+            "included_at_iso": "2020-05-02T09:56:24.846259",
+            "last_retested_at_epoch": 1588413384.846259,
+            "last_retested_at_iso": "2020-05-02T09:56:24.846259",
+            "status": "INACTIVE"
         }
     }
 }
