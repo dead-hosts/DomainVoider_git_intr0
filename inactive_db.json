@@ -11857,6 +11857,55 @@
             "last_retested_at_epoch": 1588398146.498701,
             "last_retested_at_iso": "2020-05-02T05:42:26.498701",
             "status": "INACTIVE"
+        },
+        "coronatowel.space": {
+            "included_at_epoch": 1588399054.193632,
+            "included_at_iso": "2020-05-02T05:57:34.193632",
+            "last_retested_at_epoch": 1588399054.193632,
+            "last_retested_at_iso": "2020-05-02T05:57:34.193632",
+            "status": "INACTIVE"
+        },
+        "coronavarius.com": {
+            "included_at_epoch": 1588399063.90211,
+            "included_at_iso": "2020-05-02T05:57:43.902110",
+            "last_retested_at_epoch": 1588399063.90211,
+            "last_retested_at_iso": "2020-05-02T05:57:43.902110",
+            "status": "INACTIVE"
+        },
+        "coronavideo3.tk": {
+            "included_at_epoch": 1588399066.993877,
+            "included_at_iso": "2020-05-02T05:57:46.993877",
+            "last_retested_at_epoch": 1588399066.993877,
+            "last_retested_at_iso": "2020-05-02T05:57:46.993877",
+            "status": "INACTIVE"
+        },
+        "coronavirsunewsnow.com": {
+            "included_at_epoch": 1588399071.682086,
+            "included_at_iso": "2020-05-02T05:57:51.682086",
+            "last_retested_at_epoch": 1588399071.682086,
+            "last_retested_at_iso": "2020-05-02T05:57:51.682086",
+            "status": "INACTIVE"
+        },
+        "coronavirus-facebook.cf": {
+            "included_at_epoch": 1588399083.543912,
+            "included_at_iso": "2020-05-02T05:58:03.543912",
+            "last_retested_at_epoch": 1588399083.543912,
+            "last_retested_at_iso": "2020-05-02T05:58:03.543912",
+            "status": "INACTIVE"
+        },
+        "coronavirus-guidelines.online": {
+            "included_at_epoch": 1588399085.444024,
+            "included_at_iso": "2020-05-02T05:58:05.444024",
+            "last_retested_at_epoch": 1588399085.444024,
+            "last_retested_at_iso": "2020-05-02T05:58:05.444024",
+            "status": "INACTIVE"
+        },
+        "coronavirus-prayer.com": {
+            "included_at_epoch": 1588399098.249687,
+            "included_at_iso": "2020-05-02T05:58:18.249687",
+            "last_retested_at_epoch": 1588399098.249687,
+            "last_retested_at_iso": "2020-05-02T05:58:18.249687",
+            "status": "INACTIVE"
         }
     }
 }
