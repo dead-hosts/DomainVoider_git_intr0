@@ -12347,6 +12347,48 @@
             "last_retested_at_epoch": 1588409920.600684,
             "last_retested_at_iso": "2020-05-02T08:58:40.600684",
             "status": "INACTIVE"
+        },
+        "covid19faqs.xyz": {
+            "included_at_epoch": 1588410703.88273,
+            "included_at_iso": "2020-05-02T09:11:43.882730",
+            "last_retested_at_epoch": 1588410703.88273,
+            "last_retested_at_iso": "2020-05-02T09:11:43.882730",
+            "status": "INACTIVE"
+        },
+        "covid19freejob.xyz": {
+            "included_at_epoch": 1588410708.803688,
+            "included_at_iso": "2020-05-02T09:11:48.803688",
+            "last_retested_at_epoch": 1588410708.803688,
+            "last_retested_at_iso": "2020-05-02T09:11:48.803688",
+            "status": "INACTIVE"
+        },
+        "covid19iadeleriniz.com": {
+            "included_at_epoch": 1588410732.268456,
+            "included_at_iso": "2020-05-02T09:12:12.268456",
+            "last_retested_at_epoch": 1588410732.268456,
+            "last_retested_at_iso": "2020-05-02T09:12:12.268456",
+            "status": "INACTIVE"
+        },
+        "covid19insurance.online": {
+            "included_at_epoch": 1588410739.173701,
+            "included_at_iso": "2020-05-02T09:12:19.173701",
+            "last_retested_at_epoch": 1588410739.173701,
+            "last_retested_at_iso": "2020-05-02T09:12:19.173701",
+            "status": "INACTIVE"
+        },
+        "covid19lssuedbill.com": {
+            "included_at_epoch": 1588410758.539527,
+            "included_at_iso": "2020-05-02T09:12:38.539527",
+            "last_retested_at_epoch": 1588410758.539527,
+            "last_retested_at_iso": "2020-05-02T09:12:38.539527",
+            "status": "INACTIVE"
+        },
+        "covid19mc.com": {
+            "included_at_epoch": 1588410763.874921,
+            "included_at_iso": "2020-05-02T09:12:43.874921",
+            "last_retested_at_epoch": 1588410763.874921,
+            "last_retested_at_iso": "2020-05-02T09:12:43.874921",
+            "status": "INACTIVE"
         }
     }
 }
