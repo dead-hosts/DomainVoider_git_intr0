@@ -11962,6 +11962,55 @@
             "last_retested_at_epoch": 1588402045.099993,
             "last_retested_at_iso": "2020-05-02T06:47:25.099993",
             "status": "INACTIVE"
+        },
+        "coronavirusinus.xyz": {
+            "included_at_epoch": 1588403298.144443,
+            "included_at_iso": "2020-05-02T07:08:18.144443",
+            "last_retested_at_epoch": 1588403298.144443,
+            "last_retested_at_iso": "2020-05-02T07:08:18.144443",
+            "status": "INACTIVE"
+        },
+        "coronavirusisfakenews.xyz": {
+            "included_at_epoch": 1588403299.766717,
+            "included_at_iso": "2020-05-02T07:08:19.766717",
+            "last_retested_at_epoch": 1588403299.766717,
+            "last_retested_at_iso": "2020-05-02T07:08:19.766717",
+            "status": "INACTIVE"
+        },
+        "coronavirusnewanow.com": {
+            "included_at_epoch": 1588403352.020445,
+            "included_at_iso": "2020-05-02T07:09:12.020445",
+            "last_retested_at_epoch": 1588403352.020445,
+            "last_retested_at_iso": "2020-05-02T07:09:12.020445",
+            "status": "INACTIVE"
+        },
+        "coronavirusnewsbow.com": {
+            "included_at_epoch": 1588403353.937746,
+            "included_at_iso": "2020-05-02T07:09:13.937746",
+            "last_retested_at_epoch": 1588403353.937746,
+            "last_retested_at_iso": "2020-05-02T07:09:13.937746",
+            "status": "INACTIVE"
+        },
+        "coronavirusnewsfirst.xyz": {
+            "included_at_epoch": 1588403354.632319,
+            "included_at_iso": "2020-05-02T07:09:14.632319",
+            "last_retested_at_epoch": 1588403354.632319,
+            "last_retested_at_iso": "2020-05-02T07:09:14.632319",
+            "status": "INACTIVE"
+        },
+        "coronavirusnewsow.com": {
+            "included_at_epoch": 1588403355.774082,
+            "included_at_iso": "2020-05-02T07:09:15.774082",
+            "last_retested_at_epoch": 1588403355.774082,
+            "last_retested_at_iso": "2020-05-02T07:09:15.774082",
+            "status": "INACTIVE"
+        },
+        "coronavirusnewwnow.com": {
+            "included_at_epoch": 1588403356.584515,
+            "included_at_iso": "2020-05-02T07:09:16.584515",
+            "last_retested_at_epoch": 1588403356.584515,
+            "last_retested_at_iso": "2020-05-02T07:09:16.584515",
+            "status": "INACTIVE"
         }
     }
 }
