@@ -11906,6 +11906,20 @@
             "last_retested_at_epoch": 1588399098.249687,
             "last_retested_at_iso": "2020-05-02T05:58:18.249687",
             "status": "INACTIVE"
+        },
+        "coronavirus-worlddata.org": {
+            "included_at_epoch": 1588399874.688812,
+            "included_at_iso": "2020-05-02T06:11:14.688812",
+            "last_retested_at_epoch": 1588399874.688812,
+            "last_retested_at_iso": "2020-05-02T06:11:14.688812",
+            "status": "INACTIVE"
+        },
+        "coronavirus.netfunnel.co.kr": {
+            "included_at_epoch": 1588399878.154143,
+            "included_at_iso": "2020-05-02T06:11:18.154143",
+            "last_retested_at_epoch": 1588399878.154143,
+            "last_retested_at_iso": "2020-05-02T06:11:18.154143",
+            "status": "INACTIVE"
         }
     }
 }
