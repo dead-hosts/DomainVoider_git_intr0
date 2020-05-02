@@ -11605,6 +11605,41 @@
             "last_retested_at_epoch": 1588392805.186589,
             "last_retested_at_iso": "2020-05-02T04:13:25.186589",
             "status": "INACTIVE"
+        },
+        "coronacirusnews.com": {
+            "included_at_epoch": 1588394307.554989,
+            "included_at_iso": "2020-05-02T04:38:27.554989",
+            "last_retested_at_epoch": 1588394307.554989,
+            "last_retested_at_iso": "2020-05-02T04:38:27.554989",
+            "status": "INACTIVE"
+        },
+        "coronacola.cricket": {
+            "included_at_epoch": 1588394314.731337,
+            "included_at_iso": "2020-05-02T04:38:34.731337",
+            "last_retested_at_epoch": 1588394314.731337,
+            "last_retested_at_iso": "2020-05-02T04:38:34.731337",
+            "status": "INACTIVE"
+        },
+        "coronacommerce.host": {
+            "included_at_epoch": 1588394315.700401,
+            "included_at_iso": "2020-05-02T04:38:35.700401",
+            "last_retested_at_epoch": 1588394315.700401,
+            "last_retested_at_iso": "2020-05-02T04:38:35.700401",
+            "status": "INACTIVE"
+        },
+        "coronacoronaleavemealona.com": {
+            "included_at_epoch": 1588394319.722302,
+            "included_at_iso": "2020-05-02T04:38:39.722302",
+            "last_retested_at_epoch": 1588394319.722302,
+            "last_retested_at_iso": "2020-05-02T04:38:39.722302",
+            "status": "INACTIVE"
+        },
+        "coronacoronaleavemealone.com": {
+            "included_at_epoch": 1588394319.827702,
+            "included_at_iso": "2020-05-02T04:38:39.827702",
+            "last_retested_at_epoch": 1588394319.827702,
+            "last_retested_at_iso": "2020-05-02T04:38:39.827702",
+            "status": "INACTIVE"
         }
     }
 }
