@@ -12319,6 +12319,34 @@
             "last_retested_at_epoch": 1588408934.739085,
             "last_retested_at_iso": "2020-05-02T08:42:14.739085",
             "status": "INACTIVE"
+        },
+        "covid19.wincadeaux.com": {
+            "included_at_epoch": 1588409848.034883,
+            "included_at_iso": "2020-05-02T08:57:28.034883",
+            "last_retested_at_epoch": 1588409848.034883,
+            "last_retested_at_iso": "2020-05-02T08:57:28.034883",
+            "status": "INACTIVE"
+        },
+        "covid19aflu.com": {
+            "included_at_epoch": 1588409851.475035,
+            "included_at_iso": "2020-05-02T08:57:31.475035",
+            "last_retested_at_epoch": 1588409851.475035,
+            "last_retested_at_iso": "2020-05-02T08:57:31.475035",
+            "status": "INACTIVE"
+        },
+        "covid19crisis.net": {
+            "included_at_epoch": 1588409895.644566,
+            "included_at_iso": "2020-05-02T08:58:15.644566",
+            "last_retested_at_epoch": 1588409895.644566,
+            "last_retested_at_iso": "2020-05-02T08:58:15.644566",
+            "status": "INACTIVE"
+        },
+        "covid19evdekalaidatinial.com": {
+            "included_at_epoch": 1588409920.600684,
+            "included_at_iso": "2020-05-02T08:58:40.600684",
+            "last_retested_at_epoch": 1588409920.600684,
+            "last_retested_at_iso": "2020-05-02T08:58:40.600684",
+            "status": "INACTIVE"
         }
     }
 }
