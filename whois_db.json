@@ -142678,5 +142678,105 @@
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
         "state": "future"
+    },
+    "m-faceb0ok-securitty.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "m-faceb0ok-security.co": {
+        "epoch": 1588291200.0,
+        "expiration_date": "01-may-2020",
+        "state": "past"
+    },
+    "m-faceb0ok-security.com": {
+        "epoch": 1582761600.0,
+        "expiration_date": "27-feb-2020",
+        "state": "past"
+    },
+    "m-faceb0ok-securrity.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
+    "m-faceb0ok-secuurity.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "m-faceb0ok-seecurity.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "m-facebo0k-securitty.com": {
+        "epoch": 1595635200.0,
+        "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
+    "m-facebo0k-security.co": {
+        "epoch": 1587254400.0,
+        "expiration_date": "19-apr-2020",
+        "state": "past"
+    },
+    "m-facebo0k-security.com": {
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
+        "state": "past"
+    },
+    "m-facebo0k-securrity.com": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "m-facebo0k-securyty.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "m-facebo0k-secuurity.com": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "m-facebo0k-seecurity.com": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "m-facebo0k-ssecurity.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
+    "m-lnstagram.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
+        "state": "past"
+    },
+    "m-pathy.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "m-shes.ru": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "state": "future"
+    },
+    "m-t.io": {
+        "epoch": 1592870400.0,
+        "expiration_date": "23-jun-2020",
+        "state": "future"
+    },
+    "m-ubcbc8754.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "m-upst874aas.com": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
     }
 }
