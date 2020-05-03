@@ -38730,6 +38730,111 @@
             "last_retested_at_epoch": 1588510171.093824,
             "last_retested_at_iso": "2020-05-03T12:49:31.093824",
             "status": "INACTIVE"
+        },
+        "lnwbiuetoymifj.com": {
+            "included_at_epoch": 1588510887.517782,
+            "included_at_iso": "2020-05-03T13:01:27.517782",
+            "last_retested_at_epoch": 1588510887.517782,
+            "last_retested_at_iso": "2020-05-03T13:01:27.517782",
+            "status": "INACTIVE"
+        },
+        "lo-localbltcoins.com": {
+            "included_at_epoch": 1588510888.385145,
+            "included_at_iso": "2020-05-03T13:01:28.385145",
+            "last_retested_at_epoch": 1588510888.385145,
+            "last_retested_at_iso": "2020-05-03T13:01:28.385145",
+            "status": "INACTIVE"
+        },
+        "localbencoins.com": {
+            "included_at_epoch": 1588510891.887951,
+            "included_at_iso": "2020-05-03T13:01:31.887951",
+            "last_retested_at_epoch": 1588510891.887951,
+            "last_retested_at_iso": "2020-05-03T13:01:31.887951",
+            "status": "INACTIVE"
+        },
+        "localbincons.com": {
+            "included_at_epoch": 1588510891.983793,
+            "included_at_iso": "2020-05-03T13:01:31.983793",
+            "last_retested_at_epoch": 1588510891.983793,
+            "last_retested_at_iso": "2020-05-03T13:01:31.983793",
+            "status": "INACTIVE"
+        },
+        "localbitcoiens.com": {
+            "included_at_epoch": 1588510892.08012,
+            "included_at_iso": "2020-05-03T13:01:32.080120",
+            "last_retested_at_epoch": 1588510892.08012,
+            "last_retested_at_iso": "2020-05-03T13:01:32.080120",
+            "status": "INACTIVE"
+        },
+        "localtbicoims.com": {
+            "included_at_epoch": 1588510894.727197,
+            "included_at_iso": "2020-05-03T13:01:34.727197",
+            "last_retested_at_epoch": 1588510894.727197,
+            "last_retested_at_iso": "2020-05-03T13:01:34.727197",
+            "status": "INACTIVE"
+        },
+        "location.apple.com-conect.us": {
+            "included_at_epoch": 1588510895.846793,
+            "included_at_iso": "2020-05-03T13:01:35.846793",
+            "last_retested_at_epoch": 1588510895.846793,
+            "last_retested_at_iso": "2020-05-03T13:01:35.846793",
+            "status": "INACTIVE"
+        },
+        "locked-app1e-id-com.tk": {
+            "included_at_epoch": 1588510896.335017,
+            "included_at_iso": "2020-05-03T13:01:36.335017",
+            "last_retested_at_epoch": 1588510896.335017,
+            "last_retested_at_iso": "2020-05-03T13:01:36.335017",
+            "status": "INACTIVE"
+        },
+        "locked-app1esecure.servebeer.com": {
+            "included_at_epoch": 1588510896.428725,
+            "included_at_iso": "2020-05-03T13:01:36.428725",
+            "last_retested_at_epoch": 1588510896.428725,
+            "last_retested_at_iso": "2020-05-03T13:01:36.428725",
+            "status": "INACTIVE"
+        },
+        "locked-serv1ce-app1e.com": {
+            "included_at_epoch": 1588510896.546937,
+            "included_at_iso": "2020-05-03T13:01:36.546937",
+            "last_retested_at_epoch": 1588510896.546937,
+            "last_retested_at_iso": "2020-05-03T13:01:36.546937",
+            "status": "INACTIVE"
+        },
+        "lockedservice-app1e.com": {
+            "included_at_epoch": 1588510896.642974,
+            "included_at_iso": "2020-05-03T13:01:36.642974",
+            "last_retested_at_epoch": 1588510896.642974,
+            "last_retested_at_iso": "2020-05-03T13:01:36.642974",
+            "status": "INACTIVE"
+        },
+        "loewscoronadobayresort.review": {
+            "included_at_epoch": 1588510899.800029,
+            "included_at_iso": "2020-05-03T13:01:39.800029",
+            "last_retested_at_epoch": 1588510899.800029,
+            "last_retested_at_iso": "2020-05-03T13:01:39.800029",
+            "status": "INACTIVE"
+        },
+        "log-localbltcoins.com": {
+            "included_at_epoch": 1588510900.238575,
+            "included_at_iso": "2020-05-03T13:01:40.238575",
+            "last_retested_at_epoch": 1588510900.238575,
+            "last_retested_at_iso": "2020-05-03T13:01:40.238575",
+            "status": "INACTIVE"
+        },
+        "log.bling.samuraiworks.com": {
+            "included_at_epoch": 1588510900.716664,
+            "included_at_iso": "2020-05-03T13:01:40.716664",
+            "last_retested_at_epoch": 1588510900.716664,
+            "last_retested_at_iso": "2020-05-03T13:01:40.716664",
+            "status": "INACTIVE"
+        },
+        "log.kcisa.kr": {
+            "included_at_epoch": 1588510901.340982,
+            "included_at_iso": "2020-05-03T13:01:41.340982",
+            "last_retested_at_epoch": 1588510901.340982,
+            "last_retested_at_iso": "2020-05-03T13:01:41.340982",
+            "status": "INACTIVE"
         }
     }
 }
