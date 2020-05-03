@@ -42076,6 +42076,41 @@
             "last_retested_at_epoch": 1588526421.67266,
             "last_retested_at_iso": "2020-05-03T17:20:21.672660",
             "status": "INACTIVE"
+        },
+        "mediayoutube.com": {
+            "included_at_epoch": 1588527143.719166,
+            "included_at_iso": "2020-05-03T17:32:23.719166",
+            "last_retested_at_epoch": 1588527143.719166,
+            "last_retested_at_iso": "2020-05-03T17:32:23.719166",
+            "status": "INACTIVE"
+        },
+        "megafingroup.com": {
+            "included_at_epoch": 1588527159.114246,
+            "included_at_iso": "2020-05-03T17:32:39.114246",
+            "last_retested_at_epoch": 1588527159.114246,
+            "last_retested_at_iso": "2020-05-03T17:32:39.114246",
+            "status": "INACTIVE"
+        },
+        "megahrepsh.com": {
+            "included_at_epoch": 1588527159.010495,
+            "included_at_iso": "2020-05-03T17:32:39.010495",
+            "last_retested_at_epoch": 1588527159.010495,
+            "last_retested_at_iso": "2020-05-03T17:32:39.010495",
+            "status": "INACTIVE"
+        },
+        "megausenet.pro": {
+            "included_at_epoch": 1588527161.680465,
+            "included_at_iso": "2020-05-03T17:32:41.680465",
+            "last_retested_at_epoch": 1588527161.680465,
+            "last_retested_at_iso": "2020-05-03T17:32:41.680465",
+            "status": "INACTIVE"
+        },
+        "megausenet.services": {
+            "included_at_epoch": 1588527161.783823,
+            "included_at_iso": "2020-05-03T17:32:41.783823",
+            "last_retested_at_epoch": 1588527161.783823,
+            "last_retested_at_iso": "2020-05-03T17:32:41.783823",
+            "status": "INACTIVE"
         }
     }
 }
