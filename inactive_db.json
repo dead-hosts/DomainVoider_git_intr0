@@ -27887,6 +27887,34 @@
             "last_retested_at_epoch": 1588466470.519141,
             "last_retested_at_iso": "2020-05-03T00:41:10.519141",
             "status": "INACTIVE"
+        },
+        "ledvqaldtf.com": {
+            "included_at_epoch": 1588467206.385724,
+            "included_at_iso": "2020-05-03T00:53:26.385724",
+            "last_retested_at_epoch": 1588467206.385724,
+            "last_retested_at_iso": "2020-05-03T00:53:26.385724",
+            "status": "INACTIVE"
+        },
+        "leoleostartup.pw": {
+            "included_at_epoch": 1588467214.846331,
+            "included_at_iso": "2020-05-03T00:53:34.846331",
+            "last_retested_at_epoch": 1588467214.846331,
+            "last_retested_at_iso": "2020-05-03T00:53:34.846331",
+            "status": "INACTIVE"
+        },
+        "lesmyjzc.com": {
+            "included_at_epoch": 1588467216.403137,
+            "included_at_iso": "2020-05-03T00:53:36.403137",
+            "last_retested_at_epoch": 1588467216.403137,
+            "last_retested_at_iso": "2020-05-03T00:53:36.403137",
+            "status": "INACTIVE"
+        },
+        "less-css.site": {
+            "included_at_epoch": 1588467216.738596,
+            "included_at_iso": "2020-05-03T00:53:36.738596",
+            "last_retested_at_epoch": 1588467216.738596,
+            "last_retested_at_iso": "2020-05-03T00:53:36.738596",
+            "status": "INACTIVE"
         }
     }
 }
