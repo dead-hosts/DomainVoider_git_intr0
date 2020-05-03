@@ -140718,5 +140718,10 @@
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
         "state": "future"
+    },
+    "lnstagramverifybadgesupport.ga": {
+        "epoch": 1888358400.0,
+        "expiration_date": "03-nov-2029",
+        "state": "future"
     }
 }
