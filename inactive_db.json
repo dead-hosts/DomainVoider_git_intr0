@@ -43105,6 +43105,62 @@
             "last_retested_at_epoch": 1588542352.156831,
             "last_retested_at_iso": "2020-05-03T21:45:52.156831",
             "status": "INACTIVE"
+        },
+        "mybobo.mygamesonline.org": {
+            "included_at_epoch": 1588543069.241659,
+            "included_at_iso": "2020-05-03T21:57:49.241659",
+            "last_retested_at_epoch": 1588543069.241659,
+            "last_retested_at_iso": "2020-05-03T21:57:49.241659",
+            "status": "INACTIVE"
+        },
+        "myconmanagedomssossl.armscessong.com": {
+            "included_at_epoch": 1588543071.208838,
+            "included_at_iso": "2020-05-03T21:57:51.208838",
+            "last_retested_at_epoch": 1588543071.208838,
+            "last_retested_at_iso": "2020-05-03T21:57:51.208838",
+            "status": "INACTIVE"
+        },
+        "mydashboardapp1e.servehttp.com": {
+            "included_at_epoch": 1588543102.883779,
+            "included_at_iso": "2020-05-03T21:58:22.883779",
+            "last_retested_at_epoch": 1588543102.883779,
+            "last_retested_at_iso": "2020-05-03T21:58:22.883779",
+            "status": "INACTIVE"
+        },
+        "myetherwallet.com.confirm-rewards.online": {
+            "included_at_epoch": 1588543104.666707,
+            "included_at_iso": "2020-05-03T21:58:24.666707",
+            "last_retested_at_epoch": 1588543104.666707,
+            "last_retested_at_iso": "2020-05-03T21:58:24.666707",
+            "status": "INACTIVE"
+        },
+        "myfaceb00kpages.ml": {
+            "included_at_epoch": 1588543105.042331,
+            "included_at_iso": "2020-05-03T21:58:25.042331",
+            "last_retested_at_epoch": 1588543105.042331,
+            "last_retested_at_iso": "2020-05-03T21:58:25.042331",
+            "status": "INACTIVE"
+        },
+        "myjj.pyzkk.com": {
+            "included_at_epoch": 1588543108.352215,
+            "included_at_iso": "2020-05-03T21:58:28.352215",
+            "last_retested_at_epoch": 1588543108.352215,
+            "last_retested_at_iso": "2020-05-03T21:58:28.352215",
+            "status": "INACTIVE"
+        },
+        "myjuno.graphicdesignorg.icu": {
+            "included_at_epoch": 1588543108.238076,
+            "included_at_iso": "2020-05-03T21:58:28.238076",
+            "last_retested_at_epoch": 1588543108.238076,
+            "last_retested_at_iso": "2020-05-03T21:58:28.238076",
+            "status": "INACTIVE"
+        },
+        "mykaren.ru": {
+            "included_at_epoch": 1588543108.732784,
+            "included_at_iso": "2020-05-03T21:58:28.732784",
+            "last_retested_at_epoch": 1588543108.732784,
+            "last_retested_at_iso": "2020-05-03T21:58:28.732784",
+            "status": "INACTIVE"
         }
     }
 }
