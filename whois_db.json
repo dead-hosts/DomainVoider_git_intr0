@@ -140258,5 +140258,35 @@
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
         "state": "future"
+    },
+    "lnstagramscopyright.com": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "lnstagramsecurity.com": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
+    },
+    "lnstagramsecurityagency.ml": {
+        "epoch": 1866672000.0,
+        "expiration_date": "25-feb-2029",
+        "state": "future"
+    },
+    "lnstagramsecuritycenter.com": {
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "state": "future"
+    },
+    "lnstagramsecurityservice.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "lnstagramsecurityservices.com": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
     }
 }
