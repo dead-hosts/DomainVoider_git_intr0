@@ -141073,5 +141073,75 @@
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
         "state": "future"
+    },
+    "log2.ru": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
+    "logaholic.com": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
+    "loganaut.com": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "logancountycovid-19.com": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
+    },
+    "logbor.com": {
+        "epoch": 1600128000.0,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "logcounter.com": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
+    "logdy.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "logentries.com": {
+        "epoch": 1644278400.0,
+        "expiration_date": "08-feb-2022",
+        "state": "future"
+    },
+    "logfrochi.site": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "logger.co.kr": {
+        "epoch": 1750809600.0,
+        "expiration_date": "25-jun-2025",
+        "state": "future"
+    },
+    "login-blockchain-i.com": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
+    "login-megafon.ru": {
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
+    },
+    "login-user-ref829.com": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
+    },
+    "login-wells.info": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "state": "future"
     }
 }

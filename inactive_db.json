@@ -38835,6 +38835,181 @@
             "last_retested_at_epoch": 1588510901.340982,
             "last_retested_at_iso": "2020-05-03T13:01:41.340982",
             "status": "INACTIVE"
+        },
+        "log1n-app1eid-ver1fydetails.sdevergre.com": {
+            "included_at_epoch": 1588511623.526449,
+            "included_at_iso": "2020-05-03T13:13:43.526449",
+            "last_retested_at_epoch": 1588511623.526449,
+            "last_retested_at_iso": "2020-05-03T13:13:43.526449",
+            "status": "INACTIVE"
+        },
+        "logcollector.viewster.com": {
+            "included_at_epoch": 1588511624.894445,
+            "included_at_iso": "2020-05-03T13:13:44.894445",
+            "last_retested_at_epoch": 1588511624.894445,
+            "last_retested_at_iso": "2020-05-03T13:13:44.894445",
+            "status": "INACTIVE"
+        },
+        "logconfsessionloginservicefacturation.resto-rochier.fr": {
+            "included_at_epoch": 1588511625.011556,
+            "included_at_iso": "2020-05-03T13:13:45.011556",
+            "last_retested_at_epoch": 1588511625.011556,
+            "last_retested_at_iso": "2020-05-03T13:13:45.011556",
+            "status": "INACTIVE"
+        },
+        "logethy.com": {
+            "included_at_epoch": 1588511625.831518,
+            "included_at_iso": "2020-05-03T13:13:45.831518",
+            "last_retested_at_epoch": 1588511625.831518,
+            "last_retested_at_iso": "2020-05-03T13:13:45.831518",
+            "status": "INACTIVE"
+        },
+        "logger.pw": {
+            "included_at_epoch": 1588511626.555408,
+            "included_at_iso": "2020-05-03T13:13:46.555408",
+            "last_retested_at_epoch": 1588511626.555408,
+            "last_retested_at_iso": "2020-05-03T13:13:46.555408",
+            "status": "INACTIVE"
+        },
+        "logger.su": {
+            "included_at_epoch": 1588511626.724488,
+            "included_at_iso": "2020-05-03T13:13:46.724488",
+            "last_retested_at_epoch": 1588511626.724488,
+            "last_retested_at_iso": "2020-05-03T13:13:46.724488",
+            "status": "INACTIVE"
+        },
+        "logger.viki.io": {
+            "included_at_epoch": 1588511626.817762,
+            "included_at_iso": "2020-05-03T13:13:46.817762",
+            "last_retested_at_epoch": 1588511626.817762,
+            "last_retested_at_iso": "2020-05-03T13:13:46.817762",
+            "status": "INACTIVE"
+        },
+        "login-faceb00k.cf": {
+            "included_at_epoch": 1588511627.368083,
+            "included_at_iso": "2020-05-03T13:13:47.368083",
+            "last_retested_at_epoch": 1588511627.368083,
+            "last_retested_at_iso": "2020-05-03T13:13:47.368083",
+            "status": "INACTIVE"
+        },
+        "login-faceb00k.garenaindo.tk": {
+            "included_at_epoch": 1588511627.554516,
+            "included_at_iso": "2020-05-03T13:13:47.554516",
+            "last_retested_at_epoch": 1588511627.554516,
+            "last_retested_at_iso": "2020-05-03T13:13:47.554516",
+            "status": "INACTIVE"
+        },
+        "login-facebook.muslimyouthsleague.org": {
+            "included_at_epoch": 1588511627.461542,
+            "included_at_iso": "2020-05-03T13:13:47.461542",
+            "last_retested_at_epoch": 1588511627.461542,
+            "last_retested_at_iso": "2020-05-03T13:13:47.461542",
+            "status": "INACTIVE"
+        },
+        "login-lnstagram.com": {
+            "included_at_epoch": 1588511627.649173,
+            "included_at_iso": "2020-05-03T13:13:47.649173",
+            "last_retested_at_epoch": 1588511627.649173,
+            "last_retested_at_iso": "2020-05-03T13:13:47.649173",
+            "status": "INACTIVE"
+        },
+        "login-lnstagram.gq": {
+            "included_at_epoch": 1588511627.742004,
+            "included_at_iso": "2020-05-03T13:13:47.742004",
+            "last_retested_at_epoch": 1588511627.742004,
+            "last_retested_at_iso": "2020-05-03T13:13:47.742004",
+            "status": "INACTIVE"
+        },
+        "login-paypa1accoun.mixh.jp": {
+            "included_at_epoch": 1588511628.227541,
+            "included_at_iso": "2020-05-03T13:13:48.227541",
+            "last_retested_at_epoch": 1588511628.227541,
+            "last_retested_at_iso": "2020-05-03T13:13:48.227541",
+            "status": "INACTIVE"
+        },
+        "login.app1e2017.08times.mai12017.com": {
+            "included_at_epoch": 1588511628.845776,
+            "included_at_iso": "2020-05-03T13:13:48.845776",
+            "last_retested_at_epoch": 1588511628.845776,
+            "last_retested_at_iso": "2020-05-03T13:13:48.845776",
+            "status": "INACTIVE"
+        },
+        "login.appleid.apple.payment.center.account-manage.homes-login.com": {
+            "included_at_epoch": 1588511628.938316,
+            "included_at_iso": "2020-05-03T13:13:48.938316",
+            "last_retested_at_epoch": 1588511628.938316,
+            "last_retested_at_iso": "2020-05-03T13:13:48.938316",
+            "status": "INACTIVE"
+        },
+        "login.blockchain-n.com": {
+            "included_at_epoch": 1588511629.030337,
+            "included_at_iso": "2020-05-03T13:13:49.030337",
+            "last_retested_at_epoch": 1588511629.030337,
+            "last_retested_at_iso": "2020-05-03T13:13:49.030337",
+            "status": "INACTIVE"
+        },
+        "login.blockchais.com": {
+            "included_at_epoch": 1588511629.122926,
+            "included_at_iso": "2020-05-03T13:13:49.122926",
+            "last_retested_at_epoch": 1588511629.122926,
+            "last_retested_at_iso": "2020-05-03T13:13:49.122926",
+            "status": "INACTIVE"
+        },
+        "login.blockcheain.com": {
+            "included_at_epoch": 1588511629.316624,
+            "included_at_iso": "2020-05-03T13:13:49.316624",
+            "last_retested_at_epoch": 1588511629.316624,
+            "last_retested_at_iso": "2020-05-03T13:13:49.316624",
+            "status": "INACTIVE"
+        },
+        "login.facebo0k.com.access.gratuit.fblafr.kowoy.com": {
+            "included_at_epoch": 1588511629.224891,
+            "included_at_iso": "2020-05-03T13:13:49.224891",
+            "last_retested_at_epoch": 1588511629.224891,
+            "last_retested_at_iso": "2020-05-03T13:13:49.224891",
+            "status": "INACTIVE"
+        },
+        "login.infomaniak.com.infomaniaktracking.com": {
+            "included_at_epoch": 1588511629.432988,
+            "included_at_iso": "2020-05-03T13:13:49.432988",
+            "last_retested_at_epoch": 1588511629.432988,
+            "last_retested_at_iso": "2020-05-03T13:13:49.432988",
+            "status": "INACTIVE"
+        },
+        "login.microsoftonline.com.common.co.client-id-s1o2ff-10002-0ff1.com": {
+            "included_at_epoch": 1588511629.575167,
+            "included_at_iso": "2020-05-03T13:13:49.575167",
+            "last_retested_at_epoch": 1588511629.575167,
+            "last_retested_at_iso": "2020-05-03T13:13:49.575167",
+            "status": "INACTIVE"
+        },
+        "login.microsoftonline.com.common.hi.client-id-s1o2ff-10002-0ff1.com": {
+            "included_at_epoch": 1588511629.668348,
+            "included_at_iso": "2020-05-03T13:13:49.668348",
+            "last_retested_at_epoch": 1588511629.668348,
+            "last_retested_at_iso": "2020-05-03T13:13:49.668348",
+            "status": "INACTIVE"
+        },
+        "login.microsoftonline.com.o0s.cc": {
+            "included_at_epoch": 1588511629.76071,
+            "included_at_iso": "2020-05-03T13:13:49.760710",
+            "last_retested_at_epoch": 1588511629.76071,
+            "last_retested_at_iso": "2020-05-03T13:13:49.760710",
+            "status": "INACTIVE"
+        },
+        "login.tuch-it.com": {
+            "included_at_epoch": 1588511630.018823,
+            "included_at_iso": "2020-05-03T13:13:50.018823",
+            "last_retested_at_epoch": 1588511630.018823,
+            "last_retested_at_iso": "2020-05-03T13:13:50.018823",
+            "status": "INACTIVE"
+        },
+        "login.unicef.org.adfs.ls.oauth2.client-id-s1o2ff-10002-0ff1.com": {
+            "included_at_epoch": 1588511629.925165,
+            "included_at_iso": "2020-05-03T13:13:49.925165",
+            "last_retested_at_epoch": 1588511629.925165,
+            "last_retested_at_iso": "2020-05-03T13:13:49.925165",
+            "status": "INACTIVE"
         }
     }
 }
