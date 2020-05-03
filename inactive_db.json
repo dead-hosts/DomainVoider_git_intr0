@@ -39283,6 +39283,55 @@
             "last_retested_at_epoch": 1588514401.736403,
             "last_retested_at_iso": "2020-05-03T14:00:01.736403",
             "status": "INACTIVE"
+        },
+        "luraclhaunxv.com": {
+            "included_at_epoch": 1588515366.397274,
+            "included_at_iso": "2020-05-03T14:16:06.397274",
+            "last_retested_at_epoch": 1588515366.397274,
+            "last_retested_at_iso": "2020-05-03T14:16:06.397274",
+            "status": "INACTIVE"
+        },
+        "lusfrsxgxopm.com": {
+            "included_at_epoch": 1588515366.495714,
+            "included_at_iso": "2020-05-03T14:16:06.495714",
+            "last_retested_at_epoch": 1588515366.495714,
+            "last_retested_at_iso": "2020-05-03T14:16:06.495714",
+            "status": "INACTIVE"
+        },
+        "lutereum.com": {
+            "included_at_epoch": 1588515367.347252,
+            "included_at_iso": "2020-05-03T14:16:07.347252",
+            "last_retested_at_epoch": 1588515367.347252,
+            "last_retested_at_iso": "2020-05-03T14:16:07.347252",
+            "status": "INACTIVE"
+        },
+        "luxads.net": {
+            "included_at_epoch": 1588515368.739872,
+            "included_at_iso": "2020-05-03T14:16:08.739872",
+            "last_retested_at_epoch": 1588515368.739872,
+            "last_retested_at_iso": "2020-05-03T14:16:08.739872",
+            "status": "INACTIVE"
+        },
+        "lvcrcimfmfx.com": {
+            "included_at_epoch": 1588515373.185019,
+            "included_at_iso": "2020-05-03T14:16:13.185019",
+            "last_retested_at_epoch": 1588515373.185019,
+            "last_retested_at_iso": "2020-05-03T14:16:13.185019",
+            "status": "INACTIVE"
+        },
+        "lvctzafuvn.com": {
+            "included_at_epoch": 1588515373.29556,
+            "included_at_iso": "2020-05-03T14:16:13.295560",
+            "last_retested_at_epoch": 1588515373.29556,
+            "last_retested_at_iso": "2020-05-03T14:16:13.295560",
+            "status": "INACTIVE"
+        },
+        "lvldcxnq.com": {
+            "included_at_epoch": 1588515374.68639,
+            "included_at_iso": "2020-05-03T14:16:14.686390",
+            "last_retested_at_epoch": 1588515374.68639,
+            "last_retested_at_iso": "2020-05-03T14:16:14.686390",
+            "status": "INACTIVE"
         }
     }
 }
