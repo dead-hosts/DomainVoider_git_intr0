@@ -42384,6 +42384,62 @@
             "last_retested_at_epoch": 1588530781.365319,
             "last_retested_at_iso": "2020-05-03T18:33:01.365319",
             "status": "INACTIVE"
+        },
+        "miracan.pw": {
+            "included_at_epoch": 1588531606.265321,
+            "included_at_iso": "2020-05-03T18:46:46.265321",
+            "last_retested_at_epoch": 1588531606.265321,
+            "last_retested_at_iso": "2020-05-03T18:46:46.265321",
+            "status": "INACTIVE"
+        },
+        "mirongotrof.ru": {
+            "included_at_epoch": 1588531607.409475,
+            "included_at_iso": "2020-05-03T18:46:47.409475",
+            "last_retested_at_epoch": 1588531607.409475,
+            "last_retested_at_iso": "2020-05-03T18:46:47.409475",
+            "status": "INACTIVE"
+        },
+        "mis.videosl.xyz": {
+            "included_at_epoch": 1588531608.128469,
+            "included_at_iso": "2020-05-03T18:46:48.128469",
+            "last_retested_at_epoch": 1588531608.128469,
+            "last_retested_at_iso": "2020-05-03T18:46:48.128469",
+            "status": "INACTIVE"
+        },
+        "misosoup.io": {
+            "included_at_epoch": 1588531608.793452,
+            "included_at_iso": "2020-05-03T18:46:48.793452",
+            "last_retested_at_epoch": 1588531608.793452,
+            "last_retested_at_iso": "2020-05-03T18:46:48.793452",
+            "status": "INACTIVE"
+        },
+        "misqb.xyz": {
+            "included_at_epoch": 1588531609.14468,
+            "included_at_iso": "2020-05-03T18:46:49.144680",
+            "last_retested_at_epoch": 1588531609.14468,
+            "last_retested_at_iso": "2020-05-03T18:46:49.144680",
+            "status": "INACTIVE"
+        },
+        "mitotach.com": {
+            "included_at_epoch": 1588531614.401816,
+            "included_at_iso": "2020-05-03T18:46:54.401816",
+            "last_retested_at_epoch": 1588531614.401816,
+            "last_retested_at_iso": "2020-05-03T18:46:54.401816",
+            "status": "INACTIVE"
+        },
+        "mivrpcxlo.com": {
+            "included_at_epoch": 1588531615.372803,
+            "included_at_iso": "2020-05-03T18:46:55.372803",
+            "last_retested_at_epoch": 1588531615.372803,
+            "last_retested_at_iso": "2020-05-03T18:46:55.372803",
+            "status": "INACTIVE"
+        },
+        "mixtraff.silvercdn.com": {
+            "included_at_epoch": 1588531618.312775,
+            "included_at_iso": "2020-05-03T18:46:58.312775",
+            "last_retested_at_epoch": 1588531618.312775,
+            "last_retested_at_iso": "2020-05-03T18:46:58.312775",
+            "status": "INACTIVE"
         }
     }
 }
