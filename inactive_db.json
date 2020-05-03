@@ -38282,6 +38282,55 @@
             "last_retested_at_epoch": 1588507268.138123,
             "last_retested_at_iso": "2020-05-03T12:01:08.138123",
             "status": "INACTIVE"
+        },
+        "lnstagramverifybadgeapply.tk": {
+            "included_at_epoch": 1588508007.244763,
+            "included_at_iso": "2020-05-03T12:13:27.244763",
+            "last_retested_at_epoch": 1588508007.244763,
+            "last_retested_at_iso": "2020-05-03T12:13:27.244763",
+            "status": "INACTIVE"
+        },
+        "lnstagramverifybadgeapponline.site": {
+            "included_at_epoch": 1588508007.34209,
+            "included_at_iso": "2020-05-03T12:13:27.342090",
+            "last_retested_at_epoch": 1588508007.34209,
+            "last_retested_at_iso": "2020-05-03T12:13:27.342090",
+            "status": "INACTIVE"
+        },
+        "lnstagramverifybadgecenter.ooo": {
+            "included_at_epoch": 1588508007.703075,
+            "included_at_iso": "2020-05-03T12:13:27.703075",
+            "last_retested_at_epoch": 1588508007.703075,
+            "last_retested_at_iso": "2020-05-03T12:13:27.703075",
+            "status": "INACTIVE"
+        },
+        "lnstagramverifybadgeforaccount.tk": {
+            "included_at_epoch": 1588508007.80176,
+            "included_at_iso": "2020-05-03T12:13:27.801760",
+            "last_retested_at_epoch": 1588508007.80176,
+            "last_retested_at_iso": "2020-05-03T12:13:27.801760",
+            "status": "INACTIVE"
+        },
+        "lnstagramverifybadgehelpy.tk": {
+            "included_at_epoch": 1588508007.900247,
+            "included_at_iso": "2020-05-03T12:13:27.900247",
+            "last_retested_at_epoch": 1588508007.900247,
+            "last_retested_at_iso": "2020-05-03T12:13:27.900247",
+            "status": "INACTIVE"
+        },
+        "lnstagramverifybadgeidentify.cf": {
+            "included_at_epoch": 1588508008.274503,
+            "included_at_iso": "2020-05-03T12:13:28.274503",
+            "last_retested_at_epoch": 1588508008.274503,
+            "last_retested_at_iso": "2020-05-03T12:13:28.274503",
+            "status": "INACTIVE"
+        },
+        "lnstagramverifybadgepage.cf": {
+            "included_at_epoch": 1588508009.129748,
+            "included_at_iso": "2020-05-03T12:13:29.129748",
+            "last_retested_at_epoch": 1588508009.129748,
+            "last_retested_at_iso": "2020-05-03T12:13:29.129748",
+            "status": "INACTIVE"
         }
     }
 }
