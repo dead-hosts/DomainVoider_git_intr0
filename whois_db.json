@@ -140543,5 +140543,30 @@
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
         "state": "future"
+    },
+    "lnstagramthesupport.com": {
+        "epoch": 1589760000.0,
+        "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "lnstagramtoplulugu.site": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
+    "lnstagramuserportal.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "lnstagramverification.com": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "lnstagramverification.xyz": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
     }
 }
