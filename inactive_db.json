@@ -29980,6 +29980,83 @@
             "last_retested_at_epoch": 1588476039.128002,
             "last_retested_at_iso": "2020-05-03T03:20:39.128002",
             "status": "INACTIVE"
+        },
+        "lnstagram-copyrightsupport.cf": {
+            "included_at_epoch": 1588476780.164518,
+            "included_at_iso": "2020-05-03T03:33:00.164518",
+            "last_retested_at_epoch": 1588476780.164518,
+            "last_retested_at_iso": "2020-05-03T03:33:00.164518",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightsupport.gq": {
+            "included_at_epoch": 1588476780.545846,
+            "included_at_iso": "2020-05-03T03:33:00.545846",
+            "last_retested_at_epoch": 1588476780.545846,
+            "last_retested_at_iso": "2020-05-03T03:33:00.545846",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightsupport.online": {
+            "included_at_epoch": 1588476780.647333,
+            "included_at_iso": "2020-05-03T03:33:00.647333",
+            "last_retested_at_epoch": 1588476780.647333,
+            "last_retested_at_iso": "2020-05-03T03:33:00.647333",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightsupports.cf": {
+            "included_at_epoch": 1588476780.85149,
+            "included_at_iso": "2020-05-03T03:33:00.851490",
+            "last_retested_at_epoch": 1588476780.85149,
+            "last_retested_at_iso": "2020-05-03T03:33:00.851490",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightverify.cf": {
+            "included_at_epoch": 1588476780.772622,
+            "included_at_iso": "2020-05-03T03:33:00.772622",
+            "last_retested_at_epoch": 1588476780.772622,
+            "last_retested_at_iso": "2020-05-03T03:33:00.772622",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrightverify.ml": {
+            "included_at_epoch": 1588476781.188839,
+            "included_at_iso": "2020-05-03T03:33:01.188839",
+            "last_retested_at_epoch": 1588476781.188839,
+            "last_retested_at_iso": "2020-05-03T03:33:01.188839",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrigths.cf": {
+            "included_at_epoch": 1588476781.29089,
+            "included_at_iso": "2020-05-03T03:33:01.290890",
+            "last_retested_at_epoch": 1588476781.29089,
+            "last_retested_at_iso": "2020-05-03T03:33:01.290890",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyriqht.cf": {
+            "included_at_epoch": 1588476781.391957,
+            "included_at_iso": "2020-05-03T03:33:01.391957",
+            "last_retested_at_epoch": 1588476781.391957,
+            "last_retested_at_iso": "2020-05-03T03:33:01.391957",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrlght.cf": {
+            "included_at_epoch": 1588476781.495863,
+            "included_at_iso": "2020-05-03T03:33:01.495863",
+            "last_retested_at_epoch": 1588476781.495863,
+            "last_retested_at_iso": "2020-05-03T03:33:01.495863",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrlght.ga": {
+            "included_at_epoch": 1588476781.574054,
+            "included_at_iso": "2020-05-03T03:33:01.574054",
+            "last_retested_at_epoch": 1588476781.574054,
+            "last_retested_at_iso": "2020-05-03T03:33:01.574054",
+            "status": "INACTIVE"
+        },
+        "lnstagram-copyrlght.ml": {
+            "included_at_epoch": 1588476781.653482,
+            "included_at_iso": "2020-05-03T03:33:01.653482",
+            "last_retested_at_epoch": 1588476781.653482,
+            "last_retested_at_iso": "2020-05-03T03:33:01.653482",
+            "status": "INACTIVE"
         }
     }
 }
