@@ -39129,6 +39129,41 @@
             "last_retested_at_epoch": 1588512355.832167,
             "last_retested_at_iso": "2020-05-03T13:25:55.832167",
             "status": "INACTIVE"
+        },
+        "look-reklama.ru": {
+            "included_at_epoch": 1588513076.088821,
+            "included_at_iso": "2020-05-03T13:37:56.088821",
+            "last_retested_at_epoch": 1588513076.088821,
+            "last_retested_at_iso": "2020-05-03T13:37:56.088821",
+            "status": "INACTIVE"
+        },
+        "loronap.info": {
+            "included_at_epoch": 1588513080.506988,
+            "included_at_iso": "2020-05-03T13:38:00.506988",
+            "last_retested_at_epoch": 1588513080.506988,
+            "last_retested_at_iso": "2020-05-03T13:38:00.506988",
+            "status": "INACTIVE"
+        },
+        "loseads.eu": {
+            "included_at_epoch": 1588513081.359791,
+            "included_at_iso": "2020-05-03T13:38:01.359791",
+            "last_retested_at_epoch": 1588513081.359791,
+            "last_retested_at_iso": "2020-05-03T13:38:01.359791",
+            "status": "INACTIVE"
+        },
+        "lovvznyhujf.com": {
+            "included_at_epoch": 1588513094.94268,
+            "included_at_iso": "2020-05-03T13:38:14.942680",
+            "last_retested_at_epoch": 1588513094.94268,
+            "last_retested_at_iso": "2020-05-03T13:38:14.942680",
+            "status": "INACTIVE"
+        },
+        "lpbhbwpbpnl.com": {
+            "included_at_epoch": 1588513097.652486,
+            "included_at_iso": "2020-05-03T13:38:17.652486",
+            "last_retested_at_epoch": 1588513097.652486,
+            "last_retested_at_iso": "2020-05-03T13:38:17.652486",
+            "status": "INACTIVE"
         }
     }
 }
