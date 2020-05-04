@@ -49069,6 +49069,20 @@
             "last_retested_at_epoch": 1588605155.05454,
             "last_retested_at_iso": "2020-05-04T15:12:35.054540",
             "status": "INACTIVE"
+        },
+        "pericovideo.tk": {
+            "included_at_epoch": 1588605883.921946,
+            "included_at_iso": "2020-05-04T15:24:43.921946",
+            "last_retested_at_epoch": 1588605883.921946,
+            "last_retested_at_iso": "2020-05-04T15:24:43.921946",
+            "status": "INACTIVE"
+        },
+        "permenor.xyz": {
+            "included_at_epoch": 1588605886.23599,
+            "included_at_iso": "2020-05-04T15:24:46.235990",
+            "last_retested_at_epoch": 1588605886.23599,
+            "last_retested_at_iso": "2020-05-04T15:24:46.235990",
+            "status": "INACTIVE"
         }
     }
 }
