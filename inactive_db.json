@@ -50427,6 +50427,27 @@
             "last_retested_at_epoch": 1588610429.615987,
             "last_retested_at_iso": "2020-05-04T16:40:29.615987",
             "status": "INACTIVE"
+        },
+        "portal-admincenter0a0000.azurewebsites.net": {
+            "included_at_epoch": 1588611154.552869,
+            "included_at_iso": "2020-05-04T16:52:34.552869",
+            "last_retested_at_epoch": 1588611154.552869,
+            "last_retested_at_iso": "2020-05-04T16:52:34.552869",
+            "status": "INACTIVE"
+        },
+        "portal.auone.jp-verifykey.afoajisjcas.com": {
+            "included_at_epoch": 1588611154.676895,
+            "included_at_iso": "2020-05-04T16:52:34.676895",
+            "last_retested_at_epoch": 1588611154.676895,
+            "last_retested_at_iso": "2020-05-04T16:52:34.676895",
+            "status": "INACTIVE"
+        },
+        "portallpersssocnas-baccochiile-cl.drdssfc.com": {
+            "included_at_epoch": 1588611155.167178,
+            "included_at_iso": "2020-05-04T16:52:35.167178",
+            "last_retested_at_epoch": 1588611155.167178,
+            "last_retested_at_iso": "2020-05-04T16:52:35.167178",
+            "status": "INACTIVE"
         }
     }
 }
