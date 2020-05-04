@@ -48110,6 +48110,146 @@
             "last_retested_at_epoch": 1588599253.245197,
             "last_retested_at_iso": "2020-05-04T13:34:13.245197",
             "status": "INACTIVE"
+        },
+        "paypa1service.com": {
+            "included_at_epoch": 1588599975.277913,
+            "included_at_iso": "2020-05-04T13:46:15.277913",
+            "last_retested_at_epoch": 1588599975.277913,
+            "last_retested_at_iso": "2020-05-04T13:46:15.277913",
+            "status": "INACTIVE"
+        },
+        "paypa1services-now-signed.com": {
+            "included_at_epoch": 1588599975.397971,
+            "included_at_iso": "2020-05-04T13:46:15.397971",
+            "last_retested_at_epoch": 1588599975.397971,
+            "last_retested_at_iso": "2020-05-04T13:46:15.397971",
+            "status": "INACTIVE"
+        },
+        "paypa1shop-summaryupdate.ga": {
+            "included_at_epoch": 1588599975.512635,
+            "included_at_iso": "2020-05-04T13:46:15.512635",
+            "last_retested_at_epoch": 1588599975.512635,
+            "last_retested_at_iso": "2020-05-04T13:46:15.512635",
+            "status": "INACTIVE"
+        },
+        "paypa1update.mixh.jp": {
+            "included_at_epoch": 1588599975.656245,
+            "included_at_iso": "2020-05-04T13:46:15.656245",
+            "last_retested_at_epoch": 1588599975.656245,
+            "last_retested_at_iso": "2020-05-04T13:46:15.656245",
+            "status": "INACTIVE"
+        },
+        "paypaal.mypoqaov.uk": {
+            "included_at_epoch": 1588599976.209363,
+            "included_at_iso": "2020-05-04T13:46:16.209363",
+            "last_retested_at_epoch": 1588599976.209363,
+            "last_retested_at_iso": "2020-05-04T13:46:16.209363",
+            "status": "INACTIVE"
+        },
+        "paypai.secure-gb.com": {
+            "included_at_epoch": 1588599979.985805,
+            "included_at_iso": "2020-05-04T13:46:19.985805",
+            "last_retested_at_epoch": 1588599979.985805,
+            "last_retested_at_iso": "2020-05-04T13:46:19.985805",
+            "status": "INACTIVE"
+        },
+        "paypai.security-ref019.com": {
+            "included_at_epoch": 1588599979.871149,
+            "included_at_iso": "2020-05-04T13:46:19.871149",
+            "last_retested_at_epoch": 1588599979.871149,
+            "last_retested_at_iso": "2020-05-04T13:46:19.871149",
+            "status": "INACTIVE"
+        },
+        "paypai.security-ref903.com": {
+            "included_at_epoch": 1588599980.216563,
+            "included_at_iso": "2020-05-04T13:46:20.216563",
+            "last_retested_at_epoch": 1588599980.216563,
+            "last_retested_at_iso": "2020-05-04T13:46:20.216563",
+            "status": "INACTIVE"
+        },
+        "paypai.signin-security.com": {
+            "included_at_epoch": 1588599980.102027,
+            "included_at_iso": "2020-05-04T13:46:20.102027",
+            "last_retested_at_epoch": 1588599980.102027,
+            "last_retested_at_iso": "2020-05-04T13:46:20.102027",
+            "status": "INACTIVE"
+        },
+        "paypai.user-security-ref053.com": {
+            "included_at_epoch": 1588599980.331735,
+            "included_at_iso": "2020-05-04T13:46:20.331735",
+            "last_retested_at_epoch": 1588599980.331735,
+            "last_retested_at_iso": "2020-05-04T13:46:20.331735",
+            "status": "INACTIVE"
+        },
+        "paypai.user-security-ref054.com": {
+            "included_at_epoch": 1588599980.446281,
+            "included_at_iso": "2020-05-04T13:46:20.446281",
+            "last_retested_at_epoch": 1588599980.446281,
+            "last_retested_at_iso": "2020-05-04T13:46:20.446281",
+            "status": "INACTIVE"
+        },
+        "paypai.usersecurityref014.com": {
+            "included_at_epoch": 1588599980.851102,
+            "included_at_iso": "2020-05-04T13:46:20.851102",
+            "last_retested_at_epoch": 1588599980.851102,
+            "last_retested_at_iso": "2020-05-04T13:46:20.851102",
+            "status": "INACTIVE"
+        },
+        "paypailocked.xyz": {
+            "included_at_epoch": 1588599981.266565,
+            "included_at_iso": "2020-05-04T13:46:21.266565",
+            "last_retested_at_epoch": 1588599981.266565,
+            "last_retested_at_iso": "2020-05-04T13:46:21.266565",
+            "status": "INACTIVE"
+        },
+        "paypal-account-verification-process.winwizardsolutions.com": {
+            "included_at_epoch": 1588599981.381438,
+            "included_at_iso": "2020-05-04T13:46:21.381438",
+            "last_retested_at_epoch": 1588599981.381438,
+            "last_retested_at_iso": "2020-05-04T13:46:21.381438",
+            "status": "INACTIVE"
+        },
+        "paypal-action-required-nx934001pp.meirimar.com.br": {
+            "included_at_epoch": 1588599981.496295,
+            "included_at_iso": "2020-05-04T13:46:21.496295",
+            "last_retested_at_epoch": 1588599981.496295,
+            "last_retested_at_iso": "2020-05-04T13:46:21.496295",
+            "status": "INACTIVE"
+        },
+        "paypal-helps.blogspot.be": {
+            "included_at_epoch": 1588599982.315898,
+            "included_at_iso": "2020-05-04T13:46:22.315898",
+            "last_retested_at_epoch": 1588599982.315898,
+            "last_retested_at_iso": "2020-05-04T13:46:22.315898",
+            "status": "INACTIVE"
+        },
+        "paypal-helps.blogspot.com": {
+            "included_at_epoch": 1588599982.200443,
+            "included_at_iso": "2020-05-04T13:46:22.200443",
+            "last_retested_at_epoch": 1588599982.200443,
+            "last_retested_at_iso": "2020-05-04T13:46:22.200443",
+            "status": "INACTIVE"
+        },
+        "paypal-inc-help-redirection.blogspot.be": {
+            "included_at_epoch": 1588599982.431518,
+            "included_at_iso": "2020-05-04T13:46:22.431518",
+            "last_retested_at_epoch": 1588599982.431518,
+            "last_retested_at_iso": "2020-05-04T13:46:22.431518",
+            "status": "INACTIVE"
+        },
+        "paypal-inc-help-redirection.blogspot.com": {
+            "included_at_epoch": 1588599982.862597,
+            "included_at_iso": "2020-05-04T13:46:22.862597",
+            "last_retested_at_epoch": 1588599982.862597,
+            "last_retested_at_iso": "2020-05-04T13:46:22.862597",
+            "status": "INACTIVE"
+        },
+        "paypal-limitemonth.gleeze.com": {
+            "included_at_epoch": 1588599983.268237,
+            "included_at_iso": "2020-05-04T13:46:23.268237",
+            "last_retested_at_epoch": 1588599983.268237,
+            "last_retested_at_iso": "2020-05-04T13:46:23.268237",
+            "status": "INACTIVE"
         }
     }
 }
