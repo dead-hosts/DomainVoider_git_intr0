@@ -47732,6 +47732,27 @@
             "last_retested_at_epoch": 1588594480.1447,
             "last_retested_at_iso": "2020-05-04T12:14:40.144700",
             "status": "INACTIVE"
+        },
+        "paypa1-secure-update.com": {
+            "included_at_epoch": 1588598526.870343,
+            "included_at_iso": "2020-05-04T13:22:06.870343",
+            "last_retested_at_epoch": 1588598526.870343,
+            "last_retested_at_iso": "2020-05-04T13:22:06.870343",
+            "status": "INACTIVE"
+        },
+        "paypa1-secure.grumpieroldmen.co.uk": {
+            "included_at_epoch": 1588598526.999409,
+            "included_at_iso": "2020-05-04T13:22:06.999409",
+            "last_retested_at_epoch": 1588598526.999409,
+            "last_retested_at_iso": "2020-05-04T13:22:06.999409",
+            "status": "INACTIVE"
+        },
+        "paypa1-secure.vape-resource.com": {
+            "included_at_epoch": 1588598527.144276,
+            "included_at_iso": "2020-05-04T13:22:07.144276",
+            "last_retested_at_epoch": 1588598527.144276,
+            "last_retested_at_iso": "2020-05-04T13:22:07.144276",
+            "status": "INACTIVE"
         }
     }
 }
