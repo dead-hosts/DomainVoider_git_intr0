@@ -43651,6 +43651,76 @@
             "last_retested_at_epoch": 1588554635.410432,
             "last_retested_at_iso": "2020-05-04T01:10:35.410432",
             "status": "INACTIVE"
+        },
+        "newgrupsexjavanes.collect20.com": {
+            "included_at_epoch": 1588556076.36371,
+            "included_at_iso": "2020-05-04T01:34:36.363710",
+            "last_retested_at_epoch": 1588556076.36371,
+            "last_retested_at_iso": "2020-05-04T01:34:36.363710",
+            "status": "INACTIVE"
+        },
+        "newisnews.info": {
+            "included_at_epoch": 1588556077.585851,
+            "included_at_iso": "2020-05-04T01:34:37.585851",
+            "last_retested_at_epoch": 1588556077.585851,
+            "last_retested_at_iso": "2020-05-04T01:34:37.585851",
+            "status": "INACTIVE"
+        },
+        "newlog1n-app1e1d.gotdns.ch": {
+            "included_at_epoch": 1588556079.332947,
+            "included_at_iso": "2020-05-04T01:34:39.332947",
+            "last_retested_at_epoch": 1588556079.332947,
+            "last_retested_at_iso": "2020-05-04T01:34:39.332947",
+            "status": "INACTIVE"
+        },
+        "newlogin-app1e1d.serveirc.com": {
+            "included_at_epoch": 1588556079.438917,
+            "included_at_iso": "2020-05-04T01:34:39.438917",
+            "last_retested_at_epoch": 1588556079.438917,
+            "last_retested_at_iso": "2020-05-04T01:34:39.438917",
+            "status": "INACTIVE"
+        },
+        "newlostrek.ru": {
+            "included_at_epoch": 1588556079.545168,
+            "included_at_iso": "2020-05-04T01:34:39.545168",
+            "last_retested_at_epoch": 1588556079.545168,
+            "last_retested_at_iso": "2020-05-04T01:34:39.545168",
+            "status": "INACTIVE"
+        },
+        "news-deck.at": {
+            "included_at_epoch": 1588556085.115433,
+            "included_at_iso": "2020-05-04T01:34:45.115433",
+            "last_retested_at_epoch": 1588556085.115433,
+            "last_retested_at_iso": "2020-05-04T01:34:45.115433",
+            "status": "INACTIVE"
+        },
+        "news-paypa1.com": {
+            "included_at_epoch": 1588556085.511904,
+            "included_at_iso": "2020-05-04T01:34:45.511904",
+            "last_retested_at_epoch": 1588556085.511904,
+            "last_retested_at_iso": "2020-05-04T01:34:45.511904",
+            "status": "INACTIVE"
+        },
+        "news-super.com": {
+            "included_at_epoch": 1588556085.895469,
+            "included_at_iso": "2020-05-04T01:34:45.895469",
+            "last_retested_at_epoch": 1588556085.895469,
+            "last_retested_at_iso": "2020-05-04T01:34:45.895469",
+            "status": "INACTIVE"
+        },
+        "news.rk345dno.ru": {
+            "included_at_epoch": 1588556086.5051,
+            "included_at_iso": "2020-05-04T01:34:46.505100",
+            "last_retested_at_epoch": 1588556086.5051,
+            "last_retested_at_iso": "2020-05-04T01:34:46.505100",
+            "status": "INACTIVE"
+        },
+        "news2you.ru": {
+            "included_at_epoch": 1588556086.637653,
+            "included_at_iso": "2020-05-04T01:34:46.637653",
+            "last_retested_at_epoch": 1588556086.637653,
+            "last_retested_at_iso": "2020-05-04T01:34:46.637653",
+            "status": "INACTIVE"
         }
     }
 }
