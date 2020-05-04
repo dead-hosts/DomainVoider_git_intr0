@@ -43364,6 +43364,62 @@
             "last_retested_at_epoch": 1588548498.086093,
             "last_retested_at_iso": "2020-05-03T23:28:18.086093",
             "status": "INACTIVE"
+        },
+        "naughtyplayful.com": {
+            "included_at_epoch": 1588550878.709335,
+            "included_at_iso": "2020-05-04T00:07:58.709335",
+            "last_retested_at_epoch": 1588550878.709335,
+            "last_retested_at_iso": "2020-05-04T00:07:58.709335",
+            "status": "INACTIVE"
+        },
+        "naughtyxparty.com": {
+            "included_at_epoch": 1588550879.104043,
+            "included_at_iso": "2020-05-04T00:07:59.104043",
+            "last_retested_at_epoch": 1588550879.104043,
+            "last_retested_at_iso": "2020-05-04T00:07:59.104043",
+            "status": "INACTIVE"
+        },
+        "naupe-hot.kissr.com": {
+            "included_at_epoch": 1588550879.469099,
+            "included_at_iso": "2020-05-04T00:07:59.469099",
+            "last_retested_at_epoch": 1588550879.469099,
+            "last_retested_at_iso": "2020-05-04T00:07:59.469099",
+            "status": "INACTIVE"
+        },
+        "nb42mac.com": {
+            "included_at_epoch": 1588550883.0668,
+            "included_at_iso": "2020-05-04T00:08:03.066800",
+            "last_retested_at_epoch": 1588550883.0668,
+            "last_retested_at_iso": "2020-05-04T00:08:03.066800",
+            "status": "INACTIVE"
+        },
+        "nbgrw.xyz": {
+            "included_at_epoch": 1588550885.847526,
+            "included_at_iso": "2020-05-04T00:08:05.847526",
+            "last_retested_at_epoch": 1588550885.847526,
+            "last_retested_at_iso": "2020-05-04T00:08:05.847526",
+            "status": "INACTIVE"
+        },
+        "nbvbblmksiahf.com": {
+            "included_at_epoch": 1588550888.148791,
+            "included_at_iso": "2020-05-04T00:08:08.148791",
+            "last_retested_at_epoch": 1588550888.148791,
+            "last_retested_at_iso": "2020-05-04T00:08:08.148791",
+            "status": "INACTIVE"
+        },
+        "nbxfvfeanq.com": {
+            "included_at_epoch": 1588550888.279826,
+            "included_at_iso": "2020-05-04T00:08:08.279826",
+            "last_retested_at_epoch": 1588550888.279826,
+            "last_retested_at_iso": "2020-05-04T00:08:08.279826",
+            "status": "INACTIVE"
+        },
+        "ncbqi.com": {
+            "included_at_epoch": 1588550890.01987,
+            "included_at_iso": "2020-05-04T00:08:10.019870",
+            "last_retested_at_epoch": 1588550890.01987,
+            "last_retested_at_iso": "2020-05-04T00:08:10.019870",
+            "status": "INACTIVE"
         }
     }
 }
