@@ -48411,6 +48411,83 @@
             "last_retested_at_epoch": 1588601651.362675,
             "last_retested_at_iso": "2020-05-04T14:14:11.362675",
             "status": "INACTIVE"
+        },
+        "paypal.billing-support-login.com": {
+            "included_at_epoch": 1588602416.417883,
+            "included_at_iso": "2020-05-04T14:26:56.417883",
+            "last_retested_at_epoch": 1588602416.417883,
+            "last_retested_at_iso": "2020-05-04T14:26:56.417883",
+            "status": "INACTIVE"
+        },
+        "paypal.c2pay.top": {
+            "included_at_epoch": 1588602416.542701,
+            "included_at_iso": "2020-05-04T14:26:56.542701",
+            "last_retested_at_epoch": 1588602416.542701,
+            "last_retested_at_iso": "2020-05-04T14:26:56.542701",
+            "status": "INACTIVE"
+        },
+        "paypal.case-ref70.com": {
+            "included_at_epoch": 1588602416.660274,
+            "included_at_iso": "2020-05-04T14:26:56.660274",
+            "last_retested_at_epoch": 1588602416.660274,
+            "last_retested_at_iso": "2020-05-04T14:26:56.660274",
+            "status": "INACTIVE"
+        },
+        "paypal.co.uk.2cqd.ru": {
+            "included_at_epoch": 1588602416.775933,
+            "included_at_iso": "2020-05-04T14:26:56.775933",
+            "last_retested_at_epoch": 1588602416.775933,
+            "last_retested_at_iso": "2020-05-04T14:26:56.775933",
+            "status": "INACTIVE"
+        },
+        "paypal.co.uk.5jxu.icu": {
+            "included_at_epoch": 1588602416.893377,
+            "included_at_iso": "2020-05-04T14:26:56.893377",
+            "last_retested_at_epoch": 1588602416.893377,
+            "last_retested_at_iso": "2020-05-04T14:26:56.893377",
+            "status": "INACTIVE"
+        },
+        "paypal.co.uk.c3ul.ru": {
+            "included_at_epoch": 1588602417.009749,
+            "included_at_iso": "2020-05-04T14:26:57.009749",
+            "last_retested_at_epoch": 1588602417.009749,
+            "last_retested_at_iso": "2020-05-04T14:26:57.009749",
+            "status": "INACTIVE"
+        },
+        "paypal.co.uk.stlk.icu": {
+            "included_at_epoch": 1588602417.158593,
+            "included_at_iso": "2020-05-04T14:26:57.158593",
+            "last_retested_at_epoch": 1588602417.158593,
+            "last_retested_at_iso": "2020-05-04T14:26:57.158593",
+            "status": "INACTIVE"
+        },
+        "paypal.com-secure-account-bin9-329-remove-limited-account-acces.jstaleyartphotos.com": {
+            "included_at_epoch": 1588602417.391832,
+            "included_at_iso": "2020-05-04T14:26:57.391832",
+            "last_retested_at_epoch": 1588602417.391832,
+            "last_retested_at_iso": "2020-05-04T14:26:57.391832",
+            "status": "INACTIVE"
+        },
+        "paypal.com-us.cgi-bin-webscr-cmd.login-submit-dispatch.q5g5qa4h5szgmsgjqhsg4a54hq45hhg1szg4a4aq1g25q4a12jh254h1e5q1.revspecial.ee": {
+            "included_at_epoch": 1588602417.53042,
+            "included_at_iso": "2020-05-04T14:26:57.530420",
+            "last_retested_at_epoch": 1588602417.53042,
+            "last_retested_at_iso": "2020-05-04T14:26:57.530420",
+            "status": "INACTIVE"
+        },
+        "paypal.com.limited.menu": {
+            "included_at_epoch": 1588602417.825255,
+            "included_at_iso": "2020-05-04T14:26:57.825255",
+            "last_retested_at_epoch": 1588602417.825255,
+            "last_retested_at_iso": "2020-05-04T14:26:57.825255",
+            "status": "INACTIVE"
+        },
+        "paypal.com.qizx.ru": {
+            "included_at_epoch": 1588602417.94291,
+            "included_at_iso": "2020-05-04T14:26:57.942910",
+            "last_retested_at_epoch": 1588602417.94291,
+            "last_retested_at_iso": "2020-05-04T14:26:57.942910",
+            "status": "INACTIVE"
         }
     }
 }
