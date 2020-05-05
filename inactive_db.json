@@ -55320,6 +55320,41 @@
             "last_retested_at_epoch": 1588720927.73574,
             "last_retested_at_iso": "2020-05-05T23:22:07.735740",
             "status": "INACTIVE"
+        },
+        "rinwasmahis.ru": {
+            "included_at_epoch": 1588721655.37092,
+            "included_at_iso": "2020-05-05T23:34:15.370920",
+            "last_retested_at_epoch": 1588721655.37092,
+            "last_retested_at_iso": "2020-05-05T23:34:15.370920",
+            "status": "INACTIVE"
+        },
+        "ripalazc.com": {
+            "included_at_epoch": 1588721656.438506,
+            "included_at_iso": "2020-05-05T23:34:16.438506",
+            "last_retested_at_epoch": 1588721656.438506,
+            "last_retested_at_iso": "2020-05-05T23:34:16.438506",
+            "status": "INACTIVE"
+        },
+        "rirocup.fun": {
+            "included_at_epoch": 1588721658.132797,
+            "included_at_iso": "2020-05-05T23:34:18.132797",
+            "last_retested_at_epoch": 1588721658.132797,
+            "last_retested_at_iso": "2020-05-05T23:34:18.132797",
+            "status": "INACTIVE"
+        },
+        "ristracoronagraphs.online": {
+            "included_at_epoch": 1588721659.835839,
+            "included_at_iso": "2020-05-05T23:34:19.835839",
+            "last_retested_at_epoch": 1588721659.835839,
+            "last_retested_at_iso": "2020-05-05T23:34:19.835839",
+            "status": "INACTIVE"
+        },
+        "rixxvqexdlgrl.com": {
+            "included_at_epoch": 1588721663.765083,
+            "included_at_iso": "2020-05-05T23:34:23.765083",
+            "last_retested_at_epoch": 1588721663.765083,
+            "last_retested_at_iso": "2020-05-05T23:34:23.765083",
+            "status": "INACTIVE"
         }
     }
 }
