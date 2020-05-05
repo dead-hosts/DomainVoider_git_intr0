@@ -54963,6 +54963,48 @@
             "last_retested_at_epoch": 1588716487.05612,
             "last_retested_at_iso": "2020-05-05T22:08:07.056120",
             "status": "INACTIVE"
+        },
+        "rekl2.ru": {
+            "included_at_epoch": 1588717210.801589,
+            "included_at_iso": "2020-05-05T22:20:10.801589",
+            "last_retested_at_epoch": 1588717210.801589,
+            "last_retested_at_iso": "2020-05-05T22:20:10.801589",
+            "status": "INACTIVE"
+        },
+        "reklamper.com": {
+            "included_at_epoch": 1588717213.835477,
+            "included_at_iso": "2020-05-05T22:20:13.835477",
+            "last_retested_at_epoch": 1588717213.835477,
+            "last_retested_at_iso": "2020-05-05T22:20:13.835477",
+            "status": "INACTIVE"
+        },
+        "relatable.inquisitr.com": {
+            "included_at_epoch": 1588717216.766711,
+            "included_at_iso": "2020-05-05T22:20:16.766711",
+            "last_retested_at_epoch": 1588717216.766711,
+            "last_retested_at_iso": "2020-05-05T22:20:16.766711",
+            "status": "INACTIVE"
+        },
+        "releasecloud.se-qbb.com": {
+            "included_at_epoch": 1588717217.842377,
+            "included_at_iso": "2020-05-05T22:20:17.842377",
+            "last_retested_at_epoch": 1588717217.842377,
+            "last_retested_at_iso": "2020-05-05T22:20:17.842377",
+            "status": "INACTIVE"
+        },
+        "relnocyyxhpjb.com": {
+            "included_at_epoch": 1588717221.681265,
+            "included_at_iso": "2020-05-05T22:20:21.681265",
+            "last_retested_at_epoch": 1588717221.681265,
+            "last_retested_at_iso": "2020-05-05T22:20:21.681265",
+            "status": "INACTIVE"
+        },
+        "remboursement-swisscom.ouba.com": {
+            "included_at_epoch": 1588717223.408092,
+            "included_at_iso": "2020-05-05T22:20:23.408092",
+            "last_retested_at_epoch": 1588717223.408092,
+            "last_retested_at_iso": "2020-05-05T22:20:23.408092",
+            "status": "INACTIVE"
         }
     }
 }
