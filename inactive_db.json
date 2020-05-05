@@ -55264,6 +55264,62 @@
             "last_retested_at_epoch": 1588720177.595305,
             "last_retested_at_iso": "2020-05-05T23:09:37.595305",
             "status": "INACTIVE"
+        },
+        "rhqrfnkngrhrha.com": {
+            "included_at_epoch": 1588720910.540811,
+            "included_at_iso": "2020-05-05T23:21:50.540811",
+            "last_retested_at_epoch": 1588720910.540811,
+            "last_retested_at_iso": "2020-05-05T23:21:50.540811",
+            "status": "INACTIVE"
+        },
+        "rhypgggd.com": {
+            "included_at_epoch": 1588720911.005258,
+            "included_at_iso": "2020-05-05T23:21:51.005258",
+            "last_retested_at_epoch": 1588720911.005258,
+            "last_retested_at_iso": "2020-05-05T23:21:51.005258",
+            "status": "INACTIVE"
+        },
+        "rhzpcnueogbexb.com": {
+            "included_at_epoch": 1588720911.778948,
+            "included_at_iso": "2020-05-05T23:21:51.778948",
+            "last_retested_at_epoch": 1588720911.778948,
+            "last_retested_at_iso": "2020-05-05T23:21:51.778948",
+            "status": "INACTIVE"
+        },
+        "riccardopanico.altervista.org": {
+            "included_at_epoch": 1588720913.859328,
+            "included_at_iso": "2020-05-05T23:21:53.859328",
+            "last_retested_at_epoch": 1588720913.859328,
+            "last_retested_at_iso": "2020-05-05T23:21:53.859328",
+            "status": "INACTIVE"
+        },
+        "richmedia.yahoo.com": {
+            "included_at_epoch": 1588720914.970577,
+            "included_at_iso": "2020-05-05T23:21:54.970577",
+            "last_retested_at_epoch": 1588720914.970577,
+            "last_retested_at_iso": "2020-05-05T23:21:54.970577",
+            "status": "INACTIVE"
+        },
+        "rigoczly.com": {
+            "included_at_epoch": 1588720924.288241,
+            "included_at_iso": "2020-05-05T23:22:04.288241",
+            "last_retested_at_epoch": 1588720924.288241,
+            "last_retested_at_iso": "2020-05-05T23:22:04.288241",
+            "status": "INACTIVE"
+        },
+        "rimfhex.com": {
+            "included_at_epoch": 1588720925.063449,
+            "included_at_iso": "2020-05-05T23:22:05.063449",
+            "last_retested_at_epoch": 1588720925.063449,
+            "last_retested_at_iso": "2020-05-05T23:22:05.063449",
+            "status": "INACTIVE"
+        },
+        "rintaref.ru": {
+            "included_at_epoch": 1588720927.73574,
+            "included_at_iso": "2020-05-05T23:22:07.735740",
+            "last_retested_at_epoch": 1588720927.73574,
+            "last_retested_at_iso": "2020-05-05T23:22:07.735740",
+            "status": "INACTIVE"
         }
     }
 }
