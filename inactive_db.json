@@ -55005,6 +55005,13 @@
             "last_retested_at_epoch": 1588717223.408092,
             "last_retested_at_iso": "2020-05-05T22:20:23.408092",
             "status": "INACTIVE"
+        },
+        "renovarplanotelas.com": {
+            "included_at_epoch": 1588717955.10921,
+            "included_at_iso": "2020-05-05T22:32:35.109210",
+            "last_retested_at_epoch": 1588717955.10921,
+            "last_retested_at_iso": "2020-05-05T22:32:35.109210",
+            "status": "INACTIVE"
         }
     }
 }
