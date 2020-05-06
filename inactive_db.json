@@ -60024,6 +60024,118 @@
             "last_retested_at_epoch": 1588769601.253301,
             "last_retested_at_iso": "2020-05-06T12:53:21.253301",
             "status": "INACTIVE"
+        },
+        "supportverifiedbadges.ml": {
+            "included_at_epoch": 1588770319.870303,
+            "included_at_iso": "2020-05-06T13:05:19.870303",
+            "last_retested_at_epoch": 1588770319.870303,
+            "last_retested_at_iso": "2020-05-06T13:05:19.870303",
+            "status": "INACTIVE"
+        },
+        "supportyourapp1eid.cf": {
+            "included_at_epoch": 1588770320.160888,
+            "included_at_iso": "2020-05-06T13:05:20.160888",
+            "last_retested_at_epoch": 1588770320.160888,
+            "last_retested_at_iso": "2020-05-06T13:05:20.160888",
+            "status": "INACTIVE"
+        },
+        "supportzlnstagramz.ga": {
+            "included_at_epoch": 1588770320.017268,
+            "included_at_iso": "2020-05-06T13:05:20.017268",
+            "last_retested_at_epoch": 1588770320.017268,
+            "last_retested_at_iso": "2020-05-06T13:05:20.017268",
+            "status": "INACTIVE"
+        },
+        "suqqort-lnstagram.ml": {
+            "included_at_epoch": 1588770321.666817,
+            "included_at_iso": "2020-05-06T13:05:21.666817",
+            "last_retested_at_epoch": 1588770321.666817,
+            "last_retested_at_iso": "2020-05-06T13:05:21.666817",
+            "status": "INACTIVE"
+        },
+        "survivecorona.xyz": {
+            "included_at_epoch": 1588770331.565677,
+            "included_at_iso": "2020-05-06T13:05:31.565677",
+            "last_retested_at_epoch": 1588770331.565677,
+            "last_retested_at_iso": "2020-05-06T13:05:31.565677",
+            "status": "INACTIVE"
+        },
+        "survivecoronavirus.cf": {
+            "included_at_epoch": 1588770332.499206,
+            "included_at_iso": "2020-05-06T13:05:32.499206",
+            "last_retested_at_epoch": 1588770332.499206,
+            "last_retested_at_iso": "2020-05-06T13:05:32.499206",
+            "status": "INACTIVE"
+        },
+        "survivecoronavirus.ga": {
+            "included_at_epoch": 1588770332.356482,
+            "included_at_iso": "2020-05-06T13:05:32.356482",
+            "last_retested_at_epoch": 1588770332.356482,
+            "last_retested_at_iso": "2020-05-06T13:05:32.356482",
+            "status": "INACTIVE"
+        },
+        "survivecoronavirus.gq": {
+            "included_at_epoch": 1588770332.653318,
+            "included_at_iso": "2020-05-06T13:05:32.653318",
+            "last_retested_at_epoch": 1588770332.653318,
+            "last_retested_at_iso": "2020-05-06T13:05:32.653318",
+            "status": "INACTIVE"
+        },
+        "survivecoronavirus.ml": {
+            "included_at_epoch": 1588770332.796288,
+            "included_at_iso": "2020-05-06T13:05:32.796288",
+            "last_retested_at_epoch": 1588770332.796288,
+            "last_retested_at_iso": "2020-05-06T13:05:32.796288",
+            "status": "INACTIVE"
+        },
+        "survivecovid-19.cf": {
+            "included_at_epoch": 1588770335.577993,
+            "included_at_iso": "2020-05-06T13:05:35.577993",
+            "last_retested_at_epoch": 1588770335.577993,
+            "last_retested_at_iso": "2020-05-06T13:05:35.577993",
+            "status": "INACTIVE"
+        },
+        "survivecovid-19.ml": {
+            "included_at_epoch": 1588770335.720066,
+            "included_at_iso": "2020-05-06T13:05:35.720066",
+            "last_retested_at_epoch": 1588770335.720066,
+            "last_retested_at_iso": "2020-05-06T13:05:35.720066",
+            "status": "INACTIVE"
+        },
+        "survivecovid-19.tk": {
+            "included_at_epoch": 1588770335.863244,
+            "included_at_iso": "2020-05-06T13:05:35.863244",
+            "last_retested_at_epoch": 1588770335.863244,
+            "last_retested_at_iso": "2020-05-06T13:05:35.863244",
+            "status": "INACTIVE"
+        },
+        "survivecovid19.cf": {
+            "included_at_epoch": 1588770336.005414,
+            "included_at_iso": "2020-05-06T13:05:36.005414",
+            "last_retested_at_epoch": 1588770336.005414,
+            "last_retested_at_iso": "2020-05-06T13:05:36.005414",
+            "status": "INACTIVE"
+        },
+        "survivecovid19.ga": {
+            "included_at_epoch": 1588770336.147298,
+            "included_at_iso": "2020-05-06T13:05:36.147298",
+            "last_retested_at_epoch": 1588770336.147298,
+            "last_retested_at_iso": "2020-05-06T13:05:36.147298",
+            "status": "INACTIVE"
+        },
+        "survivecovid19.ml": {
+            "included_at_epoch": 1588770336.28837,
+            "included_at_iso": "2020-05-06T13:05:36.288370",
+            "last_retested_at_epoch": 1588770336.28837,
+            "last_retested_at_iso": "2020-05-06T13:05:36.288370",
+            "status": "INACTIVE"
+        },
+        "survivecovid19.tk": {
+            "included_at_epoch": 1588770336.776493,
+            "included_at_iso": "2020-05-06T13:05:36.776493",
+            "last_retested_at_epoch": 1588770336.776493,
+            "last_retested_at_iso": "2020-05-06T13:05:36.776493",
+            "status": "INACTIVE"
         }
     }
 }
