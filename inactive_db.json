@@ -59023,6 +59023,55 @@
             "last_retested_at_epoch": 1588763243.525586,
             "last_retested_at_iso": "2020-05-06T11:07:23.525586",
             "status": "INACTIVE"
+        },
+        "stat.moonwalk.co": {
+            "included_at_epoch": 1588763970.063991,
+            "included_at_iso": "2020-05-06T11:19:30.063991",
+            "last_retested_at_epoch": 1588763970.063991,
+            "last_retested_at_iso": "2020-05-06T11:19:30.063991",
+            "status": "INACTIVE"
+        },
+        "stat.novostimira.com": {
+            "included_at_epoch": 1588763970.243804,
+            "included_at_iso": "2020-05-06T11:19:30.243804",
+            "last_retested_at_epoch": 1588763970.243804,
+            "last_retested_at_iso": "2020-05-06T11:19:30.243804",
+            "status": "INACTIVE"
+        },
+        "static.cfgr3.com": {
+            "included_at_epoch": 1588763978.302852,
+            "included_at_iso": "2020-05-06T11:19:38.302852",
+            "last_retested_at_epoch": 1588763978.302852,
+            "last_retested_at_iso": "2020-05-06T11:19:38.302852",
+            "status": "INACTIVE"
+        },
+        "staticmedia.org": {
+            "included_at_epoch": 1588763980.416211,
+            "included_at_iso": "2020-05-06T11:19:40.416211",
+            "last_retested_at_epoch": 1588763980.416211,
+            "last_retested_at_iso": "2020-05-06T11:19:40.416211",
+            "status": "INACTIVE"
+        },
+        "staticmxrec221.z13.web.core.windows.net": {
+            "included_at_epoch": 1588763980.278551,
+            "included_at_iso": "2020-05-06T11:19:40.278551",
+            "last_retested_at_epoch": 1588763980.278551,
+            "last_retested_at_iso": "2020-05-06T11:19:40.278551",
+            "status": "INACTIVE"
+        },
+        "staticwajam-wajam.netdna-ssl.com": {
+            "included_at_epoch": 1588763980.557174,
+            "included_at_iso": "2020-05-06T11:19:40.557174",
+            "last_retested_at_epoch": 1588763980.557174,
+            "last_retested_at_iso": "2020-05-06T11:19:40.557174",
+            "status": "INACTIVE"
+        },
+        "stats-analytics.info": {
+            "included_at_epoch": 1588763986.45002,
+            "included_at_iso": "2020-05-06T11:19:46.450020",
+            "last_retested_at_epoch": 1588763986.45002,
+            "last_retested_at_iso": "2020-05-06T11:19:46.450020",
+            "status": "INACTIVE"
         }
     }
 }
