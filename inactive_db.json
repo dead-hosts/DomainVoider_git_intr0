@@ -58960,6 +58960,20 @@
             "last_retested_at_epoch": 1588759398.731314,
             "last_retested_at_iso": "2020-05-06T10:03:18.731314",
             "status": "INACTIVE"
+        },
+        "ssraju3n.com": {
+            "included_at_epoch": 1588761236.035965,
+            "included_at_iso": "2020-05-06T10:33:56.035965",
+            "last_retested_at_epoch": 1588761236.035965,
+            "last_retested_at_iso": "2020-05-06T10:33:56.035965",
+            "status": "INACTIVE"
+        },
+        "stablemoney.ru": {
+            "included_at_epoch": 1588761238.595106,
+            "included_at_iso": "2020-05-06T10:33:58.595106",
+            "last_retested_at_epoch": 1588761238.595106,
+            "last_retested_at_iso": "2020-05-06T10:33:58.595106",
+            "status": "INACTIVE"
         }
     }
 }
