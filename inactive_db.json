@@ -58974,6 +58974,55 @@
             "last_retested_at_epoch": 1588761238.595106,
             "last_retested_at_iso": "2020-05-06T10:33:58.595106",
             "status": "INACTIVE"
+        },
+        "stagens.com": {
+            "included_at_epoch": 1588763229.840627,
+            "included_at_iso": "2020-05-06T11:07:09.840627",
+            "last_retested_at_epoch": 1588763229.840627,
+            "last_retested_at_iso": "2020-05-06T11:07:09.840627",
+            "status": "INACTIVE"
+        },
+        "staging.app1ec2.stewing.xyz": {
+            "included_at_epoch": 1588763230.014809,
+            "included_at_iso": "2020-05-06T11:07:10.014809",
+            "last_retested_at_epoch": 1588763230.014809,
+            "last_retested_at_iso": "2020-05-06T11:07:10.014809",
+            "status": "INACTIVE"
+        },
+        "stampshire.info": {
+            "included_at_epoch": 1588763231.826808,
+            "included_at_iso": "2020-05-06T11:07:11.826808",
+            "last_retested_at_epoch": 1588763231.826808,
+            "last_retested_at_iso": "2020-05-06T11:07:11.826808",
+            "status": "INACTIVE"
+        },
+        "starilionpla.website": {
+            "included_at_epoch": 1588763236.315652,
+            "included_at_iso": "2020-05-06T11:07:16.315652",
+            "last_retested_at_epoch": 1588763236.315652,
+            "last_retested_at_iso": "2020-05-06T11:07:16.315652",
+            "status": "INACTIVE"
+        },
+        "stars-qa.appl.kp.org": {
+            "included_at_epoch": 1588763237.153983,
+            "included_at_iso": "2020-05-06T11:07:17.153983",
+            "last_retested_at_epoch": 1588763237.153983,
+            "last_retested_at_iso": "2020-05-06T11:07:17.153983",
+            "status": "INACTIVE"
+        },
+        "startstat.ru": {
+            "included_at_epoch": 1588763240.41987,
+            "included_at_iso": "2020-05-06T11:07:20.419870",
+            "last_retested_at_epoch": 1588763240.41987,
+            "last_retested_at_iso": "2020-05-06T11:07:20.419870",
+            "status": "INACTIVE"
+        },
+        "stat.55bbs.com": {
+            "included_at_epoch": 1588763243.525586,
+            "included_at_iso": "2020-05-06T11:07:23.525586",
+            "last_retested_at_epoch": 1588763243.525586,
+            "last_retested_at_iso": "2020-05-06T11:07:23.525586",
+            "status": "INACTIVE"
         }
     }
 }
