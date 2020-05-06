@@ -58365,6 +58365,48 @@
             "last_retested_at_epoch": 1588750326.71455,
             "last_retested_at_iso": "2020-05-06T07:32:06.714550",
             "status": "INACTIVE"
+        },
+        "sinyfqrmiqgd.com": {
+            "included_at_epoch": 1588751053.17203,
+            "included_at_iso": "2020-05-06T07:44:13.172030",
+            "last_retested_at_epoch": 1588751053.17203,
+            "last_retested_at_iso": "2020-05-06T07:44:13.172030",
+            "status": "INACTIVE"
+        },
+        "sipports-lnstagram.cf": {
+            "included_at_epoch": 1588751053.314415,
+            "included_at_iso": "2020-05-06T07:44:13.314415",
+            "last_retested_at_epoch": 1588751053.314415,
+            "last_retested_at_iso": "2020-05-06T07:44:13.314415",
+            "status": "INACTIVE"
+        },
+        "sisrgcvomn.com": {
+            "included_at_epoch": 1588751055.134368,
+            "included_at_iso": "2020-05-06T07:44:15.134368",
+            "last_retested_at_epoch": 1588751055.134368,
+            "last_retested_at_iso": "2020-05-06T07:44:15.134368",
+            "status": "INACTIVE"
+        },
+        "site.safety20pagefb.my.id": {
+            "included_at_epoch": 1588751057.880927,
+            "included_at_iso": "2020-05-06T07:44:17.880927",
+            "last_retested_at_epoch": 1588751057.880927,
+            "last_retested_at_iso": "2020-05-06T07:44:17.880927",
+            "status": "INACTIVE"
+        },
+        "siteanalytics.jp": {
+            "included_at_epoch": 1588751058.698794,
+            "included_at_iso": "2020-05-06T07:44:18.698794",
+            "last_retested_at_epoch": 1588751058.698794,
+            "last_retested_at_iso": "2020-05-06T07:44:18.698794",
+            "status": "INACTIVE"
+        },
+        "sitestatlog.net": {
+            "included_at_epoch": 1588751065.740304,
+            "included_at_iso": "2020-05-06T07:44:25.740304",
+            "last_retested_at_epoch": 1588751065.740304,
+            "last_retested_at_iso": "2020-05-06T07:44:25.740304",
+            "status": "INACTIVE"
         }
     }
 }
