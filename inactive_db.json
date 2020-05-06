@@ -60374,6 +60374,41 @@
             "last_retested_at_epoch": 1588773669.588056,
             "last_retested_at_iso": "2020-05-06T14:01:09.588056",
             "status": "INACTIVE"
+        },
+        "tailorcave.com": {
+            "included_at_epoch": 1588775124.795293,
+            "included_at_iso": "2020-05-06T14:25:24.795293",
+            "last_retested_at_epoch": 1588775124.795293,
+            "last_retested_at_iso": "2020-05-06T14:25:24.795293",
+            "status": "INACTIVE"
+        },
+        "tamrczjeedauh.com": {
+            "included_at_epoch": 1588775136.153919,
+            "included_at_iso": "2020-05-06T14:25:36.153919",
+            "last_retested_at_epoch": 1588775136.153919,
+            "last_retested_at_iso": "2020-05-06T14:25:36.153919",
+            "status": "INACTIVE"
+        },
+        "tantheretrec.ru": {
+            "included_at_epoch": 1588775139.35328,
+            "included_at_iso": "2020-05-06T14:25:39.353280",
+            "last_retested_at_epoch": 1588775139.35328,
+            "last_retested_at_iso": "2020-05-06T14:25:39.353280",
+            "status": "INACTIVE"
+        },
+        "tap.idg.de": {
+            "included_at_epoch": 1588775142.225112,
+            "included_at_iso": "2020-05-06T14:25:42.225112",
+            "last_retested_at_epoch": 1588775142.225112,
+            "last_retested_at_iso": "2020-05-06T14:25:42.225112",
+            "status": "INACTIVE"
+        },
+        "tapcreatives.net": {
+            "included_at_epoch": 1588775143.741301,
+            "included_at_iso": "2020-05-06T14:25:43.741301",
+            "last_retested_at_epoch": 1588775143.741301,
+            "last_retested_at_iso": "2020-05-06T14:25:43.741301",
+            "status": "INACTIVE"
         }
     }
 }
