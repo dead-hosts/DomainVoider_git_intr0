@@ -59072,6 +59072,34 @@
             "last_retested_at_epoch": 1588763986.45002,
             "last_retested_at_iso": "2020-05-06T11:19:46.450020",
             "status": "INACTIVE"
+        },
+        "statscreen.info": {
+            "included_at_epoch": 1588765434.581271,
+            "included_at_iso": "2020-05-06T11:43:54.581271",
+            "last_retested_at_epoch": 1588765434.581271,
+            "last_retested_at_iso": "2020-05-06T11:43:54.581271",
+            "status": "INACTIVE"
+        },
+        "steamc0mmuhity.ml": {
+            "included_at_epoch": 1588765449.855982,
+            "included_at_iso": "2020-05-06T11:44:09.855982",
+            "last_retested_at_epoch": 1588765449.855982,
+            "last_retested_at_iso": "2020-05-06T11:44:09.855982",
+            "status": "INACTIVE"
+        },
+        "steamcommunulty.ml": {
+            "included_at_epoch": 1588765451.089505,
+            "included_at_iso": "2020-05-06T11:44:11.089505",
+            "last_retested_at_epoch": 1588765451.089505,
+            "last_retested_at_iso": "2020-05-06T11:44:11.089505",
+            "status": "INACTIVE"
+        },
+        "steamsecretary.com": {
+            "included_at_epoch": 1588765453.675869,
+            "included_at_iso": "2020-05-06T11:44:13.675869",
+            "last_retested_at_epoch": 1588765453.675869,
+            "last_retested_at_iso": "2020-05-06T11:44:13.675869",
+            "status": "INACTIVE"
         }
     }
 }
