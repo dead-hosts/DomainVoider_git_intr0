@@ -1624,13 +1624,6 @@
             "last_retested_at_iso": "2020-05-01T15:27:30.587860",
             "status": "INACTIVE"
         },
-        "6kauqbszb9.com": {
-            "included_at_epoch": 1586381266.0,
-            "included_at_iso": "2020-04-08T21:27:46",
-            "last_retested_at_epoch": 1588346850.714693,
-            "last_retested_at_iso": "2020-05-01T15:27:30.714693",
-            "status": "INACTIVE"
-        },
         "71aa8ed2ff1c8f.com": {
             "included_at_epoch": 1588346850.926568,
             "included_at_iso": "2020-05-01T15:27:30.926568",
@@ -1664,13 +1657,6 @@
             "included_at_iso": "2020-05-01T15:27:31.240244",
             "last_retested_at_epoch": 1588346851.240244,
             "last_retested_at_iso": "2020-05-01T15:27:31.240244",
-            "status": "INACTIVE"
-        },
-        "77c16wp1.face-book.cc": {
-            "included_at_epoch": 1586381267.0,
-            "included_at_iso": "2020-04-08T21:27:47",
-            "last_retested_at_epoch": 1588346851.409026,
-            "last_retested_at_iso": "2020-05-01T15:27:31.409026",
             "status": "INACTIVE"
         },
         "7cdf78unokr7.ru": {
@@ -61430,6 +61416,41 @@
             "included_at_iso": "2020-05-06T21:11:27.984529",
             "last_retested_at_epoch": 1588799487.984529,
             "last_retested_at_iso": "2020-05-06T21:11:27.984529",
+            "status": "INACTIVE"
+        },
+        "track.ft.com": {
+            "included_at_epoch": 1588802434.068132,
+            "included_at_iso": "2020-05-06T22:00:34.068132",
+            "last_retested_at_epoch": 1588802434.068132,
+            "last_retested_at_iso": "2020-05-06T22:00:34.068132",
+            "status": "INACTIVE"
+        },
+        "track.srv.vietnamnet.vn": {
+            "included_at_epoch": 1588802435.906896,
+            "included_at_iso": "2020-05-06T22:00:35.906896",
+            "last_retested_at_epoch": 1588802435.906896,
+            "last_retested_at_iso": "2020-05-06T22:00:35.906896",
+            "status": "INACTIVE"
+        },
+        "track.vatgia.com": {
+            "included_at_epoch": 1588802436.621936,
+            "included_at_iso": "2020-05-06T22:00:36.621936",
+            "last_retested_at_epoch": 1588802436.621936,
+            "last_retested_at_iso": "2020-05-06T22:00:36.621936",
+            "status": "INACTIVE"
+        },
+        "track.workablemetro.com": {
+            "included_at_epoch": 1588802437.013097,
+            "included_at_iso": "2020-05-06T22:00:37.013097",
+            "last_retested_at_epoch": 1588802437.013097,
+            "last_retested_at_iso": "2020-05-06T22:00:37.013097",
+            "status": "INACTIVE"
+        },
+        "trackbar.info": {
+            "included_at_epoch": 1588802438.60459,
+            "included_at_iso": "2020-05-06T22:00:38.604590",
+            "last_retested_at_epoch": 1588802438.60459,
+            "last_retested_at_iso": "2020-05-06T22:00:38.604590",
             "status": "INACTIVE"
         }
     }
