@@ -56524,6 +56524,48 @@
             "last_retested_at_epoch": 1588740144.508452,
             "last_retested_at_iso": "2020-05-06T04:42:24.508452",
             "status": "INACTIVE"
+        },
+        "seavideo22.com": {
+            "included_at_epoch": 1588741172.480869,
+            "included_at_iso": "2020-05-06T04:59:32.480869",
+            "last_retested_at_epoch": 1588741172.480869,
+            "last_retested_at_iso": "2020-05-06T04:59:32.480869",
+            "status": "INACTIVE"
+        },
+        "sebitarsek.cloudaccess.host": {
+            "included_at_epoch": 1588741173.608852,
+            "included_at_iso": "2020-05-06T04:59:33.608852",
+            "last_retested_at_epoch": 1588741173.608852,
+            "last_retested_at_iso": "2020-05-06T04:59:33.608852",
+            "status": "INACTIVE"
+        },
+        "sec-faceb00k.gq": {
+            "included_at_epoch": 1588741173.777737,
+            "included_at_iso": "2020-05-06T04:59:33.777737",
+            "last_retested_at_epoch": 1588741173.777737,
+            "last_retested_at_iso": "2020-05-06T04:59:33.777737",
+            "status": "INACTIVE"
+        },
+        "sec-paypa1onlineportal.co.uk": {
+            "included_at_epoch": 1588741174.046128,
+            "included_at_iso": "2020-05-06T04:59:34.046128",
+            "last_retested_at_epoch": 1588741174.046128,
+            "last_retested_at_iso": "2020-05-06T04:59:34.046128",
+            "status": "INACTIVE"
+        },
+        "sec-paypa1servportal.com": {
+            "included_at_epoch": 1588741173.912072,
+            "included_at_iso": "2020-05-06T04:59:33.912072",
+            "last_retested_at_epoch": 1588741173.912072,
+            "last_retested_at_iso": "2020-05-06T04:59:33.912072",
+            "status": "INACTIVE"
+        },
+        "sec.support-customer.access.security-systemapp.com": {
+            "included_at_epoch": 1588741174.212872,
+            "included_at_iso": "2020-05-06T04:59:34.212872",
+            "last_retested_at_epoch": 1588741174.212872,
+            "last_retested_at_iso": "2020-05-06T04:59:34.212872",
+            "status": "INACTIVE"
         }
     }
 }
