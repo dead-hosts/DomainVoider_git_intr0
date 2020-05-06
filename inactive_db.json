@@ -56482,6 +56482,48 @@
             "last_retested_at_epoch": 1588739411.156142,
             "last_retested_at_iso": "2020-05-06T04:30:11.156142",
             "status": "INACTIVE"
+        },
+        "sdziy.us": {
+            "included_at_epoch": 1588740136.179112,
+            "included_at_iso": "2020-05-06T04:42:16.179112",
+            "last_retested_at_epoch": 1588740136.179112,
+            "last_retested_at_iso": "2020-05-06T04:42:16.179112",
+            "status": "INACTIVE"
+        },
+        "se2qwz60l2oxznm.xyz": {
+            "included_at_epoch": 1588740137.317889,
+            "included_at_iso": "2020-05-06T04:42:17.317889",
+            "last_retested_at_epoch": 1588740137.317889,
+            "last_retested_at_iso": "2020-05-06T04:42:17.317889",
+            "status": "INACTIVE"
+        },
+        "seafox26.com": {
+            "included_at_epoch": 1588740137.838234,
+            "included_at_iso": "2020-05-06T04:42:17.838234",
+            "last_retested_at_epoch": 1588740137.838234,
+            "last_retested_at_iso": "2020-05-06T04:42:17.838234",
+            "status": "INACTIVE"
+        },
+        "sealine-pfuoxcbgd.netdna-ssl.com": {
+            "included_at_epoch": 1588740138.306553,
+            "included_at_iso": "2020-05-06T04:42:18.306553",
+            "last_retested_at_epoch": 1588740138.306553,
+            "last_retested_at_iso": "2020-05-06T04:42:18.306553",
+            "status": "INACTIVE"
+        },
+        "search.batmobi.net": {
+            "included_at_epoch": 1588740139.156399,
+            "included_at_iso": "2020-05-06T04:42:19.156399",
+            "last_retested_at_epoch": 1588740139.156399,
+            "last_retested_at_iso": "2020-05-06T04:42:19.156399",
+            "status": "INACTIVE"
+        },
+        "seasonsnonaco.ddnsking.com": {
+            "included_at_epoch": 1588740144.508452,
+            "included_at_iso": "2020-05-06T04:42:24.508452",
+            "last_retested_at_epoch": 1588740144.508452,
+            "last_retested_at_iso": "2020-05-06T04:42:24.508452",
+            "status": "INACTIVE"
         }
     }
 }
