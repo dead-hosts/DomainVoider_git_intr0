@@ -55614,6 +55614,27 @@
             "last_retested_at_epoch": 1588723326.994335,
             "last_retested_at_iso": "2020-05-06T00:02:06.994335",
             "status": "INACTIVE"
+        },
+        "rotabetaffiliates.com": {
+            "included_at_epoch": 1588724051.720452,
+            "included_at_iso": "2020-05-06T00:14:11.720452",
+            "last_retested_at_epoch": 1588724051.720452,
+            "last_retested_at_iso": "2020-05-06T00:14:11.720452",
+            "status": "INACTIVE"
+        },
+        "rotibald.com": {
+            "included_at_epoch": 1588724052.953836,
+            "included_at_iso": "2020-05-06T00:14:12.953836",
+            "last_retested_at_epoch": 1588724052.953836,
+            "last_retested_at_iso": "2020-05-06T00:14:12.953836",
+            "status": "INACTIVE"
+        },
+        "roundfortred.ru": {
+            "included_at_epoch": 1588724054.744882,
+            "included_at_iso": "2020-05-06T00:14:14.744882",
+            "last_retested_at_epoch": 1588724054.744882,
+            "last_retested_at_iso": "2020-05-06T00:14:14.744882",
+            "status": "INACTIVE"
         }
     }
 }
