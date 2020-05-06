@@ -59100,6 +59100,20 @@
             "last_retested_at_epoch": 1588765453.675869,
             "last_retested_at_iso": "2020-05-06T11:44:13.675869",
             "status": "INACTIVE"
+        },
+        "sterisjs.info": {
+            "included_at_epoch": 1588766189.438008,
+            "included_at_iso": "2020-05-06T11:56:29.438008",
+            "last_retested_at_epoch": 1588766189.438008,
+            "last_retested_at_iso": "2020-05-06T11:56:29.438008",
+            "status": "INACTIVE"
+        },
+        "sthtrtvkkt.com": {
+            "included_at_epoch": 1588766191.616245,
+            "included_at_iso": "2020-05-06T11:56:31.616245",
+            "last_retested_at_epoch": 1588766191.616245,
+            "last_retested_at_iso": "2020-05-06T11:56:31.616245",
+            "status": "INACTIVE"
         }
     }
 }
