@@ -58071,6 +58071,69 @@
             "last_retested_at_epoch": 1588748838.119987,
             "last_retested_at_iso": "2020-05-06T07:07:18.119987",
             "status": "INACTIVE"
+        },
+        "shjuivapg.bid": {
+            "included_at_epoch": 1588749561.380662,
+            "included_at_iso": "2020-05-06T07:19:21.380662",
+            "last_retested_at_epoch": 1588749561.380662,
+            "last_retested_at_iso": "2020-05-06T07:19:21.380662",
+            "status": "INACTIVE"
+        },
+        "shkfrsif.com": {
+            "included_at_epoch": 1588749561.521615,
+            "included_at_iso": "2020-05-06T07:19:21.521615",
+            "last_retested_at_epoch": 1588749561.521615,
+            "last_retested_at_iso": "2020-05-06T07:19:21.521615",
+            "status": "INACTIVE"
+        },
+        "shmpdqwucl.com": {
+            "included_at_epoch": 1588749562.650229,
+            "included_at_iso": "2020-05-06T07:19:22.650229",
+            "last_retested_at_epoch": 1588749562.650229,
+            "last_retested_at_iso": "2020-05-06T07:19:22.650229",
+            "status": "INACTIVE"
+        },
+        "shohabiymgjxdb.com": {
+            "included_at_epoch": 1588749565.168934,
+            "included_at_iso": "2020-05-06T07:19:25.168934",
+            "last_retested_at_epoch": 1588749565.168934,
+            "last_retested_at_iso": "2020-05-06T07:19:25.168934",
+            "status": "INACTIVE"
+        },
+        "shopsheets.xyz": {
+            "included_at_epoch": 1588749574.235277,
+            "included_at_iso": "2020-05-06T07:19:34.235277",
+            "last_retested_at_epoch": 1588749574.235277,
+            "last_retested_at_iso": "2020-05-06T07:19:34.235277",
+            "status": "INACTIVE"
+        },
+        "shorlakmedia.com": {
+            "included_at_epoch": 1588749574.722609,
+            "included_at_iso": "2020-05-06T07:19:34.722609",
+            "last_retested_at_epoch": 1588749574.722609,
+            "last_retested_at_iso": "2020-05-06T07:19:34.722609",
+            "status": "INACTIVE"
+        },
+        "short.zain.biz": {
+            "included_at_epoch": 1588749574.863133,
+            "included_at_iso": "2020-05-06T07:19:34.863133",
+            "last_retested_at_epoch": 1588749574.863133,
+            "last_retested_at_iso": "2020-05-06T07:19:34.863133",
+            "status": "INACTIVE"
+        },
+        "show1.website": {
+            "included_at_epoch": 1588749578.372743,
+            "included_at_iso": "2020-05-06T07:19:38.372743",
+            "last_retested_at_epoch": 1588749578.372743,
+            "last_retested_at_iso": "2020-05-06T07:19:38.372743",
+            "status": "INACTIVE"
+        },
+        "shoxyloxi.com": {
+            "included_at_epoch": 1588749579.893594,
+            "included_at_iso": "2020-05-06T07:19:39.893594",
+            "last_retested_at_epoch": 1588749579.893594,
+            "last_retested_at_iso": "2020-05-06T07:19:39.893594",
+            "status": "INACTIVE"
         }
     }
 }
