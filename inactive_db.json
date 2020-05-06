@@ -57483,6 +57483,55 @@
             "last_retested_at_epoch": 1588743569.08171,
             "last_retested_at_iso": "2020-05-06T05:39:29.081710",
             "status": "INACTIVE"
+        },
+        "seguranca-itaubanking.com": {
+            "included_at_epoch": 1588744534.755812,
+            "included_at_iso": "2020-05-06T05:55:34.755812",
+            "last_retested_at_epoch": 1588744534.755812,
+            "last_retested_at_iso": "2020-05-06T05:55:34.755812",
+            "status": "INACTIVE"
+        },
+        "segys.xyz": {
+            "included_at_epoch": 1588744536.17649,
+            "included_at_iso": "2020-05-06T05:55:36.176490",
+            "last_retested_at_epoch": 1588744536.17649,
+            "last_retested_at_iso": "2020-05-06T05:55:36.176490",
+            "status": "INACTIVE"
+        },
+        "selftestkitcovid19.store": {
+            "included_at_epoch": 1588744545.018566,
+            "included_at_iso": "2020-05-06T05:55:45.018566",
+            "last_retested_at_epoch": 1588744545.018566,
+            "last_retested_at_iso": "2020-05-06T05:55:45.018566",
+            "status": "INACTIVE"
+        },
+        "seliconos.3utilities.com": {
+            "included_at_epoch": 1588744544.881844,
+            "included_at_iso": "2020-05-06T05:55:44.881844",
+            "last_retested_at_epoch": 1588744544.881844,
+            "last_retested_at_iso": "2020-05-06T05:55:44.881844",
+            "status": "INACTIVE"
+        },
+        "sellerfivem.ddns.net": {
+            "included_at_epoch": 1588744546.090011,
+            "included_at_iso": "2020-05-06T05:55:46.090011",
+            "last_retested_at_epoch": 1588744546.090011,
+            "last_retested_at_iso": "2020-05-06T05:55:46.090011",
+            "status": "INACTIVE"
+        },
+        "selosin.com": {
+            "included_at_epoch": 1588744548.417134,
+            "included_at_iso": "2020-05-06T05:55:48.417134",
+            "last_retested_at_epoch": 1588744548.417134,
+            "last_retested_at_iso": "2020-05-06T05:55:48.417134",
+            "status": "INACTIVE"
+        },
+        "selsin-ltd.com": {
+            "included_at_epoch": 1588744548.551805,
+            "included_at_iso": "2020-05-06T05:55:48.551805",
+            "last_retested_at_epoch": 1588744548.551805,
+            "last_retested_at_iso": "2020-05-06T05:55:48.551805",
+            "status": "INACTIVE"
         }
     }
 }
