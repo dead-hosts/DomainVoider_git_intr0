@@ -1715,13 +1715,6 @@
             "last_retested_at_iso": "2020-05-01T15:27:31.844131",
             "status": "INACTIVE"
         },
-        "7vxlfstt.top": {
-            "included_at_epoch": 1586336826.0,
-            "included_at_iso": "2020-04-08T09:07:06",
-            "last_retested_at_epoch": 1588346851.914562,
-            "last_retested_at_iso": "2020-05-01T15:27:31.914562",
-            "status": "INACTIVE"
-        },
         "81.16.28.143": {
             "included_at_epoch": 1588346852.038468,
             "included_at_iso": "2020-05-01T15:27:32.038468",
@@ -58637,6 +58630,34 @@
             "included_at_iso": "2020-05-06T09:11:23.859691",
             "last_retested_at_epoch": 1588756283.859691,
             "last_retested_at_iso": "2020-05-06T09:11:23.859691",
+            "status": "INACTIVE"
+        },
+        "sparebnk1-innloging-pamobile.com": {
+            "included_at_epoch": 1588757355.050354,
+            "included_at_iso": "2020-05-06T09:29:15.050354",
+            "last_retested_at_epoch": 1588757355.050354,
+            "last_retested_at_iso": "2020-05-06T09:29:15.050354",
+            "status": "INACTIVE"
+        },
+        "specialgift.top": {
+            "included_at_epoch": 1588757360.583326,
+            "included_at_iso": "2020-05-06T09:29:20.583326",
+            "last_retested_at_epoch": 1588757360.583326,
+            "last_retested_at_iso": "2020-05-06T09:29:20.583326",
+            "status": "INACTIVE"
+        },
+        "spider.ad": {
+            "included_at_epoch": 1588757369.342251,
+            "included_at_iso": "2020-05-06T09:29:29.342251",
+            "last_retested_at_epoch": 1588757369.342251,
+            "last_retested_at_iso": "2020-05-06T09:29:29.342251",
+            "status": "INACTIVE"
+        },
+        "spinyla.ru": {
+            "included_at_epoch": 1588757370.818759,
+            "included_at_iso": "2020-05-06T09:29:30.818759",
+            "last_retested_at_epoch": 1588757370.818759,
+            "last_retested_at_iso": "2020-05-06T09:29:30.818759",
             "status": "INACTIVE"
         }
     }
