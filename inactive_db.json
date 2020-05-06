@@ -61046,6 +61046,20 @@
             "last_retested_at_epoch": 1588785409.024219,
             "last_retested_at_iso": "2020-05-06T17:16:49.024219",
             "status": "INACTIVE"
+        },
+        "tizer.rupornophoto.com": {
+            "included_at_epoch": 1588786130.132796,
+            "included_at_iso": "2020-05-06T17:28:50.132796",
+            "last_retested_at_epoch": 1588786130.132796,
+            "last_retested_at_iso": "2020-05-06T17:28:50.132796",
+            "status": "INACTIVE"
+        },
+        "tizer6.net": {
+            "included_at_epoch": 1588786130.705251,
+            "included_at_iso": "2020-05-06T17:28:50.705251",
+            "last_retested_at_epoch": 1588786130.705251,
+            "last_retested_at_iso": "2020-05-06T17:28:50.705251",
+            "status": "INACTIVE"
         }
     }
 }
