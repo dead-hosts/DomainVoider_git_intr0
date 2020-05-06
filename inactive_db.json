@@ -60640,6 +60640,34 @@
             "last_retested_at_epoch": 1588777890.86973,
             "last_retested_at_iso": "2020-05-06T15:11:30.869730",
             "status": "INACTIVE"
+        },
+        "telus-mobile.info": {
+            "included_at_epoch": 1588778622.409895,
+            "included_at_iso": "2020-05-06T15:23:42.409895",
+            "last_retested_at_epoch": 1588778622.409895,
+            "last_retested_at_iso": "2020-05-06T15:23:42.409895",
+            "status": "INACTIVE"
+        },
+        "telusmobile-wireless.info": {
+            "included_at_epoch": 1588778622.257453,
+            "included_at_iso": "2020-05-06T15:23:42.257453",
+            "last_retested_at_epoch": 1588778622.257453,
+            "last_retested_at_iso": "2020-05-06T15:23:42.257453",
+            "status": "INACTIVE"
+        },
+        "telusmobilecarrier.com": {
+            "included_at_epoch": 1588778622.553055,
+            "included_at_iso": "2020-05-06T15:23:42.553055",
+            "last_retested_at_epoch": 1588778622.553055,
+            "last_retested_at_iso": "2020-05-06T15:23:42.553055",
+            "status": "INACTIVE"
+        },
+        "tengocoronavirus.site": {
+            "included_at_epoch": 1588778627.296063,
+            "included_at_iso": "2020-05-06T15:23:47.296063",
+            "last_retested_at_epoch": 1588778627.296063,
+            "last_retested_at_iso": "2020-05-06T15:23:47.296063",
+            "status": "INACTIVE"
         }
     }
 }
