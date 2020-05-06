@@ -1666,20 +1666,6 @@
             "last_retested_at_iso": "2020-05-01T15:27:31.782948",
             "status": "INACTIVE"
         },
-        "7re7.face-book.cc": {
-            "included_at_epoch": 1586384126.0,
-            "included_at_iso": "2020-04-08T22:15:26",
-            "last_retested_at_epoch": 1588346851.819421,
-            "last_retested_at_iso": "2020-05-01T15:27:31.819421",
-            "status": "INACTIVE"
-        },
-        "7s08gpbp39.com": {
-            "included_at_epoch": 1586384127.0,
-            "included_at_iso": "2020-04-08T22:15:27",
-            "last_retested_at_epoch": 1588346851.844131,
-            "last_retested_at_iso": "2020-05-01T15:27:31.844131",
-            "status": "INACTIVE"
-        },
         "81.16.28.143": {
             "included_at_epoch": 1588346852.038468,
             "included_at_iso": "2020-05-01T15:27:32.038468",
@@ -61598,6 +61584,111 @@
             "included_at_iso": "2020-05-06T22:25:05.948017",
             "last_retested_at_epoch": 1588803905.948017,
             "last_retested_at_iso": "2020-05-06T22:25:05.948017",
+            "status": "INACTIVE"
+        },
+        "tracking.yourfilehost.com": {
+            "included_at_epoch": 1588804632.186189,
+            "included_at_iso": "2020-05-06T22:37:12.186189",
+            "last_retested_at_epoch": 1588804632.186189,
+            "last_retested_at_iso": "2020-05-06T22:37:12.186189",
+            "status": "INACTIVE"
+        },
+        "tracknet.twyn-group.com": {
+            "included_at_epoch": 1588804639.295525,
+            "included_at_iso": "2020-05-06T22:37:19.295525",
+            "last_retested_at_epoch": 1588804639.295525,
+            "last_retested_at_iso": "2020-05-06T22:37:19.295525",
+            "status": "INACTIVE"
+        },
+        "trackpromotion.net": {
+            "included_at_epoch": 1588804640.898433,
+            "included_at_iso": "2020-05-06T22:37:20.898433",
+            "last_retested_at_epoch": 1588804640.898433,
+            "last_retested_at_iso": "2020-05-06T22:37:20.898433",
+            "status": "INACTIVE"
+        },
+        "tracktor.co.uk": {
+            "included_at_epoch": 1588804643.938303,
+            "included_at_iso": "2020-05-06T22:37:23.938303",
+            "last_retested_at_epoch": 1588804643.938303,
+            "last_retested_at_iso": "2020-05-06T22:37:23.938303",
+            "status": "INACTIVE"
+        },
+        "traf-3rs.com": {
+            "included_at_epoch": 1588804651.618391,
+            "included_at_iso": "2020-05-06T22:37:31.618391",
+            "last_retested_at_epoch": 1588804651.618391,
+            "last_retested_at_iso": "2020-05-06T22:37:31.618391",
+            "status": "INACTIVE"
+        },
+        "trafficbc3.host": {
+            "included_at_epoch": 1588804659.012815,
+            "included_at_iso": "2020-05-06T22:37:39.012815",
+            "last_retested_at_epoch": 1588804659.012815,
+            "last_retested_at_iso": "2020-05-06T22:37:39.012815",
+            "status": "INACTIVE"
+        },
+        "trafficshirts.com": {
+            "included_at_epoch": 1588804670.425263,
+            "included_at_iso": "2020-05-06T22:37:50.425263",
+            "last_retested_at_epoch": 1588804670.425263,
+            "last_retested_at_iso": "2020-05-06T22:37:50.425263",
+            "status": "INACTIVE"
+        },
+        "trafficz.net": {
+            "included_at_epoch": 1588804675.698859,
+            "included_at_iso": "2020-05-06T22:37:55.698859",
+            "last_retested_at_epoch": 1588804675.698859,
+            "last_retested_at_iso": "2020-05-06T22:37:55.698859",
+            "status": "INACTIVE"
+        },
+        "traffpay.ru": {
+            "included_at_epoch": 1588804678.373443,
+            "included_at_iso": "2020-05-06T22:37:58.373443",
+            "last_retested_at_epoch": 1588804678.373443,
+            "last_retested_at_iso": "2020-05-06T22:37:58.373443",
+            "status": "INACTIVE"
+        },
+        "trafiz.net": {
+            "included_at_epoch": 1588804681.0755,
+            "included_at_iso": "2020-05-06T22:38:01.075500",
+            "last_retested_at_epoch": 1588804681.0755,
+            "last_retested_at_iso": "2020-05-06T22:38:01.075500",
+            "status": "INACTIVE"
+        },
+        "trafscan.com": {
+            "included_at_epoch": 1588804683.801757,
+            "included_at_iso": "2020-05-06T22:38:03.801757",
+            "last_retested_at_epoch": 1588804683.801757,
+            "last_retested_at_iso": "2020-05-06T22:38:03.801757",
+            "status": "INACTIVE"
+        },
+        "trafvip.in": {
+            "included_at_epoch": 1588804684.695381,
+            "included_at_iso": "2020-05-06T22:38:04.695381",
+            "last_retested_at_epoch": 1588804684.695381,
+            "last_retested_at_iso": "2020-05-06T22:38:04.695381",
+            "status": "INACTIVE"
+        },
+        "tralifa.info": {
+            "included_at_epoch": 1588804687.067298,
+            "included_at_iso": "2020-05-06T22:38:07.067298",
+            "last_retested_at_epoch": 1588804687.067298,
+            "last_retested_at_iso": "2020-05-06T22:38:07.067298",
+            "status": "INACTIVE"
+        },
+        "tranite.info": {
+            "included_at_epoch": 1588804687.963596,
+            "included_at_iso": "2020-05-06T22:38:07.963596",
+            "last_retested_at_epoch": 1588804687.963596,
+            "last_retested_at_iso": "2020-05-06T22:38:07.963596",
+            "status": "INACTIVE"
+        },
+        "tranzitstar.ru": {
+            "included_at_epoch": 1588804690.629056,
+            "included_at_iso": "2020-05-06T22:38:10.629056",
+            "last_retested_at_epoch": 1588804690.629056,
+            "last_retested_at_iso": "2020-05-06T22:38:10.629056",
             "status": "INACTIVE"
         }
     }
