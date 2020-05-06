@@ -1561,13 +1561,6 @@
             "last_retested_at_iso": "2020-05-01T15:27:29.454571",
             "status": "INACTIVE"
         },
-        "551f044b1a3f4ef.com": {
-            "included_at_epoch": 1586306733.0,
-            "included_at_iso": "2020-04-08T00:45:33",
-            "last_retested_at_epoch": 1588346849.528101,
-            "last_retested_at_iso": "2020-05-01T15:27:29.528101",
-            "status": "INACTIVE"
-        },
         "59.20.65.102": {
             "included_at_epoch": 1587924453.093787,
             "included_at_iso": "2020-04-26T18:07:33.093787",
@@ -1659,13 +1652,6 @@
             "last_retested_at_iso": "2020-05-01T15:27:30.462196",
             "status": "INACTIVE"
         },
-        "69.172.201.153": {
-            "included_at_epoch": 1586306734.0,
-            "included_at_iso": "2020-04-08T00:45:34",
-            "last_retested_at_epoch": 1588346850.496582,
-            "last_retested_at_iso": "2020-05-01T15:27:30.496582",
-            "status": "INACTIVE"
-        },
         "691123f5be2a669b.com": {
             "included_at_epoch": 1586332319.0,
             "included_at_iso": "2020-04-08T07:51:59",
@@ -1734,13 +1720,6 @@
             "included_at_iso": "2020-05-01T15:27:31.574508",
             "last_retested_at_epoch": 1588346851.574508,
             "last_retested_at_iso": "2020-05-01T15:27:31.574508",
-            "status": "INACTIVE"
-        },
-        "7ggtpciw.com": {
-            "included_at_epoch": 1586310278.0,
-            "included_at_iso": "2020-04-08T01:44:38",
-            "last_retested_at_epoch": 1588346851.703853,
-            "last_retested_at_iso": "2020-05-01T15:27:31.703853",
             "status": "INACTIVE"
         },
         "7mu36somt5.com": {
@@ -55788,6 +55767,181 @@
             "included_at_iso": "2020-05-06T00:29:44.401157",
             "last_retested_at_epoch": 1588724984.401157,
             "last_retested_at_iso": "2020-05-06T00:29:44.401157",
+            "status": "INACTIVE"
+        },
+        "rtb-usync.com": {
+            "included_at_epoch": 1588730096.165186,
+            "included_at_iso": "2020-05-06T01:54:56.165186",
+            "last_retested_at_epoch": 1588730096.165186,
+            "last_retested_at_iso": "2020-05-06T01:54:56.165186",
+            "status": "INACTIVE"
+        },
+        "rtbads.info": {
+            "included_at_epoch": 1588730096.860277,
+            "included_at_iso": "2020-05-06T01:54:56.860277",
+            "last_retested_at_epoch": 1588730096.860277,
+            "last_retested_at_iso": "2020-05-06T01:54:56.860277",
+            "status": "INACTIVE"
+        },
+        "rtbauction.com": {
+            "included_at_epoch": 1588730097.308929,
+            "included_at_iso": "2020-05-06T01:54:57.308929",
+            "last_retested_at_epoch": 1588730097.308929,
+            "last_retested_at_iso": "2020-05-06T01:54:57.308929",
+            "status": "INACTIVE"
+        },
+        "rtbweb.com": {
+            "included_at_epoch": 1588730101.464846,
+            "included_at_iso": "2020-05-06T01:55:01.464846",
+            "last_retested_at_epoch": 1588730101.464846,
+            "last_retested_at_iso": "2020-05-06T01:55:01.464846",
+            "status": "INACTIVE"
+        },
+        "rtdogcdkovndho.com": {
+            "included_at_epoch": 1588730101.726147,
+            "included_at_iso": "2020-05-06T01:55:01.726147",
+            "last_retested_at_epoch": 1588730101.726147,
+            "last_retested_at_iso": "2020-05-06T01:55:01.726147",
+            "status": "INACTIVE"
+        },
+        "rtfn.net": {
+            "included_at_epoch": 1588730101.596215,
+            "included_at_iso": "2020-05-06T01:55:01.596215",
+            "last_retested_at_epoch": 1588730101.596215,
+            "last_retested_at_iso": "2020-05-06T01:55:01.596215",
+            "status": "INACTIVE"
+        },
+        "rtl1.biz": {
+            "included_at_epoch": 1588730102.205179,
+            "included_at_iso": "2020-05-06T01:55:02.205179",
+            "last_retested_at_epoch": 1588730102.205179,
+            "last_retested_at_iso": "2020-05-06T01:55:02.205179",
+            "status": "INACTIVE"
+        },
+        "rtl1.net": {
+            "included_at_epoch": 1588730102.336722,
+            "included_at_iso": "2020-05-06T01:55:02.336722",
+            "last_retested_at_epoch": 1588730102.336722,
+            "last_retested_at_iso": "2020-05-06T01:55:02.336722",
+            "status": "INACTIVE"
+        },
+        "ru-novocti.com": {
+            "included_at_epoch": 1588730105.427149,
+            "included_at_iso": "2020-05-06T01:55:05.427149",
+            "last_retested_at_epoch": 1588730105.427149,
+            "last_retested_at_iso": "2020-05-06T01:55:05.427149",
+            "status": "INACTIVE"
+        },
+        "ru-traffic.com": {
+            "included_at_epoch": 1588730105.878715,
+            "included_at_iso": "2020-05-06T01:55:05.878715",
+            "last_retested_at_epoch": 1588730105.878715,
+            "last_retested_at_iso": "2020-05-06T01:55:05.878715",
+            "status": "INACTIVE"
+        },
+        "rubxajsomnicfy.com": {
+            "included_at_epoch": 1588730108.30227,
+            "included_at_iso": "2020-05-06T01:55:08.302270",
+            "last_retested_at_epoch": 1588730108.30227,
+            "last_retested_at_iso": "2020-05-06T01:55:08.302270",
+            "status": "INACTIVE"
+        },
+        "rulirieter.com": {
+            "included_at_epoch": 1588730112.518142,
+            "included_at_iso": "2020-05-06T01:55:12.518142",
+            "last_retested_at_epoch": 1588730112.518142,
+            "last_retested_at_iso": "2020-05-06T01:55:12.518142",
+            "status": "INACTIVE"
+        },
+        "runescape.com-cu.eu": {
+            "included_at_epoch": 1588730118.314651,
+            "included_at_iso": "2020-05-06T01:55:18.314651",
+            "last_retested_at_epoch": 1588730118.314651,
+            "last_retested_at_iso": "2020-05-06T01:55:18.314651",
+            "status": "INACTIVE"
+        },
+        "runescape.com-cv.xyz": {
+            "included_at_epoch": 1588730118.446065,
+            "included_at_iso": "2020-05-06T01:55:18.446065",
+            "last_retested_at_epoch": 1588730118.446065,
+            "last_retested_at_iso": "2020-05-06T01:55:18.446065",
+            "status": "INACTIVE"
+        },
+        "runescape.com-iu.top": {
+            "included_at_epoch": 1588730118.577155,
+            "included_at_iso": "2020-05-06T01:55:18.577155",
+            "last_retested_at_epoch": 1588730118.577155,
+            "last_retested_at_iso": "2020-05-06T01:55:18.577155",
+            "status": "INACTIVE"
+        },
+        "runescape.com-rsnz.xyz": {
+            "included_at_epoch": 1588730118.708161,
+            "included_at_iso": "2020-05-06T01:55:18.708161",
+            "last_retested_at_epoch": 1588730118.708161,
+            "last_retested_at_iso": "2020-05-06T01:55:18.708161",
+            "status": "INACTIVE"
+        },
+        "runescape.com-rswu.xyz": {
+            "included_at_epoch": 1588730118.839661,
+            "included_at_iso": "2020-05-06T01:55:18.839661",
+            "last_retested_at_epoch": 1588730118.839661,
+            "last_retested_at_iso": "2020-05-06T01:55:18.839661",
+            "status": "INACTIVE"
+        },
+        "runescape.com-ui.xyz": {
+            "included_at_epoch": 1588730118.970602,
+            "included_at_iso": "2020-05-06T01:55:18.970602",
+            "last_retested_at_epoch": 1588730118.970602,
+            "last_retested_at_iso": "2020-05-06T01:55:18.970602",
+            "status": "INACTIVE"
+        },
+        "runescape.com-vxc.xyz": {
+            "included_at_epoch": 1588730119.100384,
+            "included_at_iso": "2020-05-06T01:55:19.100384",
+            "last_retested_at_epoch": 1588730119.100384,
+            "last_retested_at_iso": "2020-05-06T01:55:19.100384",
+            "status": "INACTIVE"
+        },
+        "runwtxeisppmt.com": {
+            "included_at_epoch": 1588730122.52382,
+            "included_at_iso": "2020-05-06T01:55:22.523820",
+            "last_retested_at_epoch": 1588730122.52382,
+            "last_retested_at_iso": "2020-05-06T01:55:22.523820",
+            "status": "INACTIVE"
+        },
+        "ruodzaboyf.com": {
+            "included_at_epoch": 1588730122.390697,
+            "included_at_iso": "2020-05-06T01:55:22.390697",
+            "last_retested_at_epoch": 1588730122.390697,
+            "last_retested_at_iso": "2020-05-06T01:55:22.390697",
+            "status": "INACTIVE"
+        },
+        "ruschopi.ru": {
+            "included_at_epoch": 1588730123.305178,
+            "included_at_iso": "2020-05-06T01:55:23.305178",
+            "last_retested_at_epoch": 1588730123.305178,
+            "last_retested_at_iso": "2020-05-06T01:55:23.305178",
+            "status": "INACTIVE"
+        },
+        "rustds.click": {
+            "included_at_epoch": 1588730125.321935,
+            "included_at_iso": "2020-05-06T01:55:25.321935",
+            "last_retested_at_epoch": 1588730125.321935,
+            "last_retested_at_iso": "2020-05-06T01:55:25.321935",
+            "status": "INACTIVE"
+        },
+        "rutorads.com": {
+            "included_at_epoch": 1588730127.013586,
+            "included_at_iso": "2020-05-06T01:55:27.013586",
+            "last_retested_at_epoch": 1588730127.013586,
+            "last_retested_at_iso": "2020-05-06T01:55:27.013586",
+            "status": "INACTIVE"
+        },
+        "ruunews.info": {
+            "included_at_epoch": 1588730128.384117,
+            "included_at_iso": "2020-05-06T01:55:28.384117",
+            "last_retested_at_epoch": 1588730128.384117,
+            "last_retested_at_iso": "2020-05-06T01:55:28.384117",
             "status": "INACTIVE"
         }
     }
