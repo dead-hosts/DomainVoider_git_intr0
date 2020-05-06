@@ -59114,6 +59114,13 @@
             "last_retested_at_epoch": 1588766191.616245,
             "last_retested_at_iso": "2020-05-06T11:56:31.616245",
             "status": "INACTIVE"
+        },
+        "stopadblock.info": {
+            "included_at_epoch": 1588766927.554406,
+            "included_at_iso": "2020-05-06T12:08:47.554406",
+            "last_retested_at_epoch": 1588766927.554406,
+            "last_retested_at_iso": "2020-05-06T12:08:47.554406",
+            "status": "INACTIVE"
         }
     }
 }
