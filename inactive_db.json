@@ -1372,13 +1372,6 @@
             "last_retested_at_iso": "2020-05-01T21:42:43.289779",
             "status": "INACTIVE"
         },
-        "45.128.134.14": {
-            "included_at_epoch": 1586382696.0,
-            "included_at_iso": "2020-04-08T21:51:36",
-            "last_retested_at_epoch": 1588369363.301693,
-            "last_retested_at_iso": "2020-05-01T21:42:43.301693",
-            "status": "INACTIVE"
-        },
         "45.128.134.20": {
             "included_at_epoch": 1587920499.362162,
             "included_at_iso": "2020-04-26T17:01:39.362162",
@@ -61451,6 +61444,69 @@
             "included_at_iso": "2020-05-06T22:00:38.604590",
             "last_retested_at_epoch": 1588802438.60459,
             "last_retested_at_iso": "2020-05-06T22:00:38.604590",
+            "status": "INACTIVE"
+        },
+        "tracker.joost.com": {
+            "included_at_epoch": 1588803173.127446,
+            "included_at_iso": "2020-05-06T22:12:53.127446",
+            "last_retested_at_epoch": 1588803173.127446,
+            "last_retested_at_iso": "2020-05-06T22:12:53.127446",
+            "status": "INACTIVE"
+        },
+        "tracker.lolalytics.com": {
+            "included_at_epoch": 1588803173.278841,
+            "included_at_iso": "2020-05-06T22:12:53.278841",
+            "last_retested_at_epoch": 1588803173.278841,
+            "last_retested_at_iso": "2020-05-06T22:12:53.278841",
+            "status": "INACTIVE"
+        },
+        "tracker.revip.info": {
+            "included_at_epoch": 1588803173.797682,
+            "included_at_iso": "2020-05-06T22:12:53.797682",
+            "last_retested_at_epoch": 1588803173.797682,
+            "last_retested_at_iso": "2020-05-06T22:12:53.797682",
+            "status": "INACTIVE"
+        },
+        "tracker.twenga.pl": {
+            "included_at_epoch": 1588803174.355631,
+            "included_at_iso": "2020-05-06T22:12:54.355631",
+            "last_retested_at_epoch": 1588803174.355631,
+            "last_retested_at_iso": "2020-05-06T22:12:54.355631",
+            "status": "INACTIVE"
+        },
+        "trackfreundlich.de": {
+            "included_at_epoch": 1588803176.41716,
+            "included_at_iso": "2020-05-06T22:12:56.417160",
+            "last_retested_at_epoch": 1588803176.41716,
+            "last_retested_at_iso": "2020-05-06T22:12:56.417160",
+            "status": "INACTIVE"
+        },
+        "tracking.acekoala.com": {
+            "included_at_epoch": 1588803177.013044,
+            "included_at_iso": "2020-05-06T22:12:57.013044",
+            "last_retested_at_epoch": 1588803177.013044,
+            "last_retested_at_iso": "2020-05-06T22:12:57.013044",
+            "status": "INACTIVE"
+        },
+        "tracking.admobsphere.com": {
+            "included_at_epoch": 1588803177.265562,
+            "included_at_iso": "2020-05-06T22:12:57.265562",
+            "last_retested_at_epoch": 1588803177.265562,
+            "last_retested_at_iso": "2020-05-06T22:12:57.265562",
+            "status": "INACTIVE"
+        },
+        "tracking.carprices.com": {
+            "included_at_epoch": 1588803177.805507,
+            "included_at_iso": "2020-05-06T22:12:57.805507",
+            "last_retested_at_epoch": 1588803177.805507,
+            "last_retested_at_iso": "2020-05-06T22:12:57.805507",
+            "status": "INACTIVE"
+        },
+        "tracking.conversion-lab.it": {
+            "included_at_epoch": 1588803178.093184,
+            "included_at_iso": "2020-05-06T22:12:58.093184",
+            "last_retested_at_epoch": 1588803178.093184,
+            "last_retested_at_iso": "2020-05-06T22:12:58.093184",
             "status": "INACTIVE"
         }
     }
