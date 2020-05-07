@@ -63279,6 +63279,55 @@
             "last_retested_at_epoch": 1588817222.130541,
             "last_retested_at_iso": "2020-05-07T02:07:02.130541",
             "status": "INACTIVE"
+        },
+        "varas.myftp.biz": {
+            "included_at_epoch": 1588817951.144023,
+            "included_at_iso": "2020-05-07T02:19:11.144023",
+            "last_retested_at_epoch": 1588817951.144023,
+            "last_retested_at_iso": "2020-05-07T02:19:11.144023",
+            "status": "INACTIVE"
+        },
+        "vatafapac.ru": {
+            "included_at_epoch": 1588817956.437402,
+            "included_at_iso": "2020-05-07T02:19:16.437402",
+            "last_retested_at_epoch": 1588817956.437402,
+            "last_retested_at_iso": "2020-05-07T02:19:16.437402",
+            "status": "INACTIVE"
+        },
+        "vbdrzplqtgk.com": {
+            "included_at_epoch": 1588817960.057615,
+            "included_at_iso": "2020-05-07T02:19:20.057615",
+            "last_retested_at_epoch": 1588817960.057615,
+            "last_retested_at_iso": "2020-05-07T02:19:20.057615",
+            "status": "INACTIVE"
+        },
+        "vbguaqweaif.com": {
+            "included_at_epoch": 1588817960.65033,
+            "included_at_iso": "2020-05-07T02:19:20.650330",
+            "last_retested_at_epoch": 1588817960.65033,
+            "last_retested_at_iso": "2020-05-07T02:19:20.650330",
+            "status": "INACTIVE"
+        },
+        "vbjpddtj.com": {
+            "included_at_epoch": 1588817961.552942,
+            "included_at_iso": "2020-05-07T02:19:21.552942",
+            "last_retested_at_epoch": 1588817961.552942,
+            "last_retested_at_iso": "2020-05-07T02:19:21.552942",
+            "status": "INACTIVE"
+        },
+        "vbmay16.com": {
+            "included_at_epoch": 1588817962.776426,
+            "included_at_iso": "2020-05-07T02:19:22.776426",
+            "last_retested_at_epoch": 1588817962.776426,
+            "last_retested_at_iso": "2020-05-07T02:19:22.776426",
+            "status": "INACTIVE"
+        },
+        "vbmer.com": {
+            "included_at_epoch": 1588817962.961767,
+            "included_at_iso": "2020-05-07T02:19:22.961767",
+            "last_retested_at_epoch": 1588817962.961767,
+            "last_retested_at_iso": "2020-05-07T02:19:22.961767",
+            "status": "INACTIVE"
         }
     }
 }
