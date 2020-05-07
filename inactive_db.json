@@ -62817,6 +62817,20 @@
             "last_retested_at_epoch": 1588813461.832183,
             "last_retested_at_iso": "2020-05-07T01:04:21.832183",
             "status": "INACTIVE"
+        },
+        "uplvcx.xyz": {
+            "included_at_epoch": 1588814184.447276,
+            "included_at_iso": "2020-05-07T01:16:24.447276",
+            "last_retested_at_epoch": 1588814184.447276,
+            "last_retested_at_iso": "2020-05-07T01:16:24.447276",
+            "status": "INACTIVE"
+        },
+        "upnorma.com": {
+            "included_at_epoch": 1588814184.60251,
+            "included_at_iso": "2020-05-07T01:16:24.602510",
+            "last_retested_at_epoch": 1588814184.60251,
+            "last_retested_at_iso": "2020-05-07T01:16:24.602510",
+            "status": "INACTIVE"
         }
     }
 }
