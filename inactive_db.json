@@ -70157,8 +70157,8 @@
         "ypsmko.com": {
             "included_at_epoch": 1588856331.909558,
             "included_at_iso": "2020-05-07T12:58:51.909558",
-            "last_retested_at_epoch": 1588860903.096491,
-            "last_retested_at_iso": "2020-05-07T14:15:03.096491",
+            "last_retested_at_epoch": 1588862214.940906,
+            "last_retested_at_iso": "2020-05-07T14:36:54.940906",
             "status": "INACTIVE"
         },
         "yptwqjdgikmcqc.com": {
@@ -70579,6 +70579,13 @@
             "included_at_iso": "2020-05-07T14:15:18.708326",
             "last_retested_at_epoch": 1588860918.708326,
             "last_retested_at_iso": "2020-05-07T14:15:18.708326",
+            "status": "INACTIVE"
+        },
+        "zfpsotrgboqp.com": {
+            "included_at_epoch": 1588862215.149408,
+            "included_at_iso": "2020-05-07T14:36:55.149408",
+            "last_retested_at_epoch": 1588862215.149408,
+            "last_retested_at_iso": "2020-05-07T14:36:55.149408",
             "status": "INACTIVE"
         }
     }
