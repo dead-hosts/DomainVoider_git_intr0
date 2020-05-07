@@ -62474,6 +62474,62 @@
             "last_retested_at_epoch": 1588809946.706814,
             "last_retested_at_iso": "2020-05-07T00:05:46.706814",
             "status": "INACTIVE"
+        },
+        "ujwdwwfuqcgnv.com": {
+            "included_at_epoch": 1588811206.863744,
+            "included_at_iso": "2020-05-07T00:26:46.863744",
+            "last_retested_at_epoch": 1588811206.863744,
+            "last_retested_at_iso": "2020-05-07T00:26:46.863744",
+            "status": "INACTIVE"
+        },
+        "uk-lnstagram.app": {
+            "included_at_epoch": 1588811208.514219,
+            "included_at_iso": "2020-05-07T00:26:48.514219",
+            "last_retested_at_epoch": 1588811208.514219,
+            "last_retested_at_iso": "2020-05-07T00:26:48.514219",
+            "status": "INACTIVE"
+        },
+        "uk.hmrc.returns-form.com": {
+            "included_at_epoch": 1588811208.663047,
+            "included_at_iso": "2020-05-07T00:26:48.663047",
+            "last_retested_at_epoch": 1588811208.663047,
+            "last_retested_at_iso": "2020-05-07T00:26:48.663047",
+            "status": "INACTIVE"
+        },
+        "ukatoe.com": {
+            "included_at_epoch": 1588811208.811354,
+            "included_at_iso": "2020-05-07T00:26:48.811354",
+            "last_retested_at_epoch": 1588811208.811354,
+            "last_retested_at_iso": "2020-05-07T00:26:48.811354",
+            "status": "INACTIVE"
+        },
+        "ukbet99.com": {
+            "included_at_epoch": 1588811209.679149,
+            "included_at_iso": "2020-05-07T00:26:49.679149",
+            "last_retested_at_epoch": 1588811209.679149,
+            "last_retested_at_iso": "2020-05-07T00:26:49.679149",
+            "status": "INACTIVE"
+        },
+        "ukdjbubvp.com": {
+            "included_at_epoch": 1588811210.884517,
+            "included_at_iso": "2020-05-07T00:26:50.884517",
+            "last_retested_at_epoch": 1588811210.884517,
+            "last_retested_at_iso": "2020-05-07T00:26:50.884517",
+            "status": "INACTIVE"
+        },
+        "ukjsibgu.com": {
+            "included_at_epoch": 1588811211.8107,
+            "included_at_iso": "2020-05-07T00:26:51.810700",
+            "last_retested_at_epoch": 1588811211.8107,
+            "last_retested_at_iso": "2020-05-07T00:26:51.810700",
+            "status": "INACTIVE"
+        },
+        "ukksghzwxha.com": {
+            "included_at_epoch": 1588811211.958945,
+            "included_at_iso": "2020-05-07T00:26:51.958945",
+            "last_retested_at_epoch": 1588811211.958945,
+            "last_retested_at_iso": "2020-05-07T00:26:51.958945",
+            "status": "INACTIVE"
         }
     }
 }
