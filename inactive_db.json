@@ -63230,6 +63230,55 @@
             "last_retested_at_epoch": 1588816489.772485,
             "last_retested_at_iso": "2020-05-07T01:54:49.772485",
             "status": "INACTIVE"
+        },
+        "vajiyqbb.com": {
+            "included_at_epoch": 1588817217.734728,
+            "included_at_iso": "2020-05-07T02:06:57.734728",
+            "last_retested_at_epoch": 1588817217.734728,
+            "last_retested_at_iso": "2020-05-07T02:06:57.734728",
+            "status": "INACTIVE"
+        },
+        "vake.dogestocks.com": {
+            "included_at_epoch": 1588817218.957265,
+            "included_at_iso": "2020-05-07T02:06:58.957265",
+            "last_retested_at_epoch": 1588817218.957265,
+            "last_retested_at_iso": "2020-05-07T02:06:58.957265",
+            "status": "INACTIVE"
+        },
+        "valaffiliates.com": {
+            "included_at_epoch": 1588817219.812973,
+            "included_at_iso": "2020-05-07T02:06:59.812973",
+            "last_retested_at_epoch": 1588817219.812973,
+            "last_retested_at_iso": "2020-05-07T02:06:59.812973",
+            "status": "INACTIVE"
+        },
+        "validacionbcpsegurabeta.com": {
+            "included_at_epoch": 1588817221.089717,
+            "included_at_iso": "2020-05-07T02:07:01.089717",
+            "last_retested_at_epoch": 1588817221.089717,
+            "last_retested_at_iso": "2020-05-07T02:07:01.089717",
+            "status": "INACTIVE"
+        },
+        "validation-sign-app1e.gq": {
+            "included_at_epoch": 1588817221.600483,
+            "included_at_iso": "2020-05-07T02:07:01.600483",
+            "last_retested_at_epoch": 1588817221.600483,
+            "last_retested_at_iso": "2020-05-07T02:07:01.600483",
+            "status": "INACTIVE"
+        },
+        "valkrana.xyz": {
+            "included_at_epoch": 1588817222.278599,
+            "included_at_iso": "2020-05-07T02:07:02.278599",
+            "last_retested_at_epoch": 1588817222.278599,
+            "last_retested_at_iso": "2020-05-07T02:07:02.278599",
+            "status": "INACTIVE"
+        },
+        "valopdz.net": {
+            "included_at_epoch": 1588817222.130541,
+            "included_at_iso": "2020-05-07T02:07:02.130541",
+            "last_retested_at_epoch": 1588817222.130541,
+            "last_retested_at_iso": "2020-05-07T02:07:02.130541",
+            "status": "INACTIVE"
         }
     }
 }
