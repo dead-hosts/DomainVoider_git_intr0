@@ -70157,8 +70157,8 @@
         "ypsmko.com": {
             "included_at_epoch": 1588856331.909558,
             "included_at_iso": "2020-05-07T12:58:51.909558",
-            "last_retested_at_epoch": 1588860031.567759,
-            "last_retested_at_iso": "2020-05-07T14:00:31.567759",
+            "last_retested_at_epoch": 1588860903.096491,
+            "last_retested_at_iso": "2020-05-07T14:15:03.096491",
             "status": "INACTIVE"
         },
         "yptwqjdgikmcqc.com": {
@@ -70537,6 +70537,48 @@
             "included_at_iso": "2020-05-07T14:00:44.120113",
             "last_retested_at_epoch": 1588860044.120113,
             "last_retested_at_iso": "2020-05-07T14:00:44.120113",
+            "status": "INACTIVE"
+        },
+        "zenaddevis.com": {
+            "included_at_epoch": 1588860903.66023,
+            "included_at_iso": "2020-05-07T14:15:03.660230",
+            "last_retested_at_epoch": 1588860903.66023,
+            "last_retested_at_iso": "2020-05-07T14:15:03.660230",
+            "status": "INACTIVE"
+        },
+        "zendesk-covid19.com": {
+            "included_at_epoch": 1588860904.761926,
+            "included_at_iso": "2020-05-07T14:15:04.761926",
+            "last_retested_at_epoch": 1588860904.761926,
+            "last_retested_at_iso": "2020-05-07T14:15:04.761926",
+            "status": "INACTIVE"
+        },
+        "zendesk-covid19.net": {
+            "included_at_epoch": 1588860904.594607,
+            "included_at_iso": "2020-05-07T14:15:04.594607",
+            "last_retested_at_epoch": 1588860904.594607,
+            "last_retested_at_iso": "2020-05-07T14:15:04.594607",
+            "status": "INACTIVE"
+        },
+        "zendesk-covid19.org": {
+            "included_at_epoch": 1588860905.32857,
+            "included_at_iso": "2020-05-07T14:15:05.328570",
+            "last_retested_at_epoch": 1588860905.32857,
+            "last_retested_at_iso": "2020-05-07T14:15:05.328570",
+            "status": "INACTIVE"
+        },
+        "zeroolstarnow.com": {
+            "included_at_epoch": 1588860911.481216,
+            "included_at_iso": "2020-05-07T14:15:11.481216",
+            "last_retested_at_epoch": 1588860911.481216,
+            "last_retested_at_iso": "2020-05-07T14:15:11.481216",
+            "status": "INACTIVE"
+        },
+        "zfcjtxosje.com": {
+            "included_at_epoch": 1588860918.708326,
+            "included_at_iso": "2020-05-07T14:15:18.708326",
+            "last_retested_at_epoch": 1588860918.708326,
+            "last_retested_at_iso": "2020-05-07T14:15:18.708326",
             "status": "INACTIVE"
         }
     }
