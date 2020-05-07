@@ -65029,6 +65029,76 @@
             "last_retested_at_epoch": 1588827497.353559,
             "last_retested_at_iso": "2020-05-07T04:58:17.353559",
             "status": "INACTIVE"
+        },
+        "wdfg.pro": {
+            "included_at_epoch": 1588828222.091425,
+            "included_at_iso": "2020-05-07T05:10:22.091425",
+            "last_retested_at_epoch": 1588828222.091425,
+            "last_retested_at_iso": "2020-05-07T05:10:22.091425",
+            "status": "INACTIVE"
+        },
+        "wdzeuxkfvyv.com": {
+            "included_at_epoch": 1588828224.899605,
+            "included_at_iso": "2020-05-07T05:10:24.899605",
+            "last_retested_at_epoch": 1588828224.899605,
+            "last_retested_at_iso": "2020-05-07T05:10:24.899605",
+            "status": "INACTIVE"
+        },
+        "wealth-at-home-millions.com": {
+            "included_at_epoch": 1588828226.248484,
+            "included_at_iso": "2020-05-07T05:10:26.248484",
+            "last_retested_at_epoch": 1588828226.248484,
+            "last_retested_at_iso": "2020-05-07T05:10:26.248484",
+            "status": "INACTIVE"
+        },
+        "web-bca-ncal.appl.kp.org": {
+            "included_at_epoch": 1588828228.272814,
+            "included_at_iso": "2020-05-07T05:10:28.272814",
+            "last_retested_at_epoch": 1588828228.272814,
+            "last_retested_at_iso": "2020-05-07T05:10:28.272814",
+            "status": "INACTIVE"
+        },
+        "web-centr.com": {
+            "included_at_epoch": 1588828228.867562,
+            "included_at_iso": "2020-05-07T05:10:28.867562",
+            "last_retested_at_epoch": 1588828228.867562,
+            "last_retested_at_iso": "2020-05-07T05:10:28.867562",
+            "status": "INACTIVE"
+        },
+        "web-paypa1.com": {
+            "included_at_epoch": 1588828229.870358,
+            "included_at_iso": "2020-05-07T05:10:29.870358",
+            "last_retested_at_epoch": 1588828229.870358,
+            "last_retested_at_iso": "2020-05-07T05:10:29.870358",
+            "status": "INACTIVE"
+        },
+        "web-rotation.net": {
+            "included_at_epoch": 1588828230.025356,
+            "included_at_iso": "2020-05-07T05:10:30.025356",
+            "last_retested_at_epoch": 1588828230.025356,
+            "last_retested_at_iso": "2020-05-07T05:10:30.025356",
+            "status": "INACTIVE"
+        },
+        "web.app1e-store.com-verification.uehak.com": {
+            "included_at_epoch": 1588828231.737209,
+            "included_at_iso": "2020-05-07T05:10:31.737209",
+            "last_retested_at_epoch": 1588828231.737209,
+            "last_retested_at_iso": "2020-05-07T05:10:31.737209",
+            "status": "INACTIVE"
+        },
+        "web.de.mail-ionos.club": {
+            "included_at_epoch": 1588828231.968098,
+            "included_at_iso": "2020-05-07T05:10:31.968098",
+            "last_retested_at_epoch": 1588828231.968098,
+            "last_retested_at_iso": "2020-05-07T05:10:31.968098",
+            "status": "INACTIVE"
+        },
+        "web.f8.pyco.vn": {
+            "included_at_epoch": 1588828232.160317,
+            "included_at_iso": "2020-05-07T05:10:32.160317",
+            "last_retested_at_epoch": 1588828232.160317,
+            "last_retested_at_iso": "2020-05-07T05:10:32.160317",
+            "status": "INACTIVE"
         }
     }
 }
