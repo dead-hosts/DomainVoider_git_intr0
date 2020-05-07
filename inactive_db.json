@@ -70157,8 +70157,8 @@
         "ypsmko.com": {
             "included_at_epoch": 1588856331.909558,
             "included_at_iso": "2020-05-07T12:58:51.909558",
-            "last_retested_at_epoch": 1588858708.839853,
-            "last_retested_at_iso": "2020-05-07T13:38:28.839853",
+            "last_retested_at_epoch": 1588860031.567759,
+            "last_retested_at_iso": "2020-05-07T14:00:31.567759",
             "status": "INACTIVE"
         },
         "yptwqjdgikmcqc.com": {
@@ -70495,6 +70495,48 @@
             "included_at_iso": "2020-05-07T13:38:30.215690",
             "last_retested_at_epoch": 1588858710.21569,
             "last_retested_at_iso": "2020-05-07T13:38:30.215690",
+            "status": "INACTIVE"
+        },
+        "zcltracker.com": {
+            "included_at_epoch": 1588860032.535865,
+            "included_at_iso": "2020-05-07T14:00:32.535865",
+            "last_retested_at_epoch": 1588860032.535865,
+            "last_retested_at_iso": "2020-05-07T14:00:32.535865",
+            "status": "INACTIVE"
+        },
+        "zcrfefgrg.com": {
+            "included_at_epoch": 1588860034.253825,
+            "included_at_iso": "2020-05-07T14:00:34.253825",
+            "last_retested_at_epoch": 1588860034.253825,
+            "last_retested_at_iso": "2020-05-07T14:00:34.253825",
+            "status": "INACTIVE"
+        },
+        "zdenochary.com": {
+            "included_at_epoch": 1588860035.682622,
+            "included_at_iso": "2020-05-07T14:00:35.682622",
+            "last_retested_at_epoch": 1588860035.682622,
+            "last_retested_at_iso": "2020-05-07T14:00:35.682622",
+            "status": "INACTIVE"
+        },
+        "zdorovmagazine.ru": {
+            "included_at_epoch": 1588860037.129236,
+            "included_at_iso": "2020-05-07T14:00:37.129236",
+            "last_retested_at_epoch": 1588860037.129236,
+            "last_retested_at_iso": "2020-05-07T14:00:37.129236",
+            "status": "INACTIVE"
+        },
+        "zedinfo.info": {
+            "included_at_epoch": 1588860041.228935,
+            "included_at_iso": "2020-05-07T14:00:41.228935",
+            "last_retested_at_epoch": 1588860041.228935,
+            "last_retested_at_iso": "2020-05-07T14:00:41.228935",
+            "status": "INACTIVE"
+        },
+        "zelensek.beget.tech": {
+            "included_at_epoch": 1588860044.120113,
+            "included_at_iso": "2020-05-07T14:00:44.120113",
+            "last_retested_at_epoch": 1588860044.120113,
+            "last_retested_at_iso": "2020-05-07T14:00:44.120113",
             "status": "INACTIVE"
         }
     }
