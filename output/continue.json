@@ -1,3 +1,40 @@
 {
-    "/home/travis/build/dead-hosts/DomainVoider_git_intr0/domains.list": {}
+    "/home/travis/build/dead-hosts/DomainVoider_git_intr0/domains.list": {
+        "ACTIVE": [
+            "0-undefined.messenger.com",
+            "0.messenger.com",
+            "0.twitter.com",
+            "0001safeworld0002.000webhostapp.com",
+            "0.z0o.cn",
+            "000mobility99440.com",
+            "001420990998183-dot-wetransfer-auth-file-342.appspot.com",
+            "000webhostvk.000webhostapp.com",
+            "002023325085226-dot-charming-sky-2700.appspot.com",
+            "0022a601.pphost.net",
+            "0026645142c89aeb1.com",
+            "0024aaaa.com",
+            "00324il.moonfruit.com",
+            "003d6db553fcd8ae426bf76f121e0878-dot-cloud-365-000.el.r.appspot.com",
+            "006a039c957c142bb.com",
+            "003store.com",
+            "008753331120.com",
+            "007ligneorange.weebly.com",
+            "00880808.com",
+            "008844.cc",
+            "00aaa2d81c1d174.com",
+            "00ae8b5a9c1d597.com",
+            "012469af389a1d1246d.com",
+            "00bloggers.ru",
+            "017e689c749.com",
+            "01dbf3a452b6.com",
+            "01982019.com",
+            "01fen.com"
+        ],
+        "INACTIVE": [
+            "0.whatsapp.com",
+            "000dmobilt9034.com",
+            "0133hao.net",
+            "01n2e3pac2.com"
+        ]
+    }
 }
