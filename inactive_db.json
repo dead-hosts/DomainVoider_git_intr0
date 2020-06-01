@@ -10157,6 +10157,34 @@
             "last_retested_at_iso": "2020-06-01T06:31:48.890645",
             "status": "INACTIVE"
         },
+        "ad129m.com": {
+            "included_at_epoch": 1590993830.078155,
+            "included_at_iso": "2020-06-01T06:43:50.078155",
+            "last_retested_at_epoch": 1590993830.078155,
+            "last_retested_at_iso": "2020-06-01T06:43:50.078155",
+            "status": "INACTIVE"
+        },
+        "ad2.linxcz.cz": {
+            "included_at_epoch": 1590993831.945803,
+            "included_at_iso": "2020-06-01T06:43:51.945803",
+            "last_retested_at_epoch": 1590993831.945803,
+            "last_retested_at_iso": "2020-06-01T06:43:51.945803",
+            "status": "INACTIVE"
+        },
+        "ad2web.net": {
+            "included_at_epoch": 1590993834.187433,
+            "included_at_iso": "2020-06-01T06:43:54.187433",
+            "last_retested_at_epoch": 1590993834.187433,
+            "last_retested_at_iso": "2020-06-01T06:43:54.187433",
+            "status": "INACTIVE"
+        },
+        "ad3.rambler.ru": {
+            "included_at_epoch": 1590993834.261409,
+            "included_at_iso": "2020-06-01T06:43:54.261409",
+            "last_retested_at_epoch": 1590993834.261409,
+            "last_retested_at_iso": "2020-06-01T06:43:54.261409",
+            "status": "INACTIVE"
+        },
         "offihcmnace3654.com": {
             "included_at_epoch": 1588576907.689746,
             "included_at_iso": "2020-05-04T07:21:47.689746",
@@ -16152,8 +16180,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1590993107.450629,
-            "last_retested_at_iso": "2020-06-01T06:31:47.450629",
+            "last_retested_at_epoch": 1590993828.817913,
+            "last_retested_at_iso": "2020-06-01T06:43:48.817913",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -25749,8 +25777,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1590993107.523734,
-            "last_retested_at_iso": "2020-06-01T06:31:47.523734",
+            "last_retested_at_epoch": 1590993828.89073,
+            "last_retested_at_iso": "2020-06-01T06:43:48.890730",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
