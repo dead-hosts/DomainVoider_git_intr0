@@ -11277,6 +11277,69 @@
             "last_retested_at_iso": "2020-06-01T11:49:40.103961",
             "status": "INACTIVE"
         },
+        "adserver.clashmusic.com": {
+            "included_at_epoch": 1591012891.913503,
+            "included_at_iso": "2020-06-01T12:01:31.913503",
+            "last_retested_at_epoch": 1591012891.913503,
+            "last_retested_at_iso": "2020-06-01T12:01:31.913503",
+            "status": "INACTIVE"
+        },
+        "adserver.dotcommedia.de": {
+            "included_at_epoch": 1591012892.376754,
+            "included_at_iso": "2020-06-01T12:01:32.376754",
+            "last_retested_at_epoch": 1591012892.376754,
+            "last_retested_at_iso": "2020-06-01T12:01:32.376754",
+            "status": "INACTIVE"
+        },
+        "adserver.flossiemediagroup.com": {
+            "included_at_epoch": 1591012892.449861,
+            "included_at_iso": "2020-06-01T12:01:32.449861",
+            "last_retested_at_epoch": 1591012892.449861,
+            "last_retested_at_iso": "2020-06-01T12:01:32.449861",
+            "status": "INACTIVE"
+        },
+        "adserver.freenet.de": {
+            "included_at_epoch": 1591012892.522745,
+            "included_at_iso": "2020-06-01T12:01:32.522745",
+            "last_retested_at_epoch": 1591012892.522745,
+            "last_retested_at_iso": "2020-06-01T12:01:32.522745",
+            "status": "INACTIVE"
+        },
+        "adserver.mobillex.com": {
+            "included_at_epoch": 1591012893.012239,
+            "included_at_iso": "2020-06-01T12:01:33.012239",
+            "last_retested_at_epoch": 1591012893.012239,
+            "last_retested_at_iso": "2020-06-01T12:01:33.012239",
+            "status": "INACTIVE"
+        },
+        "adserver.motorpresse.de": {
+            "included_at_epoch": 1591012893.081209,
+            "included_at_iso": "2020-06-01T12:01:33.081209",
+            "last_retested_at_epoch": 1591012893.081209,
+            "last_retested_at_iso": "2020-06-01T12:01:33.081209",
+            "status": "INACTIVE"
+        },
+        "adserver.portalofevil.com": {
+            "included_at_epoch": 1591012893.535619,
+            "included_at_iso": "2020-06-01T12:01:33.535619",
+            "last_retested_at_epoch": 1591012893.535619,
+            "last_retested_at_iso": "2020-06-01T12:01:33.535619",
+            "status": "INACTIVE"
+        },
+        "adserver.portugalmail.pt": {
+            "included_at_epoch": 1591012893.604733,
+            "included_at_iso": "2020-06-01T12:01:33.604733",
+            "last_retested_at_epoch": 1591012893.604733,
+            "last_retested_at_iso": "2020-06-01T12:01:33.604733",
+            "status": "INACTIVE"
+        },
+        "adserver.startnow.com": {
+            "included_at_epoch": 1591012893.709024,
+            "included_at_iso": "2020-06-01T12:01:33.709024",
+            "last_retested_at_epoch": 1591012893.709024,
+            "last_retested_at_iso": "2020-06-01T12:01:33.709024",
+            "status": "INACTIVE"
+        },
         "paratingexcret.info": {
             "included_at_epoch": 1588593727.754137,
             "included_at_iso": "2020-05-04T12:02:07.754137",
@@ -14969,8 +15032,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591012172.048744,
-            "last_retested_at_iso": "2020-06-01T11:49:32.048744",
+            "last_retested_at_epoch": 1591012891.808215,
+            "last_retested_at_iso": "2020-06-01T12:01:31.808215",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -24566,8 +24629,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591012172.122513,
-            "last_retested_at_iso": "2020-06-01T11:49:32.122513",
+            "last_retested_at_epoch": 1591012891.737335,
+            "last_retested_at_iso": "2020-06-01T12:01:31.737335",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
