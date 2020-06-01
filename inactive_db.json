@@ -13986,6 +13986,48 @@
             "last_retested_at_iso": "2020-06-01T18:07:54.688303",
             "status": "INACTIVE"
         },
+        "analytics-engine.net": {
+            "included_at_epoch": 1591035598.070847,
+            "included_at_iso": "2020-06-01T18:19:58.070847",
+            "last_retested_at_epoch": 1591035598.070847,
+            "last_retested_at_iso": "2020-06-01T18:19:58.070847",
+            "status": "INACTIVE"
+        },
+        "analytics.247sports.com": {
+            "included_at_epoch": 1591035598.209946,
+            "included_at_iso": "2020-06-01T18:19:58.209946",
+            "last_retested_at_epoch": 1591035598.209946,
+            "last_retested_at_iso": "2020-06-01T18:19:58.209946",
+            "status": "INACTIVE"
+        },
+        "analytics.artirix.com": {
+            "included_at_epoch": 1591035598.350556,
+            "included_at_iso": "2020-06-01T18:19:58.350556",
+            "last_retested_at_epoch": 1591035598.350556,
+            "last_retested_at_iso": "2020-06-01T18:19:58.350556",
+            "status": "INACTIVE"
+        },
+        "analytics.cervellio.com": {
+            "included_at_epoch": 1591035598.916333,
+            "included_at_iso": "2020-06-01T18:19:58.916333",
+            "last_retested_at_epoch": 1591035598.916333,
+            "last_retested_at_iso": "2020-06-01T18:19:58.916333",
+            "status": "INACTIVE"
+        },
+        "analytics.edgekey.net": {
+            "included_at_epoch": 1591035599.197657,
+            "included_at_iso": "2020-06-01T18:19:59.197657",
+            "last_retested_at_epoch": 1591035599.197657,
+            "last_retested_at_iso": "2020-06-01T18:19:59.197657",
+            "status": "INACTIVE"
+        },
+        "analytics.edgesuite.net": {
+            "included_at_epoch": 1591035599.128212,
+            "included_at_iso": "2020-06-01T18:19:59.128212",
+            "last_retested_at_epoch": 1591035599.128212,
+            "last_retested_at_iso": "2020-06-01T18:19:59.128212",
+            "status": "INACTIVE"
+        },
         "poste-it-up.blogspot.be": {
             "included_at_epoch": 1588620539.631748,
             "included_at_iso": "2020-05-04T19:28:59.631748",
@@ -14654,8 +14696,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591034861.968699,
-            "last_retested_at_iso": "2020-06-01T18:07:41.968699",
+            "last_retested_at_epoch": 1591035597.12642,
+            "last_retested_at_iso": "2020-06-01T18:19:57.126420",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -24251,8 +24293,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591034861.897493,
-            "last_retested_at_iso": "2020-06-01T18:07:41.897493",
+            "last_retested_at_epoch": 1591035597.198369,
+            "last_retested_at_iso": "2020-06-01T18:19:57.198369",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
