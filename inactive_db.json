@@ -11529,6 +11529,55 @@
             "last_retested_at_iso": "2020-06-01T13:02:47.859400",
             "status": "INACTIVE"
         },
+        "advagava.su": {
+            "included_at_epoch": 1591017284.448831,
+            "included_at_iso": "2020-06-01T13:14:44.448831",
+            "last_retested_at_epoch": 1591017284.448831,
+            "last_retested_at_iso": "2020-06-01T13:14:44.448831",
+            "status": "INACTIVE"
+        },
+        "advant.ml": {
+            "included_at_epoch": 1591017288.039113,
+            "included_at_iso": "2020-06-01T13:14:48.039113",
+            "last_retested_at_epoch": 1591017288.039113,
+            "last_retested_at_iso": "2020-06-01T13:14:48.039113",
+            "status": "INACTIVE"
+        },
+        "advantech.vo.llnwd.net": {
+            "included_at_epoch": 1591017288.489302,
+            "included_at_iso": "2020-06-01T13:14:48.489302",
+            "last_retested_at_epoch": 1591017288.489302,
+            "last_retested_at_iso": "2020-06-01T13:14:48.489302",
+            "status": "INACTIVE"
+        },
+        "advanter.ru": {
+            "included_at_epoch": 1591017288.559411,
+            "included_at_iso": "2020-06-01T13:14:48.559411",
+            "last_retested_at_epoch": 1591017288.559411,
+            "last_retested_at_iso": "2020-06-01T13:14:48.559411",
+            "status": "INACTIVE"
+        },
+        "advcache.ru": {
+            "included_at_epoch": 1591017290.948007,
+            "included_at_iso": "2020-06-01T13:14:50.948007",
+            "last_retested_at_epoch": 1591017290.948007,
+            "last_retested_at_iso": "2020-06-01T13:14:50.948007",
+            "status": "INACTIVE"
+        },
+        "advcoder.ru": {
+            "included_at_epoch": 1591017291.404699,
+            "included_at_iso": "2020-06-01T13:14:51.404699",
+            "last_retested_at_epoch": 1591017291.404699,
+            "last_retested_at_iso": "2020-06-01T13:14:51.404699",
+            "status": "INACTIVE"
+        },
+        "advelogy.ru": {
+            "included_at_epoch": 1591017292.615296,
+            "included_at_iso": "2020-06-01T13:14:52.615296",
+            "last_retested_at_epoch": 1591017292.615296,
+            "last_retested_at_iso": "2020-06-01T13:14:52.615296",
+            "status": "INACTIVE"
+        },
         "paypa1-secure-update.com": {
             "included_at_epoch": 1588598526.870343,
             "included_at_iso": "2020-05-04T13:22:06.870343",
@@ -14913,8 +14962,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591016549.561103,
-            "last_retested_at_iso": "2020-06-01T13:02:29.561103",
+            "last_retested_at_epoch": 1591017283.12415,
+            "last_retested_at_iso": "2020-06-01T13:14:43.124150",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -24510,8 +24559,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591016549.489623,
-            "last_retested_at_iso": "2020-06-01T13:02:29.489623",
+            "last_retested_at_epoch": 1591017283.195767,
+            "last_retested_at_iso": "2020-06-01T13:14:43.195767",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
