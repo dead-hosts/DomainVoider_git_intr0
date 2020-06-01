@@ -11235,18 +11235,46 @@
             "last_retested_at_iso": "2020-06-01T11:37:35.561252",
             "status": "INACTIVE"
         },
-        "papal.object-checking.top": {
-            "included_at_epoch": 1588592371.279291,
-            "included_at_iso": "2020-05-04T11:39:31.279291",
-            "last_retested_at_epoch": 1588592371.279291,
-            "last_retested_at_iso": "2020-05-04T11:39:31.279291",
+        "adselector.ru": {
+            "included_at_epoch": 1591012177.175188,
+            "included_at_iso": "2020-06-01T11:49:37.175188",
+            "last_retested_at_epoch": 1591012177.175188,
+            "last_retested_at_iso": "2020-06-01T11:49:37.175188",
             "status": "INACTIVE"
         },
-        "papal.secure-user-sepo.space": {
-            "included_at_epoch": 1588592371.15497,
-            "included_at_iso": "2020-05-04T11:39:31.154970",
-            "last_retested_at_epoch": 1588592371.15497,
-            "last_retested_at_iso": "2020-05-04T11:39:31.154970",
+        "adsellers.net": {
+            "included_at_epoch": 1591012177.105004,
+            "included_at_iso": "2020-06-01T11:49:37.105004",
+            "last_retested_at_epoch": 1591012177.105004,
+            "last_retested_at_iso": "2020-06-01T11:49:37.105004",
+            "status": "INACTIVE"
+        },
+        "adserv.evo-x.de": {
+            "included_at_epoch": 1591012179.512358,
+            "included_at_iso": "2020-06-01T11:49:39.512358",
+            "last_retested_at_epoch": 1591012179.512358,
+            "last_retested_at_iso": "2020-06-01T11:49:39.512358",
+            "status": "INACTIVE"
+        },
+        "adserv.gamezone.de": {
+            "included_at_epoch": 1591012179.582594,
+            "included_at_iso": "2020-06-01T11:49:39.582594",
+            "last_retested_at_epoch": 1591012179.582594,
+            "last_retested_at_iso": "2020-06-01T11:49:39.582594",
+            "status": "INACTIVE"
+        },
+        "adserv.iafrica.com": {
+            "included_at_epoch": 1591012179.653462,
+            "included_at_iso": "2020-06-01T11:49:39.653462",
+            "last_retested_at_epoch": 1591012179.653462,
+            "last_retested_at_iso": "2020-06-01T11:49:39.653462",
+            "status": "INACTIVE"
+        },
+        "adserv.qconline.com": {
+            "included_at_epoch": 1591012180.103961,
+            "included_at_iso": "2020-06-01T11:49:40.103961",
+            "last_retested_at_epoch": 1591012180.103961,
+            "last_retested_at_iso": "2020-06-01T11:49:40.103961",
             "status": "INACTIVE"
         },
         "paratingexcret.info": {
@@ -14941,8 +14969,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591011443.692894,
-            "last_retested_at_iso": "2020-06-01T11:37:23.692894",
+            "last_retested_at_epoch": 1591012172.048744,
+            "last_retested_at_iso": "2020-06-01T11:49:32.048744",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -24538,8 +24566,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591011443.766213,
-            "last_retested_at_iso": "2020-06-01T11:37:23.766213",
+            "last_retested_at_epoch": 1591012172.122513,
+            "last_retested_at_iso": "2020-06-01T11:49:32.122513",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
