@@ -11851,11 +11851,102 @@
             "last_retested_at_iso": "2020-06-01T14:16:26.055262",
             "status": "INACTIVE"
         },
-        "paypal.account-limited-support.com": {
-            "included_at_epoch": 1588601651.362675,
-            "included_at_iso": "2020-05-04T14:14:11.362675",
-            "last_retested_at_epoch": 1588601651.362675,
-            "last_retested_at_iso": "2020-05-04T14:14:11.362675",
+        "affiliateserver.hangikredi.com": {
+            "included_at_epoch": 1591021705.263313,
+            "included_at_iso": "2020-06-01T14:28:25.263313",
+            "last_retested_at_epoch": 1591021705.263313,
+            "last_retested_at_iso": "2020-06-01T14:28:25.263313",
+            "status": "INACTIVE"
+        },
+        "affiliatetrackingsetup.com": {
+            "included_at_epoch": 1591021705.693327,
+            "included_at_iso": "2020-06-01T14:28:25.693327",
+            "last_retested_at_epoch": 1591021705.693327,
+            "last_retested_at_iso": "2020-06-01T14:28:25.693327",
+            "status": "INACTIVE"
+        },
+        "affilijack.luminea.de": {
+            "included_at_epoch": 1591021709.359587,
+            "included_at_iso": "2020-06-01T14:28:29.359587",
+            "last_retested_at_epoch": 1591021709.359587,
+            "last_retested_at_iso": "2020-06-01T14:28:29.359587",
+            "status": "INACTIVE"
+        },
+        "affimax.de": {
+            "included_at_epoch": 1591021711.954898,
+            "included_at_iso": "2020-06-01T14:28:31.954898",
+            "last_retested_at_epoch": 1591021711.954898,
+            "last_retested_at_iso": "2020-06-01T14:28:31.954898",
+            "status": "INACTIVE"
+        },
+        "afflow.18-plus.net": {
+            "included_at_epoch": 1591021714.874114,
+            "included_at_iso": "2020-06-01T14:28:34.874114",
+            "last_retested_at_epoch": 1591021714.874114,
+            "last_retested_at_iso": "2020-06-01T14:28:34.874114",
+            "status": "INACTIVE"
+        },
+        "afgbvhocfvpm.com": {
+            "included_at_epoch": 1591021717.447775,
+            "included_at_iso": "2020-06-01T14:28:37.447775",
+            "last_retested_at_epoch": 1591021717.447775,
+            "last_retested_at_iso": "2020-06-01T14:28:37.447775",
+            "status": "INACTIVE"
+        },
+        "afgmyvid.com": {
+            "included_at_epoch": 1591021718.227488,
+            "included_at_iso": "2020-06-01T14:28:38.227488",
+            "last_retested_at_epoch": 1591021718.227488,
+            "last_retested_at_iso": "2020-06-01T14:28:38.227488",
+            "status": "INACTIVE"
+        },
+        "afl-cda-qa-nc.appl.kp.org": {
+            "included_at_epoch": 1591021723.324732,
+            "included_at_iso": "2020-06-01T14:28:43.324732",
+            "last_retested_at_epoch": 1591021723.324732,
+            "last_retested_at_iso": "2020-06-01T14:28:43.324732",
+            "status": "INACTIVE"
+        },
+        "afl-cda-qa-sc.appl.kp.org": {
+            "included_at_epoch": 1591021723.393324,
+            "included_at_iso": "2020-06-01T14:28:43.393324",
+            "last_retested_at_epoch": 1591021723.393324,
+            "last_retested_at_iso": "2020-06-01T14:28:43.393324",
+            "status": "INACTIVE"
+        },
+        "afminer.com": {
+            "included_at_epoch": 1591021724.182759,
+            "included_at_iso": "2020-06-01T14:28:44.182759",
+            "last_retested_at_epoch": 1591021724.182759,
+            "last_retested_at_iso": "2020-06-01T14:28:44.182759",
+            "status": "INACTIVE"
+        },
+        "afoux.com": {
+            "included_at_epoch": 1591021724.599117,
+            "included_at_iso": "2020-06-01T14:28:44.599117",
+            "last_retested_at_epoch": 1591021724.599117,
+            "last_retested_at_iso": "2020-06-01T14:28:44.599117",
+            "status": "INACTIVE"
+        },
+        "afp.chinanews.com": {
+            "included_at_epoch": 1591021725.027491,
+            "included_at_iso": "2020-06-01T14:28:45.027491",
+            "last_retested_at_epoch": 1591021725.027491,
+            "last_retested_at_iso": "2020-06-01T14:28:45.027491",
+            "status": "INACTIVE"
+        },
+        "afp.wasu.cn": {
+            "included_at_epoch": 1591021725.097053,
+            "included_at_iso": "2020-06-01T14:28:45.097053",
+            "last_retested_at_epoch": 1591021725.097053,
+            "last_retested_at_iso": "2020-06-01T14:28:45.097053",
+            "status": "INACTIVE"
+        },
+        "afpcreative.wasu.cn": {
+            "included_at_epoch": 1591021725.512232,
+            "included_at_iso": "2020-06-01T14:28:45.512232",
+            "last_retested_at_epoch": 1591021725.512232,
+            "last_retested_at_iso": "2020-06-01T14:28:45.512232",
             "status": "INACTIVE"
         },
         "paypal.billing-support-login.com": {
@@ -14563,8 +14654,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591020967.796672,
-            "last_retested_at_iso": "2020-06-01T14:16:07.796672",
+            "last_retested_at_epoch": 1591021704.371238,
+            "last_retested_at_iso": "2020-06-01T14:28:24.371238",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -24160,8 +24251,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591020967.726418,
-            "last_retested_at_iso": "2020-06-01T14:16:07.726418",
+            "last_retested_at_epoch": 1591021704.442271,
+            "last_retested_at_iso": "2020-06-01T14:28:24.442271",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
