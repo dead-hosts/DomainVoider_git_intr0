@@ -13531,6 +13531,69 @@
             "last_retested_at_iso": "2020-06-01T17:07:08.464467",
             "status": "INACTIVE"
         },
+        "amazon.co.jp.ngfg2fs3r.icu": {
+            "included_at_epoch": 1591031959.317316,
+            "included_at_iso": "2020-06-01T17:19:19.317316",
+            "last_retested_at_epoch": 1591031959.317316,
+            "last_retested_at_iso": "2020-06-01T17:19:19.317316",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.nhfb2vsf.monster": {
+            "included_at_epoch": 1591031959.394432,
+            "included_at_iso": "2020-06-01T17:19:19.394432",
+            "last_retested_at_epoch": 1591031959.394432,
+            "last_retested_at_iso": "2020-06-01T17:19:19.394432",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.s45s21dngsw1w2gg.monster": {
+            "included_at_epoch": 1591031959.464456,
+            "included_at_iso": "2020-06-01T17:19:19.464456",
+            "last_retested_at_epoch": 1591031959.464456,
+            "last_retested_at_iso": "2020-06-01T17:19:19.464456",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.xmse8rhnt61jkaqnm2kpw.info": {
+            "included_at_epoch": 1591031959.59986,
+            "included_at_iso": "2020-06-01T17:19:19.599860",
+            "last_retested_at_epoch": 1591031959.59986,
+            "last_retested_at_iso": "2020-06-01T17:19:19.599860",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.zamo.shop": {
+            "included_at_epoch": 1591031959.70543,
+            "included_at_iso": "2020-06-01T17:19:19.705430",
+            "last_retested_at_epoch": 1591031959.70543,
+            "last_retested_at_iso": "2020-06-01T17:19:19.705430",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.zenkevvichsudisslav.tokyo": {
+            "included_at_epoch": 1591031959.781723,
+            "included_at_iso": "2020-06-01T17:19:19.781723",
+            "last_retested_at_epoch": 1591031959.781723,
+            "last_retested_at_iso": "2020-06-01T17:19:19.781723",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.zoam.shop": {
+            "included_at_epoch": 1591031959.858023,
+            "included_at_iso": "2020-06-01T17:19:19.858023",
+            "last_retested_at_epoch": 1591031959.858023,
+            "last_retested_at_iso": "2020-06-01T17:19:19.858023",
+            "status": "INACTIVE"
+        },
+        "amazon.co.jp.zoan.shop": {
+            "included_at_epoch": 1591031959.927844,
+            "included_at_iso": "2020-06-01T17:19:19.927844",
+            "last_retested_at_epoch": 1591031959.927844,
+            "last_retested_at_iso": "2020-06-01T17:19:19.927844",
+            "status": "INACTIVE"
+        },
+        "amazon.co.uk.0psp.ru": {
+            "included_at_epoch": 1591031960.004615,
+            "included_at_iso": "2020-06-01T17:19:20.004615",
+            "last_retested_at_epoch": 1591031960.004615,
+            "last_retested_at_iso": "2020-06-01T17:19:20.004615",
+            "status": "INACTIVE"
+        },
         "poste-it-up.blogspot.be": {
             "included_at_epoch": 1588620539.631748,
             "included_at_iso": "2020-05-04T19:28:59.631748",
@@ -14199,8 +14262,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591031226.962509,
-            "last_retested_at_iso": "2020-06-01T17:07:06.962509",
+            "last_retested_at_epoch": 1591031959.160993,
+            "last_retested_at_iso": "2020-06-01T17:19:19.160993",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -23796,8 +23859,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591031226.892758,
-            "last_retested_at_iso": "2020-06-01T17:07:06.892758",
+            "last_retested_at_epoch": 1591031959.233149,
+            "last_retested_at_iso": "2020-06-01T17:19:19.233149",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
