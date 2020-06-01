@@ -10017,144 +10017,18 @@
             "last_retested_at_iso": "2020-06-01T05:53:21.544926",
             "status": "INACTIVE"
         },
-        "obmokhi.info": {
-            "included_at_epoch": 1588571034.52443,
-            "included_at_iso": "2020-05-04T05:43:54.524430",
-            "last_retested_at_epoch": 1588571034.52443,
-            "last_retested_at_iso": "2020-05-04T05:43:54.524430",
+        "ad.mainichi.jp": {
+            "included_at_epoch": 1590991630.206462,
+            "included_at_iso": "2020-06-01T06:07:10.206462",
+            "last_retested_at_epoch": 1590991630.206462,
+            "last_retested_at_iso": "2020-06-01T06:07:10.206462",
             "status": "INACTIVE"
         },
-        "obodwgqr.bid": {
-            "included_at_epoch": 1588571034.926287,
-            "included_at_iso": "2020-05-04T05:43:54.926287",
-            "last_retested_at_epoch": 1588571034.926287,
-            "last_retested_at_iso": "2020-05-04T05:43:54.926287",
-            "status": "INACTIVE"
-        },
-        "obovsemonline.ru": {
-            "included_at_epoch": 1588571035.310328,
-            "included_at_iso": "2020-05-04T05:43:55.310328",
-            "last_retested_at_epoch": 1588571035.310328,
-            "last_retested_at_iso": "2020-05-04T05:43:55.310328",
-            "status": "INACTIVE"
-        },
-        "obpzuctfozram.com": {
-            "included_at_epoch": 1588571035.419189,
-            "included_at_iso": "2020-05-04T05:43:55.419189",
-            "last_retested_at_epoch": 1588571035.419189,
-            "last_retested_at_iso": "2020-05-04T05:43:55.419189",
-            "status": "INACTIVE"
-        },
-        "obqtccxcfjmd.com": {
-            "included_at_epoch": 1588571035.527072,
-            "included_at_iso": "2020-05-04T05:43:55.527072",
-            "last_retested_at_epoch": 1588571035.527072,
-            "last_retested_at_iso": "2020-05-04T05:43:55.527072",
-            "status": "INACTIVE"
-        },
-        "obthqxbm.com": {
-            "included_at_epoch": 1588571036.533462,
-            "included_at_iso": "2020-05-04T05:43:56.533462",
-            "last_retested_at_epoch": 1588571036.533462,
-            "last_retested_at_iso": "2020-05-04T05:43:56.533462",
-            "status": "INACTIVE"
-        },
-        "obwvmzdb.com": {
-            "included_at_epoch": 1588571037.203874,
-            "included_at_iso": "2020-05-04T05:43:57.203874",
-            "last_retested_at_epoch": 1588571037.203874,
-            "last_retested_at_iso": "2020-05-04T05:43:57.203874",
-            "status": "INACTIVE"
-        },
-        "obxffuwanefrr.bid": {
-            "included_at_epoch": 1588571037.312376,
-            "included_at_iso": "2020-05-04T05:43:57.312376",
-            "last_retested_at_epoch": 1588571037.312376,
-            "last_retested_at_iso": "2020-05-04T05:43:57.312376",
-            "status": "INACTIVE"
-        },
-        "obynjduwh.bid": {
-            "included_at_epoch": 1588571037.421236,
-            "included_at_iso": "2020-05-04T05:43:57.421236",
-            "last_retested_at_epoch": 1588571037.421236,
-            "last_retested_at_iso": "2020-05-04T05:43:57.421236",
-            "status": "INACTIVE"
-        },
-        "obzatop.info": {
-            "included_at_epoch": 1588571037.805034,
-            "included_at_iso": "2020-05-04T05:43:57.805034",
-            "last_retested_at_epoch": 1588571037.805034,
-            "last_retested_at_iso": "2020-05-04T05:43:57.805034",
-            "status": "INACTIVE"
-        },
-        "ocatdog.live": {
-            "included_at_epoch": 1588571037.944315,
-            "included_at_iso": "2020-05-04T05:43:57.944315",
-            "last_retested_at_epoch": 1588571037.944315,
-            "last_retested_at_iso": "2020-05-04T05:43:57.944315",
-            "status": "INACTIVE"
-        },
-        "ocfsmefzzarkmo.com": {
-            "included_at_epoch": 1588571041.706485,
-            "included_at_iso": "2020-05-04T05:44:01.706485",
-            "last_retested_at_epoch": 1588571041.706485,
-            "last_retested_at_iso": "2020-05-04T05:44:01.706485",
-            "status": "INACTIVE"
-        },
-        "och.nvshengjie.cn": {
-            "included_at_epoch": 1588571042.086718,
-            "included_at_iso": "2020-05-04T05:44:02.086718",
-            "last_retested_at_epoch": 1588571042.086718,
-            "last_retested_at_iso": "2020-05-04T05:44:02.086718",
-            "status": "INACTIVE"
-        },
-        "ochko.biz": {
-            "included_at_epoch": 1588571042.195332,
-            "included_at_iso": "2020-05-04T05:44:02.195332",
-            "last_retested_at_epoch": 1588571042.195332,
-            "last_retested_at_iso": "2020-05-04T05:44:02.195332",
-            "status": "INACTIVE"
-        },
-        "ocipbbphfszy.com": {
-            "included_at_epoch": 1588571042.30493,
-            "included_at_iso": "2020-05-04T05:44:02.304930",
-            "last_retested_at_epoch": 1588571042.30493,
-            "last_retested_at_iso": "2020-05-04T05:44:02.304930",
-            "status": "INACTIVE"
-        },
-        "ocixtsnyxxvyaw.com": {
-            "included_at_epoch": 1588571042.413379,
-            "included_at_iso": "2020-05-04T05:44:02.413379",
-            "last_retested_at_epoch": 1588571042.413379,
-            "last_retested_at_iso": "2020-05-04T05:44:02.413379",
-            "status": "INACTIVE"
-        },
-        "ockorrytznnq.bid": {
-            "included_at_epoch": 1588571042.551659,
-            "included_at_iso": "2020-05-04T05:44:02.551659",
-            "last_retested_at_epoch": 1588571042.551659,
-            "last_retested_at_iso": "2020-05-04T05:44:02.551659",
-            "status": "INACTIVE"
-        },
-        "ockrsolo.bid": {
-            "included_at_epoch": 1588571042.660607,
-            "included_at_iso": "2020-05-04T05:44:02.660607",
-            "last_retested_at_epoch": 1588571042.660607,
-            "last_retested_at_iso": "2020-05-04T05:44:02.660607",
-            "status": "INACTIVE"
-        },
-        "ocmvmmwctmto.bid": {
-            "included_at_epoch": 1588571043.647636,
-            "included_at_iso": "2020-05-04T05:44:03.647636",
-            "last_retested_at_epoch": 1588571043.647636,
-            "last_retested_at_iso": "2020-05-04T05:44:03.647636",
-            "status": "INACTIVE"
-        },
-        "ocofiyymgfyxx.bid": {
-            "included_at_epoch": 1588571044.038356,
-            "included_at_iso": "2020-05-04T05:44:04.038356",
-            "last_retested_at_epoch": 1588571044.038356,
-            "last_retested_at_iso": "2020-05-04T05:44:04.038356",
+        "ad.oret.jp": {
+            "included_at_epoch": 1590991630.352432,
+            "included_at_iso": "2020-06-01T06:07:10.352432",
+            "last_retested_at_epoch": 1590991630.352432,
+            "last_retested_at_iso": "2020-06-01T06:07:10.352432",
             "status": "INACTIVE"
         },
         "ocrwyhamhfpfc.com": {
@@ -16411,8 +16285,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1590990801.321686,
-            "last_retested_at_iso": "2020-06-01T05:53:21.321686",
+            "last_retested_at_epoch": 1590991630.13463,
+            "last_retested_at_iso": "2020-06-01T06:07:10.134630",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -26008,8 +25882,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1590990801.248404,
-            "last_retested_at_iso": "2020-06-01T05:53:21.248404",
+            "last_retested_at_epoch": 1590991630.060828,
+            "last_retested_at_iso": "2020-06-01T06:07:10.060828",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
