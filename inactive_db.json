@@ -16835,11 +16835,95 @@
             "last_retested_at_iso": "2020-06-01T21:42:06.044369",
             "status": "INACTIVE"
         },
+        "apple-myfind.com": {
+            "included_at_epoch": 1591049482.453354,
+            "included_at_iso": "2020-06-01T22:11:22.453354",
+            "last_retested_at_epoch": 1591049482.453354,
+            "last_retested_at_iso": "2020-06-01T22:11:22.453354",
+            "status": "INACTIVE"
+        },
+        "apple-protectiion.tk": {
+            "included_at_epoch": 1591049482.941309,
+            "included_at_iso": "2020-06-01T22:11:22.941309",
+            "last_retested_at_epoch": 1591049482.941309,
+            "last_retested_at_iso": "2020-06-01T22:11:22.941309",
+            "status": "INACTIVE"
+        },
+        "apple-protecttion.tk": {
+            "included_at_epoch": 1591049483.017119,
+            "included_at_iso": "2020-06-01T22:11:23.017119",
+            "last_retested_at_epoch": 1591049483.017119,
+            "last_retested_at_iso": "2020-06-01T22:11:23.017119",
+            "status": "INACTIVE"
+        },
+        "apple-purchasereply.packliks.com": {
+            "included_at_epoch": 1591049483.100679,
+            "included_at_iso": "2020-06-01T22:11:23.100679",
+            "last_retested_at_epoch": 1591049483.100679,
+            "last_retested_at_iso": "2020-06-01T22:11:23.100679",
+            "status": "INACTIVE"
+        },
+        "apple-secuirtty.tk": {
+            "included_at_epoch": 1591049483.174481,
+            "included_at_iso": "2020-06-01T22:11:23.174481",
+            "last_retested_at_epoch": 1591049483.174481,
+            "last_retested_at_iso": "2020-06-01T22:11:23.174481",
+            "status": "INACTIVE"
+        },
+        "apple-support.lforgot-br.in": {
+            "included_at_epoch": 1591049484.024517,
+            "included_at_iso": "2020-06-01T22:11:24.024517",
+            "last_retested_at_epoch": 1591049484.024517,
+            "last_retested_at_iso": "2020-06-01T22:11:24.024517",
+            "status": "INACTIVE"
+        },
+        "apple-support.lnfo-busca.in": {
+            "included_at_epoch": 1591049484.178975,
+            "included_at_iso": "2020-06-01T22:11:24.178975",
+            "last_retested_at_epoch": 1591049484.178975,
+            "last_retested_at_iso": "2020-06-01T22:11:24.178975",
+            "status": "INACTIVE"
+        },
+        "apple-trusted.com": {
+            "included_at_epoch": 1591049484.10571,
+            "included_at_iso": "2020-06-01T22:11:24.105710",
+            "last_retested_at_epoch": 1591049484.10571,
+            "last_retested_at_iso": "2020-06-01T22:11:24.105710",
+            "status": "INACTIVE"
+        },
+        "apple-verification.servecounterstrike.com": {
+            "included_at_epoch": 1591049484.258874,
+            "included_at_iso": "2020-06-01T22:11:24.258874",
+            "last_retested_at_epoch": 1591049484.258874,
+            "last_retested_at_iso": "2020-06-01T22:11:24.258874",
+            "status": "INACTIVE"
+        },
+        "apple-verifying.com": {
+            "included_at_epoch": 1591049484.347239,
+            "included_at_iso": "2020-06-01T22:11:24.347239",
+            "last_retested_at_epoch": 1591049484.347239,
+            "last_retested_at_iso": "2020-06-01T22:11:24.347239",
+            "status": "INACTIVE"
+        },
+        "apple.5f7i9.cn": {
+            "included_at_epoch": 1591049484.436732,
+            "included_at_iso": "2020-06-01T22:11:24.436732",
+            "last_retested_at_epoch": 1591049484.436732,
+            "last_retested_at_iso": "2020-06-01T22:11:24.436732",
+            "status": "INACTIVE"
+        },
+        "apple.abctriple.com": {
+            "included_at_epoch": 1591049484.52029,
+            "included_at_iso": "2020-06-01T22:11:24.520290",
+            "last_retested_at_epoch": 1591049484.52029,
+            "last_retested_at_iso": "2020-06-01T22:11:24.520290",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591047721.246291,
-            "last_retested_at_iso": "2020-06-01T21:42:01.246291",
+            "last_retested_at_epoch": 1591049482.300481,
+            "last_retested_at_iso": "2020-06-01T22:11:22.300481",
             "status": "INACTIVE"
         },
         "punfbtrcvfdxl.com": {
@@ -26127,8 +26211,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591047721.325934,
-            "last_retested_at_iso": "2020-06-01T21:42:01.325934",
+            "last_retested_at_epoch": 1591049482.376983,
+            "last_retested_at_iso": "2020-06-01T22:11:22.376983",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
