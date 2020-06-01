@@ -11424,6 +11424,48 @@
             "last_retested_at_iso": "2020-06-01T12:25:54.352490",
             "status": "INACTIVE"
         },
+        "adsmwt.com": {
+            "included_at_epoch": 1591015071.573654,
+            "included_at_iso": "2020-06-01T12:37:51.573654",
+            "last_retested_at_epoch": 1591015071.573654,
+            "last_retested_at_iso": "2020-06-01T12:37:51.573654",
+            "status": "INACTIVE"
+        },
+        "adspread.net": {
+            "included_at_epoch": 1591015080.103785,
+            "included_at_iso": "2020-06-01T12:38:00.103785",
+            "last_retested_at_epoch": 1591015080.103785,
+            "last_retested_at_iso": "2020-06-01T12:38:00.103785",
+            "status": "INACTIVE"
+        },
+        "adsremote.scrippsnetworks.com": {
+            "included_at_epoch": 1591015081.264796,
+            "included_at_iso": "2020-06-01T12:38:01.264796",
+            "last_retested_at_epoch": 1591015081.264796,
+            "last_retested_at_iso": "2020-06-01T12:38:01.264796",
+            "status": "INACTIVE"
+        },
+        "adsrv.eacdn.com": {
+            "included_at_epoch": 1591015082.434239,
+            "included_at_iso": "2020-06-01T12:38:02.434239",
+            "last_retested_at_epoch": 1591015082.434239,
+            "last_retested_at_iso": "2020-06-01T12:38:02.434239",
+            "status": "INACTIVE"
+        },
+        "adsrvgateway.com": {
+            "included_at_epoch": 1591015083.596856,
+            "included_at_iso": "2020-06-01T12:38:03.596856",
+            "last_retested_at_epoch": 1591015083.596856,
+            "last_retested_at_iso": "2020-06-01T12:38:03.596856",
+            "status": "INACTIVE"
+        },
+        "adstatic.ameba.jp": {
+            "included_at_epoch": 1591015089.398955,
+            "included_at_iso": "2020-06-01T12:38:09.398955",
+            "last_retested_at_epoch": 1591015089.398955,
+            "last_retested_at_iso": "2020-06-01T12:38:09.398955",
+            "status": "INACTIVE"
+        },
         "paypa1-secure-update.com": {
             "included_at_epoch": 1588598526.870343,
             "included_at_iso": "2020-05-04T13:22:06.870343",
@@ -14808,8 +14850,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591014340.843856,
-            "last_retested_at_iso": "2020-06-01T12:25:40.843856",
+            "last_retested_at_epoch": 1591015071.053855,
+            "last_retested_at_iso": "2020-06-01T12:37:51.053855",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -24405,8 +24447,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591014340.772196,
-            "last_retested_at_iso": "2020-06-01T12:25:40.772196",
+            "last_retested_at_epoch": 1591015071.124517,
+            "last_retested_at_iso": "2020-06-01T12:37:51.124517",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
