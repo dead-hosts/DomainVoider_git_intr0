@@ -13860,6 +13860,132 @@
             "last_retested_at_iso": "2020-06-01T17:55:43.478025",
             "status": "INACTIVE"
         },
+        "ams.fx678.com": {
+            "included_at_epoch": 1591034864.298492,
+            "included_at_iso": "2020-06-01T18:07:44.298492",
+            "last_retested_at_epoch": 1591034864.298492,
+            "last_retested_at_iso": "2020-06-01T18:07:44.298492",
+            "status": "INACTIVE"
+        },
+        "ams4-cerb-gc.com": {
+            "included_at_epoch": 1591034864.230028,
+            "included_at_iso": "2020-06-01T18:07:44.230028",
+            "last_retested_at_epoch": 1591034864.230028,
+            "last_retested_at_iso": "2020-06-01T18:07:44.230028",
+            "status": "INACTIVE"
+        },
+        "amz-europe-sellercentral-eu.uk-business-tld2.pro": {
+            "included_at_epoch": 1591034866.917103,
+            "included_at_iso": "2020-06-01T18:07:46.917103",
+            "last_retested_at_epoch": 1591034866.917103,
+            "last_retested_at_iso": "2020-06-01T18:07:46.917103",
+            "status": "INACTIVE"
+        },
+        "amz-europe-sellercentral.eu-services-dk0.online": {
+            "included_at_epoch": 1591034867.422194,
+            "included_at_iso": "2020-06-01T18:07:47.422194",
+            "last_retested_at_epoch": 1591034867.422194,
+            "last_retested_at_iso": "2020-06-01T18:07:47.422194",
+            "status": "INACTIVE"
+        },
+        "amz-sellercentral-europe.eu-services-otp.pro": {
+            "included_at_epoch": 1591034867.352985,
+            "included_at_iso": "2020-06-01T18:07:47.352985",
+            "last_retested_at_epoch": 1591034867.352985,
+            "last_retested_at_iso": "2020-06-01T18:07:47.352985",
+            "status": "INACTIVE"
+        },
+        "amz-sellercentral-europe.eu-services-otp.pw": {
+            "included_at_epoch": 1591034867.490393,
+            "included_at_iso": "2020-06-01T18:07:47.490393",
+            "last_retested_at_epoch": 1591034867.490393,
+            "last_retested_at_iso": "2020-06-01T18:07:47.490393",
+            "status": "INACTIVE"
+        },
+        "amzoncustverify.3utilities.com": {
+            "included_at_epoch": 1591034869.03577,
+            "included_at_iso": "2020-06-01T18:07:49.035770",
+            "last_retested_at_epoch": 1591034869.03577,
+            "last_retested_at_iso": "2020-06-01T18:07:49.035770",
+            "status": "INACTIVE"
+        },
+        "amzoneid54620-jp.com": {
+            "included_at_epoch": 1591034869.104295,
+            "included_at_iso": "2020-06-01T18:07:49.104295",
+            "last_retested_at_epoch": 1591034869.104295,
+            "last_retested_at_iso": "2020-06-01T18:07:49.104295",
+            "status": "INACTIVE"
+        },
+        "amzosuotem.com": {
+            "included_at_epoch": 1591034869.533834,
+            "included_at_iso": "2020-06-01T18:07:49.533834",
+            "last_retested_at_epoch": 1591034869.533834,
+            "last_retested_at_iso": "2020-06-01T18:07:49.533834",
+            "status": "INACTIVE"
+        },
+        "an.mainichi.jp": {
+            "included_at_epoch": 1591034869.622057,
+            "included_at_iso": "2020-06-01T18:07:49.622057",
+            "last_retested_at_epoch": 1591034869.622057,
+            "last_retested_at_iso": "2020-06-01T18:07:49.622057",
+            "status": "INACTIVE"
+        },
+        "anaksmanewgrup-wa.kha20.tk": {
+            "included_at_epoch": 1591034870.526125,
+            "included_at_iso": "2020-06-01T18:07:50.526125",
+            "last_retested_at_epoch": 1591034870.526125,
+            "last_retested_at_iso": "2020-06-01T18:07:50.526125",
+            "status": "INACTIVE"
+        },
+        "anaksmpviral.gruphot.com": {
+            "included_at_epoch": 1591034870.457688,
+            "included_at_iso": "2020-06-01T18:07:50.457688",
+            "last_retested_at_epoch": 1591034870.457688,
+            "last_retested_at_iso": "2020-06-01T18:07:50.457688",
+            "status": "INACTIVE"
+        },
+        "analiticwebexperience.com": {
+            "included_at_epoch": 1591034871.344365,
+            "included_at_iso": "2020-06-01T18:07:51.344365",
+            "last_retested_at_epoch": 1591034871.344365,
+            "last_retested_at_iso": "2020-06-01T18:07:51.344365",
+            "status": "INACTIVE"
+        },
+        "analizcinizfb.com": {
+            "included_at_epoch": 1591034871.788212,
+            "included_at_iso": "2020-06-01T18:07:51.788212",
+            "last_retested_at_epoch": 1591034871.788212,
+            "last_retested_at_iso": "2020-06-01T18:07:51.788212",
+            "status": "INACTIVE"
+        },
+        "analysis.focalprice.com": {
+            "included_at_epoch": 1591034872.608839,
+            "included_at_iso": "2020-06-01T18:07:52.608839",
+            "last_retested_at_epoch": 1591034872.608839,
+            "last_retested_at_iso": "2020-06-01T18:07:52.608839",
+            "status": "INACTIVE"
+        },
+        "analytic.pho.fm": {
+            "included_at_epoch": 1591034873.863568,
+            "included_at_iso": "2020-06-01T18:07:53.863568",
+            "last_retested_at_epoch": 1591034873.863568,
+            "last_retested_at_iso": "2020-06-01T18:07:53.863568",
+            "status": "INACTIVE"
+        },
+        "analytic.piri.net": {
+            "included_at_epoch": 1591034873.79447,
+            "included_at_iso": "2020-06-01T18:07:53.794470",
+            "last_retested_at_epoch": 1591034873.79447,
+            "last_retested_at_iso": "2020-06-01T18:07:53.794470",
+            "status": "INACTIVE"
+        },
+        "analyticapi.piri.net": {
+            "included_at_epoch": 1591034874.688303,
+            "included_at_iso": "2020-06-01T18:07:54.688303",
+            "last_retested_at_epoch": 1591034874.688303,
+            "last_retested_at_iso": "2020-06-01T18:07:54.688303",
+            "status": "INACTIVE"
+        },
         "poste-it-up.blogspot.be": {
             "included_at_epoch": 1588620539.631748,
             "included_at_iso": "2020-05-04T19:28:59.631748",
@@ -14528,8 +14654,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591034128.367616,
-            "last_retested_at_iso": "2020-06-01T17:55:28.367616",
+            "last_retested_at_epoch": 1591034861.968699,
+            "last_retested_at_iso": "2020-06-01T18:07:41.968699",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -24125,8 +24251,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591034128.295865,
-            "last_retested_at_iso": "2020-06-01T17:55:28.295865",
+            "last_retested_at_epoch": 1591034861.897493,
+            "last_retested_at_iso": "2020-06-01T18:07:41.897493",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
