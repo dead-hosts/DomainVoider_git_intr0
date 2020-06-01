@@ -10185,6 +10185,41 @@
             "last_retested_at_iso": "2020-06-01T06:43:54.261409",
             "status": "INACTIVE"
         },
+        "adavz.xyz": {
+            "included_at_epoch": 1590994565.707163,
+            "included_at_iso": "2020-06-01T06:56:05.707163",
+            "last_retested_at_epoch": 1590994565.707163,
+            "last_retested_at_iso": "2020-06-01T06:56:05.707163",
+            "status": "INACTIVE"
+        },
+        "adb.nikkei.co.jp": {
+            "included_at_epoch": 1590994566.141772,
+            "included_at_iso": "2020-06-01T06:56:06.141772",
+            "last_retested_at_epoch": 1590994566.141772,
+            "last_retested_at_iso": "2020-06-01T06:56:06.141772",
+            "status": "INACTIVE"
+        },
+        "adback.tango.me": {
+            "included_at_epoch": 1590994566.212677,
+            "included_at_iso": "2020-06-01T06:56:06.212677",
+            "last_retested_at_epoch": 1590994566.212677,
+            "last_retested_at_iso": "2020-06-01T06:56:06.212677",
+            "status": "INACTIVE"
+        },
+        "adbana.adultcity.tv": {
+            "included_at_epoch": 1590994566.287174,
+            "included_at_iso": "2020-06-01T06:56:06.287174",
+            "last_retested_at_epoch": 1590994566.287174,
+            "last_retested_at_iso": "2020-06-01T06:56:06.287174",
+            "status": "INACTIVE"
+        },
+        "adbart.ru": {
+            "included_at_epoch": 1590994567.078768,
+            "included_at_iso": "2020-06-01T06:56:07.078768",
+            "last_retested_at_epoch": 1590994567.078768,
+            "last_retested_at_iso": "2020-06-01T06:56:07.078768",
+            "status": "INACTIVE"
+        },
         "offihcmnace3654.com": {
             "included_at_epoch": 1588576907.689746,
             "included_at_iso": "2020-05-04T07:21:47.689746",
@@ -16180,8 +16215,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1590993828.817913,
-            "last_retested_at_iso": "2020-06-01T06:43:48.817913",
+            "last_retested_at_epoch": 1590994550.340696,
+            "last_retested_at_iso": "2020-06-01T06:55:50.340696",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -25777,8 +25812,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1590993828.89073,
-            "last_retested_at_iso": "2020-06-01T06:43:48.890730",
+            "last_retested_at_epoch": 1590994550.267716,
+            "last_retested_at_iso": "2020-06-01T06:55:50.267716",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
