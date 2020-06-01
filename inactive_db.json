@@ -9716,6 +9716,76 @@
             "last_retested_at_iso": "2020-06-01T04:11:07.048650",
             "status": "INACTIVE"
         },
+        "acesso.ltaucelular.com": {
+            "included_at_epoch": 1590985390.797695,
+            "included_at_iso": "2020-06-01T04:23:10.797695",
+            "last_retested_at_epoch": 1590985390.797695,
+            "last_retested_at_iso": "2020-06-01T04:23:10.797695",
+            "status": "INACTIVE"
+        },
+        "acesso.ltaumobile.com": {
+            "included_at_epoch": 1590985390.872837,
+            "included_at_iso": "2020-06-01T04:23:10.872837",
+            "last_retested_at_epoch": 1590985390.872837,
+            "last_retested_at_iso": "2020-06-01T04:23:10.872837",
+            "status": "INACTIVE"
+        },
+        "achbiz.xyz": {
+            "included_at_epoch": 1590985393.985102,
+            "included_at_iso": "2020-06-01T04:23:13.985102",
+            "last_retested_at_epoch": 1590985393.985102,
+            "last_retested_at_iso": "2020-06-01T04:23:13.985102",
+            "status": "INACTIVE"
+        },
+        "achig.com": {
+            "included_at_epoch": 1590985394.81427,
+            "included_at_iso": "2020-06-01T04:23:14.814270",
+            "last_retested_at_epoch": 1590985394.81427,
+            "last_retested_at_iso": "2020-06-01T04:23:14.814270",
+            "status": "INACTIVE"
+        },
+        "achrafnbigha.blogspot.com": {
+            "included_at_epoch": 1590985394.889884,
+            "included_at_iso": "2020-06-01T04:23:14.889884",
+            "last_retested_at_epoch": 1590985394.889884,
+            "last_retested_at_iso": "2020-06-01T04:23:14.889884",
+            "status": "INACTIVE"
+        },
+        "achsijkc.com": {
+            "included_at_epoch": 1590985394.963944,
+            "included_at_iso": "2020-06-01T04:23:14.963944",
+            "last_retested_at_epoch": 1590985394.963944,
+            "last_retested_at_iso": "2020-06-01T04:23:14.963944",
+            "status": "INACTIVE"
+        },
+        "achsnmwolf.xyz": {
+            "included_at_epoch": 1590985395.040666,
+            "included_at_iso": "2020-06-01T04:23:15.040666",
+            "last_retested_at_epoch": 1590985395.040666,
+            "last_retested_at_iso": "2020-06-01T04:23:15.040666",
+            "status": "INACTIVE"
+        },
+        "aclhagvngkjf.com": {
+            "included_at_epoch": 1590985399.60115,
+            "included_at_iso": "2020-06-01T04:23:19.601150",
+            "last_retested_at_epoch": 1590985399.60115,
+            "last_retested_at_iso": "2020-06-01T04:23:19.601150",
+            "status": "INACTIVE"
+        },
+        "aclickoooo.host": {
+            "included_at_epoch": 1590985400.050277,
+            "included_at_iso": "2020-06-01T04:23:20.050277",
+            "last_retested_at_epoch": 1590985400.050277,
+            "last_retested_at_iso": "2020-06-01T04:23:20.050277",
+            "status": "INACTIVE"
+        },
+        "aclwlkyzxxhn.com": {
+            "included_at_epoch": 1590985400.122608,
+            "included_at_iso": "2020-06-01T04:23:20.122608",
+            "last_retested_at_epoch": 1590985400.122608,
+            "last_retested_at_iso": "2020-06-01T04:23:20.122608",
+            "status": "INACTIVE"
+        },
         "novbrom.com": {
             "included_at_epoch": 1588566386.616238,
             "included_at_iso": "2020-05-04T04:26:26.616238",
@@ -16670,8 +16740,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1590984659.372424,
-            "last_retested_at_iso": "2020-06-01T04:10:59.372424",
+            "last_retested_at_epoch": 1590985389.856567,
+            "last_retested_at_iso": "2020-06-01T04:23:09.856567",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -26267,8 +26337,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1590984659.446667,
-            "last_retested_at_iso": "2020-06-01T04:10:59.446667",
+            "last_retested_at_epoch": 1590985389.935493,
+            "last_retested_at_iso": "2020-06-01T04:23:09.935493",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
