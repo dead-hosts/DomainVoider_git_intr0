@@ -13594,6 +13594,69 @@
             "last_retested_at_iso": "2020-06-01T17:19:20.004615",
             "status": "INACTIVE"
         },
+        "amazon.co.uk.2cqd.ru": {
+            "included_at_epoch": 1591032682.414483,
+            "included_at_iso": "2020-06-01T17:31:22.414483",
+            "last_retested_at_epoch": 1591032682.414483,
+            "last_retested_at_iso": "2020-06-01T17:31:22.414483",
+            "status": "INACTIVE"
+        },
+        "amazon.co.uk.2j0q.ru": {
+            "included_at_epoch": 1591032682.483512,
+            "included_at_iso": "2020-06-01T17:31:22.483512",
+            "last_retested_at_epoch": 1591032682.483512,
+            "last_retested_at_iso": "2020-06-01T17:31:22.483512",
+            "status": "INACTIVE"
+        },
+        "amazon.co.uk.8mmy.ru": {
+            "included_at_epoch": 1591032682.552022,
+            "included_at_iso": "2020-06-01T17:31:22.552022",
+            "last_retested_at_epoch": 1591032682.552022,
+            "last_retested_at_iso": "2020-06-01T17:31:22.552022",
+            "status": "INACTIVE"
+        },
+        "amazon.co.uk.bd2s.ru": {
+            "included_at_epoch": 1591032682.62022,
+            "included_at_iso": "2020-06-01T17:31:22.620220",
+            "last_retested_at_epoch": 1591032682.62022,
+            "last_retested_at_iso": "2020-06-01T17:31:22.620220",
+            "status": "INACTIVE"
+        },
+        "amazon.co.uk.d2zj.ru": {
+            "included_at_epoch": 1591032682.771319,
+            "included_at_iso": "2020-06-01T17:31:22.771319",
+            "last_retested_at_epoch": 1591032682.771319,
+            "last_retested_at_iso": "2020-06-01T17:31:22.771319",
+            "status": "INACTIVE"
+        },
+        "amazon.co.uk.eu5a.ru": {
+            "included_at_epoch": 1591032682.703619,
+            "included_at_iso": "2020-06-01T17:31:22.703619",
+            "last_retested_at_epoch": 1591032682.703619,
+            "last_retested_at_iso": "2020-06-01T17:31:22.703619",
+            "status": "INACTIVE"
+        },
+        "amazon.co.uk.oa3r.ru": {
+            "included_at_epoch": 1591032682.845294,
+            "included_at_iso": "2020-06-01T17:31:22.845294",
+            "last_retested_at_epoch": 1591032682.845294,
+            "last_retested_at_iso": "2020-06-01T17:31:22.845294",
+            "status": "INACTIVE"
+        },
+        "amazon.com-gateway06.net": {
+            "included_at_epoch": 1591032682.979992,
+            "included_at_iso": "2020-06-01T17:31:22.979992",
+            "last_retested_at_epoch": 1591032682.979992,
+            "last_retested_at_iso": "2020-06-01T17:31:22.979992",
+            "status": "INACTIVE"
+        },
+        "amazon.com-gateway08.net": {
+            "included_at_epoch": 1591032682.912778,
+            "included_at_iso": "2020-06-01T17:31:22.912778",
+            "last_retested_at_epoch": 1591032682.912778,
+            "last_retested_at_iso": "2020-06-01T17:31:22.912778",
+            "status": "INACTIVE"
+        },
         "poste-it-up.blogspot.be": {
             "included_at_epoch": 1588620539.631748,
             "included_at_iso": "2020-05-04T19:28:59.631748",
@@ -14262,8 +14325,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591031959.160993,
-            "last_retested_at_iso": "2020-06-01T17:19:19.160993",
+            "last_retested_at_epoch": 1591032682.275059,
+            "last_retested_at_iso": "2020-06-01T17:31:22.275059",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -23859,8 +23922,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591031959.233149,
-            "last_retested_at_iso": "2020-06-01T17:19:19.233149",
+            "last_retested_at_epoch": 1591032682.345816,
+            "last_retested_at_iso": "2020-06-01T17:31:22.345816",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
