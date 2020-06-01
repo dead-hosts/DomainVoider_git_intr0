@@ -9548,6 +9548,104 @@
             "last_retested_at_iso": "2020-06-01T03:47:09.961496",
             "status": "INACTIVE"
         },
+        "accounts.craigslist.araot.com": {
+            "included_at_epoch": 1590983941.61837,
+            "included_at_iso": "2020-06-01T03:59:01.618370",
+            "last_retested_at_epoch": 1590983941.61837,
+            "last_retested_at_iso": "2020-06-01T03:59:01.618370",
+            "status": "INACTIVE"
+        },
+        "accounts.googgles.xyz": {
+            "included_at_epoch": 1590983941.692213,
+            "included_at_iso": "2020-06-01T03:59:01.692213",
+            "last_retested_at_epoch": 1590983941.692213,
+            "last_retested_at_iso": "2020-06-01T03:59:01.692213",
+            "status": "INACTIVE"
+        },
+        "accounts.google.com-report.us": {
+            "included_at_epoch": 1590983941.765123,
+            "included_at_iso": "2020-06-01T03:59:01.765123",
+            "last_retested_at_epoch": 1590983941.765123,
+            "last_retested_at_iso": "2020-06-01T03:59:01.765123",
+            "status": "INACTIVE"
+        },
+        "accounts.google.com.medbp.com": {
+            "included_at_epoch": 1590983941.838769,
+            "included_at_iso": "2020-06-01T03:59:01.838769",
+            "last_retested_at_epoch": 1590983941.838769,
+            "last_retested_at_iso": "2020-06-01T03:59:01.838769",
+            "status": "INACTIVE"
+        },
+        "accounts.google.com.secure-2.pw": {
+            "included_at_epoch": 1590983941.928347,
+            "included_at_iso": "2020-06-01T03:59:01.928347",
+            "last_retested_at_epoch": 1590983941.928347,
+            "last_retested_at_iso": "2020-06-01T03:59:01.928347",
+            "status": "INACTIVE"
+        },
+        "accounts.lnstagrams.co": {
+            "included_at_epoch": 1590983942.009585,
+            "included_at_iso": "2020-06-01T03:59:02.009585",
+            "last_retested_at_epoch": 1590983942.009585,
+            "last_retested_at_iso": "2020-06-01T03:59:02.009585",
+            "status": "INACTIVE"
+        },
+        "accounts.newsokulog.com": {
+            "included_at_epoch": 1590983942.082926,
+            "included_at_iso": "2020-06-01T03:59:02.082926",
+            "last_retested_at_epoch": 1590983942.082926,
+            "last_retested_at_iso": "2020-06-01T03:59:02.082926",
+            "status": "INACTIVE"
+        },
+        "accounts.wellsfargol.com.usastate.xyz": {
+            "included_at_epoch": 1590983942.167651,
+            "included_at_iso": "2020-06-01T03:59:02.167651",
+            "last_retested_at_epoch": 1590983942.167651,
+            "last_retested_at_iso": "2020-06-01T03:59:02.167651",
+            "status": "INACTIVE"
+        },
+        "accounts.xn--gogle-jye.cf": {
+            "included_at_epoch": 1590983942.238915,
+            "included_at_iso": "2020-06-01T03:59:02.238915",
+            "last_retested_at_epoch": 1590983942.238915,
+            "last_retested_at_iso": "2020-06-01T03:59:02.238915",
+            "status": "INACTIVE"
+        },
+        "accountsadobe.cf": {
+            "included_at_epoch": 1590983942.309245,
+            "included_at_iso": "2020-06-01T03:59:02.309245",
+            "last_retested_at_epoch": 1590983942.309245,
+            "last_retested_at_iso": "2020-06-01T03:59:02.309245",
+            "status": "INACTIVE"
+        },
+        "accountsecurity-id.serveirc.com": {
+            "included_at_epoch": 1590983942.747797,
+            "included_at_iso": "2020-06-01T03:59:02.747797",
+            "last_retested_at_epoch": 1590983942.747797,
+            "last_retested_at_iso": "2020-06-01T03:59:02.747797",
+            "status": "INACTIVE"
+        },
+        "accountserver.activeinformation.top": {
+            "included_at_epoch": 1590983943.186868,
+            "included_at_iso": "2020-06-01T03:59:03.186868",
+            "last_retested_at_epoch": 1590983943.186868,
+            "last_retested_at_iso": "2020-06-01T03:59:03.186868",
+            "status": "INACTIVE"
+        },
+        "accountsservice.servepics.com": {
+            "included_at_epoch": 1590983944.326649,
+            "included_at_iso": "2020-06-01T03:59:04.326649",
+            "last_retested_at_epoch": 1590983944.326649,
+            "last_retested_at_iso": "2020-06-01T03:59:04.326649",
+            "status": "INACTIVE"
+        },
+        "accountverifie.cf": {
+            "included_at_epoch": 1590983944.408853,
+            "included_at_iso": "2020-06-01T03:59:04.408853",
+            "last_retested_at_epoch": 1590983944.408853,
+            "last_retested_at_iso": "2020-06-01T03:59:04.408853",
+            "status": "INACTIVE"
+        },
         "notmsg.smvm.xyz": {
             "included_at_epoch": 1588564691.717375,
             "included_at_iso": "2020-05-04T03:58:11.717375",
@@ -16509,8 +16607,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1590983224.212281,
-            "last_retested_at_iso": "2020-06-01T03:47:04.212281",
+            "last_retested_at_epoch": 1590983941.465153,
+            "last_retested_at_iso": "2020-06-01T03:59:01.465153",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -26106,8 +26204,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1590983224.285384,
-            "last_retested_at_iso": "2020-06-01T03:47:04.285384",
+            "last_retested_at_epoch": 1590983941.538552,
+            "last_retested_at_iso": "2020-06-01T03:59:01.538552",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
