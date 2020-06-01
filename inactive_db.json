@@ -16989,151 +16989,102 @@
             "last_retested_at_iso": "2020-06-01T22:23:23.226088",
             "status": "INACTIVE"
         },
+        "apple.com.br-help.us": {
+            "included_at_epoch": 1591051668.58209,
+            "included_at_iso": "2020-06-01T22:47:48.582090",
+            "last_retested_at_epoch": 1591051668.58209,
+            "last_retested_at_iso": "2020-06-01T22:47:48.582090",
+            "status": "INACTIVE"
+        },
+        "apple.com.cloud-app.services": {
+            "included_at_epoch": 1591051668.656243,
+            "included_at_iso": "2020-06-01T22:47:48.656243",
+            "last_retested_at_epoch": 1591051668.656243,
+            "last_retested_at_iso": "2020-06-01T22:47:48.656243",
+            "status": "INACTIVE"
+        },
+        "apple.com.findmy-iphone.info": {
+            "included_at_epoch": 1591051668.737156,
+            "included_at_iso": "2020-06-01T22:47:48.737156",
+            "last_retested_at_epoch": 1591051668.737156,
+            "last_retested_at_iso": "2020-06-01T22:47:48.737156",
+            "status": "INACTIVE"
+        },
+        "apple.com.hxsra.cn": {
+            "included_at_epoch": 1591051668.826271,
+            "included_at_iso": "2020-06-01T22:47:48.826271",
+            "last_retested_at_epoch": 1591051668.826271,
+            "last_retested_at_iso": "2020-06-01T22:47:48.826271",
+            "status": "INACTIVE"
+        },
+        "apple.com.infalrtmailarockediadb.com": {
+            "included_at_epoch": 1591051668.987236,
+            "included_at_iso": "2020-06-01T22:47:48.987236",
+            "last_retested_at_epoch": 1591051668.987236,
+            "last_retested_at_iso": "2020-06-01T22:47:48.987236",
+            "status": "INACTIVE"
+        },
+        "apple.com.infomalaccoulokedisb.info": {
+            "included_at_epoch": 1591051668.913672,
+            "included_at_iso": "2020-06-01T22:47:48.913672",
+            "last_retested_at_epoch": 1591051668.913672,
+            "last_retested_at_iso": "2020-06-01T22:47:48.913672",
+            "status": "INACTIVE"
+        },
+        "apple.com.infomalaccounlokedisb.info": {
+            "included_at_epoch": 1591051669.134717,
+            "included_at_iso": "2020-06-01T22:47:49.134717",
+            "last_retested_at_epoch": 1591051669.134717,
+            "last_retested_at_iso": "2020-06-01T22:47:49.134717",
+            "status": "INACTIVE"
+        },
+        "apple.com.infomalaccounlokedise.info": {
+            "included_at_epoch": 1591051669.060626,
+            "included_at_iso": "2020-06-01T22:47:49.060626",
+            "last_retested_at_epoch": 1591051669.060626,
+            "last_retested_at_iso": "2020-06-01T22:47:49.060626",
+            "status": "INACTIVE"
+        },
+        "apple.com.inofalrtmailerlckedidc.com": {
+            "included_at_epoch": 1591051669.208811,
+            "included_at_iso": "2020-06-01T22:47:49.208811",
+            "last_retested_at_epoch": 1591051669.208811,
+            "last_retested_at_iso": "2020-06-01T22:47:49.208811",
+            "status": "INACTIVE"
+        },
+        "apple.com.inofalrtmailerlckedidh.com": {
+            "included_at_epoch": 1591051669.283209,
+            "included_at_iso": "2020-06-01T22:47:49.283209",
+            "last_retested_at_epoch": 1591051669.283209,
+            "last_retested_at_iso": "2020-06-01T22:47:49.283209",
+            "status": "INACTIVE"
+        },
+        "apple.com.inofalrtmailerlckedidi.com": {
+            "included_at_epoch": 1591051669.430901,
+            "included_at_iso": "2020-06-01T22:47:49.430901",
+            "last_retested_at_epoch": 1591051669.430901,
+            "last_retested_at_iso": "2020-06-01T22:47:49.430901",
+            "status": "INACTIVE"
+        },
+        "apple.com.inofalrtmailerlckedidj.com": {
+            "included_at_epoch": 1591051669.356541,
+            "included_at_iso": "2020-06-01T22:47:49.356541",
+            "last_retested_at_epoch": 1591051669.356541,
+            "last_retested_at_iso": "2020-06-01T22:47:49.356541",
+            "status": "INACTIVE"
+        },
+        "apple.com.kaumaingilabangkan.com": {
+            "included_at_epoch": 1591051669.505156,
+            "included_at_iso": "2020-06-01T22:47:49.505156",
+            "last_retested_at_epoch": 1591051669.505156,
+            "last_retested_at_iso": "2020-06-01T22:47:49.505156",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591050202.437217,
-            "last_retested_at_iso": "2020-06-01T22:23:22.437217",
-            "status": "INACTIVE"
-        },
-        "pussl33.com": {
-            "included_at_epoch": 1588631361.934741,
-            "included_at_iso": "2020-05-04T22:29:21.934741",
-            "last_retested_at_epoch": 1588631361.934741,
-            "last_retested_at_iso": "2020-05-04T22:29:21.934741",
-            "status": "INACTIVE"
-        },
-        "pussl38.com": {
-            "included_at_epoch": 1588631362.059508,
-            "included_at_iso": "2020-05-04T22:29:22.059508",
-            "last_retested_at_epoch": 1588631362.059508,
-            "last_retested_at_iso": "2020-05-04T22:29:22.059508",
-            "status": "INACTIVE"
-        },
-        "pussl39.com": {
-            "included_at_epoch": 1588631362.182758,
-            "included_at_iso": "2020-05-04T22:29:22.182758",
-            "last_retested_at_epoch": 1588631362.182758,
-            "last_retested_at_iso": "2020-05-04T22:29:22.182758",
-            "status": "INACTIVE"
-        },
-        "pussl40.com": {
-            "included_at_epoch": 1588631362.436586,
-            "included_at_iso": "2020-05-04T22:29:22.436586",
-            "last_retested_at_epoch": 1588631362.436586,
-            "last_retested_at_iso": "2020-05-04T22:29:22.436586",
-            "status": "INACTIVE"
-        },
-        "pussl41.com": {
-            "included_at_epoch": 1588631362.304267,
-            "included_at_iso": "2020-05-04T22:29:22.304267",
-            "last_retested_at_epoch": 1588631362.304267,
-            "last_retested_at_iso": "2020-05-04T22:29:22.304267",
-            "status": "INACTIVE"
-        },
-        "pussl43.com": {
-            "included_at_epoch": 1588631362.558327,
-            "included_at_iso": "2020-05-04T22:29:22.558327",
-            "last_retested_at_epoch": 1588631362.558327,
-            "last_retested_at_iso": "2020-05-04T22:29:22.558327",
-            "status": "INACTIVE"
-        },
-        "pussl50.com": {
-            "included_at_epoch": 1588631363.279326,
-            "included_at_iso": "2020-05-04T22:29:23.279326",
-            "last_retested_at_epoch": 1588631363.279326,
-            "last_retested_at_iso": "2020-05-04T22:29:23.279326",
-            "status": "INACTIVE"
-        },
-        "putana-cz.org": {
-            "included_at_epoch": 1588631364.936676,
-            "included_at_iso": "2020-05-04T22:29:24.936676",
-            "last_retested_at_epoch": 1588631364.936676,
-            "last_retested_at_iso": "2020-05-04T22:29:24.936676",
-            "status": "INACTIVE"
-        },
-        "puwzwbdopaeq.bid": {
-            "included_at_epoch": 1588631368.404894,
-            "included_at_iso": "2020-05-04T22:29:28.404894",
-            "last_retested_at_epoch": 1588631368.404894,
-            "last_retested_at_iso": "2020-05-04T22:29:28.404894",
-            "status": "INACTIVE"
-        },
-        "pvdrlztojkd.bid": {
-            "included_at_epoch": 1588631369.674347,
-            "included_at_iso": "2020-05-04T22:29:29.674347",
-            "last_retested_at_epoch": 1588631369.674347,
-            "last_retested_at_iso": "2020-05-04T22:29:29.674347",
-            "status": "INACTIVE"
-        },
-        "pviztjecuczh.com": {
-            "included_at_epoch": 1588631369.798631,
-            "included_at_iso": "2020-05-04T22:29:29.798631",
-            "last_retested_at_epoch": 1588631369.798631,
-            "last_retested_at_iso": "2020-05-04T22:29:29.798631",
-            "status": "INACTIVE"
-        },
-        "pvjhglgpil.bid": {
-            "included_at_epoch": 1588631369.922543,
-            "included_at_iso": "2020-05-04T22:29:29.922543",
-            "last_retested_at_epoch": 1588631369.922543,
-            "last_retested_at_iso": "2020-05-04T22:29:29.922543",
-            "status": "INACTIVE"
-        },
-        "pvoplkodbxra.com": {
-            "included_at_epoch": 1588631370.393394,
-            "included_at_iso": "2020-05-04T22:29:30.393394",
-            "last_retested_at_epoch": 1588631370.393394,
-            "last_retested_at_iso": "2020-05-04T22:29:30.393394",
-            "status": "INACTIVE"
-        },
-        "pvpqgjkgvszq.com": {
-            "included_at_epoch": 1588631370.814882,
-            "included_at_iso": "2020-05-04T22:29:30.814882",
-            "last_retested_at_epoch": 1588631370.814882,
-            "last_retested_at_iso": "2020-05-04T22:29:30.814882",
-            "status": "INACTIVE"
-        },
-        "pvrybwoqcprogc.bid": {
-            "included_at_epoch": 1588631371.580365,
-            "included_at_iso": "2020-05-04T22:29:31.580365",
-            "last_retested_at_epoch": 1588631371.580365,
-            "last_retested_at_iso": "2020-05-04T22:29:31.580365",
-            "status": "INACTIVE"
-        },
-        "pvuqahjiburadw.com": {
-            "included_at_epoch": 1588631372.671628,
-            "included_at_iso": "2020-05-04T22:29:32.671628",
-            "last_retested_at_epoch": 1588631372.671628,
-            "last_retested_at_iso": "2020-05-04T22:29:32.671628",
-            "status": "INACTIVE"
-        },
-        "pw6lrr05k7c.cf": {
-            "included_at_epoch": 1588631373.188351,
-            "included_at_iso": "2020-05-04T22:29:33.188351",
-            "last_retested_at_epoch": 1588631373.188351,
-            "last_retested_at_iso": "2020-05-04T22:29:33.188351",
-            "status": "INACTIVE"
-        },
-        "pw8tq9wk.top": {
-            "included_at_epoch": 1588631373.311172,
-            "included_at_iso": "2020-05-04T22:29:33.311172",
-            "last_retested_at_epoch": 1588631373.311172,
-            "last_retested_at_iso": "2020-05-04T22:29:33.311172",
-            "status": "INACTIVE"
-        },
-        "pwdmtyzyq.com": {
-            "included_at_epoch": 1588631374.104909,
-            "included_at_iso": "2020-05-04T22:29:34.104909",
-            "last_retested_at_epoch": 1588631374.104909,
-            "last_retested_at_iso": "2020-05-04T22:29:34.104909",
-            "status": "INACTIVE"
-        },
-        "pwgwqtgpx.com": {
-            "included_at_epoch": 1588631374.229111,
-            "included_at_iso": "2020-05-04T22:29:34.229111",
-            "last_retested_at_epoch": 1588631374.229111,
-            "last_retested_at_iso": "2020-05-04T22:29:34.229111",
+            "last_retested_at_epoch": 1591051668.500875,
+            "last_retested_at_iso": "2020-06-01T22:47:48.500875",
             "status": "INACTIVE"
         },
         "pwhsajbcymb.bid": {
@@ -26239,8 +26190,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591050202.360588,
-            "last_retested_at_iso": "2020-06-01T22:23:22.360588",
+            "last_retested_at_epoch": 1591051668.423219,
+            "last_retested_at_iso": "2020-06-01T22:47:48.423219",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
