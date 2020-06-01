@@ -13790,6 +13790,76 @@
             "last_retested_at_iso": "2020-06-01T17:43:26.718539",
             "status": "INACTIVE"
         },
+        "americanas.app.ofertadasemana-br.com": {
+            "included_at_epoch": 1591034129.947954,
+            "included_at_iso": "2020-06-01T17:55:29.947954",
+            "last_retested_at_epoch": 1591034129.947954,
+            "last_retested_at_iso": "2020-06-01T17:55:29.947954",
+            "status": "INACTIVE"
+        },
+        "americanxxpress.crazypizzahut.com": {
+            "included_at_epoch": 1591034132.975037,
+            "included_at_iso": "2020-06-01T17:55:32.975037",
+            "last_retested_at_epoch": 1591034132.975037,
+            "last_retested_at_iso": "2020-06-01T17:55:32.975037",
+            "status": "INACTIVE"
+        },
+        "amertazy.com": {
+            "included_at_epoch": 1591034133.411062,
+            "included_at_iso": "2020-06-01T17:55:33.411062",
+            "last_retested_at_epoch": 1591034133.411062,
+            "last_retested_at_iso": "2020-06-01T17:55:33.411062",
+            "status": "INACTIVE"
+        },
+        "amierixcsess.com": {
+            "included_at_epoch": 1591034137.916651,
+            "included_at_iso": "2020-06-01T17:55:37.916651",
+            "last_retested_at_epoch": 1591034137.916651,
+            "last_retested_at_iso": "2020-06-01T17:55:37.916651",
+            "status": "INACTIVE"
+        },
+        "amiesaerxcss.com": {
+            "included_at_epoch": 1591034137.985326,
+            "included_at_iso": "2020-06-01T17:55:37.985326",
+            "last_retested_at_epoch": 1591034137.985326,
+            "last_retested_at_iso": "2020-06-01T17:55:37.985326",
+            "status": "INACTIVE"
+        },
+        "amjyuawc.shoesmogul.com": {
+            "included_at_epoch": 1591034140.610937,
+            "included_at_iso": "2020-06-01T17:55:40.610937",
+            "last_retested_at_epoch": 1591034140.610937,
+            "last_retested_at_iso": "2020-06-01T17:55:40.610937",
+            "status": "INACTIVE"
+        },
+        "amlcscfr.com": {
+            "included_at_epoch": 1591034141.412361,
+            "included_at_iso": "2020-06-01T17:55:41.412361",
+            "last_retested_at_epoch": 1591034141.412361,
+            "last_retested_at_iso": "2020-06-01T17:55:41.412361",
+            "status": "INACTIVE"
+        },
+        "ammetoday.com": {
+            "included_at_epoch": 1591034141.482443,
+            "included_at_iso": "2020-06-01T17:55:41.482443",
+            "last_retested_at_epoch": 1591034141.482443,
+            "last_retested_at_iso": "2020-06-01T17:55:41.482443",
+            "status": "INACTIVE"
+        },
+        "amnatu.info": {
+            "included_at_epoch": 1591034141.931929,
+            "included_at_iso": "2020-06-01T17:55:41.931929",
+            "last_retested_at_epoch": 1591034141.931929,
+            "last_retested_at_iso": "2020-06-01T17:55:41.931929",
+            "status": "INACTIVE"
+        },
+        "amountinue.info": {
+            "included_at_epoch": 1591034143.478025,
+            "included_at_iso": "2020-06-01T17:55:43.478025",
+            "last_retested_at_epoch": 1591034143.478025,
+            "last_retested_at_iso": "2020-06-01T17:55:43.478025",
+            "status": "INACTIVE"
+        },
         "poste-it-up.blogspot.be": {
             "included_at_epoch": 1588620539.631748,
             "included_at_iso": "2020-05-04T19:28:59.631748",
@@ -14458,8 +14528,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591033397.56375,
-            "last_retested_at_iso": "2020-06-01T17:43:17.563750",
+            "last_retested_at_epoch": 1591034128.367616,
+            "last_retested_at_iso": "2020-06-01T17:55:28.367616",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -24055,8 +24125,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591033397.49145,
-            "last_retested_at_iso": "2020-06-01T17:43:17.491450",
+            "last_retested_at_epoch": 1591034128.295865,
+            "last_retested_at_iso": "2020-06-01T17:55:28.295865",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
