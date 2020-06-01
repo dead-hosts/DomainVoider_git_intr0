@@ -11578,6 +11578,55 @@
             "last_retested_at_iso": "2020-06-01T13:14:52.615296",
             "status": "INACTIVE"
         },
+        "advertising.aol.com": {
+            "included_at_epoch": 1591018020.956401,
+            "included_at_iso": "2020-06-01T13:27:00.956401",
+            "last_retested_at_epoch": 1591018020.956401,
+            "last_retested_at_iso": "2020-06-01T13:27:00.956401",
+            "status": "INACTIVE"
+        },
+        "advertising.guildlaunch.net": {
+            "included_at_epoch": 1591018021.381436,
+            "included_at_iso": "2020-06-01T13:27:01.381436",
+            "last_retested_at_epoch": 1591018021.381436,
+            "last_retested_at_iso": "2020-06-01T13:27:01.381436",
+            "status": "INACTIVE"
+        },
+        "advertland.ru": {
+            "included_at_epoch": 1591018024.744099,
+            "included_at_iso": "2020-06-01T13:27:04.744099",
+            "last_retested_at_epoch": 1591018024.744099,
+            "last_retested_at_iso": "2020-06-01T13:27:04.744099",
+            "status": "INACTIVE"
+        },
+        "advertop.ru": {
+            "included_at_epoch": 1591018028.086312,
+            "included_at_iso": "2020-06-01T13:27:08.086312",
+            "last_retested_at_epoch": 1591018028.086312,
+            "last_retested_at_iso": "2020-06-01T13:27:08.086312",
+            "status": "INACTIVE"
+        },
+        "adverts.carltononline.com": {
+            "included_at_epoch": 1591018028.883888,
+            "included_at_iso": "2020-06-01T13:27:08.883888",
+            "last_retested_at_epoch": 1591018028.883888,
+            "last_retested_at_iso": "2020-06-01T13:27:08.883888",
+            "status": "INACTIVE"
+        },
+        "advetvy.info": {
+            "included_at_epoch": 1591018032.189256,
+            "included_at_iso": "2020-06-01T13:27:12.189256",
+            "last_retested_at_epoch": 1591018032.189256,
+            "last_retested_at_iso": "2020-06-01T13:27:12.189256",
+            "status": "INACTIVE"
+        },
+        "advonline.goforandroid.com": {
+            "included_at_epoch": 1591018046.429985,
+            "included_at_iso": "2020-06-01T13:27:26.429985",
+            "last_retested_at_epoch": 1591018046.429985,
+            "last_retested_at_iso": "2020-06-01T13:27:26.429985",
+            "status": "INACTIVE"
+        },
         "paypa1-secure-update.com": {
             "included_at_epoch": 1588598526.870343,
             "included_at_iso": "2020-05-04T13:22:06.870343",
@@ -14962,8 +15011,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591017283.12415,
-            "last_retested_at_iso": "2020-06-01T13:14:43.124150",
+            "last_retested_at_epoch": 1591018016.378472,
+            "last_retested_at_iso": "2020-06-01T13:26:56.378472",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -24559,8 +24608,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591017283.195767,
-            "last_retested_at_iso": "2020-06-01T13:14:43.195767",
+            "last_retested_at_epoch": 1591018016.305288,
+            "last_retested_at_iso": "2020-06-01T13:26:56.305288",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
