@@ -11466,6 +11466,69 @@
             "last_retested_at_iso": "2020-06-01T12:38:09.398955",
             "status": "INACTIVE"
         },
+        "adtraffic.pl": {
+            "included_at_epoch": 1591016553.096677,
+            "included_at_iso": "2020-06-01T13:02:33.096677",
+            "last_retested_at_epoch": 1591016553.096677,
+            "last_retested_at_iso": "2020-06-01T13:02:33.096677",
+            "status": "INACTIVE"
+        },
+        "adulttiz.com": {
+            "included_at_epoch": 1591016563.905833,
+            "included_at_iso": "2020-06-01T13:02:43.905833",
+            "last_retested_at_epoch": 1591016563.905833,
+            "last_retested_at_iso": "2020-06-01T13:02:43.905833",
+            "status": "INACTIVE"
+        },
+        "adv-italiana.net": {
+            "included_at_epoch": 1591016566.659296,
+            "included_at_iso": "2020-06-01T13:02:46.659296",
+            "last_retested_at_epoch": 1591016566.659296,
+            "last_retested_at_iso": "2020-06-01T13:02:46.659296",
+            "status": "INACTIVE"
+        },
+        "adv-target.ru": {
+            "included_at_epoch": 1591016566.739186,
+            "included_at_iso": "2020-06-01T13:02:46.739186",
+            "last_retested_at_epoch": 1591016566.739186,
+            "last_retested_at_iso": "2020-06-01T13:02:46.739186",
+            "status": "INACTIVE"
+        },
+        "adv01st.com": {
+            "included_at_epoch": 1591016567.271294,
+            "included_at_iso": "2020-06-01T13:02:47.271294",
+            "last_retested_at_epoch": 1591016567.271294,
+            "last_retested_at_iso": "2020-06-01T13:02:47.271294",
+            "status": "INACTIVE"
+        },
+        "adv225489.ru": {
+            "included_at_epoch": 1591016567.340409,
+            "included_at_iso": "2020-06-01T13:02:47.340409",
+            "last_retested_at_epoch": 1591016567.340409,
+            "last_retested_at_iso": "2020-06-01T13:02:47.340409",
+            "status": "INACTIVE"
+        },
+        "adv457895.ru": {
+            "included_at_epoch": 1591016567.789975,
+            "included_at_iso": "2020-06-01T13:02:47.789975",
+            "last_retested_at_epoch": 1591016567.789975,
+            "last_retested_at_iso": "2020-06-01T13:02:47.789975",
+            "status": "INACTIVE"
+        },
+        "adv758968.ru": {
+            "included_at_epoch": 1591016567.928393,
+            "included_at_iso": "2020-06-01T13:02:47.928393",
+            "last_retested_at_epoch": 1591016567.928393,
+            "last_retested_at_iso": "2020-06-01T13:02:47.928393",
+            "status": "INACTIVE"
+        },
+        "adv859672.ru": {
+            "included_at_epoch": 1591016567.8594,
+            "included_at_iso": "2020-06-01T13:02:47.859400",
+            "last_retested_at_epoch": 1591016567.8594,
+            "last_retested_at_iso": "2020-06-01T13:02:47.859400",
+            "status": "INACTIVE"
+        },
         "paypa1-secure-update.com": {
             "included_at_epoch": 1588598526.870343,
             "included_at_iso": "2020-05-04T13:22:06.870343",
@@ -14850,8 +14913,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591015812.104578,
-            "last_retested_at_iso": "2020-06-01T12:50:12.104578",
+            "last_retested_at_epoch": 1591016549.561103,
+            "last_retested_at_iso": "2020-06-01T13:02:29.561103",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -24447,8 +24510,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591015812.032946,
-            "last_retested_at_iso": "2020-06-01T12:50:12.032946",
+            "last_retested_at_epoch": 1591016549.489623,
+            "last_retested_at_iso": "2020-06-01T13:02:29.489623",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
