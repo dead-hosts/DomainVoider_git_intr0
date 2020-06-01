@@ -10500,6 +10500,20 @@
             "last_retested_at_iso": "2020-06-01T09:20:14.686493",
             "status": "INACTIVE"
         },
+        "adprojekt.pl": {
+            "included_at_epoch": 1591003955.837094,
+            "included_at_iso": "2020-06-01T09:32:35.837094",
+            "last_retested_at_epoch": 1591003955.837094,
+            "last_retested_at_iso": "2020-06-01T09:32:35.837094",
+            "status": "INACTIVE"
+        },
+        "adq.nextag.com": {
+            "included_at_epoch": 1591003958.160133,
+            "included_at_iso": "2020-06-01T09:32:38.160133",
+            "last_retested_at_epoch": 1591003958.160133,
+            "last_retested_at_iso": "2020-06-01T09:32:38.160133",
+            "status": "INACTIVE"
+        },
         "otcqlckpafizv.bid": {
             "included_at_epoch": 1588584433.054685,
             "included_at_iso": "2020-05-04T09:27:13.054685",
@@ -15011,8 +15025,8 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591003207.297511,
-            "last_retested_at_iso": "2020-06-01T09:20:07.297511",
+            "last_retested_at_epoch": 1591003950.110055,
+            "last_retested_at_iso": "2020-06-01T09:32:30.110055",
             "status": "INACTIVE"
         },
         "psbadfsth.bid": {
@@ -24608,8 +24622,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591003207.224021,
-            "last_retested_at_iso": "2020-06-01T09:20:07.224021",
+            "last_retested_at_epoch": 1591003950.038064,
+            "last_retested_at_iso": "2020-06-01T09:32:30.038064",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
