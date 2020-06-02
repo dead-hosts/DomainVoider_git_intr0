@@ -20314,11 +20314,123 @@
             "last_retested_at_iso": "2020-06-02T06:12:11.485458",
             "status": "INACTIVE"
         },
+        "banking01.bankofamerica.secured02.us": {
+            "included_at_epoch": 1591079046.52649,
+            "included_at_iso": "2020-06-02T06:24:06.526490",
+            "last_retested_at_epoch": 1591079046.52649,
+            "last_retested_at_iso": "2020-06-02T06:24:06.526490",
+            "status": "INACTIVE"
+        },
+        "bankline.itau.casa": {
+            "included_at_epoch": 1591079046.601718,
+            "included_at_iso": "2020-06-02T06:24:06.601718",
+            "last_retested_at_epoch": 1591079046.601718,
+            "last_retested_at_iso": "2020-06-02T06:24:06.601718",
+            "status": "INACTIVE"
+        },
+        "bankline.itau.work": {
+            "included_at_epoch": 1591079046.677127,
+            "included_at_iso": "2020-06-02T06:24:06.677127",
+            "last_retested_at_epoch": 1591079046.677127,
+            "last_retested_at_iso": "2020-06-02T06:24:06.677127",
+            "status": "INACTIVE"
+        },
+        "bankline.itau30horas.pw": {
+            "included_at_epoch": 1591079046.767426,
+            "included_at_iso": "2020-06-02T06:24:06.767426",
+            "last_retested_at_epoch": 1591079046.767426,
+            "last_retested_at_iso": "2020-06-02T06:24:06.767426",
+            "status": "INACTIVE"
+        },
+        "bankline.itauonline.xyz": {
+            "included_at_epoch": 1591079046.841873,
+            "included_at_iso": "2020-06-02T06:24:06.841873",
+            "last_retested_at_epoch": 1591079046.841873,
+            "last_retested_at_iso": "2020-06-02T06:24:06.841873",
+            "status": "INACTIVE"
+        },
+        "bankofamercaonlineas.zz.com.ve": {
+            "included_at_epoch": 1591079047.286754,
+            "included_at_iso": "2020-06-02T06:24:07.286754",
+            "last_retested_at_epoch": 1591079047.286754,
+            "last_retested_at_iso": "2020-06-02T06:24:07.286754",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.bofa-april.xyz": {
+            "included_at_epoch": 1591079047.37858,
+            "included_at_iso": "2020-06-02T06:24:07.378580",
+            "last_retested_at_epoch": 1591079047.37858,
+            "last_retested_at_iso": "2020-06-02T06:24:07.378580",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.com.cliendid493985845.anjoshotel.com": {
+            "included_at_epoch": 1591079047.454152,
+            "included_at_iso": "2020-06-02T06:24:07.454152",
+            "last_retested_at_epoch": 1591079047.454152,
+            "last_retested_at_iso": "2020-06-02T06:24:07.454152",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.com.login.acc.artegestiones.com": {
+            "included_at_epoch": 1591079047.604812,
+            "included_at_iso": "2020-06-02T06:24:07.604812",
+            "last_retested_at_epoch": 1591079047.604812,
+            "last_retested_at_iso": "2020-06-02T06:24:07.604812",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.com.login.update.interiordoctors.com": {
+            "included_at_epoch": 1591079047.529133,
+            "included_at_iso": "2020-06-02T06:24:07.529133",
+            "last_retested_at_epoch": 1591079047.529133,
+            "last_retested_at_iso": "2020-06-02T06:24:07.529133",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.imitationbazarr.com": {
+            "included_at_epoch": 1591079047.753807,
+            "included_at_iso": "2020-06-02T06:24:07.753807",
+            "last_retested_at_epoch": 1591079047.753807,
+            "last_retested_at_iso": "2020-06-02T06:24:07.753807",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.nsecurity.online": {
+            "included_at_epoch": 1591079047.679656,
+            "included_at_iso": "2020-06-02T06:24:07.679656",
+            "last_retested_at_epoch": 1591079047.679656,
+            "last_retested_at_iso": "2020-06-02T06:24:07.679656",
+            "status": "INACTIVE"
+        },
+        "bankofamerica.webredirect.org": {
+            "included_at_epoch": 1591079047.837239,
+            "included_at_iso": "2020-06-02T06:24:07.837239",
+            "last_retested_at_epoch": 1591079047.837239,
+            "last_retested_at_iso": "2020-06-02T06:24:07.837239",
+            "status": "INACTIVE"
+        },
+        "bankofamericaonline-updatesrequired.com": {
+            "included_at_epoch": 1591079047.913996,
+            "included_at_iso": "2020-06-02T06:24:07.913996",
+            "last_retested_at_epoch": 1591079047.913996,
+            "last_retested_at_iso": "2020-06-02T06:24:07.913996",
+            "status": "INACTIVE"
+        },
+        "banner-media.ru": {
+            "included_at_epoch": 1591079049.463049,
+            "included_at_iso": "2020-06-02T06:24:09.463049",
+            "last_retested_at_epoch": 1591079049.463049,
+            "last_retested_at_iso": "2020-06-02T06:24:09.463049",
+            "status": "INACTIVE"
+        },
+        "banner.alphacool.de": {
+            "included_at_epoch": 1591079049.556681,
+            "included_at_iso": "2020-06-02T06:24:09.556681",
+            "last_retested_at_epoch": 1591079049.556681,
+            "last_retested_at_iso": "2020-06-02T06:24:09.556681",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591078328.16048,
-            "last_retested_at_iso": "2020-06-02T06:12:08.160480",
+            "last_retested_at_epoch": 1591079046.36391,
+            "last_retested_at_iso": "2020-06-02T06:24:06.363910",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -26547,8 +26659,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591078328.080189,
-            "last_retested_at_iso": "2020-06-02T06:12:08.080189",
+            "last_retested_at_epoch": 1591079046.441946,
+            "last_retested_at_iso": "2020-06-02T06:24:06.441946",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
