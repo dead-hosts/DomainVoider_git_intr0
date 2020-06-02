@@ -20741,11 +20741,67 @@
             "last_retested_at_iso": "2020-06-02T07:37:01.182693",
             "status": "INACTIVE"
         },
+        "baywttgdhe.download": {
+            "included_at_epoch": 1591084877.516214,
+            "included_at_iso": "2020-06-02T08:01:17.516214",
+            "last_retested_at_epoch": 1591084877.516214,
+            "last_retested_at_iso": "2020-06-02T08:01:17.516214",
+            "status": "INACTIVE"
+        },
+        "bazhigu.com": {
+            "included_at_epoch": 1591084877.986591,
+            "included_at_iso": "2020-06-02T08:01:17.986591",
+            "last_retested_at_epoch": 1591084877.986591,
+            "last_retested_at_iso": "2020-06-02T08:01:17.986591",
+            "status": "INACTIVE"
+        },
+        "bb.acessobbppf.com": {
+            "included_at_epoch": 1591084878.476974,
+            "included_at_iso": "2020-06-02T08:01:18.476974",
+            "last_retested_at_epoch": 1591084878.476974,
+            "last_retested_at_iso": "2020-06-02T08:01:18.476974",
+            "status": "INACTIVE"
+        },
+        "bb.appclientebb.info": {
+            "included_at_epoch": 1591084878.562508,
+            "included_at_iso": "2020-06-02T08:01:18.562508",
+            "last_retested_at_epoch": 1591084878.562508,
+            "last_retested_at_iso": "2020-06-02T08:01:18.562508",
+            "status": "INACTIVE"
+        },
+        "bb.tidopro.biz": {
+            "included_at_epoch": 1591084878.66747,
+            "included_at_iso": "2020-06-02T08:01:18.667470",
+            "last_retested_at_epoch": 1591084878.66747,
+            "last_retested_at_iso": "2020-06-02T08:01:18.667470",
+            "status": "INACTIVE"
+        },
+        "bbblethings9.z20.web.core.windows.net": {
+            "included_at_epoch": 1591084880.692031,
+            "included_at_iso": "2020-06-02T08:01:20.692031",
+            "last_retested_at_epoch": 1591084880.692031,
+            "last_retested_at_iso": "2020-06-02T08:01:20.692031",
+            "status": "INACTIVE"
+        },
+        "bbcdn.go.evolutionmedia.bbelements.co": {
+            "included_at_epoch": 1591084881.184802,
+            "included_at_iso": "2020-06-02T08:01:21.184802",
+            "last_retested_at_epoch": 1591084881.184802,
+            "last_retested_at_iso": "2020-06-02T08:01:21.184802",
+            "status": "INACTIVE"
+        },
+        "bbeeejafhacbigaeih.ru": {
+            "included_at_epoch": 1591084882.821749,
+            "included_at_iso": "2020-06-02T08:01:22.821749",
+            "last_retested_at_epoch": 1591084882.821749,
+            "last_retested_at_iso": "2020-06-02T08:01:22.821749",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591084156.182074,
-            "last_retested_at_iso": "2020-06-02T07:49:16.182074",
+            "last_retested_at_epoch": 1591084875.445717,
+            "last_retested_at_iso": "2020-06-02T08:01:15.445717",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -26974,8 +27030,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591084156.099903,
-            "last_retested_at_iso": "2020-06-02T07:49:16.099903",
+            "last_retested_at_epoch": 1591084875.364595,
+            "last_retested_at_iso": "2020-06-02T08:01:15.364595",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
