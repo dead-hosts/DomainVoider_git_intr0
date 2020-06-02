@@ -22218,11 +22218,67 @@
             "last_retested_at_iso": "2020-06-02T19:27:49.971122",
             "status": "INACTIVE"
         },
+        "blueetick-lnstagrams.ml": {
+            "included_at_epoch": 1591127144.208054,
+            "included_at_iso": "2020-06-02T19:45:44.208054",
+            "last_retested_at_epoch": 1591127144.208054,
+            "last_retested_at_iso": "2020-06-02T19:45:44.208054",
+            "status": "INACTIVE"
+        },
+        "bluesupports-lnstagram.cf": {
+            "included_at_epoch": 1591127146.882952,
+            "included_at_iso": "2020-06-02T19:45:46.882952",
+            "last_retested_at_epoch": 1591127146.882952,
+            "last_retested_at_iso": "2020-06-02T19:45:46.882952",
+            "status": "INACTIVE"
+        },
+        "bluetick-lnstagrams.ml": {
+            "included_at_epoch": 1591127146.972232,
+            "included_at_iso": "2020-06-02T19:45:46.972232",
+            "last_retested_at_epoch": 1591127146.972232,
+            "last_retested_at_iso": "2020-06-02T19:45:46.972232",
+            "status": "INACTIVE"
+        },
+        "blueticklnstagramsupportt.cf": {
+            "included_at_epoch": 1591127147.060936,
+            "included_at_iso": "2020-06-02T19:45:47.060936",
+            "last_retested_at_epoch": 1591127147.060936,
+            "last_retested_at_iso": "2020-06-02T19:45:47.060936",
+            "status": "INACTIVE"
+        },
+        "bluetickverification.ml": {
+            "included_at_epoch": 1591127147.149505,
+            "included_at_iso": "2020-06-02T19:45:47.149505",
+            "last_retested_at_epoch": 1591127147.149505,
+            "last_retested_at_iso": "2020-06-02T19:45:47.149505",
+            "status": "INACTIVE"
+        },
+        "blwfqlmhi.com": {
+            "included_at_epoch": 1591127149.462919,
+            "included_at_iso": "2020-06-02T19:45:49.462919",
+            "last_retested_at_epoch": 1591127149.462919,
+            "last_retested_at_iso": "2020-06-02T19:45:49.462919",
+            "status": "INACTIVE"
+        },
+        "blxbymhjva.info": {
+            "included_at_epoch": 1591127149.542827,
+            "included_at_iso": "2020-06-02T19:45:49.542827",
+            "last_retested_at_epoch": 1591127149.542827,
+            "last_retested_at_iso": "2020-06-02T19:45:49.542827",
+            "status": "INACTIVE"
+        },
+        "bmanpn.com": {
+            "included_at_epoch": 1591127151.14499,
+            "included_at_iso": "2020-06-02T19:45:51.144990",
+            "last_retested_at_epoch": 1591127151.14499,
+            "last_retested_at_iso": "2020-06-02T19:45:51.144990",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591126067.714729,
-            "last_retested_at_iso": "2020-06-02T19:27:47.714729",
+            "last_retested_at_epoch": 1591127142.978395,
+            "last_retested_at_iso": "2020-06-02T19:45:42.978395",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -28451,8 +28507,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591126067.798763,
-            "last_retested_at_iso": "2020-06-02T19:27:47.798763",
+            "last_retested_at_epoch": 1591127142.894093,
+            "last_retested_at_iso": "2020-06-02T19:45:42.894093",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
