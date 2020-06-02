@@ -21364,11 +21364,46 @@
             "last_retested_at_iso": "2020-06-02T10:39:55.165414",
             "status": "INACTIVE"
         },
+        "bencoestadooenlinea.hdkhdcf.com": {
+            "included_at_epoch": 1591095348.837018,
+            "included_at_iso": "2020-06-02T10:55:48.837018",
+            "last_retested_at_epoch": 1591095348.837018,
+            "last_retested_at_iso": "2020-06-02T10:55:48.837018",
+            "status": "INACTIVE"
+        },
+        "beneficios-itau.ml": {
+            "included_at_epoch": 1591095348.923671,
+            "included_at_iso": "2020-06-02T10:55:48.923671",
+            "last_retested_at_epoch": 1591095348.923671,
+            "last_retested_at_iso": "2020-06-02T10:55:48.923671",
+            "status": "INACTIVE"
+        },
+        "benkofamerica.xyz": {
+            "included_at_epoch": 1591095349.02767,
+            "included_at_iso": "2020-06-02T10:55:49.027670",
+            "last_retested_at_epoch": 1591095349.02767,
+            "last_retested_at_iso": "2020-06-02T10:55:49.027670",
+            "status": "INACTIVE"
+        },
+        "beqarcarton.com": {
+            "included_at_epoch": 1591095350.603133,
+            "included_at_iso": "2020-06-02T10:55:50.603133",
+            "last_retested_at_epoch": 1591095350.603133,
+            "last_retested_at_iso": "2020-06-02T10:55:50.603133",
+            "status": "INACTIVE"
+        },
+        "berbagivideoxxx-wa.v-25.com": {
+            "included_at_epoch": 1591095351.473391,
+            "included_at_iso": "2020-06-02T10:55:51.473391",
+            "last_retested_at_epoch": 1591095351.473391,
+            "last_retested_at_iso": "2020-06-02T10:55:51.473391",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591094390.542106,
-            "last_retested_at_iso": "2020-06-02T10:39:50.542106",
+            "last_retested_at_epoch": 1591095348.279888,
+            "last_retested_at_iso": "2020-06-02T10:55:48.279888",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -27597,8 +27632,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591094390.622638,
-            "last_retested_at_iso": "2020-06-02T10:39:50.622638",
+            "last_retested_at_epoch": 1591095348.360667,
+            "last_retested_at_iso": "2020-06-02T10:55:48.360667",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
