@@ -21161,11 +21161,88 @@
             "last_retested_at_iso": "2020-06-02T09:48:09.100433",
             "status": "INACTIVE"
         },
+        "beacons.helium.com": {
+            "included_at_epoch": 1591092205.646926,
+            "included_at_iso": "2020-06-02T10:03:25.646926",
+            "last_retested_at_epoch": 1591092205.646926,
+            "last_retested_at_iso": "2020-06-02T10:03:25.646926",
+            "status": "INACTIVE"
+        },
+        "beamkite.com": {
+            "included_at_epoch": 1591092206.8133,
+            "included_at_iso": "2020-06-02T10:03:26.813300",
+            "last_retested_at_epoch": 1591092206.8133,
+            "last_retested_at_iso": "2020-06-02T10:03:26.813300",
+            "status": "INACTIVE"
+        },
+        "bearsandfish.com": {
+            "included_at_epoch": 1591092208.00685,
+            "included_at_iso": "2020-06-02T10:03:28.006850",
+            "last_retested_at_epoch": 1591092208.00685,
+            "last_retested_at_iso": "2020-06-02T10:03:28.006850",
+            "status": "INACTIVE"
+        },
+        "bearsfring.com": {
+            "included_at_epoch": 1591092208.083184,
+            "included_at_iso": "2020-06-02T10:03:28.083184",
+            "last_retested_at_epoch": 1591092208.083184,
+            "last_retested_at_iso": "2020-06-02T10:03:28.083184",
+            "status": "INACTIVE"
+        },
+        "beatyhousesupporte.su": {
+            "included_at_epoch": 1591092210.363914,
+            "included_at_iso": "2020-06-02T10:03:30.363914",
+            "last_retested_at_epoch": 1591092210.363914,
+            "last_retested_at_iso": "2020-06-02T10:03:30.363914",
+            "status": "INACTIVE"
+        },
+        "beaware.flbanqofme.com": {
+            "included_at_epoch": 1591092211.187864,
+            "included_at_iso": "2020-06-02T10:03:31.187864",
+            "last_retested_at_epoch": 1591092211.187864,
+            "last_retested_at_iso": "2020-06-02T10:03:31.187864",
+            "status": "INACTIVE"
+        },
+        "bedowntoft.com": {
+            "included_at_epoch": 1591092215.281465,
+            "included_at_iso": "2020-06-02T10:03:35.281465",
+            "last_retested_at_epoch": 1591092215.281465,
+            "last_retested_at_iso": "2020-06-02T10:03:35.281465",
+            "status": "INACTIVE"
+        },
+        "bedrock.appl.kp.org": {
+            "included_at_epoch": 1591092215.719987,
+            "included_at_iso": "2020-06-02T10:03:35.719987",
+            "last_retested_at_epoch": 1591092215.719987,
+            "last_retested_at_iso": "2020-06-02T10:03:35.719987",
+            "status": "INACTIVE"
+        },
+        "bedtimesnacks.xyz": {
+            "included_at_epoch": 1591092216.87868,
+            "included_at_iso": "2020-06-02T10:03:36.878680",
+            "last_retested_at_epoch": 1591092216.87868,
+            "last_retested_at_iso": "2020-06-02T10:03:36.878680",
+            "status": "INACTIVE"
+        },
+        "beeho.site": {
+            "included_at_epoch": 1591092219.493862,
+            "included_at_iso": "2020-06-02T10:03:39.493862",
+            "last_retested_at_epoch": 1591092219.493862,
+            "last_retested_at_iso": "2020-06-02T10:03:39.493862",
+            "status": "INACTIVE"
+        },
+        "beerboms.ru": {
+            "included_at_epoch": 1591092221.053535,
+            "included_at_iso": "2020-06-02T10:03:41.053535",
+            "last_retested_at_epoch": 1591092221.053535,
+            "last_retested_at_iso": "2020-06-02T10:03:41.053535",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591091285.043358,
-            "last_retested_at_iso": "2020-06-02T09:48:05.043358",
+            "last_retested_at_epoch": 1591092205.031703,
+            "last_retested_at_iso": "2020-06-02T10:03:25.031703",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -27394,8 +27471,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591091284.963218,
-            "last_retested_at_iso": "2020-06-02T09:48:04.963218",
+            "last_retested_at_epoch": 1591092205.110909,
+            "last_retested_at_iso": "2020-06-02T10:03:25.110909",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
