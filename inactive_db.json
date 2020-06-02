@@ -21420,11 +21420,53 @@
             "last_retested_at_iso": "2020-06-02T11:07:51.612381",
             "status": "INACTIVE"
         },
+        "berryfico.com": {
+            "included_at_epoch": 1591096787.49525,
+            "included_at_iso": "2020-06-02T11:19:47.495250",
+            "last_retested_at_epoch": 1591096787.49525,
+            "last_retested_at_iso": "2020-06-02T11:19:47.495250",
+            "status": "INACTIVE"
+        },
+        "berserker.berserkerforone.top": {
+            "included_at_epoch": 1591096787.575216,
+            "included_at_iso": "2020-06-02T11:19:47.575216",
+            "last_retested_at_epoch": 1591096787.575216,
+            "last_retested_at_iso": "2020-06-02T11:19:47.575216",
+            "status": "INACTIVE"
+        },
+        "best-cargo.ru": {
+            "included_at_epoch": 1591096790.278102,
+            "included_at_iso": "2020-06-02T11:19:50.278102",
+            "last_retested_at_epoch": 1591096790.278102,
+            "last_retested_at_iso": "2020-06-02T11:19:50.278102",
+            "status": "INACTIVE"
+        },
+        "best.infoiswhatwedo.com": {
+            "included_at_epoch": 1591096791.497882,
+            "included_at_iso": "2020-06-02T11:19:51.497882",
+            "last_retested_at_epoch": 1591096791.497882,
+            "last_retested_at_iso": "2020-06-02T11:19:51.497882",
+            "status": "INACTIVE"
+        },
+        "bestbestgirlz.in.net": {
+            "included_at_epoch": 1591096793.419575,
+            "included_at_iso": "2020-06-02T11:19:53.419575",
+            "last_retested_at_epoch": 1591096793.419575,
+            "last_retested_at_iso": "2020-06-02T11:19:53.419575",
+            "status": "INACTIVE"
+        },
+        "bestdaysvoices.com": {
+            "included_at_epoch": 1591096797.235389,
+            "included_at_iso": "2020-06-02T11:19:57.235389",
+            "last_retested_at_epoch": 1591096797.235389,
+            "last_retested_at_iso": "2020-06-02T11:19:57.235389",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591096069.423675,
-            "last_retested_at_iso": "2020-06-02T11:07:49.423675",
+            "last_retested_at_epoch": 1591096786.195506,
+            "last_retested_at_iso": "2020-06-02T11:19:46.195506",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -27653,8 +27695,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591096069.504916,
-            "last_retested_at_iso": "2020-06-02T11:07:49.504916",
+            "last_retested_at_epoch": 1591096786.278201,
+            "last_retested_at_iso": "2020-06-02T11:19:46.278201",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
