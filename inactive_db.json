@@ -20517,11 +20517,74 @@
             "last_retested_at_iso": "2020-06-02T06:48:26.195997",
             "status": "INACTIVE"
         },
+        "banners.apnuk.com": {
+            "included_at_epoch": 1591081227.710569,
+            "included_at_iso": "2020-06-02T07:00:27.710569",
+            "last_retested_at_epoch": 1591081227.710569,
+            "last_retested_at_iso": "2020-06-02T07:00:27.710569",
+            "status": "INACTIVE"
+        },
+        "banners.audioholics.com": {
+            "included_at_epoch": 1591081227.788386,
+            "included_at_iso": "2020-06-02T07:00:27.788386",
+            "last_retested_at_epoch": 1591081227.788386,
+            "last_retested_at_iso": "2020-06-02T07:00:27.788386",
+            "status": "INACTIVE"
+        },
+        "banners.directnic.com": {
+            "included_at_epoch": 1591081227.932267,
+            "included_at_iso": "2020-06-02T07:00:27.932267",
+            "last_retested_at_epoch": 1591081227.932267,
+            "last_retested_at_iso": "2020-06-02T07:00:27.932267",
+            "status": "INACTIVE"
+        },
+        "banners.easydns.com": {
+            "included_at_epoch": 1591081228.026838,
+            "included_at_iso": "2020-06-02T07:00:28.026838",
+            "last_retested_at_epoch": 1591081228.026838,
+            "last_retested_at_iso": "2020-06-02T07:00:28.026838",
+            "status": "INACTIVE"
+        },
+        "banners.ebay.com": {
+            "included_at_epoch": 1591081228.11418,
+            "included_at_iso": "2020-06-02T07:00:28.114180",
+            "last_retested_at_epoch": 1591081228.11418,
+            "last_retested_at_iso": "2020-06-02T07:00:28.114180",
+            "status": "INACTIVE"
+        },
+        "banners.lifeserv.com": {
+            "included_at_epoch": 1591081228.254462,
+            "included_at_iso": "2020-06-02T07:00:28.254462",
+            "last_retested_at_epoch": 1591081228.254462,
+            "last_retested_at_iso": "2020-06-02T07:00:28.254462",
+            "status": "INACTIVE"
+        },
+        "banners.sexsearch.com": {
+            "included_at_epoch": 1591081228.36694,
+            "included_at_iso": "2020-06-02T07:00:28.366940",
+            "last_retested_at_epoch": 1591081228.36694,
+            "last_retested_at_iso": "2020-06-02T07:00:28.366940",
+            "status": "INACTIVE"
+        },
+        "banners4clicks.de": {
+            "included_at_epoch": 1591081228.88321,
+            "included_at_iso": "2020-06-02T07:00:28.883210",
+            "last_retested_at_epoch": 1591081228.88321,
+            "last_retested_at_iso": "2020-06-02T07:00:28.883210",
+            "status": "INACTIVE"
+        },
+        "bannersold.eu": {
+            "included_at_epoch": 1591081230.81691,
+            "included_at_iso": "2020-06-02T07:00:30.816910",
+            "last_retested_at_epoch": 1591081230.81691,
+            "last_retested_at_iso": "2020-06-02T07:00:30.816910",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591080495.927728,
-            "last_retested_at_iso": "2020-06-02T06:48:15.927728",
+            "last_retested_at_epoch": 1591081227.507595,
+            "last_retested_at_iso": "2020-06-02T07:00:27.507595",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -26750,8 +26813,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591080496.005493,
-            "last_retested_at_iso": "2020-06-02T06:48:16.005493",
+            "last_retested_at_epoch": 1591081227.586457,
+            "last_retested_at_iso": "2020-06-02T07:00:27.586457",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
