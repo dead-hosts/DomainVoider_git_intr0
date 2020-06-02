@@ -21399,11 +21399,32 @@
             "last_retested_at_iso": "2020-06-02T10:55:51.473391",
             "status": "INACTIVE"
         },
+        "berentain.ru": {
+            "included_at_epoch": 1591096069.594169,
+            "included_at_iso": "2020-06-02T11:07:49.594169",
+            "last_retested_at_epoch": 1591096069.594169,
+            "last_retested_at_iso": "2020-06-02T11:07:49.594169",
+            "status": "INACTIVE"
+        },
+        "bergabung.realxevent.com": {
+            "included_at_epoch": 1591096070.063573,
+            "included_at_iso": "2020-06-02T11:07:50.063573",
+            "last_retested_at_epoch": 1591096070.063573,
+            "last_retested_at_iso": "2020-06-02T11:07:50.063573",
+            "status": "INACTIVE"
+        },
+        "berkah.verify-unlocked.com": {
+            "included_at_epoch": 1591096071.612381,
+            "included_at_iso": "2020-06-02T11:07:51.612381",
+            "last_retested_at_epoch": 1591096071.612381,
+            "last_retested_at_iso": "2020-06-02T11:07:51.612381",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591095348.279888,
-            "last_retested_at_iso": "2020-06-02T10:55:48.279888",
+            "last_retested_at_epoch": 1591096069.423675,
+            "last_retested_at_iso": "2020-06-02T11:07:49.423675",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -27632,8 +27653,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591095348.360667,
-            "last_retested_at_iso": "2020-06-02T10:55:48.360667",
+            "last_retested_at_epoch": 1591096069.504916,
+            "last_retested_at_iso": "2020-06-02T11:07:49.504916",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
