@@ -21462,11 +21462,46 @@
             "last_retested_at_iso": "2020-06-02T11:19:57.235389",
             "status": "INACTIVE"
         },
+        "bestdove.in.ua": {
+            "included_at_epoch": 1591097516.128269,
+            "included_at_iso": "2020-06-02T11:31:56.128269",
+            "last_retested_at_epoch": 1591097516.128269,
+            "last_retested_at_iso": "2020-06-02T11:31:56.128269",
+            "status": "INACTIVE"
+        },
+        "bestes-produkt-vong-kaufen-her.de": {
+            "included_at_epoch": 1591097516.050989,
+            "included_at_iso": "2020-06-02T11:31:56.050989",
+            "last_retested_at_epoch": 1591097516.050989,
+            "last_retested_at_iso": "2020-06-02T11:31:56.050989",
+            "status": "INACTIVE"
+        },
+        "bestevernews.net": {
+            "included_at_epoch": 1591097516.564953,
+            "included_at_iso": "2020-06-02T11:31:56.564953",
+            "last_retested_at_epoch": 1591097516.564953,
+            "last_retested_at_iso": "2020-06-02T11:31:56.564953",
+            "status": "INACTIVE"
+        },
+        "bestfaceitskins.fun": {
+            "included_at_epoch": 1591097517.025191,
+            "included_at_iso": "2020-06-02T11:31:57.025191",
+            "last_retested_at_epoch": 1591097517.025191,
+            "last_retested_at_iso": "2020-06-02T11:31:57.025191",
+            "status": "INACTIVE"
+        },
+        "besthome-sales.website": {
+            "included_at_epoch": 1591097518.587863,
+            "included_at_iso": "2020-06-02T11:31:58.587863",
+            "last_retested_at_epoch": 1591097518.587863,
+            "last_retested_at_iso": "2020-06-02T11:31:58.587863",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591096786.195506,
-            "last_retested_at_iso": "2020-06-02T11:19:46.195506",
+            "last_retested_at_epoch": 1591097514.750935,
+            "last_retested_at_iso": "2020-06-02T11:31:54.750935",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -27695,8 +27730,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591096786.278201,
-            "last_retested_at_iso": "2020-06-02T11:19:46.278201",
+            "last_retested_at_epoch": 1591097514.8321,
+            "last_retested_at_iso": "2020-06-02T11:31:54.832100",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
