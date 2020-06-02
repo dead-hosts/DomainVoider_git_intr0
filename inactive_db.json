@@ -21840,11 +21840,60 @@
             "last_retested_at_iso": "2020-06-02T15:46:54.843154",
             "status": "INACTIVE"
         },
+        "billing.paypal-activity.net": {
+            "included_at_epoch": 1591114061.177877,
+            "included_at_iso": "2020-06-02T16:07:41.177877",
+            "last_retested_at_epoch": 1591114061.177877,
+            "last_retested_at_iso": "2020-06-02T16:07:41.177877",
+            "status": "INACTIVE"
+        },
+        "bills00recive.com": {
+            "included_at_epoch": 1591114063.601311,
+            "included_at_iso": "2020-06-02T16:07:43.601311",
+            "last_retested_at_epoch": 1591114063.601311,
+            "last_retested_at_iso": "2020-06-02T16:07:43.601311",
+            "status": "INACTIVE"
+        },
+        "bimwswreljucxa.com": {
+            "included_at_epoch": 1591114065.281649,
+            "included_at_iso": "2020-06-02T16:07:45.281649",
+            "last_retested_at_epoch": 1591114065.281649,
+            "last_retested_at_iso": "2020-06-02T16:07:45.281649",
+            "status": "INACTIVE"
+        },
+        "bin-nokia.whatsapp.com": {
+            "included_at_epoch": 1591114065.369844,
+            "included_at_iso": "2020-06-02T16:07:45.369844",
+            "last_retested_at_epoch": 1591114065.369844,
+            "last_retested_at_iso": "2020-06-02T16:07:45.369844",
+            "status": "INACTIVE"
+        },
+        "bin40.com": {
+            "included_at_epoch": 1591114065.843044,
+            "included_at_iso": "2020-06-02T16:07:45.843044",
+            "last_retested_at_epoch": 1591114065.843044,
+            "last_retested_at_iso": "2020-06-02T16:07:45.843044",
+            "status": "INACTIVE"
+        },
+        "binaryad.com": {
+            "included_at_epoch": 1591114066.30283,
+            "included_at_iso": "2020-06-02T16:07:46.302830",
+            "last_retested_at_epoch": 1591114066.30283,
+            "last_retested_at_iso": "2020-06-02T16:07:46.302830",
+            "status": "INACTIVE"
+        },
+        "bing0.ru": {
+            "included_at_epoch": 1591114067.200057,
+            "included_at_iso": "2020-06-02T16:07:47.200057",
+            "last_retested_at_epoch": 1591114067.200057,
+            "last_retested_at_iso": "2020-06-02T16:07:47.200057",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591112813.527022,
-            "last_retested_at_iso": "2020-06-02T15:46:53.527022",
+            "last_retested_at_epoch": 1591114058.352753,
+            "last_retested_at_iso": "2020-06-02T16:07:38.352753",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -28073,8 +28122,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591112813.609449,
-            "last_retested_at_iso": "2020-06-02T15:46:53.609449",
+            "last_retested_at_epoch": 1591114058.270792,
+            "last_retested_at_iso": "2020-06-02T16:07:38.270792",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
