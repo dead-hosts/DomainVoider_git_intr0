@@ -21763,11 +21763,32 @@
             "last_retested_at_iso": "2020-06-02T13:13:46.083065",
             "status": "INACTIVE"
         },
+        "biboi.cn": {
+            "included_at_epoch": 1591104346.497337,
+            "included_at_iso": "2020-06-02T13:25:46.497337",
+            "last_retested_at_epoch": 1591104346.497337,
+            "last_retested_at_iso": "2020-06-02T13:25:46.497337",
+            "status": "INACTIVE"
+        },
+        "bibrath.eu": {
+            "included_at_epoch": 1591104346.937753,
+            "included_at_iso": "2020-06-02T13:25:46.937753",
+            "last_retested_at_epoch": 1591104346.937753,
+            "last_retested_at_iso": "2020-06-02T13:25:46.937753",
+            "status": "INACTIVE"
+        },
+        "bidoraln.com": {
+            "included_at_epoch": 1591104351.488438,
+            "included_at_iso": "2020-06-02T13:25:51.488438",
+            "last_retested_at_epoch": 1591104351.488438,
+            "last_retested_at_iso": "2020-06-02T13:25:51.488438",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591103618.948302,
-            "last_retested_at_iso": "2020-06-02T13:13:38.948302",
+            "last_retested_at_epoch": 1591104343.75323,
+            "last_retested_at_iso": "2020-06-02T13:25:43.753230",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -27996,8 +28017,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591103619.029576,
-            "last_retested_at_iso": "2020-06-02T13:13:39.029576",
+            "last_retested_at_epoch": 1591104343.6713,
+            "last_retested_at_iso": "2020-06-02T13:25:43.671300",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
