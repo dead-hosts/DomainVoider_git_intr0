@@ -21294,11 +21294,81 @@
             "last_retested_at_iso": "2020-06-02T10:27:55.915278",
             "status": "INACTIVE"
         },
+        "bellinghambar.tk": {
+            "included_at_epoch": 1591094390.78158,
+            "included_at_iso": "2020-06-02T10:39:50.781580",
+            "last_retested_at_epoch": 1591094390.78158,
+            "last_retested_at_iso": "2020-06-02T10:39:50.781580",
+            "status": "INACTIVE"
+        },
+        "bellmobile-provider.com": {
+            "included_at_epoch": 1591094390.702302,
+            "included_at_iso": "2020-06-02T10:39:50.702302",
+            "last_retested_at_epoch": 1591094390.702302,
+            "last_retested_at_iso": "2020-06-02T10:39:50.702302",
+            "status": "INACTIVE"
+        },
+        "bellmobilecarrier.com": {
+            "included_at_epoch": 1591094390.879043,
+            "included_at_iso": "2020-06-02T10:39:50.879043",
+            "last_retested_at_epoch": 1591094390.879043,
+            "last_retested_at_iso": "2020-06-02T10:39:50.879043",
+            "status": "INACTIVE"
+        },
+        "bellmobilewireless.info": {
+            "included_at_epoch": 1591094390.958231,
+            "included_at_iso": "2020-06-02T10:39:50.958231",
+            "last_retested_at_epoch": 1591094390.958231,
+            "last_retested_at_iso": "2020-06-02T10:39:50.958231",
+            "status": "INACTIVE"
+        },
+        "belos2nez5hka.ru": {
+            "included_at_epoch": 1591094392.619599,
+            "included_at_iso": "2020-06-02T10:39:52.619599",
+            "last_retested_at_epoch": 1591094392.619599,
+            "last_retested_at_iso": "2020-06-02T10:39:52.619599",
+            "status": "INACTIVE"
+        },
+        "belosne6zhka.ru": {
+            "included_at_epoch": 1591094392.5415,
+            "included_at_iso": "2020-06-02T10:39:52.541500",
+            "last_retested_at_epoch": 1591094392.5415,
+            "last_retested_at_iso": "2020-06-02T10:39:52.541500",
+            "status": "INACTIVE"
+        },
+        "belstat.at": {
+            "included_at_epoch": 1591094392.698408,
+            "included_at_iso": "2020-06-02T10:39:52.698408",
+            "last_retested_at_epoch": 1591094392.698408,
+            "last_retested_at_iso": "2020-06-02T10:39:52.698408",
+            "status": "INACTIVE"
+        },
+        "belstat.ch": {
+            "included_at_epoch": 1591094392.810003,
+            "included_at_iso": "2020-06-02T10:39:52.810003",
+            "last_retested_at_epoch": 1591094392.810003,
+            "last_retested_at_iso": "2020-06-02T10:39:52.810003",
+            "status": "INACTIVE"
+        },
+        "benafidufer-001-site1.itempurl.com": {
+            "included_at_epoch": 1591094395.244102,
+            "included_at_iso": "2020-06-02T10:39:55.244102",
+            "last_retested_at_epoch": 1591094395.244102,
+            "last_retested_at_iso": "2020-06-02T10:39:55.244102",
+            "status": "INACTIVE"
+        },
+        "bench-life.me": {
+            "included_at_epoch": 1591094395.165414,
+            "included_at_iso": "2020-06-02T10:39:55.165414",
+            "last_retested_at_epoch": 1591094395.165414,
+            "last_retested_at_iso": "2020-06-02T10:39:55.165414",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591093672.865235,
-            "last_retested_at_iso": "2020-06-02T10:27:52.865235",
+            "last_retested_at_epoch": 1591094390.542106,
+            "last_retested_at_iso": "2020-06-02T10:39:50.542106",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -27527,8 +27597,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591093672.946417,
-            "last_retested_at_iso": "2020-06-02T10:27:52.946417",
+            "last_retested_at_epoch": 1591094390.622638,
+            "last_retested_at_iso": "2020-06-02T10:39:50.622638",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
