@@ -18669,11 +18669,74 @@
             "last_retested_at_iso": "2020-06-02T02:04:23.927004",
             "status": "INACTIVE"
         },
+        "aspgfx.org": {
+            "included_at_epoch": 1591064215.789201,
+            "included_at_iso": "2020-06-02T02:16:55.789201",
+            "last_retested_at_epoch": 1591064215.789201,
+            "last_retested_at_iso": "2020-06-02T02:16:55.789201",
+            "status": "INACTIVE"
+        },
+        "aspxbwteth.com": {
+            "included_at_epoch": 1591064216.248621,
+            "included_at_iso": "2020-06-02T02:16:56.248621",
+            "last_retested_at_epoch": 1591064216.248621,
+            "last_retested_at_iso": "2020-06-02T02:16:56.248621",
+            "status": "INACTIVE"
+        },
+        "asqbwneriyvur.com": {
+            "included_at_epoch": 1591064216.338945,
+            "included_at_iso": "2020-06-02T02:16:56.338945",
+            "last_retested_at_epoch": 1591064216.338945,
+            "last_retested_at_iso": "2020-06-02T02:16:56.338945",
+            "status": "INACTIVE"
+        },
+        "asqhe.xyz": {
+            "included_at_epoch": 1591064216.858389,
+            "included_at_iso": "2020-06-02T02:16:56.858389",
+            "last_retested_at_epoch": 1591064216.858389,
+            "last_retested_at_iso": "2020-06-02T02:16:56.858389",
+            "status": "INACTIVE"
+        },
+        "asqmessagng.com": {
+            "included_at_epoch": 1591064216.78362,
+            "included_at_iso": "2020-06-02T02:16:56.783620",
+            "last_retested_at_epoch": 1591064216.78362,
+            "last_retested_at_iso": "2020-06-02T02:16:56.783620",
+            "status": "INACTIVE"
+        },
+        "asqusupport.net": {
+            "included_at_epoch": 1591064216.932506,
+            "included_at_iso": "2020-06-02T02:16:56.932506",
+            "last_retested_at_epoch": 1591064216.932506,
+            "last_retested_at_iso": "2020-06-02T02:16:56.932506",
+            "status": "INACTIVE"
+        },
+        "asrjtcddksm.com": {
+            "included_at_epoch": 1591064217.389997,
+            "included_at_iso": "2020-06-02T02:16:57.389997",
+            "last_retested_at_epoch": 1591064217.389997,
+            "last_retested_at_iso": "2020-06-02T02:16:57.389997",
+            "status": "INACTIVE"
+        },
+        "asrjxxzxmxy.com": {
+            "included_at_epoch": 1591064217.835381,
+            "included_at_iso": "2020-06-02T02:16:57.835381",
+            "last_retested_at_epoch": 1591064217.835381,
+            "last_retested_at_iso": "2020-06-02T02:16:57.835381",
+            "status": "INACTIVE"
+        },
+        "assaiatacadaista.net": {
+            "included_at_epoch": 1591064218.666699,
+            "included_at_iso": "2020-06-02T02:16:58.666699",
+            "last_retested_at_epoch": 1591064218.666699,
+            "last_retested_at_iso": "2020-06-02T02:16:58.666699",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591063443.34693,
-            "last_retested_at_iso": "2020-06-02T02:04:03.346930",
+            "last_retested_at_epoch": 1591064214.089607,
+            "last_retested_at_iso": "2020-06-02T02:16:54.089607",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -24902,8 +24965,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591063443.419758,
-            "last_retested_at_iso": "2020-06-02T02:04:03.419758",
+            "last_retested_at_epoch": 1591064214.012189,
+            "last_retested_at_iso": "2020-06-02T02:16:54.012189",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
