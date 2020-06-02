@@ -20580,11 +20580,39 @@
             "last_retested_at_iso": "2020-06-02T07:00:30.816910",
             "status": "INACTIVE"
         },
+        "bannertrade.eu": {
+            "included_at_epoch": 1591081963.098299,
+            "included_at_iso": "2020-06-02T07:12:43.098299",
+            "last_retested_at_epoch": 1591081963.098299,
+            "last_retested_at_iso": "2020-06-02T07:12:43.098299",
+            "status": "INACTIVE"
+        },
+        "banomago.com": {
+            "included_at_epoch": 1591081964.72694,
+            "included_at_iso": "2020-06-02T07:12:44.726940",
+            "last_retested_at_epoch": 1591081964.72694,
+            "last_retested_at_iso": "2020-06-02T07:12:44.726940",
+            "status": "INACTIVE"
+        },
+        "banorte.ayudaen-linea24.com": {
+            "included_at_epoch": 1591081964.803443,
+            "included_at_iso": "2020-06-02T07:12:44.803443",
+            "last_retested_at_epoch": 1591081964.803443,
+            "last_retested_at_iso": "2020-06-02T07:12:44.803443",
+            "status": "INACTIVE"
+        },
+        "banortemx-bxi.com.accesob23.com": {
+            "included_at_epoch": 1591081964.889246,
+            "included_at_iso": "2020-06-02T07:12:44.889246",
+            "last_retested_at_epoch": 1591081964.889246,
+            "last_retested_at_iso": "2020-06-02T07:12:44.889246",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591081227.507595,
-            "last_retested_at_iso": "2020-06-02T07:00:27.507595",
+            "last_retested_at_epoch": 1591081962.238733,
+            "last_retested_at_iso": "2020-06-02T07:12:42.238733",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -26813,8 +26841,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591081227.586457,
-            "last_retested_at_iso": "2020-06-02T07:00:27.586457",
+            "last_retested_at_epoch": 1591081962.158612,
+            "last_retested_at_iso": "2020-06-02T07:12:42.158612",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
