@@ -21532,11 +21532,46 @@
             "last_retested_at_iso": "2020-06-02T11:43:59.325441",
             "status": "INACTIVE"
         },
+        "beta.twitter.com": {
+            "included_at_epoch": 1591099233.728992,
+            "included_at_iso": "2020-06-02T12:00:33.728992",
+            "last_retested_at_epoch": 1591099233.728992,
+            "last_retested_at_iso": "2020-06-02T12:00:33.728992",
+            "status": "INACTIVE"
+        },
+        "beta.whatsapp.com": {
+            "included_at_epoch": 1591099233.806728,
+            "included_at_iso": "2020-06-02T12:00:33.806728",
+            "last_retested_at_epoch": 1591099233.806728,
+            "last_retested_at_iso": "2020-06-02T12:00:33.806728",
+            "status": "INACTIVE"
+        },
+        "betablog.whatsapp.com": {
+            "included_at_epoch": 1591099234.61936,
+            "included_at_iso": "2020-06-02T12:00:34.619360",
+            "last_retested_at_epoch": 1591099234.61936,
+            "last_retested_at_iso": "2020-06-02T12:00:34.619360",
+            "status": "INACTIVE"
+        },
+        "betaffs.com": {
+            "included_at_epoch": 1591099235.070888,
+            "included_at_iso": "2020-06-02T12:00:35.070888",
+            "last_retested_at_epoch": 1591099235.070888,
+            "last_retested_at_iso": "2020-06-02T12:00:35.070888",
+            "status": "INACTIVE"
+        },
+        "betarget.net": {
+            "included_at_epoch": 1591099235.892377,
+            "included_at_iso": "2020-06-02T12:00:35.892377",
+            "last_retested_at_epoch": 1591099235.892377,
+            "last_retested_at_iso": "2020-06-02T12:00:35.892377",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591098232.556384,
-            "last_retested_at_iso": "2020-06-02T11:43:52.556384",
+            "last_retested_at_epoch": 1591099232.081715,
+            "last_retested_at_iso": "2020-06-02T12:00:32.081715",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -27765,8 +27800,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591098232.637558,
-            "last_retested_at_iso": "2020-06-02T11:43:52.637558",
+            "last_retested_at_epoch": 1591099231.999247,
+            "last_retested_at_iso": "2020-06-02T12:00:31.999247",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
