@@ -20811,11 +20811,60 @@
             "last_retested_at_iso": "2020-06-02T08:13:30.288490",
             "status": "INACTIVE"
         },
+        "bbtrf.info": {
+            "included_at_epoch": 1591086592.739152,
+            "included_at_iso": "2020-06-02T08:29:52.739152",
+            "last_retested_at_epoch": 1591086592.739152,
+            "last_retested_at_iso": "2020-06-02T08:29:52.739152",
+            "status": "INACTIVE"
+        },
+        "bbva-yomequedoencasa.com": {
+            "included_at_epoch": 1591086595.086232,
+            "included_at_iso": "2020-06-02T08:29:55.086232",
+            "last_retested_at_epoch": 1591086595.086232,
+            "last_retested_at_iso": "2020-06-02T08:29:55.086232",
+            "status": "INACTIVE"
+        },
+        "bbvjs.com": {
+            "included_at_epoch": 1591086595.924443,
+            "included_at_iso": "2020-06-02T08:29:55.924443",
+            "last_retested_at_epoch": 1591086595.924443,
+            "last_retested_at_iso": "2020-06-02T08:29:55.924443",
+            "status": "INACTIVE"
+        },
+        "bc.loginclientebb.com": {
+            "included_at_epoch": 1591086596.793509,
+            "included_at_iso": "2020-06-02T08:29:56.793509",
+            "last_retested_at_epoch": 1591086596.793509,
+            "last_retested_at_iso": "2020-06-02T08:29:56.793509",
+            "status": "INACTIVE"
+        },
+        "bc05.ru": {
+            "included_at_epoch": 1591086596.873626,
+            "included_at_iso": "2020-06-02T08:29:56.873626",
+            "last_retested_at_epoch": 1591086596.873626,
+            "last_retested_at_iso": "2020-06-02T08:29:56.873626",
+            "status": "INACTIVE"
+        },
+        "bcajjtbzmdrl.com": {
+            "included_at_epoch": 1591086597.711479,
+            "included_at_iso": "2020-06-02T08:29:57.711479",
+            "last_retested_at_epoch": 1591086597.711479,
+            "last_retested_at_iso": "2020-06-02T08:29:57.711479",
+            "status": "INACTIVE"
+        },
+        "bcards.sucure-uk.ga": {
+            "included_at_epoch": 1591086597.788706,
+            "included_at_iso": "2020-06-02T08:29:57.788706",
+            "last_retested_at_epoch": 1591086597.788706,
+            "last_retested_at_iso": "2020-06-02T08:29:57.788706",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591085609.279674,
-            "last_retested_at_iso": "2020-06-02T08:13:29.279674",
+            "last_retested_at_epoch": 1591086591.054323,
+            "last_retested_at_iso": "2020-06-02T08:29:51.054323",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -27044,8 +27093,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591085609.36018,
-            "last_retested_at_iso": "2020-06-02T08:13:29.360180",
+            "last_retested_at_epoch": 1591086591.135461,
+            "last_retested_at_iso": "2020-06-02T08:29:51.135461",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
