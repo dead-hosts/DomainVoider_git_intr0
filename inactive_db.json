@@ -20216,11 +20216,53 @@
             "last_retested_at_iso": "2020-06-02T05:46:39.373240",
             "status": "INACTIVE"
         },
+        "bancooriginal.audixpress.com.br": {
+            "included_at_epoch": 1591077609.313237,
+            "included_at_iso": "2020-06-02T06:00:09.313237",
+            "last_retested_at_epoch": 1591077609.313237,
+            "last_retested_at_iso": "2020-06-02T06:00:09.313237",
+            "status": "INACTIVE"
+        },
+        "bancopromericacr.com": {
+            "included_at_epoch": 1591077609.390105,
+            "included_at_iso": "2020-06-02T06:00:09.390105",
+            "last_retested_at_epoch": 1591077609.390105,
+            "last_retested_at_iso": "2020-06-02T06:00:09.390105",
+            "status": "INACTIVE"
+        },
+        "bancosantander.verificacion.warisanoptima.com": {
+            "included_at_epoch": 1591077609.466624,
+            "included_at_iso": "2020-06-02T06:00:09.466624",
+            "last_retested_at_epoch": 1591077609.466624,
+            "last_retested_at_iso": "2020-06-02T06:00:09.466624",
+            "status": "INACTIVE"
+        },
+        "bandai.hs.llnwd.net": {
+            "included_at_epoch": 1591077609.542398,
+            "included_at_iso": "2020-06-02T06:00:09.542398",
+            "last_retested_at_epoch": 1591077609.542398,
+            "last_retested_at_iso": "2020-06-02T06:00:09.542398",
+            "status": "INACTIVE"
+        },
+        "bandarqiu.website": {
+            "included_at_epoch": 1591077610.358578,
+            "included_at_iso": "2020-06-02T06:00:10.358578",
+            "last_retested_at_epoch": 1591077610.358578,
+            "last_retested_at_iso": "2020-06-02T06:00:10.358578",
+            "status": "INACTIVE"
+        },
+        "banerator.silvercdn.com": {
+            "included_at_epoch": 1591077611.544351,
+            "included_at_iso": "2020-06-02T06:00:11.544351",
+            "last_retested_at_epoch": 1591077611.544351,
+            "last_retested_at_iso": "2020-06-02T06:00:11.544351",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591076784.020358,
-            "last_retested_at_iso": "2020-06-02T05:46:24.020358",
+            "last_retested_at_epoch": 1591077608.377225,
+            "last_retested_at_iso": "2020-06-02T06:00:08.377225",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -26449,8 +26491,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591076784.097552,
-            "last_retested_at_iso": "2020-06-02T05:46:24.097552",
+            "last_retested_at_epoch": 1591077608.456755,
+            "last_retested_at_iso": "2020-06-02T06:00:08.456755",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
