@@ -18438,11 +18438,95 @@
             "last_retested_at_iso": "2020-06-02T01:28:35.539206",
             "status": "INACTIVE"
         },
+        "arti-mediagroup.com": {
+            "included_at_epoch": 1591062039.720246,
+            "included_at_iso": "2020-06-02T01:40:39.720246",
+            "last_retested_at_epoch": 1591062039.720246,
+            "last_retested_at_iso": "2020-06-02T01:40:39.720246",
+            "status": "INACTIVE"
+        },
+        "artnaturecenter.net": {
+            "included_at_epoch": 1591062040.158378,
+            "included_at_iso": "2020-06-02T01:40:40.158378",
+            "last_retested_at_epoch": 1591062040.158378,
+            "last_retested_at_iso": "2020-06-02T01:40:40.158378",
+            "status": "INACTIVE"
+        },
+        "artsdvaguur.com": {
+            "included_at_epoch": 1591062041.336356,
+            "included_at_iso": "2020-06-02T01:40:41.336356",
+            "last_retested_at_epoch": 1591062041.336356,
+            "last_retested_at_iso": "2020-06-02T01:40:41.336356",
+            "status": "INACTIVE"
+        },
+        "artsimonns.com": {
+            "included_at_epoch": 1591062041.408125,
+            "included_at_iso": "2020-06-02T01:40:41.408125",
+            "last_retested_at_epoch": 1591062041.408125,
+            "last_retested_at_iso": "2020-06-02T01:40:41.408125",
+            "status": "INACTIVE"
+        },
+        "arturtrack.com": {
+            "included_at_epoch": 1591062041.849937,
+            "included_at_iso": "2020-06-02T01:40:41.849937",
+            "last_retested_at_epoch": 1591062041.849937,
+            "last_retested_at_iso": "2020-06-02T01:40:41.849937",
+            "status": "INACTIVE"
+        },
+        "aruba-covid19.u720493s8q.ha004.t.justns.ru": {
+            "included_at_epoch": 1591062041.924544,
+            "included_at_iso": "2020-06-02T01:40:41.924544",
+            "last_retested_at_epoch": 1591062041.924544,
+            "last_retested_at_iso": "2020-06-02T01:40:41.924544",
+            "status": "INACTIVE"
+        },
+        "aruba.it.youkahama.com.au": {
+            "included_at_epoch": 1591062042.753988,
+            "included_at_iso": "2020-06-02T01:40:42.753988",
+            "last_retested_at_epoch": 1591062042.753988,
+            "last_retested_at_iso": "2020-06-02T01:40:42.753988",
+            "status": "INACTIVE"
+        },
+        "arvision.com.co": {
+            "included_at_epoch": 1591062042.828831,
+            "included_at_iso": "2020-06-02T01:40:42.828831",
+            "last_retested_at_epoch": 1591062042.828831,
+            "last_retested_at_iso": "2020-06-02T01:40:42.828831",
+            "status": "INACTIVE"
+        },
+        "arwlvjqzxxnftz.com": {
+            "included_at_epoch": 1591062042.910597,
+            "included_at_iso": "2020-06-02T01:40:42.910597",
+            "last_retested_at_epoch": 1591062042.910597,
+            "last_retested_at_iso": "2020-06-02T01:40:42.910597",
+            "status": "INACTIVE"
+        },
+        "as.gooodloooking.com": {
+            "included_at_epoch": 1591062043.743588,
+            "included_at_iso": "2020-06-02T01:40:43.743588",
+            "last_retested_at_epoch": 1591062043.743588,
+            "last_retested_at_iso": "2020-06-02T01:40:43.743588",
+            "status": "INACTIVE"
+        },
+        "as1.advfn.com": {
+            "included_at_epoch": 1591062044.19448,
+            "included_at_iso": "2020-06-02T01:40:44.194480",
+            "last_retested_at_epoch": 1591062044.19448,
+            "last_retested_at_iso": "2020-06-02T01:40:44.194480",
+            "status": "INACTIVE"
+        },
+        "as2.advfn.com": {
+            "included_at_epoch": 1591062044.27357,
+            "included_at_iso": "2020-06-02T01:40:44.273570",
+            "last_retested_at_epoch": 1591062044.27357,
+            "last_retested_at_iso": "2020-06-02T01:40:44.273570",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591061307.078702,
-            "last_retested_at_iso": "2020-06-02T01:28:27.078702",
+            "last_retested_at_epoch": 1591062037.755251,
+            "last_retested_at_iso": "2020-06-02T01:40:37.755251",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -24671,8 +24755,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591061307.004141,
-            "last_retested_at_iso": "2020-06-02T01:28:27.004141",
+            "last_retested_at_epoch": 1591062037.681542,
+            "last_retested_at_iso": "2020-06-02T01:40:37.681542",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
