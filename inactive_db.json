@@ -20454,11 +20454,74 @@
             "last_retested_at_iso": "2020-06-02T06:36:22.045375",
             "status": "INACTIVE"
         },
+        "banner.server-t4.de": {
+            "included_at_epoch": 1591080496.080665,
+            "included_at_iso": "2020-06-02T06:48:16.080665",
+            "last_retested_at_epoch": 1591080496.080665,
+            "last_retested_at_iso": "2020-06-02T06:48:16.080665",
+            "status": "INACTIVE"
+        },
+        "banner.setrowid.com": {
+            "included_at_epoch": 1591080496.163622,
+            "included_at_iso": "2020-06-02T06:48:16.163622",
+            "last_retested_at_epoch": 1591080496.163622,
+            "last_retested_at_iso": "2020-06-02T06:48:16.163622",
+            "status": "INACTIVE"
+        },
+        "banner.t-online.de": {
+            "included_at_epoch": 1591080496.237834,
+            "included_at_iso": "2020-06-02T06:48:16.237834",
+            "last_retested_at_epoch": 1591080496.237834,
+            "last_retested_at_iso": "2020-06-02T06:48:16.237834",
+            "status": "INACTIVE"
+        },
+        "banner.wirenode.com": {
+            "included_at_epoch": 1591080496.370362,
+            "included_at_iso": "2020-06-02T06:48:16.370362",
+            "last_retested_at_epoch": 1591080496.370362,
+            "last_retested_at_iso": "2020-06-02T06:48:16.370362",
+            "status": "INACTIVE"
+        },
+        "bannerblasters.com": {
+            "included_at_epoch": 1591080497.189222,
+            "included_at_iso": "2020-06-02T06:48:17.189222",
+            "last_retested_at_epoch": 1591080497.189222,
+            "last_retested_at_iso": "2020-06-02T06:48:17.189222",
+            "status": "INACTIVE"
+        },
+        "bannerbro.ru": {
+            "included_at_epoch": 1591080498.704729,
+            "included_at_iso": "2020-06-02T06:48:18.704729",
+            "last_retested_at_epoch": 1591080498.704729,
+            "last_retested_at_iso": "2020-06-02T06:48:18.704729",
+            "status": "INACTIVE"
+        },
+        "bannerd.ru": {
+            "included_at_epoch": 1591080500.950513,
+            "included_at_iso": "2020-06-02T06:48:20.950513",
+            "last_retested_at_epoch": 1591080500.950513,
+            "last_retested_at_iso": "2020-06-02T06:48:20.950513",
+            "status": "INACTIVE"
+        },
+        "bannerexchange.cjb.net": {
+            "included_at_epoch": 1591080501.025572,
+            "included_at_iso": "2020-06-02T06:48:21.025572",
+            "last_retested_at_epoch": 1591080501.025572,
+            "last_retested_at_iso": "2020-06-02T06:48:21.025572",
+            "status": "INACTIVE"
+        },
+        "bannerplace.it": {
+            "included_at_epoch": 1591080506.195997,
+            "included_at_iso": "2020-06-02T06:48:26.195997",
+            "last_retested_at_epoch": 1591080506.195997,
+            "last_retested_at_iso": "2020-06-02T06:48:26.195997",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591079781.096926,
-            "last_retested_at_iso": "2020-06-02T06:36:21.096926",
+            "last_retested_at_epoch": 1591080495.927728,
+            "last_retested_at_iso": "2020-06-02T06:48:15.927728",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -26687,8 +26750,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591079781.175251,
-            "last_retested_at_iso": "2020-06-02T06:36:21.175251",
+            "last_retested_at_epoch": 1591080496.005493,
+            "last_retested_at_iso": "2020-06-02T06:48:16.005493",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
