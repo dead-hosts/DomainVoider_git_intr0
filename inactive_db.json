@@ -21994,11 +21994,53 @@
             "last_retested_at_iso": "2020-06-02T16:43:55.121854",
             "status": "INACTIVE"
         },
+        "bitvertise.io": {
+            "included_at_epoch": 1591117167.087361,
+            "included_at_iso": "2020-06-02T16:59:27.087361",
+            "last_retested_at_epoch": 1591117167.087361,
+            "last_retested_at_iso": "2020-06-02T16:59:27.087361",
+            "status": "INACTIVE"
+        },
+        "biupcyhpmjazv.com": {
+            "included_at_epoch": 1591117168.302115,
+            "included_at_iso": "2020-06-02T16:59:28.302115",
+            "last_retested_at_epoch": 1591117168.302115,
+            "last_retested_at_iso": "2020-06-02T16:59:28.302115",
+            "status": "INACTIVE"
+        },
+        "bixolsoqluvzpu.com": {
+            "included_at_epoch": 1591117169.138279,
+            "included_at_iso": "2020-06-02T16:59:29.138279",
+            "last_retested_at_epoch": 1591117169.138279,
+            "last_retested_at_iso": "2020-06-02T16:59:29.138279",
+            "status": "INACTIVE"
+        },
+        "biyibia.com": {
+            "included_at_epoch": 1591117169.977352,
+            "included_at_iso": "2020-06-02T16:59:29.977352",
+            "last_retested_at_epoch": 1591117169.977352,
+            "last_retested_at_iso": "2020-06-02T16:59:29.977352",
+            "status": "INACTIVE"
+        },
+        "bizagi-nw-qa.appl.kp.org": {
+            "included_at_epoch": 1591117170.451713,
+            "included_at_iso": "2020-06-02T16:59:30.451713",
+            "last_retested_at_epoch": 1591117170.451713,
+            "last_retested_at_iso": "2020-06-02T16:59:30.451713",
+            "status": "INACTIVE"
+        },
+        "bizcom.com.ru": {
+            "included_at_epoch": 1591117170.912224,
+            "included_at_iso": "2020-06-02T16:59:30.912224",
+            "last_retested_at_epoch": 1591117170.912224,
+            "last_retested_at_iso": "2020-06-02T16:59:30.912224",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591116227.354461,
-            "last_retested_at_iso": "2020-06-02T16:43:47.354461",
+            "last_retested_at_epoch": 1591117166.508824,
+            "last_retested_at_iso": "2020-06-02T16:59:26.508824",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -28227,8 +28269,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591116227.272132,
-            "last_retested_at_iso": "2020-06-02T16:43:47.272132",
+            "last_retested_at_epoch": 1591117166.5926,
+            "last_retested_at_iso": "2020-06-02T16:59:26.592600",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
