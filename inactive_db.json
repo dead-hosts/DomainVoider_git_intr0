@@ -22155,11 +22155,46 @@
             "last_retested_at_iso": "2020-06-02T18:23:16.742459",
             "status": "INACTIVE"
         },
+        "blessdi.com": {
+            "included_at_epoch": 1591122960.919529,
+            "included_at_iso": "2020-06-02T18:36:00.919529",
+            "last_retested_at_epoch": 1591122960.919529,
+            "last_retested_at_iso": "2020-06-02T18:36:00.919529",
+            "status": "INACTIVE"
+        },
+        "blfyquz.cn": {
+            "included_at_epoch": 1591122961.376254,
+            "included_at_iso": "2020-06-02T18:36:01.376254",
+            "last_retested_at_epoch": 1591122961.376254,
+            "last_retested_at_iso": "2020-06-02T18:36:01.376254",
+            "status": "INACTIVE"
+        },
+        "blizzardcheck.com": {
+            "included_at_epoch": 1591122964.730139,
+            "included_at_iso": "2020-06-02T18:36:04.730139",
+            "last_retested_at_epoch": 1591122964.730139,
+            "last_retested_at_iso": "2020-06-02T18:36:04.730139",
+            "status": "INACTIVE"
+        },
+        "blockchain.com-token.id": {
+            "included_at_epoch": 1591122966.620302,
+            "included_at_iso": "2020-06-02T18:36:06.620302",
+            "last_retested_at_epoch": 1591122966.620302,
+            "last_retested_at_iso": "2020-06-02T18:36:06.620302",
+            "status": "INACTIVE"
+        },
+        "blog.raw-recruits.com": {
+            "included_at_epoch": 1591122968.630847,
+            "included_at_iso": "2020-06-02T18:36:08.630847",
+            "last_retested_at_epoch": 1591122968.630847,
+            "last_retested_at_iso": "2020-06-02T18:36:08.630847",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591122186.182165,
-            "last_retested_at_iso": "2020-06-02T18:23:06.182165",
+            "last_retested_at_epoch": 1591122960.015089,
+            "last_retested_at_iso": "2020-06-02T18:36:00.015089",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -28388,8 +28423,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591122186.263068,
-            "last_retested_at_iso": "2020-06-02T18:23:06.263068",
+            "last_retested_at_epoch": 1591122960.095973,
+            "last_retested_at_iso": "2020-06-02T18:36:00.095973",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
