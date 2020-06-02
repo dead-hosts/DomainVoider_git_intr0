@@ -18872,11 +18872,81 @@
             "last_retested_at_iso": "2020-06-02T02:56:02.468711",
             "status": "INACTIVE"
         },
+        "atualizacao.dados.itau.com.br.mercadop.com": {
+            "included_at_epoch": 1591067289.205491,
+            "included_at_iso": "2020-06-02T03:08:09.205491",
+            "last_retested_at_epoch": 1591067289.205491,
+            "last_retested_at_iso": "2020-06-02T03:08:09.205491",
+            "status": "INACTIVE"
+        },
+        "atualizacaoitaucard.com": {
+            "included_at_epoch": 1591067290.00725,
+            "included_at_iso": "2020-06-02T03:08:10.007250",
+            "last_retested_at_epoch": 1591067290.00725,
+            "last_retested_at_iso": "2020-06-02T03:08:10.007250",
+            "status": "INACTIVE"
+        },
+        "atualizacaoobrigatoria24horas.duckdns.org": {
+            "included_at_epoch": 1591067290.441609,
+            "included_at_iso": "2020-06-02T03:08:10.441609",
+            "last_retested_at_epoch": 1591067290.441609,
+            "last_retested_at_iso": "2020-06-02T03:08:10.441609",
+            "status": "INACTIVE"
+        },
+        "atuoki.shoesmogul.com": {
+            "included_at_epoch": 1591067291.628197,
+            "included_at_iso": "2020-06-02T03:08:11.628197",
+            "last_retested_at_epoch": 1591067291.628197,
+            "last_retested_at_iso": "2020-06-02T03:08:11.628197",
+            "status": "INACTIVE"
+        },
+        "au-jjc.com": {
+            "included_at_epoch": 1591067293.866997,
+            "included_at_iso": "2020-06-02T03:08:13.866997",
+            "last_retested_at_epoch": 1591067293.866997,
+            "last_retested_at_iso": "2020-06-02T03:08:13.866997",
+            "status": "INACTIVE"
+        },
+        "au-jje.com": {
+            "included_at_epoch": 1591067294.304203,
+            "included_at_iso": "2020-06-02T03:08:14.304203",
+            "last_retested_at_epoch": 1591067294.304203,
+            "last_retested_at_iso": "2020-06-02T03:08:14.304203",
+            "status": "INACTIVE"
+        },
+        "au-jjg.com": {
+            "included_at_epoch": 1591067294.376109,
+            "included_at_iso": "2020-06-02T03:08:14.376109",
+            "last_retested_at_epoch": 1591067294.376109,
+            "last_retested_at_iso": "2020-06-02T03:08:14.376109",
+            "status": "INACTIVE"
+        },
+        "au-jjh.com": {
+            "included_at_epoch": 1591067294.448289,
+            "included_at_iso": "2020-06-02T03:08:14.448289",
+            "last_retested_at_epoch": 1591067294.448289,
+            "last_retested_at_iso": "2020-06-02T03:08:14.448289",
+            "status": "INACTIVE"
+        },
+        "auaop.com": {
+            "included_at_epoch": 1591067294.896981,
+            "included_at_iso": "2020-06-02T03:08:14.896981",
+            "last_retested_at_epoch": 1591067294.896981,
+            "last_retested_at_iso": "2020-06-02T03:08:14.896981",
+            "status": "INACTIVE"
+        },
+        "aubhiple2.com": {
+            "included_at_epoch": 1591067294.969002,
+            "included_at_iso": "2020-06-02T03:08:14.969002",
+            "last_retested_at_epoch": 1591067294.969002,
+            "last_retested_at_iso": "2020-06-02T03:08:14.969002",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591066553.609877,
-            "last_retested_at_iso": "2020-06-02T02:55:53.609877",
+            "last_retested_at_epoch": 1591067286.298129,
+            "last_retested_at_iso": "2020-06-02T03:08:06.298129",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -25105,8 +25175,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591066553.535659,
-            "last_retested_at_iso": "2020-06-02T02:55:53.535659",
+            "last_retested_at_epoch": 1591067286.372683,
+            "last_retested_at_iso": "2020-06-02T03:08:06.372683",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
