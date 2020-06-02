@@ -18354,11 +18354,67 @@
             "last_retested_at_iso": "2020-06-02T01:03:05.829009",
             "status": "INACTIVE"
         },
+        "arcfwcxi.com": {
+            "included_at_epoch": 1591060572.909173,
+            "included_at_iso": "2020-06-02T01:16:12.909173",
+            "last_retested_at_epoch": 1591060572.909173,
+            "last_retested_at_iso": "2020-06-02T01:16:12.909173",
+            "status": "INACTIVE"
+        },
+        "arch-nicto.com": {
+            "included_at_epoch": 1591060572.98335,
+            "included_at_iso": "2020-06-02T01:16:12.983350",
+            "last_retested_at_epoch": 1591060572.98335,
+            "last_retested_at_iso": "2020-06-02T01:16:12.983350",
+            "status": "INACTIVE"
+        },
+        "arcor-adserving.de": {
+            "included_at_epoch": 1591060573.840767,
+            "included_at_iso": "2020-06-02T01:16:13.840767",
+            "last_retested_at_epoch": 1591060573.840767,
+            "last_retested_at_iso": "2020-06-02T01:16:13.840767",
+            "status": "INACTIVE"
+        },
+        "arcreturn.online": {
+            "included_at_epoch": 1591060573.928979,
+            "included_at_iso": "2020-06-02T01:16:13.928979",
+            "last_retested_at_epoch": 1591060573.928979,
+            "last_retested_at_iso": "2020-06-02T01:16:13.928979",
+            "status": "INACTIVE"
+        },
+        "arddxjkwrp.xyz": {
+            "included_at_epoch": 1591060574.00922,
+            "included_at_iso": "2020-06-02T01:16:14.009220",
+            "last_retested_at_epoch": 1591060574.00922,
+            "last_retested_at_iso": "2020-06-02T01:16:14.009220",
+            "status": "INACTIVE"
+        },
+        "ardiver.ru": {
+            "included_at_epoch": 1591060574.450673,
+            "included_at_iso": "2020-06-02T01:16:14.450673",
+            "last_retested_at_epoch": 1591060574.450673,
+            "last_retested_at_iso": "2020-06-02T01:16:14.450673",
+            "status": "INACTIVE"
+        },
+        "arecio.work": {
+            "included_at_epoch": 1591060578.226445,
+            "included_at_iso": "2020-06-02T01:16:18.226445",
+            "last_retested_at_epoch": 1591060578.226445,
+            "last_retested_at_iso": "2020-06-02T01:16:18.226445",
+            "status": "INACTIVE"
+        },
+        "arganostrella.com": {
+            "included_at_epoch": 1591060580.32219,
+            "included_at_iso": "2020-06-02T01:16:20.322190",
+            "last_retested_at_epoch": 1591060580.32219,
+            "last_retested_at_iso": "2020-06-02T01:16:20.322190",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591059767.691646,
-            "last_retested_at_iso": "2020-06-02T01:02:47.691646",
+            "last_retested_at_epoch": 1591060572.759678,
+            "last_retested_at_iso": "2020-06-02T01:16:12.759678",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -24587,8 +24643,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591059767.763866,
-            "last_retested_at_iso": "2020-06-02T01:02:47.763866",
+            "last_retested_at_epoch": 1591060572.836253,
+            "last_retested_at_iso": "2020-06-02T01:16:12.836253",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
