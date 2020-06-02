@@ -21602,11 +21602,95 @@
             "last_retested_at_iso": "2020-06-02T12:12:35.840725",
             "status": "INACTIVE"
         },
+        "beveiliging-mijncards.noez.me": {
+            "included_at_epoch": 1591100671.304039,
+            "included_at_iso": "2020-06-02T12:24:31.304039",
+            "last_retested_at_epoch": 1591100671.304039,
+            "last_retested_at_iso": "2020-06-02T12:24:31.304039",
+            "status": "INACTIVE"
+        },
+        "bezoya.work": {
+            "included_at_epoch": 1591100672.851831,
+            "included_at_iso": "2020-06-02T12:24:32.851831",
+            "last_retested_at_epoch": 1591100672.851831,
+            "last_retested_at_iso": "2020-06-02T12:24:32.851831",
+            "status": "INACTIVE"
+        },
+        "bf41f552ceb9a150ee17.date": {
+            "included_at_epoch": 1591100674.413668,
+            "included_at_iso": "2020-06-02T12:24:34.413668",
+            "last_retested_at_epoch": 1591100674.413668,
+            "last_retested_at_iso": "2020-06-02T12:24:34.413668",
+            "status": "INACTIVE"
+        },
+        "bfd45u8ehdklrfqwlhbhjbgqw.niptana.at": {
+            "included_at_epoch": 1591100675.584271,
+            "included_at_iso": "2020-06-02T12:24:35.584271",
+            "last_retested_at_epoch": 1591100675.584271,
+            "last_retested_at_iso": "2020-06-02T12:24:35.584271",
+            "status": "INACTIVE"
+        },
+        "bfdmka.com": {
+            "included_at_epoch": 1591100675.66245,
+            "included_at_iso": "2020-06-02T12:24:35.662450",
+            "last_retested_at_epoch": 1591100675.66245,
+            "last_retested_at_iso": "2020-06-02T12:24:35.662450",
+            "status": "INACTIVE"
+        },
+        "bfhlxjwc.com": {
+            "included_at_epoch": 1591100677.572714,
+            "included_at_iso": "2020-06-02T12:24:37.572714",
+            "last_retested_at_epoch": 1591100677.572714,
+            "last_retested_at_iso": "2020-06-02T12:24:37.572714",
+            "status": "INACTIVE"
+        },
+        "bfjks.7ack9.cn": {
+            "included_at_epoch": 1591100677.650474,
+            "included_at_iso": "2020-06-02T12:24:37.650474",
+            "last_retested_at_epoch": 1591100677.650474,
+            "last_retested_at_iso": "2020-06-02T12:24:37.650474",
+            "status": "INACTIVE"
+        },
+        "bfmrffluuazwn.com": {
+            "included_at_epoch": 1591100679.184948,
+            "included_at_iso": "2020-06-02T12:24:39.184948",
+            "last_retested_at_epoch": 1591100679.184948,
+            "last_retested_at_iso": "2020-06-02T12:24:39.184948",
+            "status": "INACTIVE"
+        },
+        "bfxyyo.com": {
+            "included_at_epoch": 1591100680.718341,
+            "included_at_iso": "2020-06-02T12:24:40.718341",
+            "last_retested_at_epoch": 1591100680.718341,
+            "last_retested_at_iso": "2020-06-02T12:24:40.718341",
+            "status": "INACTIVE"
+        },
+        "bgchxhhzdee.com": {
+            "included_at_epoch": 1591100681.921158,
+            "included_at_iso": "2020-06-02T12:24:41.921158",
+            "last_retested_at_epoch": 1591100681.921158,
+            "last_retested_at_iso": "2020-06-02T12:24:41.921158",
+            "status": "INACTIVE"
+        },
+        "bgcsojmtgdrv.com": {
+            "included_at_epoch": 1591100682.728404,
+            "included_at_iso": "2020-06-02T12:24:42.728404",
+            "last_retested_at_epoch": 1591100682.728404,
+            "last_retested_at_iso": "2020-06-02T12:24:42.728404",
+            "status": "INACTIVE"
+        },
+        "bgfdrngowyy.com": {
+            "included_at_epoch": 1591100682.807209,
+            "included_at_iso": "2020-06-02T12:24:42.807209",
+            "last_retested_at_epoch": 1591100682.807209,
+            "last_retested_at_iso": "2020-06-02T12:24:42.807209",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591099948.89282,
-            "last_retested_at_iso": "2020-06-02T12:12:28.892820",
+            "last_retested_at_epoch": 1591100670.734739,
+            "last_retested_at_iso": "2020-06-02T12:24:30.734739",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -27835,8 +27919,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591099948.811501,
-            "last_retested_at_iso": "2020-06-02T12:12:28.811501",
+            "last_retested_at_epoch": 1591100670.816641,
+            "last_retested_at_iso": "2020-06-02T12:24:30.816641",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
