@@ -20132,11 +20132,95 @@
             "last_retested_at_iso": "2020-06-02T05:34:29.973604",
             "status": "INACTIVE"
         },
+        "balancebreath.com": {
+            "included_at_epoch": 1591076789.711876,
+            "included_at_iso": "2020-06-02T05:46:29.711876",
+            "last_retested_at_epoch": 1591076789.711876,
+            "last_retested_at_iso": "2020-06-02T05:46:29.711876",
+            "status": "INACTIVE"
+        },
+        "baliwag.xyz": {
+            "included_at_epoch": 1591076792.742101,
+            "included_at_iso": "2020-06-02T05:46:32.742101",
+            "last_retested_at_epoch": 1591076792.742101,
+            "last_retested_at_iso": "2020-06-02T05:46:32.742101",
+            "status": "INACTIVE"
+        },
+        "bambar.net": {
+            "included_at_epoch": 1591076794.644066,
+            "included_at_iso": "2020-06-02T05:46:34.644066",
+            "last_retested_at_epoch": 1591076794.644066,
+            "last_retested_at_iso": "2020-06-02T05:46:34.644066",
+            "status": "INACTIVE"
+        },
+        "bambinos.bounceme.net": {
+            "included_at_epoch": 1591076795.088655,
+            "included_at_iso": "2020-06-02T05:46:35.088655",
+            "last_retested_at_epoch": 1591076795.088655,
+            "last_retested_at_iso": "2020-06-02T05:46:35.088655",
+            "status": "INACTIVE"
+        },
+        "ban-6886119139.vrsackagimnazija.edu.rs": {
+            "included_at_epoch": 1591076795.531426,
+            "included_at_iso": "2020-06-02T05:46:35.531426",
+            "last_retested_at_epoch": 1591076795.531426,
+            "last_retested_at_iso": "2020-06-02T05:46:35.531426",
+            "status": "INACTIVE"
+        },
+        "bana01.sakura.ne.jp": {
+            "included_at_epoch": 1591076795.633709,
+            "included_at_iso": "2020-06-02T05:46:35.633709",
+            "last_retested_at_epoch": 1591076795.633709,
+            "last_retested_at_iso": "2020-06-02T05:46:35.633709",
+            "status": "INACTIVE"
+        },
+        "banaad.sakura.ne.jp": {
+            "included_at_epoch": 1591076795.783375,
+            "included_at_iso": "2020-06-02T05:46:35.783375",
+            "last_retested_at_epoch": 1591076795.783375,
+            "last_retested_at_iso": "2020-06-02T05:46:35.783375",
+            "status": "INACTIVE"
+        },
+        "banacity.gasuki.com": {
+            "included_at_epoch": 1591076795.709068,
+            "included_at_iso": "2020-06-02T05:46:35.709068",
+            "last_retested_at_epoch": 1591076795.709068,
+            "last_retested_at_iso": "2020-06-02T05:46:35.709068",
+            "status": "INACTIVE"
+        },
+        "banco-online30horasatendimentoaocliente.clienteapp.info": {
+            "included_at_epoch": 1591076798.779014,
+            "included_at_iso": "2020-06-02T05:46:38.779014",
+            "last_retested_at_epoch": 1591076798.779014,
+            "last_retested_at_iso": "2020-06-02T05:46:38.779014",
+            "status": "INACTIVE"
+        },
+        "banco-original-br.mywire.org": {
+            "included_at_epoch": 1591076798.854067,
+            "included_at_iso": "2020-06-02T05:46:38.854067",
+            "last_retested_at_epoch": 1591076798.854067,
+            "last_retested_at_iso": "2020-06-02T05:46:38.854067",
+            "status": "INACTIVE"
+        },
+        "banco.bradescobr.digital": {
+            "included_at_epoch": 1591076799.29807,
+            "included_at_iso": "2020-06-02T05:46:39.298070",
+            "last_retested_at_epoch": 1591076799.29807,
+            "last_retested_at_iso": "2020-06-02T05:46:39.298070",
+            "status": "INACTIVE"
+        },
+        "bancochile-portal.net": {
+            "included_at_epoch": 1591076799.37324,
+            "included_at_iso": "2020-06-02T05:46:39.373240",
+            "last_retested_at_epoch": 1591076799.37324,
+            "last_retested_at_iso": "2020-06-02T05:46:39.373240",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591076058.081607,
-            "last_retested_at_iso": "2020-06-02T05:34:18.081607",
+            "last_retested_at_epoch": 1591076784.020358,
+            "last_retested_at_iso": "2020-06-02T05:46:24.020358",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -26365,8 +26449,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591076058.158775,
-            "last_retested_at_iso": "2020-06-02T05:34:18.158775",
+            "last_retested_at_epoch": 1591076784.097552,
+            "last_retested_at_iso": "2020-06-02T05:46:24.097552",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
