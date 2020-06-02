@@ -22785,18 +22785,74 @@
             "last_retested_at_iso": "2020-06-02T22:53:42.893333",
             "status": "INACTIVE"
         },
+        "boostads.site": {
+            "included_at_epoch": 1591139146.021125,
+            "included_at_iso": "2020-06-02T23:05:46.021125",
+            "last_retested_at_epoch": 1591139146.021125,
+            "last_retested_at_iso": "2020-06-02T23:05:46.021125",
+            "status": "INACTIVE"
+        },
+        "boostshow.com": {
+            "included_at_epoch": 1591139146.82979,
+            "included_at_iso": "2020-06-02T23:05:46.829790",
+            "last_retested_at_epoch": 1591139146.82979,
+            "last_retested_at_iso": "2020-06-02T23:05:46.829790",
+            "status": "INACTIVE"
+        },
+        "boqdapoiv.com": {
+            "included_at_epoch": 1591139149.130818,
+            "included_at_iso": "2020-06-02T23:05:49.130818",
+            "last_retested_at_epoch": 1591139149.130818,
+            "last_retested_at_iso": "2020-06-02T23:05:49.130818",
+            "status": "INACTIVE"
+        },
+        "bora.studentworkbook.pw": {
+            "included_at_epoch": 1591139149.210984,
+            "included_at_iso": "2020-06-02T23:05:49.210984",
+            "last_retested_at_epoch": 1591139149.210984,
+            "last_retested_at_iso": "2020-06-02T23:05:49.210984",
+            "status": "INACTIVE"
+        },
+        "bornobid.com": {
+            "included_at_epoch": 1591139151.845805,
+            "included_at_iso": "2020-06-02T23:05:51.845805",
+            "last_retested_at_epoch": 1591139151.845805,
+            "last_retested_at_iso": "2020-06-02T23:05:51.845805",
+            "status": "INACTIVE"
+        },
+        "boroto.ru": {
+            "included_at_epoch": 1591139152.293905,
+            "included_at_iso": "2020-06-02T23:05:52.293905",
+            "last_retested_at_epoch": 1591139152.293905,
+            "last_retested_at_iso": "2020-06-02T23:05:52.293905",
+            "status": "INACTIVE"
+        },
+        "borrot.de": {
+            "included_at_epoch": 1591139152.738618,
+            "included_at_iso": "2020-06-02T23:05:52.738618",
+            "last_retested_at_epoch": 1591139152.738618,
+            "last_retested_at_iso": "2020-06-02T23:05:52.738618",
+            "status": "INACTIVE"
+        },
+        "botiviga.com": {
+            "included_at_epoch": 1591139155.795307,
+            "included_at_iso": "2020-06-02T23:05:55.795307",
+            "last_retested_at_epoch": 1591139155.795307,
+            "last_retested_at_iso": "2020-06-02T23:05:55.795307",
+            "status": "INACTIVE"
+        },
+        "bots.configbinbots.info": {
+            "included_at_epoch": 1591139157.340943,
+            "included_at_iso": "2020-06-02T23:05:57.340943",
+            "last_retested_at_epoch": 1591139157.340943,
+            "last_retested_at_iso": "2020-06-02T23:05:57.340943",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591138416.369438,
-            "last_retested_at_iso": "2020-06-02T22:53:36.369438",
-            "status": "INACTIVE"
-        },
-        "reply-lnstagram.tk": {
-            "included_at_epoch": 1588718675.571287,
-            "included_at_iso": "2020-05-05T22:44:35.571287",
-            "last_retested_at_epoch": 1588718675.571287,
-            "last_retested_at_iso": "2020-05-05T22:44:35.571287",
+            "last_retested_at_epoch": 1591139144.341369,
+            "last_retested_at_iso": "2020-06-02T23:05:44.341369",
             "status": "INACTIVE"
         },
         "reportions.club": {
@@ -28486,8 +28542,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591138416.285219,
-            "last_retested_at_iso": "2020-06-02T22:53:36.285219",
+            "last_retested_at_epoch": 1591139144.424726,
+            "last_retested_at_iso": "2020-06-02T23:05:44.424726",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
