@@ -20965,11 +20965,88 @@
             "last_retested_at_iso": "2020-06-02T08:43:26.998258",
             "status": "INACTIVE"
         },
+        "bcpzonasegurabeta.viabcp.com.sheffy.co": {
+            "included_at_epoch": 1591088121.58398,
+            "included_at_iso": "2020-06-02T08:55:21.583980",
+            "last_retested_at_epoch": 1591088121.58398,
+            "last_retested_at_iso": "2020-06-02T08:55:21.583980",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta.viabcp.pe.alertas-sms.beatzbakers.net": {
+            "included_at_epoch": 1591088121.66844,
+            "included_at_iso": "2020-06-02T08:55:21.668440",
+            "last_retested_at_epoch": 1591088121.66844,
+            "last_retested_at_iso": "2020-06-02T08:55:21.668440",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta.viabcp.pe.banca-por-internet.com": {
+            "included_at_epoch": 1591088121.745437,
+            "included_at_iso": "2020-06-02T08:55:21.745437",
+            "last_retested_at_epoch": 1591088121.745437,
+            "last_retested_at_iso": "2020-06-02T08:55:21.745437",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta.vialbcpe.live": {
+            "included_at_epoch": 1591088121.914376,
+            "included_at_iso": "2020-06-02T08:55:21.914376",
+            "last_retested_at_epoch": 1591088121.914376,
+            "last_retested_at_iso": "2020-06-02T08:55:21.914376",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta.viiabcp.run": {
+            "included_at_epoch": 1591088121.837682,
+            "included_at_iso": "2020-06-02T08:55:21.837682",
+            "last_retested_at_epoch": 1591088121.837682,
+            "last_retested_at_iso": "2020-06-02T08:55:21.837682",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabeta.vipbcp.xyz": {
+            "included_at_epoch": 1591088121.991156,
+            "included_at_iso": "2020-06-02T08:55:21.991156",
+            "last_retested_at_epoch": 1591088121.991156,
+            "last_retested_at_iso": "2020-06-02T08:55:21.991156",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabetas.viabcpe.live": {
+            "included_at_epoch": 1591088122.535802,
+            "included_at_iso": "2020-06-02T08:55:22.535802",
+            "last_retested_at_epoch": 1591088122.535802,
+            "last_retested_at_iso": "2020-06-02T08:55:22.535802",
+            "status": "INACTIVE"
+        },
+        "bcpzonasegurabetavia.sbcp.info": {
+            "included_at_epoch": 1591088122.459251,
+            "included_at_iso": "2020-06-02T08:55:22.459251",
+            "last_retested_at_epoch": 1591088122.459251,
+            "last_retested_at_iso": "2020-06-02T08:55:22.459251",
+            "status": "INACTIVE"
+        },
+        "bcpzonasequrabeta.viabcsp.xyz": {
+            "included_at_epoch": 1591088124.890773,
+            "included_at_iso": "2020-06-02T08:55:24.890773",
+            "last_retested_at_epoch": 1591088124.890773,
+            "last_retested_at_iso": "2020-06-02T08:55:24.890773",
+            "status": "INACTIVE"
+        },
+        "bcqrmuwbvxi.com": {
+            "included_at_epoch": 1591088124.81443,
+            "included_at_iso": "2020-06-02T08:55:24.814430",
+            "last_retested_at_epoch": 1591088124.81443,
+            "last_retested_at_iso": "2020-06-02T08:55:24.814430",
+            "status": "INACTIVE"
+        },
+        "bctrasl.paypal-updatingid.com": {
+            "included_at_epoch": 1591088124.966897,
+            "included_at_iso": "2020-06-02T08:55:24.966897",
+            "last_retested_at_epoch": 1591088124.966897,
+            "last_retested_at_iso": "2020-06-02T08:55:24.966897",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591087399.153323,
-            "last_retested_at_iso": "2020-06-02T08:43:19.153323",
+            "last_retested_at_epoch": 1591088121.389168,
+            "last_retested_at_iso": "2020-06-02T08:55:21.389168",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -27198,8 +27275,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591087399.073924,
-            "last_retested_at_iso": "2020-06-02T08:43:19.073924",
+            "last_retested_at_epoch": 1591088121.469183,
+            "last_retested_at_iso": "2020-06-02T08:55:21.469183",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
