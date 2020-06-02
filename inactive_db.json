@@ -21700,11 +21700,74 @@
             "last_retested_at_iso": "2020-06-02T12:36:46.508351",
             "status": "INACTIVE"
         },
+        "bgzyppwk.com": {
+            "included_at_epoch": 1591103620.255008,
+            "included_at_iso": "2020-06-02T13:13:40.255008",
+            "last_retested_at_epoch": 1591103620.255008,
+            "last_retested_at_iso": "2020-06-02T13:13:40.255008",
+            "status": "INACTIVE"
+        },
+        "bh20hgf.yhhufgs.xyz": {
+            "included_at_epoch": 1591103620.33407,
+            "included_at_iso": "2020-06-02T13:13:40.334070",
+            "last_retested_at_epoch": 1591103620.33407,
+            "last_retested_at_iso": "2020-06-02T13:13:40.334070",
+            "status": "INACTIVE"
+        },
+        "bhanu.zapto.org": {
+            "included_at_epoch": 1591103621.152124,
+            "included_at_iso": "2020-06-02T13:13:41.152124",
+            "last_retested_at_epoch": 1591103621.152124,
+            "last_retested_at_iso": "2020-06-02T13:13:41.152124",
+            "status": "INACTIVE"
+        },
+        "bhanufuckingkajal.zapto.org": {
+            "included_at_epoch": 1591103621.230525,
+            "included_at_iso": "2020-06-02T13:13:41.230525",
+            "last_retested_at_epoch": 1591103621.230525,
+            "last_retested_at_iso": "2020-06-02T13:13:41.230525",
+            "status": "INACTIVE"
+        },
+        "bhfuoayzqqv.com": {
+            "included_at_epoch": 1591103622.788974,
+            "included_at_iso": "2020-06-02T13:13:42.788974",
+            "last_retested_at_epoch": 1591103622.788974,
+            "last_retested_at_iso": "2020-06-02T13:13:42.788974",
+            "status": "INACTIVE"
+        },
+        "bhmzjxrf.com": {
+            "included_at_epoch": 1591103622.877284,
+            "included_at_iso": "2020-06-02T13:13:42.877284",
+            "last_retested_at_epoch": 1591103622.877284,
+            "last_retested_at_iso": "2020-06-02T13:13:42.877284",
+            "status": "INACTIVE"
+        },
+        "bhsee.xyz": {
+            "included_at_epoch": 1591103624.888773,
+            "included_at_iso": "2020-06-02T13:13:44.888773",
+            "last_retested_at_epoch": 1591103624.888773,
+            "last_retested_at_iso": "2020-06-02T13:13:44.888773",
+            "status": "INACTIVE"
+        },
+        "bhttrz.com": {
+            "included_at_epoch": 1591103624.809289,
+            "included_at_iso": "2020-06-02T13:13:44.809289",
+            "last_retested_at_epoch": 1591103624.809289,
+            "last_retested_at_iso": "2020-06-02T13:13:44.809289",
+            "status": "INACTIVE"
+        },
+        "bhzejltg.info": {
+            "included_at_epoch": 1591103626.083065,
+            "included_at_iso": "2020-06-02T13:13:46.083065",
+            "last_retested_at_epoch": 1591103626.083065,
+            "last_retested_at_iso": "2020-06-02T13:13:46.083065",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591102884.091767,
-            "last_retested_at_iso": "2020-06-02T13:01:24.091767",
+            "last_retested_at_epoch": 1591103618.948302,
+            "last_retested_at_iso": "2020-06-02T13:13:38.948302",
             "status": "INACTIVE"
         },
         "r.qip.ru": {
@@ -27933,8 +27996,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591102884.172756,
-            "last_retested_at_iso": "2020-06-02T13:01:24.172756",
+            "last_retested_at_epoch": 1591103619.029576,
+            "last_retested_at_iso": "2020-06-02T13:13:39.029576",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
