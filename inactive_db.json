@@ -23121,11 +23121,74 @@
             "last_retested_at_iso": "2020-06-03T01:17:44.311896",
             "status": "INACTIVE"
         },
+        "brloygpasa.com": {
+            "included_at_epoch": 1591147784.06806,
+            "included_at_iso": "2020-06-03T01:29:44.068060",
+            "last_retested_at_epoch": 1591147784.06806,
+            "last_retested_at_iso": "2020-06-03T01:29:44.068060",
+            "status": "INACTIVE"
+        },
+        "brlxlpe8pmdgqv.ru": {
+            "included_at_epoch": 1591147784.887184,
+            "included_at_iso": "2020-06-03T01:29:44.887184",
+            "last_retested_at_epoch": 1591147784.887184,
+            "last_retested_at_iso": "2020-06-03T01:29:44.887184",
+            "status": "INACTIVE"
+        },
+        "broken10.cf": {
+            "included_at_epoch": 1591147787.974449,
+            "included_at_iso": "2020-06-03T01:29:47.974449",
+            "last_retested_at_epoch": 1591147787.974449,
+            "last_retested_at_iso": "2020-06-03T01:29:47.974449",
+            "status": "INACTIVE"
+        },
+        "broken3.cf": {
+            "included_at_epoch": 1591147787.892291,
+            "included_at_iso": "2020-06-03T01:29:47.892291",
+            "last_retested_at_epoch": 1591147787.892291,
+            "last_retested_at_iso": "2020-06-03T01:29:47.892291",
+            "status": "INACTIVE"
+        },
+        "broklam.com": {
+            "included_at_epoch": 1591147789.151787,
+            "included_at_iso": "2020-06-03T01:29:49.151787",
+            "last_retested_at_epoch": 1591147789.151787,
+            "last_retested_at_iso": "2020-06-03T01:29:49.151787",
+            "status": "INACTIVE"
+        },
+        "bronseltiren1971.blogspot.be": {
+            "included_at_epoch": 1591147789.229413,
+            "included_at_iso": "2020-06-03T01:29:49.229413",
+            "last_retested_at_epoch": 1591147789.229413,
+            "last_retested_at_iso": "2020-06-03T01:29:49.229413",
+            "status": "INACTIVE"
+        },
+        "bronseltiren1971.blogspot.com": {
+            "included_at_epoch": 1591147790.03799,
+            "included_at_iso": "2020-06-03T01:29:50.037990",
+            "last_retested_at_epoch": 1591147790.03799,
+            "last_retested_at_iso": "2020-06-03T01:29:50.037990",
+            "status": "INACTIVE"
+        },
+        "brothersmt2.tk": {
+            "included_at_epoch": 1591147791.593986,
+            "included_at_iso": "2020-06-03T01:29:51.593986",
+            "last_retested_at_epoch": 1591147791.593986,
+            "last_retested_at_iso": "2020-06-03T01:29:51.593986",
+            "status": "INACTIVE"
+        },
+        "browser-onlytv.ru": {
+            "included_at_epoch": 1591147791.681678,
+            "included_at_iso": "2020-06-03T01:29:51.681678",
+            "last_retested_at_epoch": 1591147791.681678,
+            "last_retested_at_iso": "2020-06-03T01:29:51.681678",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591147042.993104,
-            "last_retested_at_iso": "2020-06-03T01:17:22.993104",
+            "last_retested_at_epoch": 1591147779.546237,
+            "last_retested_at_iso": "2020-06-03T01:29:39.546237",
             "status": "INACTIVE"
         },
         "rtb-usync.com": {
@@ -28045,8 +28108,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591147042.908576,
-            "last_retested_at_iso": "2020-06-03T01:17:22.908576",
+            "last_retested_at_epoch": 1591147779.463966,
+            "last_retested_at_iso": "2020-06-03T01:29:39.463966",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
