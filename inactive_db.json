@@ -27482,18 +27482,81 @@
             "last_retested_at_iso": "2020-06-03T16:18:36.589706",
             "status": "INACTIVE"
         },
+        "clareiamente.clareiamente.com": {
+            "included_at_epoch": 1591201834.122112,
+            "included_at_iso": "2020-06-03T16:30:34.122112",
+            "last_retested_at_epoch": 1591201834.122112,
+            "last_retested_at_iso": "2020-06-03T16:30:34.122112",
+            "status": "INACTIVE"
+        },
+        "clarifyingquack.com": {
+            "included_at_epoch": 1591201835.007812,
+            "included_at_iso": "2020-06-03T16:30:35.007812",
+            "last_retested_at_epoch": 1591201835.007812,
+            "last_retested_at_iso": "2020-06-03T16:30:35.007812",
+            "status": "INACTIVE"
+        },
+        "classfinder1.com": {
+            "included_at_epoch": 1591201839.092461,
+            "included_at_iso": "2020-06-03T16:30:39.092461",
+            "last_retested_at_epoch": 1591201839.092461,
+            "last_retested_at_iso": "2020-06-03T16:30:39.092461",
+            "status": "INACTIVE"
+        },
+        "classic2irdservices.onlinenzinformation.org": {
+            "included_at_epoch": 1591201839.196612,
+            "included_at_iso": "2020-06-03T16:30:39.196612",
+            "last_retested_at_epoch": 1591201839.196612,
+            "last_retested_at_iso": "2020-06-03T16:30:39.196612",
+            "status": "INACTIVE"
+        },
+        "clavedanimica.zz.com.ve": {
+            "included_at_epoch": 1591201840.860897,
+            "included_at_iso": "2020-06-03T16:30:40.860897",
+            "last_retested_at_epoch": 1591201840.860897,
+            "last_retested_at_iso": "2020-06-03T16:30:40.860897",
+            "status": "INACTIVE"
+        },
+        "clavedinamicabacen.zz.com.ve": {
+            "included_at_epoch": 1591201840.968419,
+            "included_at_iso": "2020-06-03T16:30:40.968419",
+            "last_retested_at_epoch": 1591201840.968419,
+            "last_retested_at_iso": "2020-06-03T16:30:40.968419",
+            "status": "INACTIVE"
+        },
+        "clavedinamicobanlombuia.zz.com.ve": {
+            "included_at_epoch": 1591201841.048318,
+            "included_at_iso": "2020-06-03T16:30:41.048318",
+            "last_retested_at_epoch": 1591201841.048318,
+            "last_retested_at_iso": "2020-06-03T16:30:41.048318",
+            "status": "INACTIVE"
+        },
+        "clavedinamoca.zz.com.ve": {
+            "included_at_epoch": 1591201841.127099,
+            "included_at_iso": "2020-06-03T16:30:41.127099",
+            "last_retested_at_epoch": 1591201841.127099,
+            "last_retested_at_iso": "2020-06-03T16:30:41.127099",
+            "status": "INACTIVE"
+        },
+        "clayon.de": {
+            "included_at_epoch": 1591201841.633577,
+            "included_at_iso": "2020-06-03T16:30:41.633577",
+            "last_retested_at_epoch": 1591201841.633577,
+            "last_retested_at_iso": "2020-06-03T16:30:41.633577",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591201113.08291,
-            "last_retested_at_iso": "2020-06-03T16:18:33.082910",
+            "last_retested_at_epoch": 1591201834.044003,
+            "last_retested_at_iso": "2020-06-03T16:30:34.044003",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591201113.000235,
-            "last_retested_at_iso": "2020-06-03T16:18:33.000235",
+            "last_retested_at_epoch": 1591201833.961301,
+            "last_retested_at_iso": "2020-06-03T16:30:33.961301",
             "status": "INACTIVE"
         },
         "thefaren.pw": {
