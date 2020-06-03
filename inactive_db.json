@@ -28434,18 +28434,46 @@
             "last_retested_at_iso": "2020-06-03T21:36:17.125390",
             "status": "INACTIVE"
         },
+        "commacp.com": {
+            "included_at_epoch": 1591220914.058275,
+            "included_at_iso": "2020-06-03T21:48:34.058275",
+            "last_retested_at_epoch": 1591220914.058275,
+            "last_retested_at_iso": "2020-06-03T21:48:34.058275",
+            "status": "INACTIVE"
+        },
+        "commands.control.demo": {
+            "included_at_epoch": 1591220914.140549,
+            "included_at_iso": "2020-06-03T21:48:34.140549",
+            "last_retested_at_epoch": 1591220914.140549,
+            "last_retested_at_iso": "2020-06-03T21:48:34.140549",
+            "status": "INVALID"
+        },
+        "commandwalk.com": {
+            "included_at_epoch": 1591220914.611545,
+            "included_at_iso": "2020-06-03T21:48:34.611545",
+            "last_retested_at_epoch": 1591220914.611545,
+            "last_retested_at_iso": "2020-06-03T21:48:34.611545",
+            "status": "INACTIVE"
+        },
+        "commbank.com.au.sms-sec.org": {
+            "included_at_epoch": 1591220914.694646,
+            "included_at_iso": "2020-06-03T21:48:34.694646",
+            "last_retested_at_epoch": 1591220914.694646,
+            "last_retested_at_iso": "2020-06-03T21:48:34.694646",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591220171.802074,
-            "last_retested_at_iso": "2020-06-03T21:36:11.802074",
+            "last_retested_at_epoch": 1591220913.181191,
+            "last_retested_at_iso": "2020-06-03T21:48:33.181191",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591220171.718438,
-            "last_retested_at_iso": "2020-06-03T21:36:11.718438",
+            "last_retested_at_epoch": 1591220913.096324,
+            "last_retested_at_iso": "2020-06-03T21:48:33.096324",
             "status": "INACTIVE"
         },
         "track.ft.com": {
