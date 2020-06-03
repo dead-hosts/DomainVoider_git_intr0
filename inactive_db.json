@@ -26929,18 +26929,46 @@
             "last_retested_at_iso": "2020-06-03T12:11:45.477301",
             "status": "INACTIVE"
         },
+        "chevlaga.ru": {
+            "included_at_epoch": 1591187027.367263,
+            "included_at_iso": "2020-06-03T12:23:47.367263",
+            "last_retested_at_epoch": 1591187027.367263,
+            "last_retested_at_iso": "2020-06-03T12:23:47.367263",
+            "status": "INACTIVE"
+        },
+        "chezhiyasweheropasl.su": {
+            "included_at_epoch": 1591187028.29116,
+            "included_at_iso": "2020-06-03T12:23:48.291160",
+            "last_retested_at_epoch": 1591187028.29116,
+            "last_retested_at_iso": "2020-06-03T12:23:48.291160",
+            "status": "INACTIVE"
+        },
+        "chfuw.com": {
+            "included_at_epoch": 1591187028.209769,
+            "included_at_iso": "2020-06-03T12:23:48.209769",
+            "last_retested_at_epoch": 1591187028.209769,
+            "last_retested_at_iso": "2020-06-03T12:23:48.209769",
+            "status": "INACTIVE"
+        },
+        "chief-con.pro": {
+            "included_at_epoch": 1591187031.416667,
+            "included_at_iso": "2020-06-03T12:23:51.416667",
+            "last_retested_at_epoch": 1591187031.416667,
+            "last_retested_at_iso": "2020-06-03T12:23:51.416667",
+            "status": "INACTIVE"
+        },
+        "chiefcurrent.com": {
+            "included_at_epoch": 1591187031.498221,
+            "included_at_iso": "2020-06-03T12:23:51.498221",
+            "last_retested_at_epoch": 1591187031.498221,
+            "last_retested_at_iso": "2020-06-03T12:23:51.498221",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591186292.611972,
-            "last_retested_at_iso": "2020-06-03T12:11:32.611972",
-            "status": "INACTIVE"
-        },
-        "stopadblock.info": {
-            "included_at_epoch": 1588766927.554406,
-            "included_at_iso": "2020-05-06T12:08:47.554406",
-            "last_retested_at_epoch": 1588766927.554406,
-            "last_retested_at_iso": "2020-05-06T12:08:47.554406",
+            "last_retested_at_epoch": 1591187025.643637,
+            "last_retested_at_iso": "2020-06-03T12:23:45.643637",
             "status": "INACTIVE"
         },
         "store.app1eid-suppport.help-account-login.ga": {
@@ -28472,8 +28500,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591186292.529681,
-            "last_retested_at_iso": "2020-06-03T12:11:32.529681",
+            "last_retested_at_epoch": 1591187025.728368,
+            "last_retested_at_iso": "2020-06-03T12:23:45.728368",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
