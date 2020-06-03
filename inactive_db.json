@@ -27223,11 +27223,25 @@
             "last_retested_at_iso": "2020-06-03T14:16:14.208498",
             "status": "INACTIVE"
         },
+        "cifipkbu.com": {
+            "included_at_epoch": 1591194488.668272,
+            "included_at_iso": "2020-06-03T14:28:08.668272",
+            "last_retested_at_epoch": 1591194488.668272,
+            "last_retested_at_iso": "2020-06-03T14:28:08.668272",
+            "status": "INACTIVE"
+        },
+        "cifwsaufnalvh.com": {
+            "included_at_epoch": 1591194488.753903,
+            "included_at_iso": "2020-06-03T14:28:08.753903",
+            "last_retested_at_epoch": 1591194488.753903,
+            "last_retested_at_iso": "2020-06-03T14:28:08.753903",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591193770.892546,
-            "last_retested_at_iso": "2020-06-03T14:16:10.892546",
+            "last_retested_at_epoch": 1591194487.770563,
+            "last_retested_at_iso": "2020-06-03T14:28:07.770563",
             "status": "INACTIVE"
         },
         "tailorcave.com": {
@@ -27499,8 +27513,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591193770.981666,
-            "last_retested_at_iso": "2020-06-03T14:16:10.981666",
+            "last_retested_at_epoch": 1591194487.681158,
+            "last_retested_at_iso": "2020-06-03T14:28:07.681158",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
