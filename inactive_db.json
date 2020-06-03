@@ -28462,18 +28462,46 @@
             "last_retested_at_iso": "2020-06-03T21:48:34.694646",
             "status": "INACTIVE"
         },
+        "commbbankk.com": {
+            "included_at_epoch": 1591221637.63738,
+            "included_at_iso": "2020-06-03T22:00:37.637380",
+            "last_retested_at_epoch": 1591221637.63738,
+            "last_retested_at_iso": "2020-06-03T22:00:37.637380",
+            "status": "INACTIVE"
+        },
+        "commercedirections.com": {
+            "included_at_epoch": 1591221637.731788,
+            "included_at_iso": "2020-06-03T22:00:37.731788",
+            "last_retested_at_epoch": 1591221637.731788,
+            "last_retested_at_iso": "2020-06-03T22:00:37.731788",
+            "status": "INACTIVE"
+        },
+        "commodates.info": {
+            "included_at_epoch": 1591221639.3906,
+            "included_at_iso": "2020-06-03T22:00:39.390600",
+            "last_retested_at_epoch": 1591221639.3906,
+            "last_retested_at_iso": "2020-06-03T22:00:39.390600",
+            "status": "INACTIVE"
+        },
+        "comnitracsom.net": {
+            "included_at_epoch": 1591221641.430627,
+            "included_at_iso": "2020-06-03T22:00:41.430627",
+            "last_retested_at_epoch": 1591221641.430627,
+            "last_retested_at_iso": "2020-06-03T22:00:41.430627",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591220913.181191,
-            "last_retested_at_iso": "2020-06-03T21:48:33.181191",
+            "last_retested_at_epoch": 1591221637.557021,
+            "last_retested_at_iso": "2020-06-03T22:00:37.557021",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591220913.096324,
-            "last_retested_at_iso": "2020-06-03T21:48:33.096324",
+            "last_retested_at_epoch": 1591221637.471002,
+            "last_retested_at_iso": "2020-06-03T22:00:37.471002",
             "status": "INACTIVE"
         },
         "track.ft.com": {
