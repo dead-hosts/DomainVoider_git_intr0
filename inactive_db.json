@@ -27034,109 +27034,32 @@
             "last_retested_at_iso": "2020-06-03T12:36:02.987863",
             "status": "INACTIVE"
         },
+        "chmae.com": {
+            "included_at_epoch": 1591188478.68062,
+            "included_at_iso": "2020-06-03T12:47:58.680620",
+            "last_retested_at_epoch": 1591188478.68062,
+            "last_retested_at_iso": "2020-06-03T12:47:58.680620",
+            "status": "INACTIVE"
+        },
+        "cholaga.ru": {
+            "included_at_epoch": 1591188481.646071,
+            "included_at_iso": "2020-06-03T12:48:01.646071",
+            "last_retested_at_epoch": 1591188481.646071,
+            "last_retested_at_iso": "2020-06-03T12:48:01.646071",
+            "status": "INACTIVE"
+        },
+        "choose-a-lady.biz": {
+            "included_at_epoch": 1591188482.560022,
+            "included_at_iso": "2020-06-03T12:48:02.560022",
+            "last_retested_at_epoch": 1591188482.560022,
+            "last_retested_at_iso": "2020-06-03T12:48:02.560022",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591187749.912921,
-            "last_retested_at_iso": "2020-06-03T12:35:49.912921",
-            "status": "INACTIVE"
-        },
-        "store.app1eid-suppport.help-account-login.ga": {
-            "included_at_epoch": 1588768077.06616,
-            "included_at_iso": "2020-05-06T12:27:57.066160",
-            "last_retested_at_epoch": 1588768077.06616,
-            "last_retested_at_iso": "2020-05-06T12:27:57.066160",
-            "status": "INACTIVE"
-        },
-        "store1-app1eid-restore.secure0b.co": {
-            "included_at_epoch": 1588768076.924503,
-            "included_at_iso": "2020-05-06T12:27:56.924503",
-            "last_retested_at_epoch": 1588768076.924503,
-            "last_retested_at_iso": "2020-05-06T12:27:56.924503",
-            "status": "INACTIVE"
-        },
-        "storm.kllk.tk": {
-            "included_at_epoch": 1588768079.030177,
-            "included_at_iso": "2020-05-06T12:27:59.030177",
-            "last_retested_at_epoch": 1588768079.030177,
-            "last_retested_at_iso": "2020-05-06T12:27:59.030177",
-            "status": "INACTIVE"
-        },
-        "stornocovid-19.pw": {
-            "included_at_epoch": 1588768081.599839,
-            "included_at_iso": "2020-05-06T12:28:01.599839",
-            "last_retested_at_epoch": 1588768081.599839,
-            "last_retested_at_iso": "2020-05-06T12:28:01.599839",
-            "status": "INACTIVE"
-        },
-        "stovoudu.com": {
-            "included_at_epoch": 1588768082.827054,
-            "included_at_iso": "2020-05-06T12:28:02.827054",
-            "last_retested_at_epoch": 1588768082.827054,
-            "last_retested_at_iso": "2020-05-06T12:28:02.827054",
-            "status": "INACTIVE"
-        },
-        "straightschool.com": {
-            "included_at_epoch": 1588768084.064687,
-            "included_at_iso": "2020-05-06T12:28:04.064687",
-            "last_retested_at_epoch": 1588768084.064687,
-            "last_retested_at_iso": "2020-05-06T12:28:04.064687",
-            "status": "INACTIVE"
-        },
-        "strucewe.info": {
-            "included_at_epoch": 1588768095.18886,
-            "included_at_iso": "2020-05-06T12:28:15.188860",
-            "last_retested_at_epoch": 1588768095.18886,
-            "last_retested_at_iso": "2020-05-06T12:28:15.188860",
-            "status": "INACTIVE"
-        },
-        "sts.ifrc.org.adfs.ls.oauth2.client-id-s1o2ff-10002-0ff1.com": {
-            "included_at_epoch": 1588768095.727185,
-            "included_at_iso": "2020-05-06T12:28:15.727185",
-            "last_retested_at_epoch": 1588768095.727185,
-            "last_retested_at_iso": "2020-05-06T12:28:15.727185",
-            "status": "INACTIVE"
-        },
-        "stsodds.sts.pl": {
-            "included_at_epoch": 1588768095.930908,
-            "included_at_iso": "2020-05-06T12:28:15.930908",
-            "last_retested_at_epoch": 1588768095.930908,
-            "last_retested_at_iso": "2020-05-06T12:28:15.930908",
-            "status": "INACTIVE"
-        },
-        "stvayyokjvxnl.com": {
-            "included_at_epoch": 1588768100.882403,
-            "included_at_iso": "2020-05-06T12:28:20.882403",
-            "last_retested_at_epoch": 1588768100.882403,
-            "last_retested_at_iso": "2020-05-06T12:28:20.882403",
-            "status": "INACTIVE"
-        },
-        "sub-app1e-s3rv1ce6541.selamanyabyakan.com": {
-            "included_at_epoch": 1588768102.765719,
-            "included_at_iso": "2020-05-06T12:28:22.765719",
-            "last_retested_at_epoch": 1588768102.765719,
-            "last_retested_at_iso": "2020-05-06T12:28:22.765719",
-            "status": "INACTIVE"
-        },
-        "subtraxion.com": {
-            "included_at_epoch": 1588768106.592164,
-            "included_at_iso": "2020-05-06T12:28:26.592164",
-            "last_retested_at_epoch": 1588768106.592164,
-            "last_retested_at_iso": "2020-05-06T12:28:26.592164",
-            "status": "INACTIVE"
-        },
-        "sucior.ru": {
-            "included_at_epoch": 1588768109.132289,
-            "included_at_iso": "2020-05-06T12:28:29.132289",
-            "last_retested_at_epoch": 1588768109.132289,
-            "last_retested_at_iso": "2020-05-06T12:28:29.132289",
-            "status": "INACTIVE"
-        },
-        "sucursalpersona.transaccionesbancolombia.com.alserviciorat-tray.com": {
-            "included_at_epoch": 1588768109.934692,
-            "included_at_iso": "2020-05-06T12:28:29.934692",
-            "last_retested_at_epoch": 1588768109.934692,
-            "last_retested_at_iso": "2020-05-06T12:28:29.934692",
+            "last_retested_at_epoch": 1591188477.282814,
+            "last_retested_at_iso": "2020-06-03T12:47:57.282814",
             "status": "INACTIVE"
         },
         "sucursalpersonas.transaccionesbancolombia.com.alserviciorat-tray.com": {
@@ -28570,8 +28493,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591187749.999537,
-            "last_retested_at_iso": "2020-06-03T12:35:49.999537",
+            "last_retested_at_epoch": 1591188477.366541,
+            "last_retested_at_iso": "2020-06-03T12:47:57.366541",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
