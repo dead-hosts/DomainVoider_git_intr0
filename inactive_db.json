@@ -27447,18 +27447,53 @@
             "last_retested_at_iso": "2020-06-03T16:05:17.473363",
             "status": "INACTIVE"
         },
+        "ckxyvauhqfuoin.com": {
+            "included_at_epoch": 1591201113.187543,
+            "included_at_iso": "2020-06-03T16:18:33.187543",
+            "last_retested_at_epoch": 1591201113.187543,
+            "last_retested_at_iso": "2020-06-03T16:18:33.187543",
+            "status": "INACTIVE"
+        },
+        "cl0udsapp1e.com": {
+            "included_at_epoch": 1591201114.162477,
+            "included_at_iso": "2020-06-03T16:18:34.162477",
+            "last_retested_at_epoch": 1591201114.162477,
+            "last_retested_at_iso": "2020-06-03T16:18:34.162477",
+            "status": "INACTIVE"
+        },
+        "cl0udsapp1e.net": {
+            "included_at_epoch": 1591201114.082003,
+            "included_at_iso": "2020-06-03T16:18:34.082003",
+            "last_retested_at_epoch": 1591201114.082003,
+            "last_retested_at_iso": "2020-06-03T16:18:34.082003",
+            "status": "INACTIVE"
+        },
+        "cl0udsapp1e.org": {
+            "included_at_epoch": 1591201114.241667,
+            "included_at_iso": "2020-06-03T16:18:34.241667",
+            "last_retested_at_epoch": 1591201114.241667,
+            "last_retested_at_iso": "2020-06-03T16:18:34.241667",
+            "status": "INACTIVE"
+        },
+        "claim.ref992.com": {
+            "included_at_epoch": 1591201116.589706,
+            "included_at_iso": "2020-06-03T16:18:36.589706",
+            "last_retested_at_epoch": 1591201116.589706,
+            "last_retested_at_iso": "2020-06-03T16:18:36.589706",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591200312.465499,
-            "last_retested_at_iso": "2020-06-03T16:05:12.465499",
+            "last_retested_at_epoch": 1591201113.08291,
+            "last_retested_at_iso": "2020-06-03T16:18:33.082910",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591200312.549354,
-            "last_retested_at_iso": "2020-06-03T16:05:12.549354",
+            "last_retested_at_epoch": 1591201113.000235,
+            "last_retested_at_iso": "2020-06-03T16:18:33.000235",
             "status": "INACTIVE"
         },
         "thefaren.pw": {
