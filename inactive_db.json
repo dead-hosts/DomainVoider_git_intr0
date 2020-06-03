@@ -24857,74 +24857,32 @@
             "last_retested_at_iso": "2020-06-03T07:19:48.002248",
             "status": "INACTIVE"
         },
+        "cdn.marjmedya.com": {
+            "included_at_epoch": 1591169520.302397,
+            "included_at_iso": "2020-06-03T07:32:00.302397",
+            "last_retested_at_epoch": 1591169520.302397,
+            "last_retested_at_iso": "2020-06-03T07:32:00.302397",
+            "status": "INACTIVE"
+        },
+        "cdn.whatsapp.com": {
+            "included_at_epoch": 1591169520.541406,
+            "included_at_iso": "2020-06-03T07:32:00.541406",
+            "last_retested_at_epoch": 1591169520.541406,
+            "last_retested_at_iso": "2020-06-03T07:32:00.541406",
+            "status": "INACTIVE"
+        },
+        "cdn.x-lift.jp": {
+            "included_at_epoch": 1591169520.633725,
+            "included_at_iso": "2020-06-03T07:32:00.633725",
+            "last_retested_at_epoch": 1591169520.633725,
+            "last_retested_at_iso": "2020-06-03T07:32:00.633725",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591168785.803111,
-            "last_retested_at_iso": "2020-06-03T07:19:45.803111",
-            "status": "INACTIVE"
-        },
-        "shjuivapg.bid": {
-            "included_at_epoch": 1588749561.380662,
-            "included_at_iso": "2020-05-06T07:19:21.380662",
-            "last_retested_at_epoch": 1588749561.380662,
-            "last_retested_at_iso": "2020-05-06T07:19:21.380662",
-            "status": "INACTIVE"
-        },
-        "shkfrsif.com": {
-            "included_at_epoch": 1588749561.521615,
-            "included_at_iso": "2020-05-06T07:19:21.521615",
-            "last_retested_at_epoch": 1588749561.521615,
-            "last_retested_at_iso": "2020-05-06T07:19:21.521615",
-            "status": "INACTIVE"
-        },
-        "shmpdqwucl.com": {
-            "included_at_epoch": 1588749562.650229,
-            "included_at_iso": "2020-05-06T07:19:22.650229",
-            "last_retested_at_epoch": 1588749562.650229,
-            "last_retested_at_iso": "2020-05-06T07:19:22.650229",
-            "status": "INACTIVE"
-        },
-        "shohabiymgjxdb.com": {
-            "included_at_epoch": 1588749565.168934,
-            "included_at_iso": "2020-05-06T07:19:25.168934",
-            "last_retested_at_epoch": 1588749565.168934,
-            "last_retested_at_iso": "2020-05-06T07:19:25.168934",
-            "status": "INACTIVE"
-        },
-        "shopsheets.xyz": {
-            "included_at_epoch": 1588749574.235277,
-            "included_at_iso": "2020-05-06T07:19:34.235277",
-            "last_retested_at_epoch": 1588749574.235277,
-            "last_retested_at_iso": "2020-05-06T07:19:34.235277",
-            "status": "INACTIVE"
-        },
-        "shorlakmedia.com": {
-            "included_at_epoch": 1588749574.722609,
-            "included_at_iso": "2020-05-06T07:19:34.722609",
-            "last_retested_at_epoch": 1588749574.722609,
-            "last_retested_at_iso": "2020-05-06T07:19:34.722609",
-            "status": "INACTIVE"
-        },
-        "short.zain.biz": {
-            "included_at_epoch": 1588749574.863133,
-            "included_at_iso": "2020-05-06T07:19:34.863133",
-            "last_retested_at_epoch": 1588749574.863133,
-            "last_retested_at_iso": "2020-05-06T07:19:34.863133",
-            "status": "INACTIVE"
-        },
-        "show1.website": {
-            "included_at_epoch": 1588749578.372743,
-            "included_at_iso": "2020-05-06T07:19:38.372743",
-            "last_retested_at_epoch": 1588749578.372743,
-            "last_retested_at_iso": "2020-05-06T07:19:38.372743",
-            "status": "INACTIVE"
-        },
-        "shoxyloxi.com": {
-            "included_at_epoch": 1588749579.893594,
-            "included_at_iso": "2020-05-06T07:19:39.893594",
-            "last_retested_at_epoch": 1588749579.893594,
-            "last_retested_at_iso": "2020-05-06T07:19:39.893594",
+            "last_retested_at_epoch": 1591169520.182269,
+            "last_retested_at_iso": "2020-06-03T07:32:00.182269",
             "status": "INACTIVE"
         },
         "shulhanafuh.com": {
@@ -27471,8 +27429,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591168785.885824,
-            "last_retested_at_iso": "2020-06-03T07:19:45.885824",
+            "last_retested_at_epoch": 1591169520.099613,
+            "last_retested_at_iso": "2020-06-03T07:32:00.099613",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
