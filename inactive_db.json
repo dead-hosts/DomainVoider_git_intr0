@@ -27545,67 +27545,32 @@
             "last_retested_at_iso": "2020-06-03T16:30:41.633577",
             "status": "INACTIVE"
         },
+        "clearviewstats.com": {
+            "included_at_epoch": 1591202569.176062,
+            "included_at_iso": "2020-06-03T16:42:49.176062",
+            "last_retested_at_epoch": 1591202569.176062,
+            "last_retested_at_iso": "2020-06-03T16:42:49.176062",
+            "status": "INACTIVE"
+        },
+        "clente.com": {
+            "included_at_epoch": 1591202570.040653,
+            "included_at_iso": "2020-06-03T16:42:50.040653",
+            "last_retested_at_epoch": 1591202570.040653,
+            "last_retested_at_iso": "2020-06-03T16:42:50.040653",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591201834.044003,
-            "last_retested_at_iso": "2020-06-03T16:30:34.044003",
+            "last_retested_at_epoch": 1591202564.640718,
+            "last_retested_at_iso": "2020-06-03T16:42:44.640718",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591201833.961301,
-            "last_retested_at_iso": "2020-06-03T16:30:33.961301",
-            "status": "INACTIVE"
-        },
-        "thefaren.pw": {
-            "included_at_epoch": 1588782400.345062,
-            "included_at_iso": "2020-05-06T16:26:40.345062",
-            "last_retested_at_epoch": 1588782400.345062,
-            "last_retested_at_iso": "2020-05-06T16:26:40.345062",
-            "status": "INACTIVE"
-        },
-        "thefoxads.ru": {
-            "included_at_epoch": 1588782400.921166,
-            "included_at_iso": "2020-05-06T16:26:40.921166",
-            "last_retested_at_epoch": 1588782400.921166,
-            "last_retested_at_iso": "2020-05-06T16:26:40.921166",
-            "status": "INACTIVE"
-        },
-        "thefoxes.ru": {
-            "included_at_epoch": 1588782401.409983,
-            "included_at_iso": "2020-05-06T16:26:41.409983",
-            "last_retested_at_epoch": 1588782401.409983,
-            "last_retested_at_iso": "2020-05-06T16:26:41.409983",
-            "status": "INACTIVE"
-        },
-        "theifengingmen1986.blogspot.be": {
-            "included_at_epoch": 1588782404.666113,
-            "included_at_iso": "2020-05-06T16:26:44.666113",
-            "last_retested_at_epoch": 1588782404.666113,
-            "last_retested_at_iso": "2020-05-06T16:26:44.666113",
-            "status": "INACTIVE"
-        },
-        "theifengingmen1986.blogspot.com": {
-            "included_at_epoch": 1588782405.155704,
-            "included_at_iso": "2020-05-06T16:26:45.155704",
-            "last_retested_at_epoch": 1588782405.155704,
-            "last_retested_at_iso": "2020-05-06T16:26:45.155704",
-            "status": "INACTIVE"
-        },
-        "thejbdcbnmtrhhr.com": {
-            "included_at_epoch": 1588782405.660131,
-            "included_at_iso": "2020-05-06T16:26:45.660131",
-            "last_retested_at_epoch": 1588782405.660131,
-            "last_retested_at_iso": "2020-05-06T16:26:45.660131",
-            "status": "INACTIVE"
-        },
-        "thelnstagram.com": {
-            "included_at_epoch": 1588782406.586648,
-            "included_at_iso": "2020-05-06T16:26:46.586648",
-            "last_retested_at_epoch": 1588782406.586648,
-            "last_retested_at_iso": "2020-05-06T16:26:46.586648",
+            "last_retested_at_epoch": 1591202564.723074,
+            "last_retested_at_iso": "2020-06-03T16:42:44.723074",
             "status": "INACTIVE"
         },
         "thelnstagramaid.com": {
