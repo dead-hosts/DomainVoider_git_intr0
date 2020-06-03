@@ -27958,18 +27958,25 @@
             "last_retested_at_iso": "2020-06-03T19:30:01.986605",
             "status": "INACTIVE"
         },
+        "cncjndund400.com": {
+            "included_at_epoch": 1591213330.942697,
+            "included_at_iso": "2020-06-03T19:42:10.942697",
+            "last_retested_at_epoch": 1591213330.942697,
+            "last_retested_at_iso": "2020-06-03T19:42:10.942697",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591212595.742351,
-            "last_retested_at_iso": "2020-06-03T19:29:55.742351",
+            "last_retested_at_epoch": 1591213330.084608,
+            "last_retested_at_iso": "2020-06-03T19:42:10.084608",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591212595.825795,
-            "last_retested_at_iso": "2020-06-03T19:29:55.825795",
+            "last_retested_at_epoch": 1591213330.000712,
+            "last_retested_at_iso": "2020-06-03T19:42:10.000712",
             "status": "INACTIVE"
         },
         "tom4567.com": {
