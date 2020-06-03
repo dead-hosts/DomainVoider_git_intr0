@@ -25823,11 +25823,102 @@
             "last_retested_at_iso": "2020-06-03T09:22:00.105850",
             "status": "INACTIVE"
         },
+        "chase.fancyshand.com": {
+            "included_at_epoch": 1591176840.686256,
+            "included_at_iso": "2020-06-03T09:34:00.686256",
+            "last_retested_at_epoch": 1591176840.686256,
+            "last_retested_at_iso": "2020-06-03T09:34:00.686256",
+            "status": "INACTIVE"
+        },
+        "chase.file23953.cf": {
+            "included_at_epoch": 1591176840.764869,
+            "included_at_iso": "2020-06-03T09:34:00.764869",
+            "last_retested_at_epoch": 1591176840.764869,
+            "last_retested_at_iso": "2020-06-03T09:34:00.764869",
+            "status": "INACTIVE"
+        },
+        "chase.identity.multiwebspace.com": {
+            "included_at_epoch": 1591176840.86095,
+            "included_at_iso": "2020-06-03T09:34:00.860950",
+            "last_retested_at_epoch": 1591176840.86095,
+            "last_retested_at_iso": "2020-06-03T09:34:00.860950",
+            "status": "INACTIVE"
+        },
+        "chase.khayrunkhushi.com": {
+            "included_at_epoch": 1591176841.032701,
+            "included_at_iso": "2020-06-03T09:34:01.032701",
+            "last_retested_at_epoch": 1591176841.032701,
+            "last_retested_at_iso": "2020-06-03T09:34:01.032701",
+            "status": "INACTIVE"
+        },
+        "chase.krewseven.com": {
+            "included_at_epoch": 1591176840.951908,
+            "included_at_iso": "2020-06-03T09:34:00.951908",
+            "last_retested_at_epoch": 1591176840.951908,
+            "last_retested_at_iso": "2020-06-03T09:34:00.951908",
+            "status": "INACTIVE"
+        },
+        "chase.my-online-security.com": {
+            "included_at_epoch": 1591176841.111652,
+            "included_at_iso": "2020-06-03T09:34:01.111652",
+            "last_retested_at_epoch": 1591176841.111652,
+            "last_retested_at_iso": "2020-06-03T09:34:01.111652",
+            "status": "INACTIVE"
+        },
+        "chase.servicesvqo.info": {
+            "included_at_epoch": 1591176841.20469,
+            "included_at_iso": "2020-06-03T09:34:01.204690",
+            "last_retested_at_epoch": 1591176841.20469,
+            "last_retested_at_iso": "2020-06-03T09:34:01.204690",
+            "status": "INACTIVE"
+        },
+        "chase00.urgentmessagecare.info": {
+            "included_at_epoch": 1591176841.30818,
+            "included_at_iso": "2020-06-03T09:34:01.308180",
+            "last_retested_at_epoch": 1591176841.30818,
+            "last_retested_at_iso": "2020-06-03T09:34:01.308180",
+            "status": "INACTIVE"
+        },
+        "chase62o.com": {
+            "included_at_epoch": 1591176842.62657,
+            "included_at_iso": "2020-06-03T09:34:02.626570",
+            "last_retested_at_epoch": 1591176842.62657,
+            "last_retested_at_iso": "2020-06-03T09:34:02.626570",
+            "status": "INACTIVE"
+        },
+        "chase7-covid.com": {
+            "included_at_epoch": 1591176842.546896,
+            "included_at_iso": "2020-06-03T09:34:02.546896",
+            "last_retested_at_epoch": 1591176842.546896,
+            "last_retested_at_iso": "2020-06-03T09:34:02.546896",
+            "status": "INACTIVE"
+        },
+        "chase76u.com": {
+            "included_at_epoch": 1591176842.706077,
+            "included_at_iso": "2020-06-03T09:34:02.706077",
+            "last_retested_at_epoch": 1591176842.706077,
+            "last_retested_at_iso": "2020-06-03T09:34:02.706077",
+            "status": "INACTIVE"
+        },
+        "chase92w.com": {
+            "included_at_epoch": 1591176842.785207,
+            "included_at_iso": "2020-06-03T09:34:02.785207",
+            "last_retested_at_epoch": 1591176842.785207,
+            "last_retested_at_iso": "2020-06-03T09:34:02.785207",
+            "status": "INACTIVE"
+        },
+        "chasebank.com.joanov.com": {
+            "included_at_epoch": 1591176843.991196,
+            "included_at_iso": "2020-06-03T09:34:03.991196",
+            "last_retested_at_epoch": 1591176843.991196,
+            "last_retested_at_iso": "2020-06-03T09:34:03.991196",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591176114.074501,
-            "last_retested_at_iso": "2020-06-03T09:21:54.074501",
+            "last_retested_at_epoch": 1591176840.582774,
+            "last_retested_at_iso": "2020-06-03T09:34:00.582774",
             "status": "INACTIVE"
         },
         "sparebnk1-innloging-pamobile.com": {
@@ -27849,8 +27940,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591176113.989167,
-            "last_retested_at_iso": "2020-06-03T09:21:53.989167",
+            "last_retested_at_epoch": 1591176840.49949,
+            "last_retested_at_iso": "2020-06-03T09:34:00.499490",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
