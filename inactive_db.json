@@ -24185,53 +24185,39 @@
             "last_retested_at_iso": "2020-06-03T04:50:07.160833",
             "status": "INACTIVE"
         },
+        "cancelamento.itaucard.webstore-amedigital.com": {
+            "included_at_epoch": 1591160672.301627,
+            "included_at_iso": "2020-06-03T05:04:32.301627",
+            "last_retested_at_epoch": 1591160672.301627,
+            "last_retested_at_iso": "2020-06-03T05:04:32.301627",
+            "status": "INACTIVE"
+        },
+        "cancelationacc-web.servehttp.com": {
+            "included_at_epoch": 1591160672.384183,
+            "included_at_iso": "2020-06-03T05:04:32.384183",
+            "last_retested_at_epoch": 1591160672.384183,
+            "last_retested_at_iso": "2020-06-03T05:04:32.384183",
+            "status": "INACTIVE"
+        },
+        "candy.smv.to": {
+            "included_at_epoch": 1591160673.627002,
+            "included_at_iso": "2020-06-03T05:04:33.627002",
+            "last_retested_at_epoch": 1591160673.627002,
+            "last_retested_at_iso": "2020-06-03T05:04:33.627002",
+            "status": "INACTIVE"
+        },
+        "caob5.info": {
+            "included_at_epoch": 1591160677.095123,
+            "included_at_iso": "2020-06-03T05:04:37.095123",
+            "last_retested_at_epoch": 1591160677.095123,
+            "last_retested_at_iso": "2020-06-03T05:04:37.095123",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591159789.230055,
-            "last_retested_at_iso": "2020-06-03T04:49:49.230055",
-            "status": "INACTIVE"
-        },
-        "sdziy.us": {
-            "included_at_epoch": 1588740136.179112,
-            "included_at_iso": "2020-05-06T04:42:16.179112",
-            "last_retested_at_epoch": 1588740136.179112,
-            "last_retested_at_iso": "2020-05-06T04:42:16.179112",
-            "status": "INACTIVE"
-        },
-        "se2qwz60l2oxznm.xyz": {
-            "included_at_epoch": 1588740137.317889,
-            "included_at_iso": "2020-05-06T04:42:17.317889",
-            "last_retested_at_epoch": 1588740137.317889,
-            "last_retested_at_iso": "2020-05-06T04:42:17.317889",
-            "status": "INACTIVE"
-        },
-        "seafox26.com": {
-            "included_at_epoch": 1588740137.838234,
-            "included_at_iso": "2020-05-06T04:42:17.838234",
-            "last_retested_at_epoch": 1588740137.838234,
-            "last_retested_at_iso": "2020-05-06T04:42:17.838234",
-            "status": "INACTIVE"
-        },
-        "sealine-pfuoxcbgd.netdna-ssl.com": {
-            "included_at_epoch": 1588740138.306553,
-            "included_at_iso": "2020-05-06T04:42:18.306553",
-            "last_retested_at_epoch": 1588740138.306553,
-            "last_retested_at_iso": "2020-05-06T04:42:18.306553",
-            "status": "INACTIVE"
-        },
-        "search.batmobi.net": {
-            "included_at_epoch": 1588740139.156399,
-            "included_at_iso": "2020-05-06T04:42:19.156399",
-            "last_retested_at_epoch": 1588740139.156399,
-            "last_retested_at_iso": "2020-05-06T04:42:19.156399",
-            "status": "INACTIVE"
-        },
-        "seasonsnonaco.ddnsking.com": {
-            "included_at_epoch": 1588740144.508452,
-            "included_at_iso": "2020-05-06T04:42:24.508452",
-            "last_retested_at_epoch": 1588740144.508452,
-            "last_retested_at_iso": "2020-05-06T04:42:24.508452",
+            "last_retested_at_epoch": 1591160671.785158,
+            "last_retested_at_iso": "2020-06-03T05:04:31.785158",
             "status": "INACTIVE"
         },
         "seavideo22.com": {
@@ -28395,8 +28381,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591159789.144384,
-            "last_retested_at_iso": "2020-06-03T04:49:49.144384",
+            "last_retested_at_epoch": 1591160671.701324,
+            "last_retested_at_iso": "2020-06-03T05:04:31.701324",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
