@@ -24213,53 +24213,95 @@
             "last_retested_at_iso": "2020-06-03T05:04:37.095123",
             "status": "INACTIVE"
         },
+        "capbvs.org": {
+            "included_at_epoch": 1591161400.142707,
+            "included_at_iso": "2020-06-03T05:16:40.142707",
+            "last_retested_at_epoch": 1591161400.142707,
+            "last_retested_at_iso": "2020-06-03T05:16:40.142707",
+            "status": "INACTIVE"
+        },
+        "caperning.com": {
+            "included_at_epoch": 1591161400.222709,
+            "included_at_iso": "2020-06-03T05:16:40.222709",
+            "last_retested_at_epoch": 1591161400.222709,
+            "last_retested_at_iso": "2020-06-03T05:16:40.222709",
+            "status": "INACTIVE"
+        },
+        "capimain.familywishes.top": {
+            "included_at_epoch": 1591161401.053392,
+            "included_at_iso": "2020-06-03T05:16:41.053392",
+            "last_retested_at_epoch": 1591161401.053392,
+            "last_retested_at_iso": "2020-06-03T05:16:41.053392",
+            "status": "INACTIVE"
+        },
+        "capital1ones.specshomes.buzz": {
+            "included_at_epoch": 1591161401.498253,
+            "included_at_iso": "2020-06-03T05:16:41.498253",
+            "last_retested_at_epoch": 1591161401.498253,
+            "last_retested_at_iso": "2020-06-03T05:16:41.498253",
+            "status": "INACTIVE"
+        },
+        "capitalone-login.website": {
+            "included_at_epoch": 1591161401.659013,
+            "included_at_iso": "2020-06-03T05:16:41.659013",
+            "last_retested_at_epoch": 1591161401.659013,
+            "last_retested_at_iso": "2020-06-03T05:16:41.659013",
+            "status": "INACTIVE"
+        },
+        "capitalone-signin.tk": {
+            "included_at_epoch": 1591161401.578407,
+            "included_at_iso": "2020-06-03T05:16:41.578407",
+            "last_retested_at_epoch": 1591161401.578407,
+            "last_retested_at_iso": "2020-06-03T05:16:41.578407",
+            "status": "INACTIVE"
+        },
+        "capitalone.acct-access.com": {
+            "included_at_epoch": 1591161401.819789,
+            "included_at_iso": "2020-06-03T05:16:41.819789",
+            "last_retested_at_epoch": 1591161401.819789,
+            "last_retested_at_iso": "2020-06-03T05:16:41.819789",
+            "status": "INACTIVE"
+        },
+        "capitalonedeclined.hopto.org": {
+            "included_at_epoch": 1591161401.739905,
+            "included_at_iso": "2020-06-03T05:16:41.739905",
+            "last_retested_at_epoch": 1591161401.739905,
+            "last_retested_at_iso": "2020-06-03T05:16:41.739905",
+            "status": "INACTIVE"
+        },
+        "capitaloneus.brownglobalagroplant.com.ng": {
+            "included_at_epoch": 1591161402.272569,
+            "included_at_iso": "2020-06-03T05:16:42.272569",
+            "last_retested_at_epoch": 1591161402.272569,
+            "last_retested_at_iso": "2020-06-03T05:16:42.272569",
+            "status": "INACTIVE"
+        },
+        "capsdomannual.internationalwirelesscalls.xyz": {
+            "included_at_epoch": 1591161404.218649,
+            "included_at_iso": "2020-06-03T05:16:44.218649",
+            "last_retested_at_epoch": 1591161404.218649,
+            "last_retested_at_iso": "2020-06-03T05:16:44.218649",
+            "status": "INACTIVE"
+        },
+        "capsuledaily.com": {
+            "included_at_epoch": 1591161404.300209,
+            "included_at_iso": "2020-06-03T05:16:44.300209",
+            "last_retested_at_epoch": 1591161404.300209,
+            "last_retested_at_iso": "2020-06-03T05:16:44.300209",
+            "status": "INACTIVE"
+        },
+        "car156.net": {
+            "included_at_epoch": 1591161408.082762,
+            "included_at_iso": "2020-06-03T05:16:48.082762",
+            "last_retested_at_epoch": 1591161408.082762,
+            "last_retested_at_iso": "2020-06-03T05:16:48.082762",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591160671.785158,
-            "last_retested_at_iso": "2020-06-03T05:04:31.785158",
-            "status": "INACTIVE"
-        },
-        "seavideo22.com": {
-            "included_at_epoch": 1588741172.480869,
-            "included_at_iso": "2020-05-06T04:59:32.480869",
-            "last_retested_at_epoch": 1588741172.480869,
-            "last_retested_at_iso": "2020-05-06T04:59:32.480869",
-            "status": "INACTIVE"
-        },
-        "sebitarsek.cloudaccess.host": {
-            "included_at_epoch": 1588741173.608852,
-            "included_at_iso": "2020-05-06T04:59:33.608852",
-            "last_retested_at_epoch": 1588741173.608852,
-            "last_retested_at_iso": "2020-05-06T04:59:33.608852",
-            "status": "INACTIVE"
-        },
-        "sec-faceb00k.gq": {
-            "included_at_epoch": 1588741173.777737,
-            "included_at_iso": "2020-05-06T04:59:33.777737",
-            "last_retested_at_epoch": 1588741173.777737,
-            "last_retested_at_iso": "2020-05-06T04:59:33.777737",
-            "status": "INACTIVE"
-        },
-        "sec-paypa1onlineportal.co.uk": {
-            "included_at_epoch": 1588741174.046128,
-            "included_at_iso": "2020-05-06T04:59:34.046128",
-            "last_retested_at_epoch": 1588741174.046128,
-            "last_retested_at_iso": "2020-05-06T04:59:34.046128",
-            "status": "INACTIVE"
-        },
-        "sec-paypa1servportal.com": {
-            "included_at_epoch": 1588741173.912072,
-            "included_at_iso": "2020-05-06T04:59:33.912072",
-            "last_retested_at_epoch": 1588741173.912072,
-            "last_retested_at_iso": "2020-05-06T04:59:33.912072",
-            "status": "INACTIVE"
-        },
-        "sec.support-customer.access.security-systemapp.com": {
-            "included_at_epoch": 1588741174.212872,
-            "included_at_iso": "2020-05-06T04:59:34.212872",
-            "last_retested_at_epoch": 1588741174.212872,
-            "last_retested_at_iso": "2020-05-06T04:59:34.212872",
+            "last_retested_at_epoch": 1591161398.5577,
+            "last_retested_at_iso": "2020-06-03T05:16:38.557700",
             "status": "INACTIVE"
         },
         "sec3.paypa1.de.mangan-gajah.com": {
@@ -28381,8 +28423,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591160671.701324,
-            "last_retested_at_iso": "2020-06-03T05:04:31.701324",
+            "last_retested_at_epoch": 1591161398.475162,
+            "last_retested_at_iso": "2020-06-03T05:16:38.475162",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
