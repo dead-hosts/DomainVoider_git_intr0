@@ -24948,53 +24948,67 @@
             "last_retested_at_iso": "2020-06-03T07:44:04.263074",
             "status": "INACTIVE"
         },
+        "cdnsecure.03saas.scsbellus.com": {
+            "included_at_epoch": 1591170968.418405,
+            "included_at_iso": "2020-06-03T07:56:08.418405",
+            "last_retested_at_epoch": 1591170968.418405,
+            "last_retested_at_iso": "2020-06-03T07:56:08.418405",
+            "status": "INACTIVE"
+        },
+        "cdookjqkri.com": {
+            "included_at_epoch": 1591170970.451734,
+            "included_at_iso": "2020-06-03T07:56:10.451734",
+            "last_retested_at_epoch": 1591170970.451734,
+            "last_retested_at_iso": "2020-06-03T07:56:10.451734",
+            "status": "INACTIVE"
+        },
+        "cdxbbpngq.pw": {
+            "included_at_epoch": 1591170973.243669,
+            "included_at_iso": "2020-06-03T07:56:13.243669",
+            "last_retested_at_epoch": 1591170973.243669,
+            "last_retested_at_iso": "2020-06-03T07:56:13.243669",
+            "status": "INACTIVE"
+        },
+        "cdyiipzo.com": {
+            "included_at_epoch": 1591170973.322404,
+            "included_at_iso": "2020-06-03T07:56:13.322404",
+            "last_retested_at_epoch": 1591170973.322404,
+            "last_retested_at_iso": "2020-06-03T07:56:13.322404",
+            "status": "INACTIVE"
+        },
+        "cdyygbzihdh.com": {
+            "included_at_epoch": 1591170973.868256,
+            "included_at_iso": "2020-06-03T07:56:13.868256",
+            "last_retested_at_epoch": 1591170973.868256,
+            "last_retested_at_iso": "2020-06-03T07:56:13.868256",
+            "status": "INACTIVE"
+        },
+        "cdzifdzftkmfof.com": {
+            "included_at_epoch": 1591170973.789382,
+            "included_at_iso": "2020-06-03T07:56:13.789382",
+            "last_retested_at_epoch": 1591170973.789382,
+            "last_retested_at_iso": "2020-06-03T07:56:13.789382",
+            "status": "INACTIVE"
+        },
+        "ce0dc8aa55.com": {
+            "included_at_epoch": 1591170974.317505,
+            "included_at_iso": "2020-06-03T07:56:14.317505",
+            "last_retested_at_epoch": 1591170974.317505,
+            "last_retested_at_iso": "2020-06-03T07:56:14.317505",
+            "status": "INACTIVE"
+        },
+        "ceafdgcdfcheibdfabf.ru": {
+            "included_at_epoch": 1591170976.309617,
+            "included_at_iso": "2020-06-03T07:56:16.309617",
+            "last_retested_at_epoch": 1591170976.309617,
+            "last_retested_at_iso": "2020-06-03T07:56:16.309617",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591170238.055582,
-            "last_retested_at_iso": "2020-06-03T07:43:58.055582",
-            "status": "INACTIVE"
-        },
-        "sinyfqrmiqgd.com": {
-            "included_at_epoch": 1588751053.17203,
-            "included_at_iso": "2020-05-06T07:44:13.172030",
-            "last_retested_at_epoch": 1588751053.17203,
-            "last_retested_at_iso": "2020-05-06T07:44:13.172030",
-            "status": "INACTIVE"
-        },
-        "sipports-lnstagram.cf": {
-            "included_at_epoch": 1588751053.314415,
-            "included_at_iso": "2020-05-06T07:44:13.314415",
-            "last_retested_at_epoch": 1588751053.314415,
-            "last_retested_at_iso": "2020-05-06T07:44:13.314415",
-            "status": "INACTIVE"
-        },
-        "sisrgcvomn.com": {
-            "included_at_epoch": 1588751055.134368,
-            "included_at_iso": "2020-05-06T07:44:15.134368",
-            "last_retested_at_epoch": 1588751055.134368,
-            "last_retested_at_iso": "2020-05-06T07:44:15.134368",
-            "status": "INACTIVE"
-        },
-        "site.safety20pagefb.my.id": {
-            "included_at_epoch": 1588751057.880927,
-            "included_at_iso": "2020-05-06T07:44:17.880927",
-            "last_retested_at_epoch": 1588751057.880927,
-            "last_retested_at_iso": "2020-05-06T07:44:17.880927",
-            "status": "INACTIVE"
-        },
-        "siteanalytics.jp": {
-            "included_at_epoch": 1588751058.698794,
-            "included_at_iso": "2020-05-06T07:44:18.698794",
-            "last_retested_at_epoch": 1588751058.698794,
-            "last_retested_at_iso": "2020-05-06T07:44:18.698794",
-            "status": "INACTIVE"
-        },
-        "sitestatlog.net": {
-            "included_at_epoch": 1588751065.740304,
-            "included_at_iso": "2020-05-06T07:44:25.740304",
-            "last_retested_at_epoch": 1588751065.740304,
-            "last_retested_at_iso": "2020-05-06T07:44:25.740304",
+            "last_retested_at_epoch": 1591170968.2446,
+            "last_retested_at_iso": "2020-06-03T07:56:08.244600",
             "status": "INACTIVE"
         },
         "sjqpctsz.com": {
@@ -27268,8 +27282,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591170238.136634,
-            "last_retested_at_iso": "2020-06-03T07:43:58.136634",
+            "last_retested_at_epoch": 1591170968.326597,
+            "last_retested_at_iso": "2020-06-03T07:56:08.326597",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
