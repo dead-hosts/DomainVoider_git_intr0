@@ -28490,53 +28490,102 @@
             "last_retested_at_iso": "2020-06-03T22:00:41.430627",
             "status": "INACTIVE"
         },
+        "compca.de": {
+            "included_at_epoch": 1591222361.702626,
+            "included_at_iso": "2020-06-03T22:12:41.702626",
+            "last_retested_at_epoch": 1591222361.702626,
+            "last_retested_at_iso": "2020-06-03T22:12:41.702626",
+            "status": "INACTIVE"
+        },
+        "competition8571.nonamevar30.live": {
+            "included_at_epoch": 1591222362.560651,
+            "included_at_iso": "2020-06-03T22:12:42.560651",
+            "last_retested_at_epoch": 1591222362.560651,
+            "last_retested_at_iso": "2020-06-03T22:12:42.560651",
+            "status": "INACTIVE"
+        },
+        "completeboxdocumentciadbphogebaegvzwdk15.azurewebsites.net": {
+            "included_at_epoch": 1591222362.666062,
+            "included_at_iso": "2020-06-03T22:12:42.666062",
+            "last_retested_at_epoch": 1591222362.666062,
+            "last_retested_at_iso": "2020-06-03T22:12:42.666062",
+            "status": "INACTIVE"
+        },
+        "completeboxdocumentciadbphogebaegvzwdk2.azurewebsites.net": {
+            "included_at_epoch": 1591222362.746846,
+            "included_at_iso": "2020-06-03T22:12:42.746846",
+            "last_retested_at_epoch": 1591222362.746846,
+            "last_retested_at_iso": "2020-06-03T22:12:42.746846",
+            "status": "INACTIVE"
+        },
+        "completeboxdocumentciadbphogebaegvzwdk3.azurewebsites.net": {
+            "included_at_epoch": 1591222362.907279,
+            "included_at_iso": "2020-06-03T22:12:42.907279",
+            "last_retested_at_epoch": 1591222362.907279,
+            "last_retested_at_iso": "2020-06-03T22:12:42.907279",
+            "status": "INACTIVE"
+        },
+        "completeboxdocumentciadbphogebaegvzwdk8.azurewebsites.net": {
+            "included_at_epoch": 1591222362.826628,
+            "included_at_iso": "2020-06-03T22:12:42.826628",
+            "last_retested_at_epoch": 1591222362.826628,
+            "last_retested_at_iso": "2020-06-03T22:12:42.826628",
+            "status": "INACTIVE"
+        },
+        "completeboxdocumentfp6wmnh2rmozhd0gp12.azurewebsites.net": {
+            "included_at_epoch": 1591222362.988429,
+            "included_at_iso": "2020-06-03T22:12:42.988429",
+            "last_retested_at_epoch": 1591222362.988429,
+            "last_retested_at_iso": "2020-06-03T22:12:42.988429",
+            "status": "INACTIVE"
+        },
+        "completeboxdocumentfp6wmnh2rmozhd0gp14.azurewebsites.net": {
+            "included_at_epoch": 1591222363.06857,
+            "included_at_iso": "2020-06-03T22:12:43.068570",
+            "last_retested_at_epoch": 1591222363.06857,
+            "last_retested_at_iso": "2020-06-03T22:12:43.068570",
+            "status": "INACTIVE"
+        },
+        "completeexecutor.com": {
+            "included_at_epoch": 1591222363.535421,
+            "included_at_iso": "2020-06-03T22:12:43.535421",
+            "last_retested_at_epoch": 1591222363.535421,
+            "last_retested_at_iso": "2020-06-03T22:12:43.535421",
+            "status": "INACTIVE"
+        },
+        "computedocumented3kfnoynba1mrwuidqqknabm1.azurewebsites.net": {
+            "included_at_epoch": 1591222368.554524,
+            "included_at_iso": "2020-06-03T22:12:48.554524",
+            "last_retested_at_epoch": 1591222368.554524,
+            "last_retested_at_iso": "2020-06-03T22:12:48.554524",
+            "status": "INACTIVE"
+        },
+        "comradepony.com": {
+            "included_at_epoch": 1591222369.410361,
+            "included_at_iso": "2020-06-03T22:12:49.410361",
+            "last_retested_at_epoch": 1591222369.410361,
+            "last_retested_at_iso": "2020-06-03T22:12:49.410361",
+            "status": "INACTIVE"
+        },
+        "comwhatsappjoin-18.wa-porn18.tk": {
+            "included_at_epoch": 1591222371.762445,
+            "included_at_iso": "2020-06-03T22:12:51.762445",
+            "last_retested_at_epoch": 1591222371.762445,
+            "last_retested_at_iso": "2020-06-03T22:12:51.762445",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591221637.557021,
-            "last_retested_at_iso": "2020-06-03T22:00:37.557021",
+            "last_retested_at_epoch": 1591222361.207669,
+            "last_retested_at_iso": "2020-06-03T22:12:41.207669",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591221637.471002,
-            "last_retested_at_iso": "2020-06-03T22:00:37.471002",
-            "status": "INACTIVE"
-        },
-        "track.ft.com": {
-            "included_at_epoch": 1588802434.068132,
-            "included_at_iso": "2020-05-06T22:00:34.068132",
-            "last_retested_at_epoch": 1588802434.068132,
-            "last_retested_at_iso": "2020-05-06T22:00:34.068132",
-            "status": "INACTIVE"
-        },
-        "track.srv.vietnamnet.vn": {
-            "included_at_epoch": 1588802435.906896,
-            "included_at_iso": "2020-05-06T22:00:35.906896",
-            "last_retested_at_epoch": 1588802435.906896,
-            "last_retested_at_iso": "2020-05-06T22:00:35.906896",
-            "status": "INACTIVE"
-        },
-        "track.vatgia.com": {
-            "included_at_epoch": 1588802436.621936,
-            "included_at_iso": "2020-05-06T22:00:36.621936",
-            "last_retested_at_epoch": 1588802436.621936,
-            "last_retested_at_iso": "2020-05-06T22:00:36.621936",
-            "status": "INACTIVE"
-        },
-        "track.workablemetro.com": {
-            "included_at_epoch": 1588802437.013097,
-            "included_at_iso": "2020-05-06T22:00:37.013097",
-            "last_retested_at_epoch": 1588802437.013097,
-            "last_retested_at_iso": "2020-05-06T22:00:37.013097",
-            "status": "INACTIVE"
-        },
-        "trackbar.info": {
-            "included_at_epoch": 1588802438.60459,
-            "included_at_iso": "2020-05-06T22:00:38.604590",
-            "last_retested_at_epoch": 1588802438.60459,
-            "last_retested_at_iso": "2020-05-06T22:00:38.604590",
+            "last_retested_at_epoch": 1591222361.122824,
+            "last_retested_at_iso": "2020-06-03T22:12:41.122824",
             "status": "INACTIVE"
         },
         "tracker.joost.com": {
