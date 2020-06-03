@@ -27160,18 +27160,74 @@
             "last_retested_at_iso": "2020-06-03T14:04:04.031739",
             "status": "INACTIVE"
         },
+        "ci-ti-bank-online.com": {
+            "included_at_epoch": 1591193771.507252,
+            "included_at_iso": "2020-06-03T14:16:11.507252",
+            "last_retested_at_epoch": 1591193771.507252,
+            "last_retested_at_iso": "2020-06-03T14:16:11.507252",
+            "status": "INACTIVE"
+        },
+        "ci3ixee8.com": {
+            "included_at_epoch": 1591193771.604295,
+            "included_at_iso": "2020-06-03T14:16:11.604295",
+            "last_retested_at_epoch": 1591193771.604295,
+            "last_retested_at_iso": "2020-06-03T14:16:11.604295",
+            "status": "INACTIVE"
+        },
+        "ciajingman.com": {
+            "included_at_epoch": 1591193772.492538,
+            "included_at_iso": "2020-06-03T14:16:12.492538",
+            "last_retested_at_epoch": 1591193772.492538,
+            "last_retested_at_iso": "2020-06-03T14:16:12.492538",
+            "status": "INACTIVE"
+        },
+        "ciattedrof.ru": {
+            "included_at_epoch": 1591193772.970047,
+            "included_at_iso": "2020-06-03T14:16:12.970047",
+            "last_retested_at_epoch": 1591193772.970047,
+            "last_retested_at_iso": "2020-06-03T14:16:12.970047",
+            "status": "INACTIVE"
+        },
+        "cibcbankinguserverification09113ca.pathwaychurchministries.co.ke": {
+            "included_at_epoch": 1591193773.468036,
+            "included_at_iso": "2020-06-03T14:16:13.468036",
+            "last_retested_at_epoch": 1591193773.468036,
+            "last_retested_at_iso": "2020-06-03T14:16:13.468036",
+            "status": "INACTIVE"
+        },
+        "cibccontrol.xyz": {
+            "included_at_epoch": 1591193773.553168,
+            "included_at_iso": "2020-06-03T14:16:13.553168",
+            "last_retested_at_epoch": 1591193773.553168,
+            "last_retested_at_iso": "2020-06-03T14:16:13.553168",
+            "status": "INACTIVE"
+        },
+        "cibconlinelogin.com": {
+            "included_at_epoch": 1591193773.638153,
+            "included_at_iso": "2020-06-03T14:16:13.638153",
+            "last_retested_at_epoch": 1591193773.638153,
+            "last_retested_at_iso": "2020-06-03T14:16:13.638153",
+            "status": "INACTIVE"
+        },
+        "ciceidr.top": {
+            "included_at_epoch": 1591193774.124065,
+            "included_at_iso": "2020-06-03T14:16:14.124065",
+            "last_retested_at_epoch": 1591193774.124065,
+            "last_retested_at_iso": "2020-06-03T14:16:14.124065",
+            "status": "INACTIVE"
+        },
+        "cicero-dropbox.tk": {
+            "included_at_epoch": 1591193774.208498,
+            "included_at_iso": "2020-06-03T14:16:14.208498",
+            "last_retested_at_epoch": 1591193774.208498,
+            "last_retested_at_iso": "2020-06-03T14:16:14.208498",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591193033.318381,
-            "last_retested_at_iso": "2020-06-03T14:03:53.318381",
-            "status": "INACTIVE"
-        },
-        "tadaeizih.com": {
-            "included_at_epoch": 1588773669.588056,
-            "included_at_iso": "2020-05-06T14:01:09.588056",
-            "last_retested_at_epoch": 1588773669.588056,
-            "last_retested_at_iso": "2020-05-06T14:01:09.588056",
+            "last_retested_at_epoch": 1591193770.892546,
+            "last_retested_at_iso": "2020-06-03T14:16:10.892546",
             "status": "INACTIVE"
         },
         "tailorcave.com": {
@@ -27443,8 +27499,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591193033.412668,
-            "last_retested_at_iso": "2020-06-03T14:03:53.412668",
+            "last_retested_at_epoch": 1591193770.981666,
+            "last_retested_at_iso": "2020-06-03T14:16:10.981666",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
