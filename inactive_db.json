@@ -27965,18 +27965,46 @@
             "last_retested_at_iso": "2020-06-03T19:42:10.942697",
             "status": "INACTIVE"
         },
+        "cni58.com": {
+            "included_at_epoch": 1591214061.369103,
+            "included_at_iso": "2020-06-03T19:54:21.369103",
+            "last_retested_at_epoch": 1591214061.369103,
+            "last_retested_at_iso": "2020-06-03T19:54:21.369103",
+            "status": "INACTIVE"
+        },
+        "cnpntmju.com": {
+            "included_at_epoch": 1591214063.883125,
+            "included_at_iso": "2020-06-03T19:54:23.883125",
+            "last_retested_at_epoch": 1591214063.883125,
+            "last_retested_at_iso": "2020-06-03T19:54:23.883125",
+            "status": "INACTIVE"
+        },
+        "cnt.cerber.rambler.ru": {
+            "included_at_epoch": 1591214065.962557,
+            "included_at_iso": "2020-06-03T19:54:25.962557",
+            "last_retested_at_epoch": 1591214065.962557,
+            "last_retested_at_iso": "2020-06-03T19:54:25.962557",
+            "status": "INACTIVE"
+        },
+        "cnt.inforotor.net": {
+            "included_at_epoch": 1591214066.058095,
+            "included_at_iso": "2020-06-03T19:54:26.058095",
+            "last_retested_at_epoch": 1591214066.058095,
+            "last_retested_at_iso": "2020-06-03T19:54:26.058095",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591213330.084608,
-            "last_retested_at_iso": "2020-06-03T19:42:10.084608",
+            "last_retested_at_epoch": 1591214060.507507,
+            "last_retested_at_iso": "2020-06-03T19:54:20.507507",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591213330.000712,
-            "last_retested_at_iso": "2020-06-03T19:42:10.000712",
+            "last_retested_at_epoch": 1591214060.423666,
+            "last_retested_at_iso": "2020-06-03T19:54:20.423666",
             "status": "INACTIVE"
         },
         "tom4567.com": {
