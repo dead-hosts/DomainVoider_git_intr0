@@ -28210,18 +28210,88 @@
             "last_retested_at_iso": "2020-06-03T20:31:01.617202",
             "status": "INACTIVE"
         },
+        "colimavdar.ru": {
+            "included_at_epoch": 1591216979.791088,
+            "included_at_iso": "2020-06-03T20:42:59.791088",
+            "last_retested_at_epoch": 1591216979.791088,
+            "last_retested_at_iso": "2020-06-03T20:42:59.791088",
+            "status": "INACTIVE"
+        },
+        "collamps.com": {
+            "included_at_epoch": 1591216981.029809,
+            "included_at_iso": "2020-06-03T20:43:01.029809",
+            "last_retested_at_epoch": 1591216981.029809,
+            "last_retested_at_iso": "2020-06-03T20:43:01.029809",
+            "status": "INACTIVE"
+        },
+        "collect.data.tm-awx.com": {
+            "included_at_epoch": 1591216982.289785,
+            "included_at_iso": "2020-06-03T20:43:02.289785",
+            "last_retested_at_epoch": 1591216982.289785,
+            "last_retested_at_iso": "2020-06-03T20:43:02.289785",
+            "status": "INACTIVE"
+        },
+        "collect.sas.com": {
+            "included_at_epoch": 1591216982.394624,
+            "included_at_iso": "2020-06-03T20:43:02.394624",
+            "last_retested_at_epoch": 1591216982.394624,
+            "last_retested_at_iso": "2020-06-03T20:43:02.394624",
+            "status": "INACTIVE"
+        },
+        "collect2.sas.com": {
+            "included_at_epoch": 1591216982.501573,
+            "included_at_iso": "2020-06-03T20:43:02.501573",
+            "last_retested_at_epoch": 1591216982.501573,
+            "last_retested_at_iso": "2020-06-03T20:43:02.501573",
+            "status": "INACTIVE"
+        },
+        "collection.theaa.com": {
+            "included_at_epoch": 1591216983.755554,
+            "included_at_iso": "2020-06-03T20:43:03.755554",
+            "last_retested_at_epoch": 1591216983.755554,
+            "last_retested_at_iso": "2020-06-03T20:43:03.755554",
+            "status": "INACTIVE"
+        },
+        "collectivismm.com": {
+            "included_at_epoch": 1591216984.233942,
+            "included_at_iso": "2020-06-03T20:43:04.233942",
+            "last_retested_at_epoch": 1591216984.233942,
+            "last_retested_at_iso": "2020-06-03T20:43:04.233942",
+            "status": "INACTIVE"
+        },
+        "collector.apester.com": {
+            "included_at_epoch": 1591216984.370359,
+            "included_at_iso": "2020-06-03T20:43:04.370359",
+            "last_retested_at_epoch": 1591216984.370359,
+            "last_retested_at_iso": "2020-06-03T20:43:04.370359",
+            "status": "INACTIVE"
+        },
+        "collector.puhutv.com": {
+            "included_at_epoch": 1591216984.535528,
+            "included_at_iso": "2020-06-03T20:43:04.535528",
+            "last_retested_at_epoch": 1591216984.535528,
+            "last_retested_at_iso": "2020-06-03T20:43:04.535528",
+            "status": "INACTIVE"
+        },
+        "collector.shorte.st": {
+            "included_at_epoch": 1591216984.667671,
+            "included_at_iso": "2020-06-03T20:43:04.667671",
+            "last_retested_at_epoch": 1591216984.667671,
+            "last_retested_at_iso": "2020-06-03T20:43:04.667671",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591216239.052848,
-            "last_retested_at_iso": "2020-06-03T20:30:39.052848",
+            "last_retested_at_epoch": 1591216975.031648,
+            "last_retested_at_iso": "2020-06-03T20:42:55.031648",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591216239.136006,
-            "last_retested_at_iso": "2020-06-03T20:30:39.136006",
+            "last_retested_at_epoch": 1591216975.128315,
+            "last_retested_at_iso": "2020-06-03T20:42:55.128315",
             "status": "INACTIVE"
         },
         "tom4567.com": {
