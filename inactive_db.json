@@ -24808,81 +24808,32 @@
             "last_retested_at_iso": "2020-06-03T06:54:03.350816",
             "status": "INACTIVE"
         },
+        "cdn-code.host": {
+            "included_at_epoch": 1591168059.010891,
+            "included_at_iso": "2020-06-03T07:07:39.010891",
+            "last_retested_at_epoch": 1591168059.010891,
+            "last_retested_at_iso": "2020-06-03T07:07:39.010891",
+            "status": "INACTIVE"
+        },
+        "cdn-my1.ru": {
+            "included_at_epoch": 1591168059.08947,
+            "included_at_iso": "2020-06-03T07:07:39.089470",
+            "last_retested_at_epoch": 1591168059.08947,
+            "last_retested_at_iso": "2020-06-03T07:07:39.089470",
+            "status": "INACTIVE"
+        },
+        "cdn-my3.ru": {
+            "included_at_epoch": 1591168059.167354,
+            "included_at_iso": "2020-06-03T07:07:39.167354",
+            "last_retested_at_epoch": 1591168059.167354,
+            "last_retested_at_iso": "2020-06-03T07:07:39.167354",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591167238.128186,
-            "last_retested_at_iso": "2020-06-03T06:53:58.128186",
-            "status": "INACTIVE"
-        },
-        "sexohme.ru": {
-            "included_at_epoch": 1588748086.208385,
-            "included_at_iso": "2020-05-06T06:54:46.208385",
-            "last_retested_at_epoch": 1588748086.208385,
-            "last_retested_at_iso": "2020-05-06T06:54:46.208385",
-            "status": "INACTIVE"
-        },
-        "sexxgroupswa.joins5.com": {
-            "included_at_epoch": 1588748088.958281,
-            "included_at_iso": "2020-05-06T06:54:48.958281",
-            "last_retested_at_epoch": 1588748088.958281,
-            "last_retested_at_iso": "2020-05-06T06:54:48.958281",
-            "status": "INACTIVE"
-        },
-        "sfcoronavirusrelief.com": {
-            "included_at_epoch": 1588748091.103077,
-            "included_at_iso": "2020-05-06T06:54:51.103077",
-            "last_retested_at_epoch": 1588748091.103077,
-            "last_retested_at_iso": "2020-05-06T06:54:51.103077",
-            "status": "INACTIVE"
-        },
-        "sfrsuihcubepzd.com": {
-            "included_at_epoch": 1588748094.587487,
-            "included_at_iso": "2020-05-06T06:54:54.587487",
-            "last_retested_at_epoch": 1588748094.587487,
-            "last_retested_at_iso": "2020-05-06T06:54:54.587487",
-            "status": "INACTIVE"
-        },
-        "sfxmdqbi.com": {
-            "included_at_epoch": 1588748095.748126,
-            "included_at_iso": "2020-05-06T06:54:55.748126",
-            "last_retested_at_epoch": 1588748095.748126,
-            "last_retested_at_iso": "2020-05-06T06:54:55.748126",
-            "status": "INACTIVE"
-        },
-        "sgggjaosyrxr.com": {
-            "included_at_epoch": 1588748097.901398,
-            "included_at_iso": "2020-05-06T06:54:57.901398",
-            "last_retested_at_epoch": 1588748097.901398,
-            "last_retested_at_iso": "2020-05-06T06:54:57.901398",
-            "status": "INACTIVE"
-        },
-        "sgiueejx.com": {
-            "included_at_epoch": 1588748098.037537,
-            "included_at_iso": "2020-05-06T06:54:58.037537",
-            "last_retested_at_epoch": 1588748098.037537,
-            "last_retested_at_iso": "2020-05-06T06:54:58.037537",
-            "status": "INACTIVE"
-        },
-        "sgmneqaebkzjug.com": {
-            "included_at_epoch": 1588748098.500383,
-            "included_at_iso": "2020-05-06T06:54:58.500383",
-            "last_retested_at_epoch": 1588748098.500383,
-            "last_retested_at_iso": "2020-05-06T06:54:58.500383",
-            "status": "INACTIVE"
-        },
-        "sgqmhpqrstwzwd.com": {
-            "included_at_epoch": 1588748099.366699,
-            "included_at_iso": "2020-05-06T06:54:59.366699",
-            "last_retested_at_epoch": 1588748099.366699,
-            "last_retested_at_iso": "2020-05-06T06:54:59.366699",
-            "status": "INACTIVE"
-        },
-        "shapzwwy.com": {
-            "included_at_epoch": 1588748107.933887,
-            "included_at_iso": "2020-05-06T06:55:07.933887",
-            "last_retested_at_epoch": 1588748107.933887,
-            "last_retested_at_iso": "2020-05-06T06:55:07.933887",
+            "last_retested_at_epoch": 1591168058.470128,
+            "last_retested_at_iso": "2020-06-03T07:07:38.470128",
             "status": "INACTIVE"
         },
         "shasnvadkustw.com": {
@@ -27548,8 +27499,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591167238.045114,
-            "last_retested_at_iso": "2020-06-03T06:53:58.045114",
+            "last_retested_at_epoch": 1591168058.552914,
+            "last_retested_at_iso": "2020-06-03T07:07:38.552914",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
