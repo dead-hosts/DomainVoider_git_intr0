@@ -25550,11 +25550,74 @@
             "last_retested_at_iso": "2020-06-03T08:33:02.530233",
             "status": "INACTIVE"
         },
+        "cfasync.gq": {
+            "included_at_epoch": 1591173896.669281,
+            "included_at_iso": "2020-06-03T08:44:56.669281",
+            "last_retested_at_epoch": 1591173896.669281,
+            "last_retested_at_iso": "2020-06-03T08:44:56.669281",
+            "status": "INACTIVE"
+        },
+        "cfenl.com": {
+            "included_at_epoch": 1591173897.917449,
+            "included_at_iso": "2020-06-03T08:44:57.917449",
+            "last_retested_at_epoch": 1591173897.917449,
+            "last_retested_at_iso": "2020-06-03T08:44:57.917449",
+            "status": "INACTIVE"
+        },
+        "cfg.smt.docomo.ne.jp.ngetestaja.com": {
+            "included_at_epoch": 1591173898.388954,
+            "included_at_iso": "2020-06-03T08:44:58.388954",
+            "last_retested_at_epoch": 1591173898.388954,
+            "last_retested_at_iso": "2020-06-03T08:44:58.388954",
+            "status": "INACTIVE"
+        },
+        "cfhkiriics.com": {
+            "included_at_epoch": 1591173898.859201,
+            "included_at_iso": "2020-06-03T08:44:58.859201",
+            "last_retested_at_epoch": 1591173898.859201,
+            "last_retested_at_iso": "2020-06-03T08:44:58.859201",
+            "status": "INACTIVE"
+        },
+        "cfpqhrfpccmpq.com": {
+            "included_at_epoch": 1591173901.20485,
+            "included_at_iso": "2020-06-03T08:45:01.204850",
+            "last_retested_at_epoch": 1591173901.20485,
+            "last_retested_at_iso": "2020-06-03T08:45:01.204850",
+            "status": "INACTIVE"
+        },
+        "cfqpxzx.com": {
+            "included_at_epoch": 1591173901.283984,
+            "included_at_iso": "2020-06-03T08:45:01.283984",
+            "last_retested_at_epoch": 1591173901.283984,
+            "last_retested_at_iso": "2020-06-03T08:45:01.283984",
+            "status": "INACTIVE"
+        },
+        "cfqzixjwwqgow.com": {
+            "included_at_epoch": 1591173901.362856,
+            "included_at_iso": "2020-06-03T08:45:01.362856",
+            "last_retested_at_epoch": 1591173901.362856,
+            "last_retested_at_iso": "2020-06-03T08:45:01.362856",
+            "status": "INACTIVE"
+        },
+        "cfsdtzggpcmr.com": {
+            "included_at_epoch": 1591173902.19059,
+            "included_at_iso": "2020-06-03T08:45:02.190590",
+            "last_retested_at_epoch": 1591173902.19059,
+            "last_retested_at_iso": "2020-06-03T08:45:02.190590",
+            "status": "INACTIVE"
+        },
+        "cfskcqrwbog.com": {
+            "included_at_epoch": 1591173902.270114,
+            "included_at_iso": "2020-06-03T08:45:02.270114",
+            "last_retested_at_epoch": 1591173902.270114,
+            "last_retested_at_iso": "2020-06-03T08:45:02.270114",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591173169.060719,
-            "last_retested_at_iso": "2020-06-03T08:32:49.060719",
+            "last_retested_at_epoch": 1591173896.503787,
+            "last_retested_at_iso": "2020-06-03T08:44:56.503787",
             "status": "INACTIVE"
         },
         "smiinformer.online": {
@@ -27730,8 +27793,8 @@
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591173169.144422,
-            "last_retested_at_iso": "2020-06-03T08:32:49.144422",
+            "last_retested_at_epoch": 1591173896.58964,
+            "last_retested_at_iso": "2020-06-03T08:44:56.589640",
             "status": "INACTIVE"
         },
         "telus-mobile.info": {
