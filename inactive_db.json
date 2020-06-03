@@ -28280,18 +28280,67 @@
             "last_retested_at_iso": "2020-06-03T20:43:04.667671",
             "status": "INACTIVE"
         },
+        "com-app1e0rders.com": {
+            "included_at_epoch": 1591217992.239288,
+            "included_at_iso": "2020-06-03T20:59:52.239288",
+            "last_retested_at_epoch": 1591217992.239288,
+            "last_retested_at_iso": "2020-06-03T20:59:52.239288",
+            "status": "INACTIVE"
+        },
+        "com-basicbiling-secures.com": {
+            "included_at_epoch": 1591217992.319762,
+            "included_at_iso": "2020-06-03T20:59:52.319762",
+            "last_retested_at_epoch": 1591217992.319762,
+            "last_retested_at_iso": "2020-06-03T20:59:52.319762",
+            "status": "INACTIVE"
+        },
+        "com-d3faultbl0cked6789.dujmolioko.com": {
+            "included_at_epoch": 1591217992.433962,
+            "included_at_iso": "2020-06-03T20:59:52.433962",
+            "last_retested_at_epoch": 1591217992.433962,
+            "last_retested_at_iso": "2020-06-03T20:59:52.433962",
+            "status": "INACTIVE"
+        },
+        "com-locked-app1e-account.ga": {
+            "included_at_epoch": 1591217993.284452,
+            "included_at_iso": "2020-06-03T20:59:53.284452",
+            "last_retested_at_epoch": 1591217993.284452,
+            "last_retested_at_iso": "2020-06-03T20:59:53.284452",
+            "status": "INACTIVE"
+        },
+        "com-whatsapp.otzo1.gq": {
+            "included_at_epoch": 1591217994.13671,
+            "included_at_iso": "2020-06-03T20:59:54.136710",
+            "last_retested_at_epoch": 1591217994.13671,
+            "last_retested_at_iso": "2020-06-03T20:59:54.136710",
+            "status": "INACTIVE"
+        },
+        "com-whatsappapp.4dq-18.ml": {
+            "included_at_epoch": 1591217994.309351,
+            "included_at_iso": "2020-06-03T20:59:54.309351",
+            "last_retested_at_epoch": 1591217994.309351,
+            "last_retested_at_iso": "2020-06-03T20:59:54.309351",
+            "status": "INACTIVE"
+        },
+        "com-whatsappgrup18.hol99.tk": {
+            "included_at_epoch": 1591217994.228986,
+            "included_at_iso": "2020-06-03T20:59:54.228986",
+            "last_retested_at_epoch": 1591217994.228986,
+            "last_retested_at_iso": "2020-06-03T20:59:54.228986",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591216975.031648,
-            "last_retested_at_iso": "2020-06-03T20:42:55.031648",
+            "last_retested_at_epoch": 1591217988.561233,
+            "last_retested_at_iso": "2020-06-03T20:59:48.561233",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591216975.128315,
-            "last_retested_at_iso": "2020-06-03T20:42:55.128315",
+            "last_retested_at_epoch": 1591217988.648511,
+            "last_retested_at_iso": "2020-06-03T20:59:48.648511",
             "status": "INACTIVE"
         },
         "tom4567.com": {
