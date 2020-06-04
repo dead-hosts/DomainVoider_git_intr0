@@ -34790,18 +34790,81 @@
             "last_retested_at_iso": "2020-06-04T18:26:08.176084",
             "status": "INACTIVE"
         },
+        "dzisou.com": {
+            "included_at_epoch": 1591295909.903237,
+            "included_at_iso": "2020-06-04T18:38:29.903237",
+            "last_retested_at_epoch": 1591295909.903237,
+            "last_retested_at_iso": "2020-06-04T18:38:29.903237",
+            "status": "INACTIVE"
+        },
+        "dziwne-zdjecia.24f.eu": {
+            "included_at_epoch": 1591295909.978487,
+            "included_at_iso": "2020-06-04T18:38:29.978487",
+            "last_retested_at_epoch": 1591295909.978487,
+            "last_retested_at_iso": "2020-06-04T18:38:29.978487",
+            "status": "INACTIVE"
+        },
+        "dzkmbajm.com": {
+            "included_at_epoch": 1591295910.813402,
+            "included_at_iso": "2020-06-04T18:38:30.813402",
+            "last_retested_at_epoch": 1591295910.813402,
+            "last_retested_at_iso": "2020-06-04T18:38:30.813402",
+            "status": "INACTIVE"
+        },
+        "dzqoubtxsaskdl.com": {
+            "included_at_epoch": 1591295912.053718,
+            "included_at_iso": "2020-06-04T18:38:32.053718",
+            "last_retested_at_epoch": 1591295912.053718,
+            "last_retested_at_iso": "2020-06-04T18:38:32.053718",
+            "status": "INACTIVE"
+        },
+        "dzughf.com": {
+            "included_at_epoch": 1591295912.532248,
+            "included_at_iso": "2020-06-04T18:38:32.532248",
+            "last_retested_at_epoch": 1591295912.532248,
+            "last_retested_at_iso": "2020-06-04T18:38:32.532248",
+            "status": "INACTIVE"
+        },
+        "dzztjcbt.com": {
+            "included_at_epoch": 1591295913.368086,
+            "included_at_iso": "2020-06-04T18:38:33.368086",
+            "last_retested_at_epoch": 1591295913.368086,
+            "last_retested_at_iso": "2020-06-04T18:38:33.368086",
+            "status": "INACTIVE"
+        },
+        "e-cimeraidatiadebasvurunuz.com": {
+            "included_at_epoch": 1591295914.605498,
+            "included_at_iso": "2020-06-04T18:38:34.605498",
+            "last_retested_at_epoch": 1591295914.605498,
+            "last_retested_at_iso": "2020-06-04T18:38:34.605498",
+            "status": "INACTIVE"
+        },
+        "e-hizmetin.com": {
+            "included_at_epoch": 1591295920.439097,
+            "included_at_iso": "2020-06-04T18:38:40.439097",
+            "last_retested_at_epoch": 1591295920.439097,
+            "last_retested_at_iso": "2020-06-04T18:38:40.439097",
+            "status": "INACTIVE"
+        },
+        "e-paypa1.com": {
+            "included_at_epoch": 1591295923.611147,
+            "included_at_iso": "2020-06-04T18:38:43.611147",
+            "last_retested_at_epoch": 1591295923.611147,
+            "last_retested_at_iso": "2020-06-04T18:38:43.611147",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591295163.571622,
-            "last_retested_at_iso": "2020-06-04T18:26:03.571622",
+            "last_retested_at_epoch": 1591295909.295528,
+            "last_retested_at_iso": "2020-06-04T18:38:29.295528",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591295163.490389,
-            "last_retested_at_iso": "2020-06-04T18:26:03.490389",
+            "last_retested_at_epoch": 1591295909.375041,
+            "last_retested_at_iso": "2020-06-04T18:38:29.375041",
             "status": "INACTIVE"
         }
     }
