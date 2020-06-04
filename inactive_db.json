@@ -29281,74 +29281,67 @@
             "last_retested_at_iso": "2020-06-04T00:30:19.320720",
             "status": "INACTIVE"
         },
+        "copyrightedlnstagram.com": {
+            "included_at_epoch": 1591231336.566896,
+            "included_at_iso": "2020-06-04T00:42:16.566896",
+            "last_retested_at_epoch": 1591231336.566896,
+            "last_retested_at_iso": "2020-06-04T00:42:16.566896",
+            "status": "INACTIVE"
+        },
+        "copyrightform-lnstagramcopyrighthelperforms.cf": {
+            "included_at_epoch": 1591231336.646028,
+            "included_at_iso": "2020-06-04T00:42:16.646028",
+            "last_retested_at_epoch": 1591231336.646028,
+            "last_retested_at_iso": "2020-06-04T00:42:16.646028",
+            "status": "INACTIVE"
+        },
+        "copyrighthelplnstagram.cf": {
+            "included_at_epoch": 1591231336.724948,
+            "included_at_iso": "2020-06-04T00:42:16.724948",
+            "last_retested_at_epoch": 1591231336.724948,
+            "last_retested_at_iso": "2020-06-04T00:42:16.724948",
+            "status": "INACTIVE"
+        },
+        "copyrighthelplnstagram.ml": {
+            "included_at_epoch": 1591231336.80437,
+            "included_at_iso": "2020-06-04T00:42:16.804370",
+            "last_retested_at_epoch": 1591231336.80437,
+            "last_retested_at_iso": "2020-06-04T00:42:16.804370",
+            "status": "INACTIVE"
+        },
+        "copyrightlnstagram.cf": {
+            "included_at_epoch": 1591231337.664448,
+            "included_at_iso": "2020-06-04T00:42:17.664448",
+            "last_retested_at_epoch": 1591231337.664448,
+            "last_retested_at_iso": "2020-06-04T00:42:17.664448",
+            "status": "INACTIVE"
+        },
+        "copyrightlnstagram.ga": {
+            "included_at_epoch": 1591231337.756597,
+            "included_at_iso": "2020-06-04T00:42:17.756597",
+            "last_retested_at_epoch": 1591231337.756597,
+            "last_retested_at_iso": "2020-06-04T00:42:17.756597",
+            "status": "INACTIVE"
+        },
+        "copyrightlnstagramcenter.com": {
+            "included_at_epoch": 1591231337.836597,
+            "included_at_iso": "2020-06-04T00:42:17.836597",
+            "last_retested_at_epoch": 1591231337.836597,
+            "last_retested_at_iso": "2020-06-04T00:42:17.836597",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591230617.551737,
-            "last_retested_at_iso": "2020-06-04T00:30:17.551737",
+            "last_retested_at_epoch": 1591231336.402837,
+            "last_retested_at_iso": "2020-06-04T00:42:16.402837",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591230617.467431,
-            "last_retested_at_iso": "2020-06-04T00:30:17.467431",
-            "status": "INACTIVE"
-        },
-        "ujwdwwfuqcgnv.com": {
-            "included_at_epoch": 1588811206.863744,
-            "included_at_iso": "2020-05-07T00:26:46.863744",
-            "last_retested_at_epoch": 1588811206.863744,
-            "last_retested_at_iso": "2020-05-07T00:26:46.863744",
-            "status": "INACTIVE"
-        },
-        "uk-lnstagram.app": {
-            "included_at_epoch": 1588811208.514219,
-            "included_at_iso": "2020-05-07T00:26:48.514219",
-            "last_retested_at_epoch": 1588811208.514219,
-            "last_retested_at_iso": "2020-05-07T00:26:48.514219",
-            "status": "INACTIVE"
-        },
-        "uk.hmrc.returns-form.com": {
-            "included_at_epoch": 1588811208.663047,
-            "included_at_iso": "2020-05-07T00:26:48.663047",
-            "last_retested_at_epoch": 1588811208.663047,
-            "last_retested_at_iso": "2020-05-07T00:26:48.663047",
-            "status": "INACTIVE"
-        },
-        "ukatoe.com": {
-            "included_at_epoch": 1588811208.811354,
-            "included_at_iso": "2020-05-07T00:26:48.811354",
-            "last_retested_at_epoch": 1588811208.811354,
-            "last_retested_at_iso": "2020-05-07T00:26:48.811354",
-            "status": "INACTIVE"
-        },
-        "ukbet99.com": {
-            "included_at_epoch": 1588811209.679149,
-            "included_at_iso": "2020-05-07T00:26:49.679149",
-            "last_retested_at_epoch": 1588811209.679149,
-            "last_retested_at_iso": "2020-05-07T00:26:49.679149",
-            "status": "INACTIVE"
-        },
-        "ukdjbubvp.com": {
-            "included_at_epoch": 1588811210.884517,
-            "included_at_iso": "2020-05-07T00:26:50.884517",
-            "last_retested_at_epoch": 1588811210.884517,
-            "last_retested_at_iso": "2020-05-07T00:26:50.884517",
-            "status": "INACTIVE"
-        },
-        "ukjsibgu.com": {
-            "included_at_epoch": 1588811211.8107,
-            "included_at_iso": "2020-05-07T00:26:51.810700",
-            "last_retested_at_epoch": 1588811211.8107,
-            "last_retested_at_iso": "2020-05-07T00:26:51.810700",
-            "status": "INACTIVE"
-        },
-        "ukksghzwxha.com": {
-            "included_at_epoch": 1588811211.958945,
-            "included_at_iso": "2020-05-07T00:26:51.958945",
-            "last_retested_at_epoch": 1588811211.958945,
-            "last_retested_at_iso": "2020-05-07T00:26:51.958945",
+            "last_retested_at_epoch": 1591231336.486268,
+            "last_retested_at_iso": "2020-06-04T00:42:16.486268",
             "status": "INACTIVE"
         },
         "ukrsvit.ukrmir.info": {
