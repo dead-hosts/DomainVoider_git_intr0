@@ -34629,18 +34629,46 @@
             "last_retested_at_iso": "2020-06-04T16:35:28.200249",
             "status": "INACTIVE"
         },
+        "dwabissw.com": {
+            "included_at_epoch": 1591289260.158793,
+            "included_at_iso": "2020-06-04T16:47:40.158793",
+            "last_retested_at_epoch": 1591289260.158793,
+            "last_retested_at_iso": "2020-06-04T16:47:40.158793",
+            "status": "INACTIVE"
+        },
+        "dwopbruzifg.com": {
+            "included_at_epoch": 1591289263.368767,
+            "included_at_iso": "2020-06-04T16:47:43.368767",
+            "last_retested_at_epoch": 1591289263.368767,
+            "last_retested_at_iso": "2020-06-04T16:47:43.368767",
+            "status": "INACTIVE"
+        },
+        "dwore.bid": {
+            "included_at_epoch": 1591289263.837014,
+            "included_at_iso": "2020-06-04T16:47:43.837014",
+            "last_retested_at_epoch": 1591289263.837014,
+            "last_retested_at_iso": "2020-06-04T16:47:43.837014",
+            "status": "INACTIVE"
+        },
+        "dworzecfakt.eu": {
+            "included_at_epoch": 1591289263.912756,
+            "included_at_iso": "2020-06-04T16:47:43.912756",
+            "last_retested_at_epoch": 1591289263.912756,
+            "last_retested_at_iso": "2020-06-04T16:47:43.912756",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591288518.233991,
-            "last_retested_at_iso": "2020-06-04T16:35:18.233991",
+            "last_retested_at_epoch": 1591289257.645834,
+            "last_retested_at_iso": "2020-06-04T16:47:37.645834",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591288518.154586,
-            "last_retested_at_iso": "2020-06-04T16:35:18.154586",
+            "last_retested_at_epoch": 1591289257.726326,
+            "last_retested_at_iso": "2020-06-04T16:47:37.726326",
             "status": "INACTIVE"
         },
         "zisbrygtluib.com": {
