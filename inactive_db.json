@@ -33838,60 +33838,95 @@
             "last_retested_at_iso": "2020-06-04T13:23:36.593780",
             "status": "INACTIVE"
         },
+        "dotpay.emonitoring-poczta48.net": {
+            "included_at_epoch": 1591277737.076384,
+            "included_at_iso": "2020-06-04T13:35:37.076384",
+            "last_retested_at_epoch": 1591277737.076384,
+            "last_retested_at_iso": "2020-06-04T13:35:37.076384",
+            "status": "INACTIVE"
+        },
+        "dotpay.emonitoring-polskapoczta.com": {
+            "included_at_epoch": 1591277737.15191,
+            "included_at_iso": "2020-06-04T13:35:37.151910",
+            "last_retested_at_epoch": 1591277737.15191,
+            "last_retested_at_iso": "2020-06-04T13:35:37.151910",
+            "status": "INACTIVE"
+        },
+        "dotpay.epaybylink.pl": {
+            "included_at_epoch": 1591277737.302668,
+            "included_at_iso": "2020-06-04T13:35:37.302668",
+            "last_retested_at_epoch": 1591277737.302668,
+            "last_retested_at_iso": "2020-06-04T13:35:37.302668",
+            "status": "INACTIVE"
+        },
+        "dotpay.etracking-pocztex.eu": {
+            "included_at_epoch": 1591277737.227553,
+            "included_at_iso": "2020-06-04T13:35:37.227553",
+            "last_retested_at_epoch": 1591277737.227553,
+            "last_retested_at_iso": "2020-06-04T13:35:37.227553",
+            "status": "INACTIVE"
+        },
+        "dotpay.monitoring-pocztapolska.net": {
+            "included_at_epoch": 1591277737.378552,
+            "included_at_iso": "2020-06-04T13:35:37.378552",
+            "last_retested_at_epoch": 1591277737.378552,
+            "last_retested_at_iso": "2020-06-04T13:35:37.378552",
+            "status": "INACTIVE"
+        },
+        "dotpay.pocztapolska247.com": {
+            "included_at_epoch": 1591277737.454329,
+            "included_at_iso": "2020-06-04T13:35:37.454329",
+            "last_retested_at_epoch": 1591277737.454329,
+            "last_retested_at_iso": "2020-06-04T13:35:37.454329",
+            "status": "INACTIVE"
+        },
+        "dotpay.pocztexpolska.com": {
+            "included_at_epoch": 1591277737.532195,
+            "included_at_iso": "2020-06-04T13:35:37.532195",
+            "last_retested_at_epoch": 1591277737.532195,
+            "last_retested_at_iso": "2020-06-04T13:35:37.532195",
+            "status": "INACTIVE"
+        },
+        "dotpay.pocztexpolska.org": {
+            "included_at_epoch": 1591277737.607763,
+            "included_at_iso": "2020-06-04T13:35:37.607763",
+            "last_retested_at_epoch": 1591277737.607763,
+            "last_retested_at_iso": "2020-06-04T13:35:37.607763",
+            "status": "INACTIVE"
+        },
+        "dotpay.pocztexpolska48.net": {
+            "included_at_epoch": 1591277737.683591,
+            "included_at_iso": "2020-06-04T13:35:37.683591",
+            "last_retested_at_epoch": 1591277737.683591,
+            "last_retested_at_iso": "2020-06-04T13:35:37.683591",
+            "status": "INACTIVE"
+        },
+        "dowages.com": {
+            "included_at_epoch": 1591277744.753263,
+            "included_at_iso": "2020-06-04T13:35:44.753263",
+            "last_retested_at_epoch": 1591277744.753263,
+            "last_retested_at_iso": "2020-06-04T13:35:44.753263",
+            "status": "INACTIVE"
+        },
+        "down.gogominer.com": {
+            "included_at_epoch": 1591277745.23907,
+            "included_at_iso": "2020-06-04T13:35:45.239070",
+            "last_retested_at_epoch": 1591277745.23907,
+            "last_retested_at_iso": "2020-06-04T13:35:45.239070",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591276994.315955,
-            "last_retested_at_iso": "2020-06-04T13:23:14.315955",
+            "last_retested_at_epoch": 1591277727.721054,
+            "last_retested_at_iso": "2020-06-04T13:35:27.721054",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591276994.238676,
-            "last_retested_at_iso": "2020-06-04T13:23:14.238676",
-            "status": "INACTIVE"
-        },
-        "yuimzq.shoesmogul.com": {
-            "included_at_epoch": 1588857197.618798,
-            "included_at_iso": "2020-05-07T13:13:17.618798",
-            "last_retested_at_epoch": 1588857197.618798,
-            "last_retested_at_iso": "2020-05-07T13:13:17.618798",
-            "status": "INACTIVE"
-        },
-        "yuituityula.com": {
-            "included_at_epoch": 1588857197.784661,
-            "included_at_iso": "2020-05-07T13:13:17.784661",
-            "last_retested_at_epoch": 1588857197.784661,
-            "last_retested_at_iso": "2020-05-07T13:13:17.784661",
-            "status": "INACTIVE"
-        },
-        "yupfiles.club": {
-            "included_at_epoch": 1588857201.658962,
-            "included_at_iso": "2020-05-07T13:13:21.658962",
-            "last_retested_at_epoch": 1588857201.658962,
-            "last_retested_at_iso": "2020-05-07T13:13:21.658962",
-            "status": "INACTIVE"
-        },
-        "yvbrgzeu.com": {
-            "included_at_epoch": 1588857205.615556,
-            "included_at_iso": "2020-05-07T13:13:25.615556",
-            "last_retested_at_epoch": 1588857205.615556,
-            "last_retested_at_iso": "2020-05-07T13:13:25.615556",
-            "status": "INACTIVE"
-        },
-        "yvlhxqxw.com": {
-            "included_at_epoch": 1588857207.669111,
-            "included_at_iso": "2020-05-07T13:13:27.669111",
-            "last_retested_at_epoch": 1588857207.669111,
-            "last_retested_at_iso": "2020-05-07T13:13:27.669111",
-            "status": "INACTIVE"
-        },
-        "yvlmcehqt.com": {
-            "included_at_epoch": 1588857208.258849,
-            "included_at_iso": "2020-05-07T13:13:28.258849",
-            "last_retested_at_epoch": 1588857208.258849,
-            "last_retested_at_iso": "2020-05-07T13:13:28.258849",
+            "last_retested_at_epoch": 1591277727.642577,
+            "last_retested_at_iso": "2020-06-04T13:35:27.642577",
             "status": "INACTIVE"
         },
         "yvxyqdb.shoesmogul.com": {
