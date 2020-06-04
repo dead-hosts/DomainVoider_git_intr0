@@ -35511,18 +35511,74 @@
             "last_retested_at_iso": "2020-06-04T20:37:15.044626",
             "status": "INACTIVE"
         },
+        "ed98512111bb19e5.in.net": {
+            "included_at_epoch": 1591303755.488002,
+            "included_at_iso": "2020-06-04T20:49:15.488002",
+            "last_retested_at_epoch": 1591303755.488002,
+            "last_retested_at_iso": "2020-06-04T20:49:15.488002",
+            "status": "INACTIVE"
+        },
+        "eddjf.com": {
+            "included_at_epoch": 1591303756.739581,
+            "included_at_iso": "2020-06-04T20:49:16.739581",
+            "last_retested_at_epoch": 1591303756.739581,
+            "last_retested_at_iso": "2020-06-04T20:49:16.739581",
+            "status": "INACTIVE"
+        },
+        "edevletaidat.online": {
+            "included_at_epoch": 1591303757.593699,
+            "included_at_iso": "2020-06-04T20:49:17.593699",
+            "last_retested_at_epoch": 1591303757.593699,
+            "last_retested_at_iso": "2020-06-04T20:49:17.593699",
+            "status": "INACTIVE"
+        },
+        "edevletaidatformu.net": {
+            "included_at_epoch": 1591303758.065858,
+            "included_at_iso": "2020-06-04T20:49:18.065858",
+            "last_retested_at_epoch": 1591303758.065858,
+            "last_retested_at_iso": "2020-06-04T20:49:18.065858",
+            "status": "INACTIVE"
+        },
+        "edevonlineaidat.com": {
+            "included_at_epoch": 1591303758.525666,
+            "included_at_iso": "2020-06-04T20:49:18.525666",
+            "last_retested_at_epoch": 1591303758.525666,
+            "last_retested_at_iso": "2020-06-04T20:49:18.525666",
+            "status": "INACTIVE"
+        },
+        "edgead.woomedya.com": {
+            "included_at_epoch": 1591303759.055674,
+            "included_at_iso": "2020-06-04T20:49:19.055674",
+            "last_retested_at_epoch": 1591303759.055674,
+            "last_retested_at_iso": "2020-06-04T20:49:19.055674",
+            "status": "INACTIVE"
+        },
+        "editorm.tk": {
+            "included_at_epoch": 1591303764.978476,
+            "included_at_iso": "2020-06-04T20:49:24.978476",
+            "last_retested_at_epoch": 1591303764.978476,
+            "last_retested_at_iso": "2020-06-04T20:49:24.978476",
+            "status": "INACTIVE"
+        },
+        "edncui.net": {
+            "included_at_epoch": 1591303765.468006,
+            "included_at_iso": "2020-06-04T20:49:25.468006",
+            "last_retested_at_epoch": 1591303765.468006,
+            "last_retested_at_iso": "2020-06-04T20:49:25.468006",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591303031.071137,
-            "last_retested_at_iso": "2020-06-04T20:37:11.071137",
+            "last_retested_at_epoch": 1591303754.113005,
+            "last_retested_at_iso": "2020-06-04T20:49:14.113005",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591303030.988945,
-            "last_retested_at_iso": "2020-06-04T20:37:10.988945",
+            "last_retested_at_epoch": 1591303754.195569,
+            "last_retested_at_iso": "2020-06-04T20:49:14.195569",
             "status": "INACTIVE"
         }
     }
