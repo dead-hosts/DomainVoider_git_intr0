@@ -34713,18 +34713,67 @@
             "last_retested_at_iso": "2020-06-04T17:08:11.129314",
             "status": "INACTIVE"
         },
+        "dydxtkvmktumjp.com": {
+            "included_at_epoch": 1591291210.534018,
+            "included_at_iso": "2020-06-04T17:20:10.534018",
+            "last_retested_at_epoch": 1591291210.534018,
+            "last_retested_at_iso": "2020-06-04T17:20:10.534018",
+            "status": "INACTIVE"
+        },
+        "dyhwaacbbntu.com": {
+            "included_at_epoch": 1591291211.018181,
+            "included_at_iso": "2020-06-04T17:20:11.018181",
+            "last_retested_at_epoch": 1591291211.018181,
+            "last_retested_at_iso": "2020-06-04T17:20:11.018181",
+            "status": "INACTIVE"
+        },
+        "dykgaa.com": {
+            "included_at_epoch": 1591291211.912764,
+            "included_at_iso": "2020-06-04T17:20:11.912764",
+            "last_retested_at_epoch": 1591291211.912764,
+            "last_retested_at_iso": "2020-06-04T17:20:11.912764",
+            "status": "INACTIVE"
+        },
+        "dylsjsmqjbbcs.com": {
+            "included_at_epoch": 1591291212.380596,
+            "included_at_iso": "2020-06-04T17:20:12.380596",
+            "last_retested_at_epoch": 1591291212.380596,
+            "last_retested_at_iso": "2020-06-04T17:20:12.380596",
+            "status": "INACTIVE"
+        },
+        "dymaffzxk.com": {
+            "included_at_epoch": 1591291212.458227,
+            "included_at_iso": "2020-06-04T17:20:12.458227",
+            "last_retested_at_epoch": 1591291212.458227,
+            "last_retested_at_iso": "2020-06-04T17:20:12.458227",
+            "status": "INACTIVE"
+        },
+        "dynaburra.ch": {
+            "included_at_epoch": 1591291213.354648,
+            "included_at_iso": "2020-06-04T17:20:13.354648",
+            "last_retested_at_epoch": 1591291213.354648,
+            "last_retested_at_iso": "2020-06-04T17:20:13.354648",
+            "status": "INACTIVE"
+        },
+        "dynarilla.ch": {
+            "included_at_epoch": 1591291216.240672,
+            "included_at_iso": "2020-06-04T17:20:16.240672",
+            "last_retested_at_epoch": 1591291216.240672,
+            "last_retested_at_iso": "2020-06-04T17:20:16.240672",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591290482.361809,
-            "last_retested_at_iso": "2020-06-04T17:08:02.361809",
+            "last_retested_at_epoch": 1591291209.550906,
+            "last_retested_at_iso": "2020-06-04T17:20:09.550906",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591290482.282031,
-            "last_retested_at_iso": "2020-06-04T17:08:02.282031",
+            "last_retested_at_epoch": 1591291209.633144,
+            "last_retested_at_iso": "2020-06-04T17:20:09.633144",
             "status": "INACTIVE"
         },
         "zisbrygtluib.com": {
