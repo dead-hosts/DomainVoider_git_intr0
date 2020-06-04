@@ -35469,18 +35469,25 @@
             "last_retested_at_iso": "2020-06-04T20:13:02.746311",
             "status": "INACTIVE"
         },
+        "eclubsettingsinfo.com": {
+            "included_at_epoch": 1591302309.299654,
+            "included_at_iso": "2020-06-04T20:25:09.299654",
+            "last_retested_at_epoch": 1591302309.299654,
+            "last_retested_at_iso": "2020-06-04T20:25:09.299654",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591301574.669504,
-            "last_retested_at_iso": "2020-06-04T20:12:54.669504",
+            "last_retested_at_epoch": 1591302308.423785,
+            "last_retested_at_iso": "2020-06-04T20:25:08.423785",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591301574.751585,
-            "last_retested_at_iso": "2020-06-04T20:12:54.751585",
+            "last_retested_at_epoch": 1591302308.341871,
+            "last_retested_at_iso": "2020-06-04T20:25:08.341871",
             "status": "INACTIVE"
         }
     }
