@@ -33726,102 +33726,25 @@
             "last_retested_at_iso": "2020-06-04T12:35:32.059939",
             "status": "INACTIVE"
         },
+        "domain.jiqvuejt.xyz": {
+            "included_at_epoch": 1591274849.267724,
+            "included_at_iso": "2020-06-04T12:47:29.267724",
+            "last_retested_at_epoch": 1591274849.267724,
+            "last_retested_at_iso": "2020-06-04T12:47:29.267724",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591274122.359975,
-            "last_retested_at_iso": "2020-06-04T12:35:22.359975",
+            "last_retested_at_epoch": 1591274849.032294,
+            "last_retested_at_iso": "2020-06-04T12:47:29.032294",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591274122.281976,
-            "last_retested_at_iso": "2020-06-04T12:35:22.281976",
-            "status": "INACTIVE"
-        },
-        "yefttzzn.com": {
-            "included_at_epoch": 1588854784.132914,
-            "included_at_iso": "2020-05-07T12:33:04.132914",
-            "last_retested_at_epoch": 1588854784.132914,
-            "last_retested_at_iso": "2020-05-07T12:33:04.132914",
-            "status": "INACTIVE"
-        },
-        "yeo1tfjz5f.com": {
-            "included_at_epoch": 1588854788.145848,
-            "included_at_iso": "2020-05-07T12:33:08.145848",
-            "last_retested_at_epoch": 1588854788.145848,
-            "last_retested_at_iso": "2020-05-07T12:33:08.145848",
-            "status": "INACTIVE"
-        },
-        "yeouakimhubraf.com": {
-            "included_at_epoch": 1588854788.310117,
-            "included_at_iso": "2020-05-07T12:33:08.310117",
-            "last_retested_at_epoch": 1588854788.310117,
-            "last_retested_at_iso": "2020-05-07T12:33:08.310117",
-            "status": "INACTIVE"
-        },
-        "yes.join-wa.net": {
-            "included_at_epoch": 1588854789.607887,
-            "included_at_iso": "2020-05-07T12:33:09.607887",
-            "last_retested_at_epoch": 1588854789.607887,
-            "last_retested_at_iso": "2020-05-07T12:33:09.607887",
-            "status": "INACTIVE"
-        },
-        "yeshhaod.com": {
-            "included_at_epoch": 1588854791.750013,
-            "included_at_iso": "2020-05-07T12:33:11.750013",
-            "last_retested_at_epoch": 1588854791.750013,
-            "last_retested_at_iso": "2020-05-07T12:33:11.750013",
-            "status": "INACTIVE"
-        },
-        "yeuotdalcxqwr.com": {
-            "included_at_epoch": 1588854794.693527,
-            "included_at_iso": "2020-05-07T12:33:14.693527",
-            "last_retested_at_epoch": 1588854794.693527,
-            "last_retested_at_iso": "2020-05-07T12:33:14.693527",
-            "status": "INACTIVE"
-        },
-        "yfdrpdjbxjm.com": {
-            "included_at_epoch": 1588854796.004902,
-            "included_at_iso": "2020-05-07T12:33:16.004902",
-            "last_retested_at_epoch": 1588854796.004902,
-            "last_retested_at_iso": "2020-05-07T12:33:16.004902",
-            "status": "INACTIVE"
-        },
-        "yfiycpeebse.com": {
-            "included_at_epoch": 1588854796.589327,
-            "included_at_iso": "2020-05-07T12:33:16.589327",
-            "last_retested_at_epoch": 1588854796.589327,
-            "last_retested_at_iso": "2020-05-07T12:33:16.589327",
-            "status": "INACTIVE"
-        },
-        "yfkha.xyz": {
-            "included_at_epoch": 1588854796.767679,
-            "included_at_iso": "2020-05-07T12:33:16.767679",
-            "last_retested_at_epoch": 1588854796.767679,
-            "last_retested_at_iso": "2020-05-07T12:33:16.767679",
-            "status": "INACTIVE"
-        },
-        "yflyluiqdig.com": {
-            "included_at_epoch": 1588854796.932438,
-            "included_at_iso": "2020-05-07T12:33:16.932438",
-            "last_retested_at_epoch": 1588854796.932438,
-            "last_retested_at_iso": "2020-05-07T12:33:16.932438",
-            "status": "INACTIVE"
-        },
-        "yfsbprwln.com": {
-            "included_at_epoch": 1588854798.253348,
-            "included_at_iso": "2020-05-07T12:33:18.253348",
-            "last_retested_at_epoch": 1588854798.253348,
-            "last_retested_at_iso": "2020-05-07T12:33:18.253348",
-            "status": "INACTIVE"
-        },
-        "yfvbw.shoesmogul.com": {
-            "included_at_epoch": 1588854798.810066,
-            "included_at_iso": "2020-05-07T12:33:18.810066",
-            "last_retested_at_epoch": 1588854798.810066,
-            "last_retested_at_iso": "2020-05-07T12:33:18.810066",
+            "last_retested_at_epoch": 1591274849.110565,
+            "last_retested_at_iso": "2020-06-04T12:47:29.110565",
             "status": "INACTIVE"
         },
         "yg52634app1eid.com.hallomangapakabar.com": {
