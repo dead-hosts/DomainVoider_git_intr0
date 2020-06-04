@@ -35003,15 +35003,15 @@
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591297900.397341,
-            "last_retested_at_iso": "2020-06-04T19:11:40.397341",
+            "last_retested_at_epoch": 1591299301.262852,
+            "last_retested_at_iso": "2020-06-04T19:35:01.262852",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591297900.47573,
-            "last_retested_at_iso": "2020-06-04T19:11:40.475730",
+            "last_retested_at_epoch": 1591299301.343759,
+            "last_retested_at_iso": "2020-06-04T19:35:01.343759",
             "status": "INACTIVE"
         }
     }
