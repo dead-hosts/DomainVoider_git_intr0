@@ -33201,18 +33201,151 @@
             "last_retested_at_iso": "2020-06-04T11:34:02.957455",
             "status": "INACTIVE"
         },
+        "dinthorop.ru": {
+            "included_at_epoch": 1591271164.19554,
+            "included_at_iso": "2020-06-04T11:46:04.195540",
+            "last_retested_at_epoch": 1591271164.19554,
+            "last_retested_at_iso": "2020-06-04T11:46:04.195540",
+            "status": "INACTIVE"
+        },
+        "dintronferow.ru": {
+            "included_at_epoch": 1591271164.121395,
+            "included_at_iso": "2020-06-04T11:46:04.121395",
+            "last_retested_at_epoch": 1591271164.121395,
+            "last_retested_at_iso": "2020-06-04T11:46:04.121395",
+            "status": "INACTIVE"
+        },
+        "diogv.com": {
+            "included_at_epoch": 1591271164.270006,
+            "included_at_iso": "2020-06-04T11:46:04.270006",
+            "last_retested_at_epoch": 1591271164.270006,
+            "last_retested_at_iso": "2020-06-04T11:46:04.270006",
+            "status": "INACTIVE"
+        },
+        "dioperu.com": {
+            "included_at_epoch": 1591271165.118487,
+            "included_at_iso": "2020-06-04T11:46:05.118487",
+            "last_retested_at_epoch": 1591271165.118487,
+            "last_retested_at_iso": "2020-06-04T11:46:05.118487",
+            "status": "INACTIVE"
+        },
+        "dipsbbygv.com": {
+            "included_at_epoch": 1591271165.578908,
+            "included_at_iso": "2020-06-04T11:46:05.578908",
+            "last_retested_at_epoch": 1591271165.578908,
+            "last_retested_at_iso": "2020-06-04T11:46:05.578908",
+            "status": "INACTIVE"
+        },
+        "direcionando.baixedetudo.net": {
+            "included_at_epoch": 1591271166.771627,
+            "included_at_iso": "2020-06-04T11:46:06.771627",
+            "last_retested_at_epoch": 1591271166.771627,
+            "last_retested_at_iso": "2020-06-04T11:46:06.771627",
+            "status": "INACTIVE"
+        },
+        "direct-facebook.cf": {
+            "included_at_epoch": 1591271167.225784,
+            "included_at_iso": "2020-06-04T11:46:07.225784",
+            "last_retested_at_epoch": 1591271167.225784,
+            "last_retested_at_iso": "2020-06-04T11:46:07.225784",
+            "status": "INACTIVE"
+        },
+        "directclicksonly.com": {
+            "included_at_epoch": 1591271168.843512,
+            "included_at_iso": "2020-06-04T11:46:08.843512",
+            "last_retested_at_epoch": 1591271168.843512,
+            "last_retested_at_iso": "2020-06-04T11:46:08.843512",
+            "status": "INACTIVE"
+        },
+        "directlnk.org": {
+            "included_at_epoch": 1591271169.685777,
+            "included_at_iso": "2020-06-04T11:46:09.685777",
+            "last_retested_at_epoch": 1591271169.685777,
+            "last_retested_at_iso": "2020-06-04T11:46:09.685777",
+            "status": "INACTIVE"
+        },
+        "directtrk.com": {
+            "included_at_epoch": 1591271173.947138,
+            "included_at_iso": "2020-06-04T11:46:13.947138",
+            "last_retested_at_epoch": 1591271173.947138,
+            "last_retested_at_iso": "2020-06-04T11:46:13.947138",
+            "status": "INACTIVE"
+        },
+        "dirototri.0p.kr": {
+            "included_at_epoch": 1591271174.408421,
+            "included_at_iso": "2020-06-04T11:46:14.408421",
+            "last_retested_at_epoch": 1591271174.408421,
+            "last_retested_at_iso": "2020-06-04T11:46:14.408421",
+            "status": "INACTIVE"
+        },
+        "discover.accountcenter.se-qbb.com": {
+            "included_at_epoch": 1591271176.441425,
+            "included_at_iso": "2020-06-04T11:46:16.441425",
+            "last_retested_at_epoch": 1591271176.441425,
+            "last_retested_at_iso": "2020-06-04T11:46:16.441425",
+            "status": "INACTIVE"
+        },
+        "discoversatpolbackupadmin.satpol.kedirikab.go.id": {
+            "included_at_epoch": 1591271177.29209,
+            "included_at_iso": "2020-06-04T11:46:17.292090",
+            "last_retested_at_epoch": 1591271177.29209,
+            "last_retested_at_iso": "2020-06-04T11:46:17.292090",
+            "status": "INACTIVE"
+        },
+        "disklaimer.ru": {
+            "included_at_epoch": 1591271177.764393,
+            "included_at_iso": "2020-06-04T11:46:17.764393",
+            "last_retested_at_epoch": 1591271177.764393,
+            "last_retested_at_iso": "2020-06-04T11:46:17.764393",
+            "status": "INACTIVE"
+        },
+        "dispositivo-appdados.com": {
+            "included_at_epoch": 1591271180.91384,
+            "included_at_iso": "2020-06-04T11:46:20.913840",
+            "last_retested_at_epoch": 1591271180.91384,
+            "last_retested_at_iso": "2020-06-04T11:46:20.913840",
+            "status": "INACTIVE"
+        },
+        "dispositivo-itau.com": {
+            "included_at_epoch": 1591271181.06392,
+            "included_at_iso": "2020-06-04T11:46:21.063920",
+            "last_retested_at_epoch": 1591271181.06392,
+            "last_retested_at_iso": "2020-06-04T11:46:21.063920",
+            "status": "INACTIVE"
+        },
+        "dispositivo-itau12hrs.com": {
+            "included_at_epoch": 1591271180.988739,
+            "included_at_iso": "2020-06-04T11:46:20.988739",
+            "last_retested_at_epoch": 1591271180.988739,
+            "last_retested_at_iso": "2020-06-04T11:46:20.988739",
+            "status": "INACTIVE"
+        },
+        "dispositivoapp-caixa.com": {
+            "included_at_epoch": 1591271181.138572,
+            "included_at_iso": "2020-06-04T11:46:21.138572",
+            "last_retested_at_epoch": 1591271181.138572,
+            "last_retested_at_iso": "2020-06-04T11:46:21.138572",
+            "status": "INACTIVE"
+        },
+        "disredi.ru": {
+            "included_at_epoch": 1591271181.609221,
+            "included_at_iso": "2020-06-04T11:46:21.609221",
+            "last_retested_at_epoch": 1591271181.609221,
+            "last_retested_at_iso": "2020-06-04T11:46:21.609221",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591270418.437845,
-            "last_retested_at_iso": "2020-06-04T11:33:38.437845",
+            "last_retested_at_epoch": 1591271164.047563,
+            "last_retested_at_iso": "2020-06-04T11:46:04.047563",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591270418.517198,
-            "last_retested_at_iso": "2020-06-04T11:33:38.517198",
+            "last_retested_at_epoch": 1591271163.969467,
+            "last_retested_at_iso": "2020-06-04T11:46:03.969467",
             "status": "INACTIVE"
         },
         "y.nvshengjie.cn": {
