@@ -35980,18 +35980,46 @@
             "last_retested_at_iso": "2020-06-05T22:37:34.889782",
             "status": "INACTIVE"
         },
+        "elcolpplwua.com": {
+            "included_at_epoch": 1591397370.24459,
+            "included_at_iso": "2020-06-05T22:49:30.244590",
+            "last_retested_at_epoch": 1591397370.24459,
+            "last_retested_at_iso": "2020-06-05T22:49:30.244590",
+            "status": "INACTIVE"
+        },
+        "elefantenmarkecom.unitravel.top": {
+            "included_at_epoch": 1591397374.248567,
+            "included_at_iso": "2020-06-05T22:49:34.248567",
+            "last_retested_at_epoch": 1591397374.248567,
+            "last_retested_at_iso": "2020-06-05T22:49:34.248567",
+            "status": "INACTIVE"
+        },
+        "eletry.tk": {
+            "included_at_epoch": 1591397377.175877,
+            "included_at_iso": "2020-06-05T22:49:37.175877",
+            "last_retested_at_epoch": 1591397377.175877,
+            "last_retested_at_iso": "2020-06-05T22:49:37.175877",
+            "status": "INACTIVE"
+        },
+        "elevoy.ru": {
+            "included_at_epoch": 1591397377.270513,
+            "included_at_iso": "2020-06-05T22:49:37.270513",
+            "last_retested_at_epoch": 1591397377.270513,
+            "last_retested_at_iso": "2020-06-05T22:49:37.270513",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591396647.012053,
-            "last_retested_at_iso": "2020-06-05T22:37:27.012053",
+            "last_retested_at_epoch": 1591397369.372857,
+            "last_retested_at_iso": "2020-06-05T22:49:29.372857",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591396647.094803,
-            "last_retested_at_iso": "2020-06-05T22:37:27.094803",
+            "last_retested_at_epoch": 1591397369.291122,
+            "last_retested_at_iso": "2020-06-05T22:49:29.291122",
             "status": "INACTIVE"
         }
     }
