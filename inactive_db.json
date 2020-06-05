@@ -35721,18 +35721,74 @@
             "last_retested_at_iso": "2020-06-05T21:37:07.426838",
             "status": "INACTIVE"
         },
+        "efpark.ru": {
+            "included_at_epoch": 1591393740.783698,
+            "included_at_iso": "2020-06-05T21:49:00.783698",
+            "last_retested_at_epoch": 1591393740.783698,
+            "last_retested_at_iso": "2020-06-05T21:49:00.783698",
+            "status": "INACTIVE"
+        },
+        "efresa.ru": {
+            "included_at_epoch": 1591393742.016186,
+            "included_at_iso": "2020-06-05T21:49:02.016186",
+            "last_retested_at_epoch": 1591393742.016186,
+            "last_retested_at_iso": "2020-06-05T21:49:02.016186",
+            "status": "INACTIVE"
+        },
+        "efzhzqtyomldfj.com": {
+            "included_at_epoch": 1591393742.173192,
+            "included_at_iso": "2020-06-05T21:49:02.173192",
+            "last_retested_at_epoch": 1591393742.173192,
+            "last_retested_at_iso": "2020-06-05T21:49:02.173192",
+            "status": "INACTIVE"
+        },
+        "eg.light2gr0w.me": {
+            "included_at_epoch": 1591393742.094184,
+            "included_at_iso": "2020-06-05T21:49:02.094184",
+            "last_retested_at_epoch": 1591393742.094184,
+            "last_retested_at_iso": "2020-06-05T21:49:02.094184",
+            "status": "INACTIVE"
+        },
+        "egbalander.cloudaccess.host": {
+            "included_at_epoch": 1591393743.10276,
+            "included_at_iso": "2020-06-05T21:49:03.102760",
+            "last_retested_at_epoch": 1591393743.10276,
+            "last_retested_at_iso": "2020-06-05T21:49:03.102760",
+            "status": "INACTIVE"
+        },
+        "egcocjwpzqsa.com": {
+            "included_at_epoch": 1591393743.024422,
+            "included_at_iso": "2020-06-05T21:49:03.024422",
+            "last_retested_at_epoch": 1591393743.024422,
+            "last_retested_at_iso": "2020-06-05T21:49:03.024422",
+            "status": "INACTIVE"
+        },
+        "egerdpkvutvodmtsy.pw": {
+            "included_at_epoch": 1591393743.208757,
+            "included_at_iso": "2020-06-05T21:49:03.208757",
+            "last_retested_at_epoch": 1591393743.208757,
+            "last_retested_at_iso": "2020-06-05T21:49:03.208757",
+            "status": "INACTIVE"
+        },
+        "eghuntsrizvbt.com": {
+            "included_at_epoch": 1591393744.851774,
+            "included_at_iso": "2020-06-05T21:49:04.851774",
+            "last_retested_at_epoch": 1591393744.851774,
+            "last_retested_at_iso": "2020-06-05T21:49:04.851774",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591393014.479369,
-            "last_retested_at_iso": "2020-06-05T21:36:54.479369",
+            "last_retested_at_epoch": 1591393740.210954,
+            "last_retested_at_iso": "2020-06-05T21:49:00.210954",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591393014.5618,
-            "last_retested_at_iso": "2020-06-05T21:36:54.561800",
+            "last_retested_at_epoch": 1591393740.29269,
+            "last_retested_at_iso": "2020-06-05T21:49:00.292690",
             "status": "INACTIVE"
         }
     }
