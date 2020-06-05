@@ -36211,18 +36211,39 @@
             "last_retested_at_iso": "2020-06-05T23:38:00.515471",
             "status": "INACTIVE"
         },
+        "en-view-storeitemwebh-webh-id93278687616.cf": {
+            "included_at_epoch": 1591401003.918984,
+            "included_at_iso": "2020-06-05T23:50:03.918984",
+            "last_retested_at_epoch": 1591401003.918984,
+            "last_retested_at_iso": "2020-06-05T23:50:03.918984",
+            "status": "INACTIVE"
+        },
+        "en-view-storeitemwebh-webh-id93278687618.cf": {
+            "included_at_epoch": 1591401003.999323,
+            "included_at_iso": "2020-06-05T23:50:03.999323",
+            "last_retested_at_epoch": 1591401003.999323,
+            "last_retested_at_iso": "2020-06-05T23:50:03.999323",
+            "status": "INACTIVE"
+        },
+        "en.amazon.verification.billing.gaskeunjangankasikendors1.com": {
+            "included_at_epoch": 1591401004.079052,
+            "included_at_iso": "2020-06-05T23:50:04.079052",
+            "last_retested_at_epoch": 1591401004.079052,
+            "last_retested_at_iso": "2020-06-05T23:50:04.079052",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591400265.642208,
-            "last_retested_at_iso": "2020-06-05T23:37:45.642208",
+            "last_retested_at_epoch": 1591401002.160219,
+            "last_retested_at_iso": "2020-06-05T23:50:02.160219",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591400265.724732,
-            "last_retested_at_iso": "2020-06-05T23:37:45.724732",
+            "last_retested_at_epoch": 1591401002.076883,
+            "last_retested_at_iso": "2020-06-05T23:50:02.076883",
             "status": "INACTIVE"
         }
     }
