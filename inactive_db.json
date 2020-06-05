@@ -35910,18 +35910,88 @@
             "last_retested_at_iso": "2020-06-05T22:25:27.155271",
             "status": "INACTIVE"
         },
+        "eklcrpehu.com": {
+            "included_at_epoch": 1591396647.172797,
+            "included_at_iso": "2020-06-05T22:37:27.172797",
+            "last_retested_at_epoch": 1591396647.172797,
+            "last_retested_at_iso": "2020-06-05T22:37:27.172797",
+            "status": "INACTIVE"
+        },
+        "ekmztfadigi.com": {
+            "included_at_epoch": 1591396649.280138,
+            "included_at_iso": "2020-06-05T22:37:29.280138",
+            "last_retested_at_epoch": 1591396649.280138,
+            "last_retested_at_iso": "2020-06-05T22:37:29.280138",
+            "status": "INACTIVE"
+        },
+        "eknfrwtxsde.com": {
+            "included_at_epoch": 1591396649.20253,
+            "included_at_iso": "2020-06-05T22:37:29.202530",
+            "last_retested_at_epoch": 1591396649.20253,
+            "last_retested_at_iso": "2020-06-05T22:37:29.202530",
+            "status": "INACTIVE"
+        },
+        "ekolamis.com": {
+            "included_at_epoch": 1591396650.499509,
+            "included_at_iso": "2020-06-05T22:37:30.499509",
+            "last_retested_at_epoch": 1591396650.499509,
+            "last_retested_at_iso": "2020-06-05T22:37:30.499509",
+            "status": "INACTIVE"
+        },
+        "ektezis.ru": {
+            "included_at_epoch": 1591396651.354157,
+            "included_at_iso": "2020-06-05T22:37:31.354157",
+            "last_retested_at_epoch": 1591396651.354157,
+            "last_retested_at_iso": "2020-06-05T22:37:31.354157",
+            "status": "INACTIVE"
+        },
+        "ekuuarqe.com": {
+            "included_at_epoch": 1591396651.448519,
+            "included_at_iso": "2020-06-05T22:37:31.448519",
+            "last_retested_at_epoch": 1591396651.448519,
+            "last_retested_at_iso": "2020-06-05T22:37:31.448519",
+            "status": "INACTIVE"
+        },
+        "ekvk-ru.1gb.ru": {
+            "included_at_epoch": 1591396651.544155,
+            "included_at_iso": "2020-06-05T22:37:31.544155",
+            "last_retested_at_epoch": 1591396651.544155,
+            "last_retested_at_iso": "2020-06-05T22:37:31.544155",
+            "status": "INACTIVE"
+        },
+        "ekxlneryaiefwn.com": {
+            "included_at_epoch": 1591396652.013187,
+            "included_at_iso": "2020-06-05T22:37:32.013187",
+            "last_retested_at_epoch": 1591396652.013187,
+            "last_retested_at_iso": "2020-06-05T22:37:32.013187",
+            "status": "INACTIVE"
+        },
+        "elanatality.info": {
+            "included_at_epoch": 1591396653.647324,
+            "included_at_iso": "2020-06-05T22:37:33.647324",
+            "last_retested_at_epoch": 1591396653.647324,
+            "last_retested_at_iso": "2020-06-05T22:37:33.647324",
+            "status": "INACTIVE"
+        },
+        "elatsadlux.com": {
+            "included_at_epoch": 1591396654.889782,
+            "included_at_iso": "2020-06-05T22:37:34.889782",
+            "last_retested_at_epoch": 1591396654.889782,
+            "last_retested_at_iso": "2020-06-05T22:37:34.889782",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591395916.888799,
-            "last_retested_at_iso": "2020-06-05T22:25:16.888799",
+            "last_retested_at_epoch": 1591396647.012053,
+            "last_retested_at_iso": "2020-06-05T22:37:27.012053",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591395916.970684,
-            "last_retested_at_iso": "2020-06-05T22:25:16.970684",
+            "last_retested_at_epoch": 1591396647.094803,
+            "last_retested_at_iso": "2020-06-05T22:37:27.094803",
             "status": "INACTIVE"
         }
     }
