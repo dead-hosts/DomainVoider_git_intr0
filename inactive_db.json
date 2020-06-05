@@ -35679,18 +35679,60 @@
             "last_retested_at_iso": "2020-06-05T21:24:54.636449",
             "status": "INACTIVE"
         },
+        "eerdckbwujcx.com": {
+            "included_at_epoch": 1591393014.639633,
+            "included_at_iso": "2020-06-05T21:36:54.639633",
+            "last_retested_at_epoch": 1591393014.639633,
+            "last_retested_at_iso": "2020-06-05T21:36:54.639633",
+            "status": "INACTIVE"
+        },
+        "efekvyyynwd.com": {
+            "included_at_epoch": 1591393021.31296,
+            "included_at_iso": "2020-06-05T21:37:01.312960",
+            "last_retested_at_epoch": 1591393021.31296,
+            "last_retested_at_iso": "2020-06-05T21:37:01.312960",
+            "status": "INACTIVE"
+        },
+        "efkxhoeoqsv.bid": {
+            "included_at_epoch": 1591393026.408855,
+            "included_at_iso": "2020-06-05T21:37:06.408855",
+            "last_retested_at_epoch": 1591393026.408855,
+            "last_retested_at_iso": "2020-06-05T21:37:06.408855",
+            "status": "INACTIVE"
+        },
+        "efmeni.ru": {
+            "included_at_epoch": 1591393026.487661,
+            "included_at_iso": "2020-06-05T21:37:06.487661",
+            "last_retested_at_epoch": 1591393026.487661,
+            "last_retested_at_iso": "2020-06-05T21:37:06.487661",
+            "status": "INACTIVE"
+        },
+        "efngeka8czukzyb.ru": {
+            "included_at_epoch": 1591393026.952849,
+            "included_at_iso": "2020-06-05T21:37:06.952849",
+            "last_retested_at_epoch": 1591393026.952849,
+            "last_retested_at_iso": "2020-06-05T21:37:06.952849",
+            "status": "INACTIVE"
+        },
+        "efootball0.konami.net.hol76.com": {
+            "included_at_epoch": 1591393027.426838,
+            "included_at_iso": "2020-06-05T21:37:07.426838",
+            "last_retested_at_epoch": 1591393027.426838,
+            "last_retested_at_iso": "2020-06-05T21:37:07.426838",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591392290.025383,
-            "last_retested_at_iso": "2020-06-05T21:24:50.025383",
+            "last_retested_at_epoch": 1591393014.479369,
+            "last_retested_at_iso": "2020-06-05T21:36:54.479369",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591392290.109963,
-            "last_retested_at_iso": "2020-06-05T21:24:50.109963",
+            "last_retested_at_epoch": 1591393014.5618,
+            "last_retested_at_iso": "2020-06-05T21:36:54.561800",
             "status": "INACTIVE"
         }
     }
