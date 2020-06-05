@@ -36008,18 +36008,60 @@
             "last_retested_at_iso": "2020-06-05T22:49:37.270513",
             "status": "INACTIVE"
         },
+        "elfnwncr.com": {
+            "included_at_epoch": 1591398097.422207,
+            "included_at_iso": "2020-06-05T23:01:37.422207",
+            "last_retested_at_epoch": 1591398097.422207,
+            "last_retested_at_iso": "2020-06-05T23:01:37.422207",
+            "status": "INACTIVE"
+        },
+        "elijah-erwirbt.de": {
+            "included_at_epoch": 1591398098.699218,
+            "included_at_iso": "2020-06-05T23:01:38.699218",
+            "last_retested_at_epoch": 1591398098.699218,
+            "last_retested_at_iso": "2020-06-05T23:01:38.699218",
+            "status": "INACTIVE"
+        },
+        "elite-layer.de": {
+            "included_at_epoch": 1591398098.794642,
+            "included_at_iso": "2020-06-05T23:01:38.794642",
+            "last_retested_at_epoch": 1591398098.794642,
+            "last_retested_at_iso": "2020-06-05T23:01:38.794642",
+            "status": "INACTIVE"
+        },
+        "eliterudating.com": {
+            "included_at_epoch": 1591398100.104557,
+            "included_at_iso": "2020-06-05T23:01:40.104557",
+            "last_retested_at_epoch": 1591398100.104557,
+            "last_retested_at_iso": "2020-06-05T23:01:40.104557",
+            "status": "INACTIVE"
+        },
+        "elo-qos.appl.kp.org": {
+            "included_at_epoch": 1591398105.115598,
+            "included_at_iso": "2020-06-05T23:01:45.115598",
+            "last_retested_at_epoch": 1591398105.115598,
+            "last_retested_at_iso": "2020-06-05T23:01:45.115598",
+            "status": "INACTIVE"
+        },
+        "elparmo.ru": {
+            "included_at_epoch": 1591398108.065812,
+            "included_at_iso": "2020-06-05T23:01:48.065812",
+            "last_retested_at_epoch": 1591398108.065812,
+            "last_retested_at_iso": "2020-06-05T23:01:48.065812",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591397369.372857,
-            "last_retested_at_iso": "2020-06-05T22:49:29.372857",
+            "last_retested_at_epoch": 1591398096.775454,
+            "last_retested_at_iso": "2020-06-05T23:01:36.775454",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591397369.291122,
-            "last_retested_at_iso": "2020-06-05T22:49:29.291122",
+            "last_retested_at_epoch": 1591398096.857883,
+            "last_retested_at_iso": "2020-06-05T23:01:36.857883",
             "status": "INACTIVE"
         }
     }
