@@ -37142,18 +37142,74 @@
             "last_retested_at_iso": "2020-06-06T12:59:02.190263",
             "status": "INACTIVE"
         },
+        "exaggeratesapothecial.com": {
+            "included_at_epoch": 1591449064.317224,
+            "included_at_iso": "2020-06-06T13:11:04.317224",
+            "last_retested_at_epoch": 1591449064.317224,
+            "last_retested_at_iso": "2020-06-06T13:11:04.317224",
+            "status": "INACTIVE"
+        },
+        "exbphrqpqukm.com": {
+            "included_at_epoch": 1591449065.23333,
+            "included_at_iso": "2020-06-06T13:11:05.233330",
+            "last_retested_at_epoch": 1591449065.23333,
+            "last_retested_at_iso": "2020-06-06T13:11:05.233330",
+            "status": "INACTIVE"
+        },
+        "excalatom.com": {
+            "included_at_epoch": 1591449065.315285,
+            "included_at_iso": "2020-06-06T13:11:05.315285",
+            "last_retested_at_epoch": 1591449065.315285,
+            "last_retested_at_iso": "2020-06-06T13:11:05.315285",
+            "status": "INACTIVE"
+        },
+        "exchangenews.ru": {
+            "included_at_epoch": 1591449068.685748,
+            "included_at_iso": "2020-06-06T13:11:08.685748",
+            "last_retested_at_epoch": 1591449068.685748,
+            "last_retested_at_iso": "2020-06-06T13:11:08.685748",
+            "status": "INACTIVE"
+        },
+        "exec.elrooted.com": {
+            "included_at_epoch": 1591449071.583591,
+            "included_at_iso": "2020-06-06T13:11:11.583591",
+            "last_retested_at_epoch": 1591449071.583591,
+            "last_retested_at_iso": "2020-06-06T13:11:11.583591",
+            "status": "INACTIVE"
+        },
+        "execsespanol.net": {
+            "included_at_epoch": 1591449071.665286,
+            "included_at_iso": "2020-06-06T13:11:11.665286",
+            "last_retested_at_epoch": 1591449071.665286,
+            "last_retested_at_iso": "2020-06-06T13:11:11.665286",
+            "status": "INACTIVE"
+        },
+        "exevlw.com": {
+            "included_at_epoch": 1591449072.582498,
+            "included_at_iso": "2020-06-06T13:11:12.582498",
+            "last_retested_at_epoch": 1591449072.582498,
+            "last_retested_at_iso": "2020-06-06T13:11:12.582498",
+            "status": "INACTIVE"
+        },
+        "exkruwviyy.com": {
+            "included_at_epoch": 1591449077.148232,
+            "included_at_iso": "2020-06-06T13:11:17.148232",
+            "last_retested_at_epoch": 1591449077.148232,
+            "last_retested_at_iso": "2020-06-06T13:11:17.148232",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591448336.196398,
-            "last_retested_at_iso": "2020-06-06T12:58:56.196398",
+            "last_retested_at_epoch": 1591449061.646734,
+            "last_retested_at_iso": "2020-06-06T13:11:01.646734",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591448336.280874,
-            "last_retested_at_iso": "2020-06-06T12:58:56.280874",
+            "last_retested_at_epoch": 1591449061.731907,
+            "last_retested_at_iso": "2020-06-06T13:11:01.731907",
             "status": "INACTIVE"
         }
     }
