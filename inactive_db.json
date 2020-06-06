@@ -36232,18 +36232,39 @@
             "last_retested_at_iso": "2020-06-05T23:50:04.079052",
             "status": "INACTIVE"
         },
+        "en.app1eid.appel.com-req.locked2-notification.com": {
+            "included_at_epoch": 1591401724.041478,
+            "included_at_iso": "2020-06-06T00:02:04.041478",
+            "last_retested_at_epoch": 1591401724.041478,
+            "last_retested_at_iso": "2020-06-06T00:02:04.041478",
+            "status": "INACTIVE"
+        },
+        "en.apple.cloudservices.service-accountclient.com": {
+            "included_at_epoch": 1591401724.120582,
+            "included_at_iso": "2020-06-06T00:02:04.120582",
+            "last_retested_at_epoch": 1591401724.120582,
+            "last_retested_at_iso": "2020-06-06T00:02:04.120582",
+            "status": "INACTIVE"
+        },
+        "enamadugib.com": {
+            "included_at_epoch": 1591401725.074251,
+            "included_at_iso": "2020-06-06T00:02:05.074251",
+            "last_retested_at_epoch": 1591401725.074251,
+            "last_retested_at_iso": "2020-06-06T00:02:05.074251",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591401002.160219,
-            "last_retested_at_iso": "2020-06-05T23:50:02.160219",
+            "last_retested_at_epoch": 1591401723.962701,
+            "last_retested_at_iso": "2020-06-06T00:02:03.962701",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591401002.076883,
-            "last_retested_at_iso": "2020-06-05T23:50:02.076883",
+            "last_retested_at_epoch": 1591401723.879793,
+            "last_retested_at_iso": "2020-06-06T00:02:03.879793",
             "status": "INACTIVE"
         }
     }
