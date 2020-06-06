@@ -36666,18 +36666,74 @@
             "last_retested_at_iso": "2020-06-06T11:46:01.714585",
             "status": "INACTIVE"
         },
+        "esundpxbixeqgu.com": {
+            "included_at_epoch": 1591444690.274331,
+            "included_at_iso": "2020-06-06T11:58:10.274331",
+            "last_retested_at_epoch": 1591444690.274331,
+            "last_retested_at_iso": "2020-06-06T11:58:10.274331",
+            "status": "INACTIVE"
+        },
+        "eszpmsipks.com": {
+            "included_at_epoch": 1591444692.308894,
+            "included_at_iso": "2020-06-06T11:58:12.308894",
+            "last_retested_at_epoch": 1591444692.308894,
+            "last_retested_at_iso": "2020-06-06T11:58:12.308894",
+            "status": "INACTIVE"
+        },
+        "et-lnter-recive.com": {
+            "included_at_epoch": 1591444693.554132,
+            "included_at_iso": "2020-06-06T11:58:13.554132",
+            "last_retested_at_epoch": 1591444693.554132,
+            "last_retested_at_iso": "2020-06-06T11:58:13.554132",
+            "status": "INACTIVE"
+        },
+        "et-lnvoicebills.com": {
+            "included_at_epoch": 1591444693.635862,
+            "included_at_iso": "2020-06-06T11:58:13.635862",
+            "last_retested_at_epoch": 1591444693.635862,
+            "last_retested_at_iso": "2020-06-06T11:58:13.635862",
+            "status": "INACTIVE"
+        },
+        "et-tech-supportqs.com": {
+            "included_at_epoch": 1591444694.106494,
+            "included_at_iso": "2020-06-06T11:58:14.106494",
+            "last_retested_at_epoch": 1591444694.106494,
+            "last_retested_at_iso": "2020-06-06T11:58:14.106494",
+            "status": "INACTIVE"
+        },
+        "et.interac.ca-gcnb.club": {
+            "included_at_epoch": 1591444694.186682,
+            "included_at_iso": "2020-06-06T11:58:14.186682",
+            "last_retested_at_epoch": 1591444694.186682,
+            "last_retested_at_iso": "2020-06-06T11:58:14.186682",
+            "status": "INACTIVE"
+        },
+        "et.interac.ca-uio.club": {
+            "included_at_epoch": 1591444694.281641,
+            "included_at_iso": "2020-06-06T11:58:14.281641",
+            "last_retested_at_epoch": 1591444694.281641,
+            "last_retested_at_iso": "2020-06-06T11:58:14.281641",
+            "status": "INACTIVE"
+        },
+        "et.twyn-group.com": {
+            "included_at_epoch": 1591444694.759427,
+            "included_at_iso": "2020-06-06T11:58:14.759427",
+            "last_retested_at_epoch": 1591444694.759427,
+            "last_retested_at_iso": "2020-06-06T11:58:14.759427",
+            "status": "INACTIVE"
+        },
         "ps.whatsapp.com": {
             "included_at_epoch": 1590966143.973589,
             "included_at_iso": "2020-05-31T23:02:23.973589",
-            "last_retested_at_epoch": 1591443948.571594,
-            "last_retested_at_iso": "2020-06-06T11:45:48.571594",
+            "last_retested_at_epoch": 1591444680.459326,
+            "last_retested_at_iso": "2020-06-06T11:58:00.459326",
             "status": "INACTIVE"
         },
         "telkomsel.whatsapp.com": {
             "included_at_epoch": 1590966144.044101,
             "included_at_iso": "2020-05-31T23:02:24.044101",
-            "last_retested_at_epoch": 1591443948.655048,
-            "last_retested_at_iso": "2020-06-06T11:45:48.655048",
+            "last_retested_at_epoch": 1591444680.375181,
+            "last_retested_at_iso": "2020-06-06T11:58:00.375181",
             "status": "INACTIVE"
         }
     }
