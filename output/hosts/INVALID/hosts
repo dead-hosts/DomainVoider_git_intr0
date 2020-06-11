@@ -32,6 +32,9 @@
 0.0.0.0 analytics*.clickdimensions.com
 0.0.0.0 analytics-rollout-*.amazonaws.com
 0.0.0.0 analyzer*.fc2.com
+0.0.0.0 api*.batmobil.net
+0.0.0.0 api*.batmobi.net
+0.0.0.0 api-*.bidmachine.io
 0.0.0.0 applift.comempty
 0.0.0.0 commands.control.demo
 0.0.0.0 crypta.js

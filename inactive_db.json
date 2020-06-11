@@ -22960,11 +22960,970 @@
             "last_retested_at_iso": "2020-06-11T22:17:59.705655",
             "status": "INACTIVE"
         },
+        "anti-m-alvare.com": {
+            "included_at_epoch": 1591915179.586251,
+            "included_at_iso": "2020-06-11T22:39:39.586251",
+            "last_retested_at_epoch": 1591915179.586251,
+            "last_retested_at_iso": "2020-06-11T22:39:39.586251",
+            "status": "INACTIVE"
+        },
+        "anti-m-office.com": {
+            "included_at_epoch": 1591915179.68975,
+            "included_at_iso": "2020-06-11T22:39:39.689750",
+            "last_retested_at_epoch": 1591915179.68975,
+            "last_retested_at_iso": "2020-06-11T22:39:39.689750",
+            "status": "INACTIVE"
+        },
+        "anti-spyware-review.com": {
+            "included_at_epoch": 1591915179.910154,
+            "included_at_iso": "2020-06-11T22:39:39.910154",
+            "last_retested_at_epoch": 1591915179.910154,
+            "last_retested_at_iso": "2020-06-11T22:39:39.910154",
+            "status": "INACTIVE"
+        },
+        "anti-v-free-virusscan.com": {
+            "included_at_epoch": 1591915179.810409,
+            "included_at_iso": "2020-06-11T22:39:39.810409",
+            "last_retested_at_epoch": 1591915179.810409,
+            "last_retested_at_iso": "2020-06-11T22:39:39.810409",
+            "status": "INACTIVE"
+        },
+        "anti-v-scan-winxp.com": {
+            "included_at_epoch": 1591915180.418216,
+            "included_at_iso": "2020-06-11T22:39:40.418216",
+            "last_retested_at_epoch": 1591915180.418216,
+            "last_retested_at_iso": "2020-06-11T22:39:40.418216",
+            "status": "INACTIVE"
+        },
+        "anti-vir-mc.com": {
+            "included_at_epoch": 1591915180.619246,
+            "included_at_iso": "2020-06-11T22:39:40.619246",
+            "last_retested_at_epoch": 1591915180.619246,
+            "last_retested_at_iso": "2020-06-11T22:39:40.619246",
+            "status": "INACTIVE"
+        },
+        "anti-virus-link.org": {
+            "included_at_epoch": 1591915180.51868,
+            "included_at_iso": "2020-06-11T22:39:40.518680",
+            "last_retested_at_epoch": 1591915180.51868,
+            "last_retested_at_iso": "2020-06-11T22:39:40.518680",
+            "status": "INACTIVE"
+        },
+        "anti-virus-pro-2010.com": {
+            "included_at_epoch": 1591915180.719152,
+            "included_at_iso": "2020-06-11T22:39:40.719152",
+            "last_retested_at_epoch": 1591915180.719152,
+            "last_retested_at_iso": "2020-06-11T22:39:40.719152",
+            "status": "INACTIVE"
+        },
+        "anti-virus-professional.com": {
+            "included_at_epoch": 1591915180.819998,
+            "included_at_iso": "2020-06-11T22:39:40.819998",
+            "last_retested_at_epoch": 1591915180.819998,
+            "last_retested_at_iso": "2020-06-11T22:39:40.819998",
+            "status": "INACTIVE"
+        },
+        "anti-virus-secure-scanner.com": {
+            "included_at_epoch": 1591915180.920576,
+            "included_at_iso": "2020-06-11T22:39:40.920576",
+            "last_retested_at_epoch": 1591915180.920576,
+            "last_retested_at_iso": "2020-06-11T22:39:40.920576",
+            "status": "INACTIVE"
+        },
+        "anti-volt-free-virusscan.com": {
+            "included_at_epoch": 1591915181.427258,
+            "included_at_iso": "2020-06-11T22:39:41.427258",
+            "last_retested_at_epoch": 1591915181.427258,
+            "last_retested_at_iso": "2020-06-11T22:39:41.427258",
+            "status": "INACTIVE"
+        },
+        "antialvare.com": {
+            "included_at_epoch": 1591915181.526842,
+            "included_at_iso": "2020-06-11T22:39:41.526842",
+            "last_retested_at_epoch": 1591915181.526842,
+            "last_retested_at_iso": "2020-06-11T22:39:41.526842",
+            "status": "INACTIVE"
+        },
+        "anticheaters-sxe.com": {
+            "included_at_epoch": 1591915181.645114,
+            "included_at_iso": "2020-06-11T22:39:41.645114",
+            "last_retested_at_epoch": 1591915181.645114,
+            "last_retested_at_iso": "2020-06-11T22:39:41.645114",
+            "status": "INACTIVE"
+        },
+        "antiespiadorado.com": {
+            "included_at_epoch": 1591915182.552044,
+            "included_at_iso": "2020-06-11T22:39:42.552044",
+            "last_retested_at_epoch": 1591915182.552044,
+            "last_retested_at_iso": "2020-06-11T22:39:42.552044",
+            "status": "INACTIVE"
+        },
+        "antiespionspack.com": {
+            "included_at_epoch": 1591915182.653036,
+            "included_at_iso": "2020-06-11T22:39:42.653036",
+            "last_retested_at_epoch": 1591915182.653036,
+            "last_retested_at_iso": "2020-06-11T22:39:42.653036",
+            "status": "INACTIVE"
+        },
+        "antievidence.com": {
+            "included_at_epoch": 1591915182.753241,
+            "included_at_iso": "2020-06-11T22:39:42.753241",
+            "last_retested_at_epoch": 1591915182.753241,
+            "last_retested_at_iso": "2020-06-11T22:39:42.753241",
+            "status": "INACTIVE"
+        },
+        "antigusanos2008.com": {
+            "included_at_epoch": 1591915183.264121,
+            "included_at_iso": "2020-06-11T22:39:43.264121",
+            "last_retested_at_epoch": 1591915183.264121,
+            "last_retested_at_iso": "2020-06-11T22:39:43.264121",
+            "status": "INACTIVE"
+        },
+        "antiivirusgoe.com": {
+            "included_at_epoch": 1591915183.363506,
+            "included_at_iso": "2020-06-11T22:39:43.363506",
+            "last_retested_at_epoch": 1591915183.363506,
+            "last_retested_at_iso": "2020-06-11T22:39:43.363506",
+            "status": "INACTIVE"
+        },
+        "antimalware-pro.com": {
+            "included_at_epoch": 1591915183.463089,
+            "included_at_iso": "2020-06-11T22:39:43.463089",
+            "last_retested_at_epoch": 1591915183.463089,
+            "last_retested_at_iso": "2020-06-11T22:39:43.463089",
+            "status": "INACTIVE"
+        },
+        "antimalware-scanner.com": {
+            "included_at_epoch": 1591915183.563748,
+            "included_at_iso": "2020-06-11T22:39:43.563748",
+            "last_retested_at_epoch": 1591915183.563748,
+            "last_retested_at_iso": "2020-06-11T22:39:43.563748",
+            "status": "INACTIVE"
+        },
+        "antimalware-software.com": {
+            "included_at_epoch": 1591915183.764314,
+            "included_at_iso": "2020-06-11T22:39:43.764314",
+            "last_retested_at_epoch": 1591915183.764314,
+            "last_retested_at_iso": "2020-06-11T22:39:43.764314",
+            "status": "INACTIVE"
+        },
+        "antimalware-software.org": {
+            "included_at_epoch": 1591915183.664106,
+            "included_at_iso": "2020-06-11T22:39:43.664106",
+            "last_retested_at_epoch": 1591915183.664106,
+            "last_retested_at_iso": "2020-06-11T22:39:43.664106",
+            "status": "INACTIVE"
+        },
+        "antimalware09.net": {
+            "included_at_epoch": 1591915183.864433,
+            "included_at_iso": "2020-06-11T22:39:43.864433",
+            "last_retested_at_epoch": 1591915183.864433,
+            "last_retested_at_iso": "2020-06-11T22:39:43.864433",
+            "status": "INACTIVE"
+        },
+        "antimalwareaupdateserver.com": {
+            "included_at_epoch": 1591915183.964465,
+            "included_at_iso": "2020-06-11T22:39:43.964465",
+            "last_retested_at_epoch": 1591915183.964465,
+            "last_retested_at_iso": "2020-06-11T22:39:43.964465",
+            "status": "INACTIVE"
+        },
+        "antimalwareguard.com": {
+            "included_at_epoch": 1591915184.064321,
+            "included_at_iso": "2020-06-11T22:39:44.064321",
+            "last_retested_at_epoch": 1591915184.064321,
+            "last_retested_at_iso": "2020-06-11T22:39:44.064321",
+            "status": "INACTIVE"
+        },
+        "antimalwareshield.com": {
+            "included_at_epoch": 1591915184.164647,
+            "included_at_iso": "2020-06-11T22:39:44.164647",
+            "last_retested_at_epoch": 1591915184.164647,
+            "last_retested_at_iso": "2020-06-11T22:39:44.164647",
+            "status": "INACTIVE"
+        },
+        "antimalwaresummit.com": {
+            "included_at_epoch": 1591915184.364294,
+            "included_at_iso": "2020-06-11T22:39:44.364294",
+            "last_retested_at_epoch": 1591915184.364294,
+            "last_retested_at_iso": "2020-06-11T22:39:44.364294",
+            "status": "INACTIVE"
+        },
+        "antiqueda.net": {
+            "included_at_epoch": 1591915184.264328,
+            "included_at_iso": "2020-06-11T22:39:44.264328",
+            "last_retested_at_epoch": 1591915184.264328,
+            "last_retested_at_iso": "2020-06-11T22:39:44.264328",
+            "status": "INACTIVE"
+        },
+        "antiquesinv.com": {
+            "included_at_epoch": 1591915184.463853,
+            "included_at_iso": "2020-06-11T22:39:44.463853",
+            "last_retested_at_epoch": 1591915184.463853,
+            "last_retested_at_iso": "2020-06-11T22:39:44.463853",
+            "status": "INACTIVE"
+        },
+        "antiris-xp-online.com": {
+            "included_at_epoch": 1591915184.564044,
+            "included_at_iso": "2020-06-11T22:39:44.564044",
+            "last_retested_at_epoch": 1591915184.564044,
+            "last_retested_at_iso": "2020-06-11T22:39:44.564044",
+            "status": "INACTIVE"
+        },
+        "antisixrysscan.com": {
+            "included_at_epoch": 1591915184.664593,
+            "included_at_iso": "2020-06-11T22:39:44.664593",
+            "last_retested_at_epoch": 1591915184.664593,
+            "last_retested_at_iso": "2020-06-11T22:39:44.664593",
+            "status": "INACTIVE"
+        },
+        "antisixrysscanxp.com": {
+            "included_at_epoch": 1591915184.766673,
+            "included_at_iso": "2020-06-11T22:39:44.766673",
+            "last_retested_at_epoch": 1591915184.766673,
+            "last_retested_at_iso": "2020-06-11T22:39:44.766673",
+            "status": "INACTIVE"
+        },
         "antiskill.flame.roskstar.aladdine.top": {
             "included_at_epoch": 1591038811.378616,
             "included_at_iso": "2020-06-01T19:13:31.378616",
             "last_retested_at_epoch": 1591038811.378616,
             "last_retested_at_iso": "2020-06-01T19:13:31.378616",
+            "status": "INACTIVE"
+        },
+        "antispionage.com": {
+            "included_at_epoch": 1591915184.86635,
+            "included_at_iso": "2020-06-11T22:39:44.866350",
+            "last_retested_at_epoch": 1591915184.86635,
+            "last_retested_at_iso": "2020-06-11T22:39:44.866350",
+            "status": "INACTIVE"
+        },
+        "antispionagepro.com": {
+            "included_at_epoch": 1591915184.966253,
+            "included_at_iso": "2020-06-11T22:39:44.966253",
+            "last_retested_at_epoch": 1591915184.966253,
+            "last_retested_at_iso": "2020-06-11T22:39:44.966253",
+            "status": "INACTIVE"
+        },
+        "antispyavailable.com": {
+            "included_at_epoch": 1591915185.500144,
+            "included_at_iso": "2020-06-11T22:39:45.500144",
+            "last_retested_at_epoch": 1591915185.500144,
+            "last_retested_at_iso": "2020-06-11T22:39:45.500144",
+            "status": "INACTIVE"
+        },
+        "antispygolden.com": {
+            "included_at_epoch": 1591915186.006156,
+            "included_at_iso": "2020-06-11T22:39:46.006156",
+            "last_retested_at_epoch": 1591915186.006156,
+            "last_retested_at_iso": "2020-06-11T22:39:46.006156",
+            "status": "INACTIVE"
+        },
+        "antispyinteractive.com": {
+            "included_at_epoch": 1591915186.513197,
+            "included_at_iso": "2020-06-11T22:39:46.513197",
+            "last_retested_at_epoch": 1591915186.513197,
+            "last_retested_at_iso": "2020-06-11T22:39:46.513197",
+            "status": "INACTIVE"
+        },
+        "antispypremium.com": {
+            "included_at_epoch": 1591915187.036286,
+            "included_at_iso": "2020-06-11T22:39:47.036286",
+            "last_retested_at_epoch": 1591915187.036286,
+            "last_retested_at_iso": "2020-06-11T22:39:47.036286",
+            "status": "INACTIVE"
+        },
+        "antispyshield.com": {
+            "included_at_epoch": 1591915187.136807,
+            "included_at_iso": "2020-06-11T22:39:47.136807",
+            "last_retested_at_epoch": 1591915187.136807,
+            "last_retested_at_iso": "2020-06-11T22:39:47.136807",
+            "status": "INACTIVE"
+        },
+        "antispystorm.com": {
+            "included_at_epoch": 1591915187.741027,
+            "included_at_iso": "2020-06-11T22:39:47.741027",
+            "last_retested_at_epoch": 1591915187.741027,
+            "last_retested_at_iso": "2020-06-11T22:39:47.741027",
+            "status": "INACTIVE"
+        },
+        "antispyware-doctor.com": {
+            "included_at_epoch": 1591915187.640662,
+            "included_at_iso": "2020-06-11T22:39:47.640662",
+            "last_retested_at_epoch": 1591915187.640662,
+            "last_retested_at_iso": "2020-06-11T22:39:47.640662",
+            "status": "INACTIVE"
+        },
+        "antispyware-scanner-free.com": {
+            "included_at_epoch": 1591915188.249667,
+            "included_at_iso": "2020-06-11T22:39:48.249667",
+            "last_retested_at_epoch": 1591915188.249667,
+            "last_retested_at_iso": "2020-06-11T22:39:48.249667",
+            "status": "INACTIVE"
+        },
+        "antispywareconductor.com": {
+            "included_at_epoch": 1591915188.349449,
+            "included_at_iso": "2020-06-11T22:39:48.349449",
+            "last_retested_at_epoch": 1591915188.349449,
+            "last_retested_at_iso": "2020-06-11T22:39:48.349449",
+            "status": "INACTIVE"
+        },
+        "antispywarecontrole.com": {
+            "included_at_epoch": 1591915189.256578,
+            "included_at_iso": "2020-06-11T22:39:49.256578",
+            "last_retested_at_epoch": 1591915189.256578,
+            "last_retested_at_iso": "2020-06-11T22:39:49.256578",
+            "status": "INACTIVE"
+        },
+        "antispywarecontrollo.com": {
+            "included_at_epoch": 1591915189.356765,
+            "included_at_iso": "2020-06-11T22:39:49.356765",
+            "last_retested_at_epoch": 1591915189.356765,
+            "last_retested_at_iso": "2020-06-11T22:39:49.356765",
+            "status": "INACTIVE"
+        },
+        "antispywareexpertpro.com": {
+            "included_at_epoch": 1591915189.864503,
+            "included_at_iso": "2020-06-11T22:39:49.864503",
+            "last_retested_at_epoch": 1591915189.864503,
+            "last_retested_at_iso": "2020-06-11T22:39:49.864503",
+            "status": "INACTIVE"
+        },
+        "antispywareguard.com": {
+            "included_at_epoch": 1591915190.382951,
+            "included_at_iso": "2020-06-11T22:39:50.382951",
+            "last_retested_at_epoch": 1591915190.382951,
+            "last_retested_at_iso": "2020-06-11T22:39:50.382951",
+            "status": "INACTIVE"
+        },
+        "antispywarekontrolle.com": {
+            "included_at_epoch": 1591915190.483231,
+            "included_at_iso": "2020-06-11T22:39:50.483231",
+            "last_retested_at_epoch": 1591915190.483231,
+            "last_retested_at_iso": "2020-06-11T22:39:50.483231",
+            "status": "INACTIVE"
+        },
+        "antispywarenetwork.com": {
+            "included_at_epoch": 1591915191.007777,
+            "included_at_iso": "2020-06-11T22:39:51.007777",
+            "last_retested_at_epoch": 1591915191.007777,
+            "last_retested_at_iso": "2020-06-11T22:39:51.007777",
+            "status": "INACTIVE"
+        },
+        "antispywarepost.com": {
+            "included_at_epoch": 1591915191.208449,
+            "included_at_iso": "2020-06-11T22:39:51.208449",
+            "last_retested_at_epoch": 1591915191.208449,
+            "last_retested_at_iso": "2020-06-11T22:39:51.208449",
+            "status": "INACTIVE"
+        },
+        "antispywaresoldier.com": {
+            "included_at_epoch": 1591915191.108412,
+            "included_at_iso": "2020-06-11T22:39:51.108412",
+            "last_retested_at_epoch": 1591915191.108412,
+            "last_retested_at_iso": "2020-06-11T22:39:51.108412",
+            "status": "INACTIVE"
+        },
+        "antispywaretotalscan0.com": {
+            "included_at_epoch": 1591915191.308593,
+            "included_at_iso": "2020-06-11T22:39:51.308593",
+            "last_retested_at_epoch": 1591915191.308593,
+            "last_retested_at_iso": "2020-06-11T22:39:51.308593",
+            "status": "INACTIVE"
+        },
+        "antispywareupdates.net": {
+            "included_at_epoch": 1591915191.816315,
+            "included_at_iso": "2020-06-11T22:39:51.816315",
+            "last_retested_at_epoch": 1591915191.816315,
+            "last_retested_at_iso": "2020-06-11T22:39:51.816315",
+            "status": "INACTIVE"
+        },
+        "antispywareutility.com": {
+            "included_at_epoch": 1591915191.916833,
+            "included_at_iso": "2020-06-11T22:39:51.916833",
+            "last_retested_at_epoch": 1591915191.916833,
+            "last_retested_at_iso": "2020-06-11T22:39:51.916833",
+            "status": "INACTIVE"
+        },
+        "antivcastscanner.com": {
+            "included_at_epoch": 1591915193.265723,
+            "included_at_iso": "2020-06-11T22:39:53.265723",
+            "last_retested_at_epoch": 1591915193.265723,
+            "last_retested_at_iso": "2020-06-11T22:39:53.265723",
+            "status": "INACTIVE"
+        },
+        "antivermins.net": {
+            "included_at_epoch": 1591915193.365465,
+            "included_at_iso": "2020-06-11T22:39:53.365465",
+            "last_retested_at_epoch": 1591915193.365465,
+            "last_retested_at_iso": "2020-06-11T22:39:53.365465",
+            "status": "INACTIVE"
+        },
+        "antivgamesfreevirusscan.com": {
+            "included_at_epoch": 1591915193.974763,
+            "included_at_iso": "2020-06-11T22:39:53.974763",
+            "last_retested_at_epoch": 1591915193.974763,
+            "last_retested_at_iso": "2020-06-11T22:39:53.974763",
+            "status": "INACTIVE"
+        },
+        "antivi-areus.net": {
+            "included_at_epoch": 1591915193.874526,
+            "included_at_iso": "2020-06-11T22:39:53.874526",
+            "last_retested_at_epoch": 1591915193.874526,
+            "last_retested_at_iso": "2020-06-11T22:39:53.874526",
+            "status": "INACTIVE"
+        },
+        "antiviirusplus.com": {
+            "included_at_epoch": 1591915194.074981,
+            "included_at_iso": "2020-06-11T22:39:54.074981",
+            "last_retested_at_epoch": 1591915194.074981,
+            "last_retested_at_iso": "2020-06-11T22:39:54.074981",
+            "status": "INACTIVE"
+        },
+        "antivireos.com": {
+            "included_at_epoch": 1591915195.023868,
+            "included_at_iso": "2020-06-11T22:39:55.023868",
+            "last_retested_at_epoch": 1591915195.023868,
+            "last_retested_at_iso": "2020-06-11T22:39:55.023868",
+            "status": "INACTIVE"
+        },
+        "antiviriscano.com": {
+            "included_at_epoch": 1591915195.124962,
+            "included_at_iso": "2020-06-11T22:39:55.124962",
+            "last_retested_at_epoch": 1591915195.124962,
+            "last_retested_at_iso": "2020-06-11T22:39:55.124962",
+            "status": "INACTIVE"
+        },
+        "antivirprotect.com": {
+            "included_at_epoch": 1591915195.225336,
+            "included_at_iso": "2020-06-11T22:39:55.225336",
+            "last_retested_at_epoch": 1591915195.225336,
+            "last_retested_at_iso": "2020-06-11T22:39:55.225336",
+            "status": "INACTIVE"
+        },
+        "antivirus-file-sharing.com": {
+            "included_at_epoch": 1591915195.32615,
+            "included_at_iso": "2020-06-11T22:39:55.326150",
+            "last_retested_at_epoch": 1591915195.32615,
+            "last_retested_at_iso": "2020-06-11T22:39:55.326150",
+            "status": "INACTIVE"
+        },
+        "antivirus-file.com": {
+            "included_at_epoch": 1591915195.527733,
+            "included_at_iso": "2020-06-11T22:39:55.527733",
+            "last_retested_at_epoch": 1591915195.527733,
+            "last_retested_at_iso": "2020-06-11T22:39:55.527733",
+            "status": "INACTIVE"
+        },
+        "antivirus-france.cjb.net": {
+            "included_at_epoch": 1591915195.426601,
+            "included_at_iso": "2020-06-11T22:39:55.426601",
+            "last_retested_at_epoch": 1591915195.426601,
+            "last_retested_at_iso": "2020-06-11T22:39:55.426601",
+            "status": "INACTIVE"
+        },
+        "antivirus-free-info.com": {
+            "included_at_epoch": 1591915195.629944,
+            "included_at_iso": "2020-06-11T22:39:55.629944",
+            "last_retested_at_epoch": 1591915195.629944,
+            "last_retested_at_iso": "2020-06-11T22:39:55.629944",
+            "status": "INACTIVE"
+        },
+        "antivirus-free-removal.com": {
+            "included_at_epoch": 1591915195.732122,
+            "included_at_iso": "2020-06-11T22:39:55.732122",
+            "last_retested_at_epoch": 1591915195.732122,
+            "last_retested_at_iso": "2020-06-11T22:39:55.732122",
+            "status": "INACTIVE"
+        },
+        "antivirus-it.cjb.net": {
+            "included_at_epoch": 1591915195.832537,
+            "included_at_iso": "2020-06-11T22:39:55.832537",
+            "last_retested_at_epoch": 1591915195.832537,
+            "last_retested_at_iso": "2020-06-11T22:39:55.832537",
+            "status": "INACTIVE"
+        },
+        "antivirus-live-pro.com": {
+            "included_at_epoch": 1591915196.441668,
+            "included_at_iso": "2020-06-11T22:39:56.441668",
+            "last_retested_at_epoch": 1591915196.441668,
+            "last_retested_at_iso": "2020-06-11T22:39:56.441668",
+            "status": "INACTIVE"
+        },
+        "antivirus-live-pro.org": {
+            "included_at_epoch": 1591915196.341735,
+            "included_at_iso": "2020-06-11T22:39:56.341735",
+            "last_retested_at_epoch": 1591915196.341735,
+            "last_retested_at_iso": "2020-06-11T22:39:56.341735",
+            "status": "INACTIVE"
+        },
+        "antivirus-live-software.com": {
+            "included_at_epoch": 1591915196.556596,
+            "included_at_iso": "2020-06-11T22:39:56.556596",
+            "last_retested_at_epoch": 1591915196.556596,
+            "last_retested_at_iso": "2020-06-11T22:39:56.556596",
+            "status": "INACTIVE"
+        },
+        "antivirus-live.com": {
+            "included_at_epoch": 1591915196.657591,
+            "included_at_iso": "2020-06-11T22:39:56.657591",
+            "last_retested_at_epoch": 1591915196.657591,
+            "last_retested_at_iso": "2020-06-11T22:39:56.657591",
+            "status": "INACTIVE"
+        },
+        "antivirus-nt.com": {
+            "included_at_epoch": 1591915196.758755,
+            "included_at_iso": "2020-06-11T22:39:56.758755",
+            "last_retested_at_epoch": 1591915196.758755,
+            "last_retested_at_iso": "2020-06-11T22:39:56.758755",
+            "status": "INACTIVE"
+        },
+        "antivirus-ryal.cx.cc": {
+            "included_at_epoch": 1591915196.860043,
+            "included_at_iso": "2020-06-11T22:39:56.860043",
+            "last_retested_at_epoch": 1591915196.860043,
+            "last_retested_at_iso": "2020-06-11T22:39:56.860043",
+            "status": "INACTIVE"
+        },
+        "antivirus-scannerv15.com": {
+            "included_at_epoch": 1591915197.370425,
+            "included_at_iso": "2020-06-11T22:39:57.370425",
+            "last_retested_at_epoch": 1591915197.370425,
+            "last_retested_at_iso": "2020-06-11T22:39:57.370425",
+            "status": "INACTIVE"
+        },
+        "antivirus-scanonline.com": {
+            "included_at_epoch": 1591915197.471336,
+            "included_at_iso": "2020-06-11T22:39:57.471336",
+            "last_retested_at_epoch": 1591915197.471336,
+            "last_retested_at_iso": "2020-06-11T22:39:57.471336",
+            "status": "INACTIVE"
+        },
+        "antivirus-security.net": {
+            "included_at_epoch": 1591915197.572951,
+            "included_at_iso": "2020-06-11T22:39:57.572951",
+            "last_retested_at_epoch": 1591915197.572951,
+            "last_retested_at_iso": "2020-06-11T22:39:57.572951",
+            "status": "INACTIVE"
+        },
+        "antivirus-test-xp.com": {
+            "included_at_epoch": 1591915197.673627,
+            "included_at_iso": "2020-06-11T22:39:57.673627",
+            "last_retested_at_epoch": 1591915197.673627,
+            "last_retested_at_iso": "2020-06-11T22:39:57.673627",
+            "status": "INACTIVE"
+        },
+        "antiviruses.cjb.net": {
+            "included_at_epoch": 1591915197.810054,
+            "included_at_iso": "2020-06-11T22:39:57.810054",
+            "last_retested_at_epoch": 1591915197.810054,
+            "last_retested_at_iso": "2020-06-11T22:39:57.810054",
+            "status": "INACTIVE"
+        },
+        "antiviruses.us": {
+            "included_at_epoch": 1591915198.336795,
+            "included_at_iso": "2020-06-11T22:39:58.336795",
+            "last_retested_at_epoch": 1591915198.336795,
+            "last_retested_at_iso": "2020-06-11T22:39:58.336795",
+            "status": "INACTIVE"
+        },
+        "antivirusexamineo.com": {
+            "included_at_epoch": 1591915198.438366,
+            "included_at_iso": "2020-06-11T22:39:58.438366",
+            "last_retested_at_epoch": 1591915198.438366,
+            "last_retested_at_iso": "2020-06-11T22:39:58.438366",
+            "status": "INACTIVE"
+        },
+        "antivirusfast.com": {
+            "included_at_epoch": 1591915198.540578,
+            "included_at_iso": "2020-06-11T22:39:58.540578",
+            "last_retested_at_epoch": 1591915198.540578,
+            "last_retested_at_iso": "2020-06-11T22:39:58.540578",
+            "status": "INACTIVE"
+        },
+        "antivirusfastsearch.com": {
+            "included_at_epoch": 1591915198.643312,
+            "included_at_iso": "2020-06-11T22:39:58.643312",
+            "last_retested_at_epoch": 1591915198.643312,
+            "last_retested_at_iso": "2020-06-11T22:39:58.643312",
+            "status": "INACTIVE"
+        },
+        "antivirusfiable.com": {
+            "included_at_epoch": 1591915198.745841,
+            "included_at_iso": "2020-06-11T22:39:58.745841",
+            "last_retested_at_epoch": 1591915198.745841,
+            "last_retested_at_iso": "2020-06-11T22:39:58.745841",
+            "status": "INACTIVE"
+        },
+        "antivirusfilenames.com": {
+            "included_at_epoch": 1591915198.847499,
+            "included_at_iso": "2020-06-11T22:39:58.847499",
+            "last_retested_at_epoch": 1591915198.847499,
+            "last_retested_at_iso": "2020-06-11T22:39:58.847499",
+            "status": "INACTIVE"
+        },
+        "antivirusfilesharing.com": {
+            "included_at_epoch": 1591915198.949558,
+            "included_at_iso": "2020-06-11T22:39:58.949558",
+            "last_retested_at_epoch": 1591915198.949558,
+            "last_retested_at_iso": "2020-06-11T22:39:58.949558",
+            "status": "INACTIVE"
+        },
+        "antivirusforall.com": {
+            "included_at_epoch": 1591915199.051933,
+            "included_at_iso": "2020-06-11T22:39:59.051933",
+            "last_retested_at_epoch": 1591915199.051933,
+            "last_retested_at_iso": "2020-06-11T22:39:59.051933",
+            "status": "INACTIVE"
+        },
+        "antivirusforalla.com": {
+            "included_at_epoch": 1591915199.153266,
+            "included_at_iso": "2020-06-11T22:39:59.153266",
+            "last_retested_at_epoch": 1591915199.153266,
+            "last_retested_at_iso": "2020-06-11T22:39:59.153266",
+            "status": "INACTIVE"
+        },
+        "antivirusforalle.com": {
+            "included_at_epoch": 1591915199.254088,
+            "included_at_iso": "2020-06-11T22:39:59.254088",
+            "last_retested_at_epoch": 1591915199.254088,
+            "last_retested_at_iso": "2020-06-11T22:39:59.254088",
+            "status": "INACTIVE"
+        },
+        "antivirusfreeinfo.com": {
+            "included_at_epoch": 1591915199.356342,
+            "included_at_iso": "2020-06-11T22:39:59.356342",
+            "last_retested_at_epoch": 1591915199.356342,
+            "last_retested_at_iso": "2020-06-11T22:39:59.356342",
+            "status": "INACTIVE"
+        },
+        "antivirusfreeprotection.com": {
+            "included_at_epoch": 1591915199.457437,
+            "included_at_iso": "2020-06-11T22:39:59.457437",
+            "last_retested_at_epoch": 1591915199.457437,
+            "last_retested_at_iso": "2020-06-11T22:39:59.457437",
+            "status": "INACTIVE"
+        },
+        "antivirusfreeremoval.com": {
+            "included_at_epoch": 1591915199.560068,
+            "included_at_iso": "2020-06-11T22:39:59.560068",
+            "last_retested_at_epoch": 1591915199.560068,
+            "last_retested_at_iso": "2020-06-11T22:39:59.560068",
+            "status": "INACTIVE"
+        },
+        "antivirusfueralle.com": {
+            "included_at_epoch": 1591915199.660708,
+            "included_at_iso": "2020-06-11T22:39:59.660708",
+            "last_retested_at_epoch": 1591915199.660708,
+            "last_retested_at_iso": "2020-06-11T22:39:59.660708",
+            "status": "INACTIVE"
+        },
+        "antivirusgenial.com": {
+            "included_at_epoch": 1591915199.776894,
+            "included_at_iso": "2020-06-11T22:39:59.776894",
+            "last_retested_at_epoch": 1591915199.776894,
+            "last_retested_at_iso": "2020-06-11T22:39:59.776894",
+            "status": "INACTIVE"
+        },
+        "antivirusim.com": {
+            "included_at_epoch": 1591915200.296258,
+            "included_at_iso": "2020-06-11T22:40:00.296258",
+            "last_retested_at_epoch": 1591915200.296258,
+            "last_retested_at_iso": "2020-06-11T22:40:00.296258",
+            "status": "INACTIVE"
+        },
+        "antivirusmagique.com": {
+            "included_at_epoch": 1591915201.250604,
+            "included_at_iso": "2020-06-11T22:40:01.250604",
+            "last_retested_at_epoch": 1591915201.250604,
+            "last_retested_at_iso": "2020-06-11T22:40:01.250604",
+            "status": "INACTIVE"
+        },
+        "antivirusonlinetest.com": {
+            "included_at_epoch": 1591915201.762599,
+            "included_at_iso": "2020-06-11T22:40:01.762599",
+            "last_retested_at_epoch": 1591915201.762599,
+            "last_retested_at_iso": "2020-06-11T22:40:01.762599",
+            "status": "INACTIVE"
+        },
+        "antivirusordi.com": {
+            "included_at_epoch": 1591915201.964408,
+            "included_at_iso": "2020-06-11T22:40:01.964408",
+            "last_retested_at_epoch": 1591915201.964408,
+            "last_retested_at_iso": "2020-06-11T22:40:01.964408",
+            "status": "INACTIVE"
+        },
+        "antivirusp2010.com": {
+            "included_at_epoch": 1591915201.864048,
+            "included_at_iso": "2020-06-11T22:40:01.864048",
+            "last_retested_at_epoch": 1591915201.864048,
+            "last_retested_at_iso": "2020-06-11T22:40:01.864048",
+            "status": "INACTIVE"
+        },
+        "antivirusparatodos.com": {
+            "included_at_epoch": 1591915202.166254,
+            "included_at_iso": "2020-06-11T22:40:02.166254",
+            "last_retested_at_epoch": 1591915202.166254,
+            "last_retested_at_iso": "2020-06-11T22:40:02.166254",
+            "status": "INACTIVE"
+        },
+        "antiviruspcpakke.com": {
+            "included_at_epoch": 1591915202.065774,
+            "included_at_iso": "2020-06-11T22:40:02.065774",
+            "last_retested_at_epoch": 1591915202.065774,
+            "last_retested_at_iso": "2020-06-11T22:40:02.065774",
+            "status": "INACTIVE"
+        },
+        "antiviruspertutti.com": {
+            "included_at_epoch": 1591915202.66113,
+            "included_at_iso": "2020-06-11T22:40:02.661130",
+            "last_retested_at_epoch": 1591915202.66113,
+            "last_retested_at_iso": "2020-06-11T22:40:02.661130",
+            "status": "INACTIVE"
+        },
+        "antivirusplus1.com": {
+            "included_at_epoch": 1591915202.762247,
+            "included_at_iso": "2020-06-11T22:40:02.762247",
+            "last_retested_at_epoch": 1591915202.762247,
+            "last_retested_at_iso": "2020-06-11T22:40:02.762247",
+            "status": "INACTIVE"
+        },
+        "antivirusplus7.com": {
+            "included_at_epoch": 1591915202.863391,
+            "included_at_iso": "2020-06-11T22:40:02.863391",
+            "last_retested_at_epoch": 1591915202.863391,
+            "last_retested_at_iso": "2020-06-11T22:40:02.863391",
+            "status": "INACTIVE"
+        },
+        "antiviruspro2010.com": {
+            "included_at_epoch": 1591915202.978176,
+            "included_at_iso": "2020-06-11T22:40:02.978176",
+            "last_retested_at_epoch": 1591915202.978176,
+            "last_retested_at_iso": "2020-06-11T22:40:02.978176",
+            "status": "INACTIVE"
+        },
+        "antivirusquia.com": {
+            "included_at_epoch": 1591915204.722666,
+            "included_at_iso": "2020-06-11T22:40:04.722666",
+            "last_retested_at_epoch": 1591915204.722666,
+            "last_retested_at_iso": "2020-06-11T22:40:04.722666",
+            "status": "INACTIVE"
+        },
+        "antivirusrisingdownload.com": {
+            "included_at_epoch": 1591915204.824114,
+            "included_at_iso": "2020-06-11T22:40:04.824114",
+            "last_retested_at_epoch": 1591915204.824114,
+            "last_retested_at_iso": "2020-06-11T22:40:04.824114",
+            "status": "INACTIVE"
+        },
+        "antivirussave.com": {
+            "included_at_epoch": 1591915204.925541,
+            "included_at_iso": "2020-06-11T22:40:04.925541",
+            "last_retested_at_epoch": 1591915204.925541,
+            "last_retested_at_iso": "2020-06-11T22:40:04.925541",
+            "status": "INACTIVE"
+        },
+        "antivirusscanneralbum.com": {
+            "included_at_epoch": 1591915205.026639,
+            "included_at_iso": "2020-06-11T22:40:05.026639",
+            "last_retested_at_epoch": 1591915205.026639,
+            "last_retested_at_iso": "2020-06-11T22:40:05.026639",
+            "status": "INACTIVE"
+        },
+        "antivirusscannerdefinition.com": {
+            "included_at_epoch": 1591915205.127832,
+            "included_at_iso": "2020-06-11T22:40:05.127832",
+            "last_retested_at_epoch": 1591915205.127832,
+            "last_retested_at_iso": "2020-06-11T22:40:05.127832",
+            "status": "INACTIVE"
+        },
+        "antivirusscannerdrivers.com": {
+            "included_at_epoch": 1591915205.330304,
+            "included_at_iso": "2020-06-11T22:40:05.330304",
+            "last_retested_at_epoch": 1591915205.330304,
+            "last_retested_at_iso": "2020-06-11T22:40:05.330304",
+            "status": "INACTIVE"
+        },
+        "antivirusscannerfeatures.com": {
+            "included_at_epoch": 1591915205.229605,
+            "included_at_iso": "2020-06-11T22:40:05.229605",
+            "last_retested_at_epoch": 1591915205.229605,
+            "last_retested_at_iso": "2020-06-11T22:40:05.229605",
+            "status": "INACTIVE"
+        },
+        "antivirusscannerguide.com": {
+            "included_at_epoch": 1591915205.431434,
+            "included_at_iso": "2020-06-11T22:40:05.431434",
+            "last_retested_at_epoch": 1591915205.431434,
+            "last_retested_at_iso": "2020-06-11T22:40:05.431434",
+            "status": "INACTIVE"
+        },
+        "antivirusscannerinterface.com": {
+            "included_at_epoch": 1591915205.92596,
+            "included_at_iso": "2020-06-11T22:40:05.925960",
+            "last_retested_at_epoch": 1591915205.92596,
+            "last_retested_at_iso": "2020-06-11T22:40:05.925960",
+            "status": "INACTIVE"
+        },
+        "antivirusscannermaintenance.com": {
+            "included_at_epoch": 1591915206.02661,
+            "included_at_iso": "2020-06-11T22:40:06.026610",
+            "last_retested_at_epoch": 1591915206.02661,
+            "last_retested_at_iso": "2020-06-11T22:40:06.026610",
+            "status": "INACTIVE"
+        },
+        "antivirusscannermanufacturer.com": {
+            "included_at_epoch": 1591915206.128272,
+            "included_at_iso": "2020-06-11T22:40:06.128272",
+            "last_retested_at_epoch": 1591915206.128272,
+            "last_retested_at_iso": "2020-06-11T22:40:06.128272",
+            "status": "INACTIVE"
+        },
+        "antivirusscannermanufacturers.com": {
+            "included_at_epoch": 1591915206.243115,
+            "included_at_iso": "2020-06-11T22:40:06.243115",
+            "last_retested_at_epoch": 1591915206.243115,
+            "last_retested_at_iso": "2020-06-11T22:40:06.243115",
+            "status": "INACTIVE"
+        },
+        "antivirusscannermaster.com": {
+            "included_at_epoch": 1591915206.344289,
+            "included_at_iso": "2020-06-11T22:40:06.344289",
+            "last_retested_at_epoch": 1591915206.344289,
+            "last_retested_at_iso": "2020-06-11T22:40:06.344289",
+            "status": "INACTIVE"
+        },
+        "antivirusscannermodels.com": {
+            "included_at_epoch": 1591915206.445239,
+            "included_at_iso": "2020-06-11T22:40:06.445239",
+            "last_retested_at_epoch": 1591915206.445239,
+            "last_retested_at_iso": "2020-06-11T22:40:06.445239",
+            "status": "INACTIVE"
+        },
+        "antivirusscannerprofile.com": {
+            "included_at_epoch": 1591915206.647772,
+            "included_at_iso": "2020-06-11T22:40:06.647772",
+            "last_retested_at_epoch": 1591915206.647772,
+            "last_retested_at_iso": "2020-06-11T22:40:06.647772",
+            "status": "INACTIVE"
+        },
+        "antivirusscannerrepair.com": {
+            "included_at_epoch": 1591915206.545694,
+            "included_at_iso": "2020-06-11T22:40:06.545694",
+            "last_retested_at_epoch": 1591915206.545694,
+            "last_retested_at_iso": "2020-06-11T22:40:06.545694",
+            "status": "INACTIVE"
+        },
+        "antivirusscannerreviews.com": {
+            "included_at_epoch": 1591915206.749578,
+            "included_at_iso": "2020-06-11T22:40:06.749578",
+            "last_retested_at_epoch": 1591915206.749578,
+            "last_retested_at_iso": "2020-06-11T22:40:06.749578",
+            "status": "INACTIVE"
+        },
+        "antivirusscannersolutions.com": {
+            "included_at_epoch": 1591915206.851025,
+            "included_at_iso": "2020-06-11T22:40:06.851025",
+            "last_retested_at_epoch": 1591915206.851025,
+            "last_retested_at_iso": "2020-06-11T22:40:06.851025",
+            "status": "INACTIVE"
+        },
+        "antivirusscannersupplies.com": {
+            "included_at_epoch": 1591915207.053429,
+            "included_at_iso": "2020-06-11T22:40:07.053429",
+            "last_retested_at_epoch": 1591915207.053429,
+            "last_retested_at_iso": "2020-06-11T22:40:07.053429",
+            "status": "INACTIVE"
+        },
+        "antivirusscannertips.com": {
+            "included_at_epoch": 1591915206.9521,
+            "included_at_iso": "2020-06-11T22:40:06.952100",
+            "last_retested_at_epoch": 1591915206.9521,
+            "last_retested_at_iso": "2020-06-11T22:40:06.952100",
+            "status": "INACTIVE"
+        },
+        "antivirusscannerwarehouse.com": {
+            "included_at_epoch": 1591915207.1545,
+            "included_at_iso": "2020-06-11T22:40:07.154500",
+            "last_retested_at_epoch": 1591915207.1545,
+            "last_retested_at_iso": "2020-06-11T22:40:07.154500",
+            "status": "INACTIVE"
+        },
+        "antivirusscano.com": {
+            "included_at_epoch": 1591915207.256023,
+            "included_at_iso": "2020-06-11T22:40:07.256023",
+            "last_retested_at_epoch": 1591915207.256023,
+            "last_retested_at_iso": "2020-06-11T22:40:07.256023",
+            "status": "INACTIVE"
+        },
+        "antivirusscanoonline.com": {
+            "included_at_epoch": 1591915207.357004,
+            "included_at_iso": "2020-06-11T22:40:07.357004",
+            "last_retested_at_epoch": 1591915207.357004,
+            "last_retested_at_iso": "2020-06-11T22:40:07.357004",
+            "status": "INACTIVE"
+        },
+        "antivirusscanopor.com": {
+            "included_at_epoch": 1591915207.458294,
+            "included_at_iso": "2020-06-11T22:40:07.458294",
+            "last_retested_at_epoch": 1591915207.458294,
+            "last_retested_at_iso": "2020-06-11T22:40:07.458294",
+            "status": "INACTIVE"
+        },
+        "antivirusscanoxp.com": {
+            "included_at_epoch": 1591915207.560095,
+            "included_at_iso": "2020-06-11T22:40:07.560095",
+            "last_retested_at_epoch": 1591915207.560095,
+            "last_retested_at_iso": "2020-06-11T22:40:07.560095",
+            "status": "INACTIVE"
+        },
+        "antivirusscanoxponline.com": {
+            "included_at_epoch": 1591915207.661558,
+            "included_at_iso": "2020-06-11T22:40:07.661558",
+            "last_retested_at_epoch": 1591915207.661558,
+            "last_retested_at_iso": "2020-06-11T22:40:07.661558",
+            "status": "INACTIVE"
+        },
+        "antivirusscanpara.com": {
+            "included_at_epoch": 1591915207.86608,
+            "included_at_iso": "2020-06-11T22:40:07.866080",
+            "last_retested_at_epoch": 1591915207.86608,
+            "last_retested_at_iso": "2020-06-11T22:40:07.866080",
+            "status": "INACTIVE"
+        },
+        "antivirusscanque.com": {
+            "included_at_epoch": 1591915207.763339,
+            "included_at_iso": "2020-06-11T22:40:07.763339",
+            "last_retested_at_epoch": 1591915207.763339,
+            "last_retested_at_iso": "2020-06-11T22:40:07.763339",
+            "status": "INACTIVE"
+        },
+        "antivirusseeo.com": {
+            "included_at_epoch": 1591915208.868496,
+            "included_at_iso": "2020-06-11T22:40:08.868496",
+            "last_retested_at_epoch": 1591915208.868496,
+            "last_retested_at_iso": "2020-06-11T22:40:08.868496",
+            "status": "INACTIVE"
+        },
+        "antivirussolusjon.com": {
+            "included_at_epoch": 1591915208.767626,
+            "included_at_iso": "2020-06-11T22:40:08.767626",
+            "last_retested_at_epoch": 1591915208.767626,
+            "last_retested_at_iso": "2020-06-11T22:40:08.767626",
+            "status": "INACTIVE"
+        },
+        "antivirusterra.com": {
+            "included_at_epoch": 1591915208.970091,
+            "included_at_iso": "2020-06-11T22:40:08.970091",
+            "last_retested_at_epoch": 1591915208.970091,
+            "last_retested_at_iso": "2020-06-11T22:40:08.970091",
+            "status": "INACTIVE"
+        },
+        "antivirustestscan.com": {
+            "included_at_epoch": 1591915209.070978,
+            "included_at_iso": "2020-06-11T22:40:09.070978",
+            "last_retested_at_epoch": 1591915209.070978,
+            "last_retested_at_iso": "2020-06-11T22:40:09.070978",
             "status": "INACTIVE"
         },
         "antivirustoolext.com": {
@@ -22974,11 +23933,284 @@
             "last_retested_at_iso": "2020-06-01T19:13:31.456375",
             "status": "INACTIVE"
         },
+        "antivirustown.com": {
+            "included_at_epoch": 1591915209.172402,
+            "included_at_iso": "2020-06-11T22:40:09.172402",
+            "last_retested_at_epoch": 1591915209.172402,
+            "last_retested_at_iso": "2020-06-11T22:40:09.172402",
+            "status": "INACTIVE"
+        },
+        "antivirusvirusscanner.com": {
+            "included_at_epoch": 1591915209.388711,
+            "included_at_iso": "2020-06-11T22:40:09.388711",
+            "last_retested_at_epoch": 1591915209.388711,
+            "last_retested_at_iso": "2020-06-11T22:40:09.388711",
+            "status": "INACTIVE"
+        },
+        "antivirysmonde.com": {
+            "included_at_epoch": 1591915209.287309,
+            "included_at_iso": "2020-06-11T22:40:09.287309",
+            "last_retested_at_epoch": 1591915209.287309,
+            "last_retested_at_iso": "2020-06-11T22:40:09.287309",
+            "status": "INACTIVE"
+        },
+        "antivirysprojet.com": {
+            "included_at_epoch": 1591915209.592479,
+            "included_at_iso": "2020-06-11T22:40:09.592479",
+            "last_retested_at_epoch": 1591915209.592479,
+            "last_retested_at_iso": "2020-06-11T22:40:09.592479",
+            "status": "INACTIVE"
+        },
+        "antivirysprotests.com": {
+            "included_at_epoch": 1591915209.489978,
+            "included_at_iso": "2020-06-11T22:40:09.489978",
+            "last_retested_at_epoch": 1591915209.489978,
+            "last_retested_at_iso": "2020-06-11T22:40:09.489978",
+            "status": "INACTIVE"
+        },
+        "antivirysscan.com": {
+            "included_at_epoch": 1591915209.694649,
+            "included_at_iso": "2020-06-11T22:40:09.694649",
+            "last_retested_at_epoch": 1591915209.694649,
+            "last_retested_at_iso": "2020-06-11T22:40:09.694649",
+            "status": "INACTIVE"
+        },
+        "antivirysscanonline.com": {
+            "included_at_epoch": 1591915209.797102,
+            "included_at_iso": "2020-06-11T22:40:09.797102",
+            "last_retested_at_epoch": 1591915209.797102,
+            "last_retested_at_iso": "2020-06-11T22:40:09.797102",
+            "status": "INACTIVE"
+        },
+        "antivirysscanxp.com": {
+            "included_at_epoch": 1591915209.898508,
+            "included_at_iso": "2020-06-11T22:40:09.898508",
+            "last_retested_at_epoch": 1591915209.898508,
+            "last_retested_at_iso": "2020-06-11T22:40:09.898508",
+            "status": "INACTIVE"
+        },
+        "antivirysscanxponline.com": {
+            "included_at_epoch": 1591915210.000619,
+            "included_at_iso": "2020-06-11T22:40:10.000619",
+            "last_retested_at_epoch": 1591915210.000619,
+            "last_retested_at_iso": "2020-06-11T22:40:10.000619",
+            "status": "INACTIVE"
+        },
+        "antiviryssee.com": {
+            "included_at_epoch": 1591915210.102402,
+            "included_at_iso": "2020-06-11T22:40:10.102402",
+            "last_retested_at_epoch": 1591915210.102402,
+            "last_retested_at_iso": "2020-06-11T22:40:10.102402",
+            "status": "INACTIVE"
+        },
+        "antivirysseexp.com": {
+            "included_at_epoch": 1591915210.203942,
+            "included_at_iso": "2020-06-11T22:40:10.203942",
+            "last_retested_at_epoch": 1591915210.203942,
+            "last_retested_at_iso": "2020-06-11T22:40:10.203942",
+            "status": "INACTIVE"
+        },
+        "antiviryssuperbe.com": {
+            "included_at_epoch": 1591915210.406483,
+            "included_at_iso": "2020-06-11T22:40:10.406483",
+            "last_retested_at_epoch": 1591915210.406483,
+            "last_retested_at_iso": "2020-06-11T22:40:10.406483",
+            "status": "INACTIVE"
+        },
+        "antivirysvirtuel.com": {
+            "included_at_epoch": 1591915210.304958,
+            "included_at_iso": "2020-06-11T22:40:10.304958",
+            "last_retested_at_epoch": 1591915210.304958,
+            "last_retested_at_iso": "2020-06-11T22:40:10.304958",
+            "status": "INACTIVE"
+        },
+        "antivmagazinescanwinxp.com": {
+            "included_at_epoch": 1591915210.507862,
+            "included_at_iso": "2020-06-11T22:40:10.507862",
+            "last_retested_at_epoch": 1591915210.507862,
+            "last_retested_at_iso": "2020-06-11T22:40:10.507862",
+            "status": "INACTIVE"
+        },
+        "antivoltfreevirusscan.com": {
+            "included_at_epoch": 1591915210.610218,
+            "included_at_iso": "2020-06-11T22:40:10.610218",
+            "last_retested_at_epoch": 1591915210.610218,
+            "last_retested_at_iso": "2020-06-11T22:40:10.610218",
+            "status": "INACTIVE"
+        },
+        "antivoltgamesfreevirusscan.com": {
+            "included_at_epoch": 1591915210.711586,
+            "included_at_iso": "2020-06-11T22:40:10.711586",
+            "last_retested_at_epoch": 1591915210.711586,
+            "last_retested_at_iso": "2020-06-11T22:40:10.711586",
+            "status": "INACTIVE"
+        },
+        "antivplayfreevirusscan.com": {
+            "included_at_epoch": 1591915210.813304,
+            "included_at_iso": "2020-06-11T22:40:10.813304",
+            "last_retested_at_epoch": 1591915210.813304,
+            "last_retested_at_iso": "2020-06-11T22:40:10.813304",
+            "status": "INACTIVE"
+        },
+        "antivscancomputerswinxp.com": {
+            "included_at_epoch": 1591915211.016666,
+            "included_at_iso": "2020-06-11T22:40:11.016666",
+            "last_retested_at_epoch": 1591915211.016666,
+            "last_retested_at_iso": "2020-06-11T22:40:11.016666",
+            "status": "INACTIVE"
+        },
+        "antivscancorporationwinxp.com": {
+            "included_at_epoch": 1591915210.914566,
+            "included_at_iso": "2020-06-11T22:40:10.914566",
+            "last_retested_at_epoch": 1591915210.914566,
+            "last_retested_at_iso": "2020-06-11T22:40:10.914566",
+            "status": "INACTIVE"
+        },
+        "antivscandefinitionwinxp.com": {
+            "included_at_epoch": 1591915211.118421,
+            "included_at_iso": "2020-06-11T22:40:11.118421",
+            "last_retested_at_epoch": 1591915211.118421,
+            "last_retested_at_iso": "2020-06-11T22:40:11.118421",
+            "status": "INACTIVE"
+        },
+        "antivscandocumentswinxp.com": {
+            "included_at_epoch": 1591915211.219951,
+            "included_at_iso": "2020-06-11T22:40:11.219951",
+            "last_retested_at_epoch": 1591915211.219951,
+            "last_retested_at_iso": "2020-06-11T22:40:11.219951",
+            "status": "INACTIVE"
+        },
+        "antivscanengineswinxp.com": {
+            "included_at_epoch": 1591915211.321423,
+            "included_at_iso": "2020-06-11T22:40:11.321423",
+            "last_retested_at_epoch": 1591915211.321423,
+            "last_retested_at_iso": "2020-06-11T22:40:11.321423",
+            "status": "INACTIVE"
+        },
+        "antivscanenginewinxp.com": {
+            "included_at_epoch": 1591915211.423095,
+            "included_at_iso": "2020-06-11T22:40:11.423095",
+            "last_retested_at_epoch": 1591915211.423095,
+            "last_retested_at_iso": "2020-06-11T22:40:11.423095",
+            "status": "INACTIVE"
+        },
+        "antivscanimageswinxp.com": {
+            "included_at_epoch": 1591915211.642946,
+            "included_at_iso": "2020-06-11T22:40:11.642946",
+            "last_retested_at_epoch": 1591915211.642946,
+            "last_retested_at_iso": "2020-06-11T22:40:11.642946",
+            "status": "INACTIVE"
+        },
+        "antivscanner.com": {
+            "included_at_epoch": 1591915211.538295,
+            "included_at_iso": "2020-06-11T22:40:11.538295",
+            "last_retested_at_epoch": 1591915211.538295,
+            "last_retested_at_iso": "2020-06-11T22:40:11.538295",
+            "status": "INACTIVE"
+        },
+        "antivscanneralbum.com": {
+            "included_at_epoch": 1591915211.745802,
+            "included_at_iso": "2020-06-11T22:40:11.745802",
+            "last_retested_at_epoch": 1591915211.745802,
+            "last_retested_at_iso": "2020-06-11T22:40:11.745802",
+            "status": "INACTIVE"
+        },
+        "antivscanspeedwinxp.com": {
+            "included_at_epoch": 1591915211.847969,
+            "included_at_iso": "2020-06-11T22:40:11.847969",
+            "last_retested_at_epoch": 1591915211.847969,
+            "last_retested_at_iso": "2020-06-11T22:40:11.847969",
+            "status": "INACTIVE"
+        },
+        "antivscantechnologieswinxp.com": {
+            "included_at_epoch": 1591915211.950538,
+            "included_at_iso": "2020-06-11T22:40:11.950538",
+            "last_retested_at_epoch": 1591915211.950538,
+            "last_retested_at_iso": "2020-06-11T22:40:11.950538",
+            "status": "INACTIVE"
+        },
+        "antivscantoolswinxp.com": {
+            "included_at_epoch": 1591915212.05279,
+            "included_at_iso": "2020-06-11T22:40:12.052790",
+            "last_retested_at_epoch": 1591915212.05279,
+            "last_retested_at_iso": "2020-06-11T22:40:12.052790",
+            "status": "INACTIVE"
+        },
+        "antivscantoolwinxp.com": {
+            "included_at_epoch": 1591915212.155734,
+            "included_at_iso": "2020-06-11T22:40:12.155734",
+            "last_retested_at_epoch": 1591915212.155734,
+            "last_retested_at_iso": "2020-06-11T22:40:12.155734",
+            "status": "INACTIVE"
+        },
+        "antivscanwinxp.com": {
+            "included_at_epoch": 1591915212.258171,
+            "included_at_iso": "2020-06-11T22:40:12.258171",
+            "last_retested_at_epoch": 1591915212.258171,
+            "last_retested_at_iso": "2020-06-11T22:40:12.258171",
+            "status": "INACTIVE"
+        },
+        "antiwurm2008.com": {
+            "included_at_epoch": 1591915213.565518,
+            "included_at_iso": "2020-06-11T22:40:13.565518",
+            "last_retested_at_epoch": 1591915213.565518,
+            "last_retested_at_iso": "2020-06-11T22:40:13.565518",
+            "status": "INACTIVE"
+        },
+        "antminers-bitmain.com": {
+            "included_at_epoch": 1591915215.272207,
+            "included_at_iso": "2020-06-11T22:40:15.272207",
+            "last_retested_at_epoch": 1591915215.272207,
+            "last_retested_at_iso": "2020-06-11T22:40:15.272207",
+            "status": "INACTIVE"
+        },
+        "antminersell.sh": {
+            "included_at_epoch": 1591915215.373843,
+            "included_at_iso": "2020-06-11T22:40:15.373843",
+            "last_retested_at_epoch": 1591915215.373843,
+            "last_retested_at_iso": "2020-06-11T22:40:15.373843",
+            "status": "INACTIVE"
+        },
+        "antminerstore.org": {
+            "included_at_epoch": 1591915215.475894,
+            "included_at_iso": "2020-06-11T22:40:15.475894",
+            "last_retested_at_epoch": 1591915215.475894,
+            "last_retested_at_iso": "2020-06-11T22:40:15.475894",
+            "status": "INACTIVE"
+        },
+        "antminersupply.co": {
+            "included_at_epoch": 1591915215.593583,
+            "included_at_iso": "2020-06-11T22:40:15.593583",
+            "last_retested_at_epoch": 1591915215.593583,
+            "last_retested_at_iso": "2020-06-11T22:40:15.593583",
+            "status": "INACTIVE"
+        },
         "antotu.info": {
             "included_at_epoch": 1591038811.526896,
             "included_at_iso": "2020-06-01T19:13:31.526896",
             "last_retested_at_epoch": 1591038811.526896,
             "last_retested_at_iso": "2020-06-01T19:13:31.526896",
+            "status": "INACTIVE"
+        },
+        "antyflu.net": {
+            "included_at_epoch": 1591915216.89889,
+            "included_at_iso": "2020-06-11T22:40:16.898890",
+            "last_retested_at_epoch": 1591915216.89889,
+            "last_retested_at_iso": "2020-06-11T22:40:16.898890",
+            "status": "INACTIVE"
+        },
+        "antyspywaressite.com": {
+            "included_at_epoch": 1591915217.001546,
+            "included_at_iso": "2020-06-11T22:40:17.001546",
+            "last_retested_at_epoch": 1591915217.001546,
+            "last_retested_at_iso": "2020-06-11T22:40:17.001546",
+            "status": "INACTIVE"
+        },
+        "anunah.com": {
+            "included_at_epoch": 1591915217.51321,
+            "included_at_iso": "2020-06-11T22:40:17.513210",
+            "last_retested_at_epoch": 1591915217.51321,
+            "last_retested_at_iso": "2020-06-11T22:40:17.513210",
             "status": "INACTIVE"
         },
         "anuonkoooredammn.com": {
@@ -22988,6 +24220,20 @@
             "last_retested_at_iso": "2020-06-01T19:13:32.334963",
             "status": "INACTIVE"
         },
+        "anxau.com": {
+            "included_at_epoch": 1591915217.616051,
+            "included_at_iso": "2020-06-11T22:40:17.616051",
+            "last_retested_at_epoch": 1591915217.616051,
+            "last_retested_at_iso": "2020-06-11T22:40:17.616051",
+            "status": "INACTIVE"
+        },
+        "any-find.com": {
+            "included_at_epoch": 1591915217.718989,
+            "included_at_iso": "2020-06-11T22:40:17.718989",
+            "last_retested_at_epoch": 1591915217.718989,
+            "last_retested_at_iso": "2020-06-11T22:40:17.718989",
+            "status": "INACTIVE"
+        },
         "anybest.host": {
             "included_at_epoch": 1591038814.967199,
             "included_at_iso": "2020-06-01T19:13:34.967199",
@@ -22995,11 +24241,74 @@
             "last_retested_at_iso": "2020-06-01T19:13:34.967199",
             "status": "INACTIVE"
         },
+        "anybest.si": {
+            "included_at_epoch": 1591915217.822112,
+            "included_at_iso": "2020-06-11T22:40:17.822112",
+            "last_retested_at_epoch": 1591915217.822112,
+            "last_retested_at_iso": "2020-06-11T22:40:17.822112",
+            "status": "INACTIVE"
+        },
         "anybest.space": {
             "included_at_epoch": 1591038815.410543,
             "included_at_iso": "2020-06-01T19:13:35.410543",
             "last_retested_at_epoch": 1591038815.410543,
             "last_retested_at_iso": "2020-06-01T19:13:35.410543",
+            "status": "INACTIVE"
+        },
+        "anydnserrors.com": {
+            "included_at_epoch": 1591915218.315527,
+            "included_at_iso": "2020-06-11T22:40:18.315527",
+            "last_retested_at_epoch": 1591915218.315527,
+            "last_retested_at_iso": "2020-06-11T22:40:18.315527",
+            "status": "INACTIVE"
+        },
+        "anykindclips.com": {
+            "included_at_epoch": 1591915219.226674,
+            "included_at_iso": "2020-06-11T22:40:19.226674",
+            "last_retested_at_epoch": 1591915219.226674,
+            "last_retested_at_iso": "2020-06-11T22:40:19.226674",
+            "status": "INACTIVE"
+        },
+        "anypbbervqig.com": {
+            "included_at_epoch": 1591915219.328219,
+            "included_at_iso": "2020-06-11T22:40:19.328219",
+            "last_retested_at_epoch": 1591915219.328219,
+            "last_retested_at_iso": "2020-06-11T22:40:19.328219",
+            "status": "INACTIVE"
+        },
+        "anything4health.com": {
+            "included_at_epoch": 1591915219.835616,
+            "included_at_iso": "2020-06-11T22:40:19.835616",
+            "last_retested_at_epoch": 1591915219.835616,
+            "last_retested_at_iso": "2020-06-11T22:40:19.835616",
+            "status": "INACTIVE"
+        },
+        "anytime-block-grabber.com": {
+            "included_at_epoch": 1591915219.937465,
+            "included_at_iso": "2020-06-11T22:40:19.937465",
+            "last_retested_at_epoch": 1591915219.937465,
+            "last_retested_at_iso": "2020-06-11T22:40:19.937465",
+            "status": "INACTIVE"
+        },
+        "anytraff.com": {
+            "included_at_epoch": 1591915220.038506,
+            "included_at_iso": "2020-06-11T22:40:20.038506",
+            "last_retested_at_epoch": 1591915220.038506,
+            "last_retested_at_iso": "2020-06-11T22:40:20.038506",
+            "status": "INACTIVE"
+        },
+        "anytrafppc.com": {
+            "included_at_epoch": 1591915220.14047,
+            "included_at_iso": "2020-06-11T22:40:20.140470",
+            "last_retested_at_epoch": 1591915220.14047,
+            "last_retested_at_iso": "2020-06-11T22:40:20.140470",
+            "status": "INACTIVE"
+        },
+        "anyuwksovtwv.com": {
+            "included_at_epoch": 1591915220.242423,
+            "included_at_iso": "2020-06-11T22:40:20.242423",
+            "last_retested_at_epoch": 1591915220.242423,
+            "last_retested_at_iso": "2020-06-11T22:40:20.242423",
             "status": "INACTIVE"
         },
         "anz.ausecure1.com": {
@@ -23037,6 +24346,20 @@
             "last_retested_at_iso": "2020-06-01T19:25:29.220931",
             "status": "INACTIVE"
         },
+        "anzentsuru.com": {
+            "included_at_epoch": 1591915220.344519,
+            "included_at_iso": "2020-06-11T22:40:20.344519",
+            "last_retested_at_epoch": 1591915220.344519,
+            "last_retested_at_iso": "2020-06-11T22:40:20.344519",
+            "status": "INACTIVE"
+        },
+        "anzwers.info": {
+            "included_at_epoch": 1591915220.852393,
+            "included_at_iso": "2020-06-11T22:40:20.852393",
+            "last_retested_at_epoch": 1591915220.852393,
+            "last_retested_at_iso": "2020-06-11T22:40:20.852393",
+            "status": "INACTIVE"
+        },
         "aodongjiaosu.com": {
             "included_at_epoch": 1591039530.398993,
             "included_at_iso": "2020-06-01T19:25:30.398993",
@@ -23051,11 +24374,25 @@
             "last_retested_at_iso": "2020-06-01T19:25:30.886985",
             "status": "INACTIVE"
         },
+        "aomvdhxvblfp.com": {
+            "included_at_epoch": 1591915222.625124,
+            "included_at_iso": "2020-06-11T22:40:22.625124",
+            "last_retested_at_epoch": 1591915222.625124,
+            "last_retested_at_iso": "2020-06-11T22:40:22.625124",
+            "status": "INACTIVE"
+        },
         "aonxktnn.com": {
             "included_at_epoch": 1591039532.04635,
             "included_at_iso": "2020-06-01T19:25:32.046350",
             "last_retested_at_epoch": 1591039532.04635,
             "last_retested_at_iso": "2020-06-01T19:25:32.046350",
+            "status": "INACTIVE"
+        },
+        "aoqviogrwckf.com": {
+            "included_at_epoch": 1591915223.11679,
+            "included_at_iso": "2020-06-11T22:40:23.116790",
+            "last_retested_at_epoch": 1591915223.11679,
+            "last_retested_at_iso": "2020-06-11T22:40:23.116790",
             "status": "INACTIVE"
         },
         "aorta-net.com": {
@@ -23086,11 +24423,53 @@
             "last_retested_at_iso": "2020-06-01T19:25:36.746064",
             "status": "INACTIVE"
         },
+        "apagado.net": {
+            "included_at_epoch": 1591915224.432209,
+            "included_at_iso": "2020-06-11T22:40:24.432209",
+            "last_retested_at_epoch": 1591915224.432209,
+            "last_retested_at_iso": "2020-06-11T22:40:24.432209",
+            "status": "INACTIVE"
+        },
+        "apbwldhfuvnk.com": {
+            "included_at_epoch": 1591915224.928179,
+            "included_at_iso": "2020-06-11T22:40:24.928179",
+            "last_retested_at_epoch": 1591915224.928179,
+            "last_retested_at_iso": "2020-06-11T22:40:24.928179",
+            "status": "INACTIVE"
+        },
+        "apc-batna.net": {
+            "included_at_epoch": 1591915225.030738,
+            "included_at_iso": "2020-06-11T22:40:25.030738",
+            "last_retested_at_epoch": 1591915225.030738,
+            "last_retested_at_iso": "2020-06-11T22:40:25.030738",
+            "status": "INACTIVE"
+        },
         "apddozcgdh.com": {
             "included_at_epoch": 1591039538.302653,
             "included_at_iso": "2020-06-01T19:25:38.302653",
             "last_retested_at_epoch": 1591039538.302653,
             "last_retested_at_iso": "2020-06-01T19:25:38.302653",
+            "status": "INACTIVE"
+        },
+        "apeskolinoskager.com": {
+            "included_at_epoch": 1591915226.328926,
+            "included_at_iso": "2020-06-11T22:40:26.328926",
+            "last_retested_at_epoch": 1591915226.328926,
+            "last_retested_at_iso": "2020-06-11T22:40:26.328926",
+            "status": "INACTIVE"
+        },
+        "apex-crypto.com": {
+            "included_at_epoch": 1591915226.430277,
+            "included_at_iso": "2020-06-11T22:40:26.430277",
+            "last_retested_at_epoch": 1591915226.430277,
+            "last_retested_at_iso": "2020-06-11T22:40:26.430277",
+            "status": "INACTIVE"
+        },
+        "apextradinginvestments.com": {
+            "included_at_epoch": 1591915227.332758,
+            "included_at_iso": "2020-06-11T22:40:27.332758",
+            "last_retested_at_epoch": 1591915227.332758,
+            "last_retested_at_iso": "2020-06-11T22:40:27.332758",
             "status": "INACTIVE"
         },
         "apfbtiqdly.bid": {
@@ -23106,6 +24485,34 @@
             "last_retested_at_epoch": 1591039541.656973,
             "last_retested_at_iso": "2020-06-01T19:25:41.656973",
             "status": "INACTIVE"
+        },
+        "apgs.us": {
+            "included_at_epoch": 1591915227.453424,
+            "included_at_iso": "2020-06-11T22:40:27.453424",
+            "last_retested_at_epoch": 1591915227.453424,
+            "last_retested_at_iso": "2020-06-11T22:40:27.453424",
+            "status": "INACTIVE"
+        },
+        "api*.batmobi.net": {
+            "included_at_epoch": 1591915227.555245,
+            "included_at_iso": "2020-06-11T22:40:27.555245",
+            "last_retested_at_epoch": 1591915227.555245,
+            "last_retested_at_iso": "2020-06-11T22:40:27.555245",
+            "status": "INVALID"
+        },
+        "api*.batmobil.net": {
+            "included_at_epoch": 1591915227.657904,
+            "included_at_iso": "2020-06-11T22:40:27.657904",
+            "last_retested_at_epoch": 1591915227.657904,
+            "last_retested_at_iso": "2020-06-11T22:40:27.657904",
+            "status": "INVALID"
+        },
+        "api-*.bidmachine.io": {
+            "included_at_epoch": 1591915227.759968,
+            "included_at_iso": "2020-06-11T22:40:27.759968",
+            "last_retested_at_epoch": 1591915227.759968,
+            "last_retested_at_iso": "2020-06-11T22:40:27.759968",
+            "status": "INVALID"
         },
         "api-keks.com": {
             "included_at_epoch": 1591040265.632133,
@@ -23135,11 +24542,32 @@
             "last_retested_at_iso": "2020-06-01T19:37:46.313349",
             "status": "INACTIVE"
         },
+        "api.aveno.net": {
+            "included_at_epoch": 1591915231.333388,
+            "included_at_iso": "2020-06-11T22:40:31.333388",
+            "last_retested_at_epoch": 1591915231.333388,
+            "last_retested_at_iso": "2020-06-11T22:40:31.333388",
+            "status": "INACTIVE"
+        },
         "api.calq.io": {
             "included_at_epoch": 1591040266.42066,
             "included_at_iso": "2020-06-01T19:37:46.420660",
             "last_retested_at_epoch": 1591040266.42066,
             "last_retested_at_iso": "2020-06-01T19:37:46.420660",
+            "status": "INACTIVE"
+        },
+        "api.deep-ad.com.edgekey.net": {
+            "included_at_epoch": 1591915231.452973,
+            "included_at_iso": "2020-06-11T22:40:31.452973",
+            "last_retested_at_epoch": 1591915231.452973,
+            "last_retested_at_iso": "2020-06-11T22:40:31.452973",
+            "status": "INACTIVE"
+        },
+        "api.eostaipei.io": {
+            "included_at_epoch": 1591915231.572907,
+            "included_at_iso": "2020-06-11T22:40:31.572907",
+            "last_retested_at_epoch": 1591915231.572907,
+            "last_retested_at_iso": "2020-06-11T22:40:31.572907",
             "status": "INACTIVE"
         },
         "api.fusepowered.com": {
@@ -23149,11 +24577,39 @@
             "last_retested_at_iso": "2020-06-01T19:37:46.539935",
             "status": "INACTIVE"
         },
+        "api.inmoji.com": {
+            "included_at_epoch": 1591915231.710078,
+            "included_at_iso": "2020-06-11T22:40:31.710078",
+            "last_retested_at_epoch": 1591915231.710078,
+            "last_retested_at_iso": "2020-06-11T22:40:31.710078",
+            "status": "INACTIVE"
+        },
+        "api.mobilearts.io": {
+            "included_at_epoch": 1591915231.81177,
+            "included_at_iso": "2020-06-11T22:40:31.811770",
+            "last_retested_at_epoch": 1591915231.81177,
+            "last_retested_at_iso": "2020-06-11T22:40:31.811770",
+            "status": "INACTIVE"
+        },
         "api.mobojoy.baidu.com": {
             "included_at_epoch": 1591040266.674918,
             "included_at_iso": "2020-06-01T19:37:46.674918",
             "last_retested_at_epoch": 1591040266.674918,
             "last_retested_at_iso": "2020-06-01T19:37:46.674918",
+            "status": "INACTIVE"
+        },
+        "api.netflare.info": {
+            "included_at_epoch": 1591915231.913114,
+            "included_at_iso": "2020-06-11T22:40:31.913114",
+            "last_retested_at_epoch": 1591915231.913114,
+            "last_retested_at_iso": "2020-06-11T22:40:31.913114",
+            "status": "INACTIVE"
+        },
+        "api.nrelate.com": {
+            "included_at_epoch": 1591915232.027108,
+            "included_at_iso": "2020-06-11T22:40:32.027108",
+            "last_retested_at_epoch": 1591915232.027108,
+            "last_retested_at_iso": "2020-06-11T22:40:32.027108",
             "status": "INACTIVE"
         },
         "api.opx.opreamini-facebook.twitter.com": {
@@ -23177,6 +24633,27 @@
             "last_retested_at_iso": "2020-06-01T19:49:42.239453",
             "status": "INACTIVE"
         },
+        "api2.checkingsite.site": {
+            "included_at_epoch": 1591915232.428569,
+            "included_at_iso": "2020-06-11T22:40:32.428569",
+            "last_retested_at_epoch": 1591915232.428569,
+            "last_retested_at_iso": "2020-06-11T22:40:32.428569",
+            "status": "INACTIVE"
+        },
+        "apice-snn.com": {
+            "included_at_epoch": 1591915232.53038,
+            "included_at_iso": "2020-06-11T22:40:32.530380",
+            "last_retested_at_epoch": 1591915232.53038,
+            "last_retested_at_iso": "2020-06-11T22:40:32.530380",
+            "status": "INACTIVE"
+        },
+        "apie-soft.com": {
+            "included_at_epoch": 1591915232.668988,
+            "included_at_iso": "2020-06-11T22:40:32.668988",
+            "last_retested_at_epoch": 1591915232.668988,
+            "last_retested_at_iso": "2020-06-11T22:40:32.668988",
+            "status": "INACTIVE"
+        },
         "apirelay.ru": {
             "included_at_epoch": 1591040984.183642,
             "included_at_iso": "2020-06-01T19:49:44.183642",
@@ -23191,11 +24668,32 @@
             "last_retested_at_iso": "2020-06-01T19:49:44.255270",
             "status": "INACTIVE"
         },
+        "apk-bancodobrasil.com": {
+            "included_at_epoch": 1591915233.63437,
+            "included_at_iso": "2020-06-11T22:40:33.634370",
+            "last_retested_at_epoch": 1591915233.63437,
+            "last_retested_at_iso": "2020-06-11T22:40:33.634370",
+            "status": "INACTIVE"
+        },
         "apk-secure.apps.app1e.itdevel.org": {
             "included_at_epoch": 1591040985.444971,
             "included_at_iso": "2020-06-01T19:49:45.444971",
             "last_retested_at_epoch": 1591040985.444971,
             "last_retested_at_iso": "2020-06-01T19:49:45.444971",
+            "status": "INACTIVE"
+        },
+        "apkhackz.com": {
+            "included_at_epoch": 1591915235.322371,
+            "included_at_iso": "2020-06-11T22:40:35.322371",
+            "last_retested_at_epoch": 1591915235.322371,
+            "last_retested_at_iso": "2020-06-11T22:40:35.322371",
+            "status": "INACTIVE"
+        },
+        "apkplaystore.in": {
+            "included_at_epoch": 1591915235.813833,
+            "included_at_iso": "2020-06-11T22:40:35.813833",
+            "last_retested_at_epoch": 1591915235.813833,
+            "last_retested_at_iso": "2020-06-11T22:40:35.813833",
             "status": "INACTIVE"
         },
         "apl1eid-app1e.com": {
@@ -23226,6 +24724,34 @@
             "last_retested_at_iso": "2020-06-01T19:49:48.669388",
             "status": "INACTIVE"
         },
+        "apniscmvoe.ru": {
+            "included_at_epoch": 1591915237.487928,
+            "included_at_iso": "2020-06-11T22:40:37.487928",
+            "last_retested_at_epoch": 1591915237.487928,
+            "last_retested_at_iso": "2020-06-11T22:40:37.487928",
+            "status": "INACTIVE"
+        },
+        "apollofinanceltd.com": {
+            "included_at_epoch": 1591915238.381155,
+            "included_at_iso": "2020-06-11T22:40:38.381155",
+            "last_retested_at_epoch": 1591915238.381155,
+            "last_retested_at_iso": "2020-06-11T22:40:38.381155",
+            "status": "INACTIVE"
+        },
+        "apollohostingcompany.org": {
+            "included_at_epoch": 1591915238.500529,
+            "included_at_iso": "2020-06-11T22:40:38.500529",
+            "last_retested_at_epoch": 1591915238.500529,
+            "last_retested_at_iso": "2020-06-11T22:40:38.500529",
+            "status": "INACTIVE"
+        },
+        "apowerbar.com": {
+            "included_at_epoch": 1591915239.004597,
+            "included_at_iso": "2020-06-11T22:40:39.004597",
+            "last_retested_at_epoch": 1591915239.004597,
+            "last_retested_at_iso": "2020-06-11T22:40:39.004597",
+            "status": "INACTIVE"
+        },
         "apoyocuenta.blogspot.com": {
             "included_at_epoch": 1591040992.038126,
             "included_at_iso": "2020-06-01T19:49:52.038126",
@@ -23252,6 +24778,20 @@
             "included_at_iso": "2020-06-01T19:49:54.071600",
             "last_retested_at_epoch": 1591040994.0716,
             "last_retested_at_iso": "2020-06-01T19:49:54.071600",
+            "status": "INACTIVE"
+        },
+        "app-comvc-com.umbler.net": {
+            "included_at_epoch": 1591915239.954765,
+            "included_at_iso": "2020-06-11T22:40:39.954765",
+            "last_retested_at_epoch": 1591915239.954765,
+            "last_retested_at_iso": "2020-06-11T22:40:39.954765",
+            "status": "INACTIVE"
+        },
+        "app-hackss.com": {
+            "included_at_epoch": 1591915240.463822,
+            "included_at_iso": "2020-06-11T22:40:40.463822",
+            "last_retested_at_epoch": 1591915240.463822,
+            "last_retested_at_iso": "2020-06-11T22:40:40.463822",
             "status": "INACTIVE"
         },
         "app-log1nacc0unt.com-s3cyure0.co-ver1fy.app1e.com-75865856.yyryrqs.com": {
@@ -23322,6 +24862,13 @@
             "included_at_iso": "2020-06-01T20:02:07.606600",
             "last_retested_at_epoch": 1591041727.6066,
             "last_retested_at_iso": "2020-06-01T20:02:07.606600",
+            "status": "INACTIVE"
+        },
+        "app.emailproblemdatanoticechanges.winkxxz.com": {
+            "included_at_epoch": 1591915241.8865,
+            "included_at_iso": "2020-06-11T22:40:41.886500",
+            "last_retested_at_epoch": 1591915241.8865,
+            "last_retested_at_iso": "2020-06-11T22:40:41.886500",
             "status": "INACTIVE"
         },
         "app.lmaxvip.live": {
@@ -23401,11 +24948,32 @@
             "last_retested_at_iso": "2020-06-01T20:02:08.478714",
             "status": "INACTIVE"
         },
+        "app.store.ios.support.gtokoni.com": {
+            "included_at_epoch": 1591915242.563635,
+            "included_at_iso": "2020-06-11T22:40:42.563635",
+            "last_retested_at_epoch": 1591915242.563635,
+            "last_retested_at_iso": "2020-06-11T22:40:42.563635",
+            "status": "INACTIVE"
+        },
+        "app.tuvideo.xyz": {
+            "included_at_epoch": 1591915242.666632,
+            "included_at_iso": "2020-06-11T22:40:42.666632",
+            "last_retested_at_epoch": 1591915242.666632,
+            "last_retested_at_iso": "2020-06-11T22:40:42.666632",
+            "status": "INACTIVE"
+        },
         "app.verifi.sign.secure.auidlogmail.vxakifjea.com": {
             "included_at_epoch": 1591041728.551473,
             "included_at_iso": "2020-06-01T20:02:08.551473",
             "last_retested_at_epoch": 1591041728.551473,
             "last_retested_at_iso": "2020-06-01T20:02:08.551473",
+            "status": "INACTIVE"
+        },
+        "app1.jkahfmal.com": {
+            "included_at_epoch": 1591915242.828347,
+            "included_at_iso": "2020-06-11T22:40:42.828347",
+            "last_retested_at_epoch": 1591915242.828347,
+            "last_retested_at_iso": "2020-06-11T22:40:42.828347",
             "status": "INACTIVE"
         },
         "app1e-1d-acc0unts.l0g1n-c0nfr1m.cf": {
@@ -23539,6 +25107,13 @@
             "included_at_iso": "2020-06-01T20:14:10.915038",
             "last_retested_at_epoch": 1591042450.915038,
             "last_retested_at_iso": "2020-06-01T20:14:10.915038",
+            "status": "INACTIVE"
+        },
+        "app1e-id-manage-o52ek985tm6j6nf4n1d30blohc.9d48dz.com": {
+            "included_at_epoch": 1591915242.949624,
+            "included_at_iso": "2020-06-11T22:40:42.949624",
+            "last_retested_at_epoch": 1591915242.949624,
+            "last_retested_at_iso": "2020-06-11T22:40:42.949624",
             "status": "INACTIVE"
         },
         "app1e-id.4ccount-unlock.com": {
@@ -25333,11 +26908,25 @@
             "last_retested_at_iso": "2020-06-01T21:29:57.190099",
             "status": "INACTIVE"
         },
+        "app2.jkahfmal.com": {
+            "included_at_epoch": 1591915245.048891,
+            "included_at_iso": "2020-06-11T22:40:45.048891",
+            "last_retested_at_epoch": 1591915245.048891,
+            "last_retested_at_iso": "2020-06-11T22:40:45.048891",
+            "status": "INACTIVE"
+        },
         "app30hswepmobile.wpdevcloud.com": {
             "included_at_epoch": 1591046997.26288,
             "included_at_iso": "2020-06-01T21:29:57.262880",
             "last_retested_at_epoch": 1591046997.26288,
             "last_retested_at_iso": "2020-06-01T21:29:57.262880",
+            "status": "INACTIVE"
+        },
+        "appaloosa.no": {
+            "included_at_epoch": 1591915245.558921,
+            "included_at_iso": "2020-06-11T22:40:45.558921",
+            "last_retested_at_epoch": 1591915245.558921,
+            "last_retested_at_iso": "2020-06-11T22:40:45.558921",
             "status": "INACTIVE"
         },
         "appared.online": {
@@ -25354,11 +26943,25 @@
             "last_retested_at_iso": "2020-06-01T21:29:58.862249",
             "status": "INACTIVE"
         },
+        "appbin.me": {
+            "included_at_epoch": 1591915246.075937,
+            "included_at_iso": "2020-06-11T22:40:46.075937",
+            "last_retested_at_epoch": 1591915246.075937,
+            "last_retested_at_iso": "2020-06-11T22:40:46.075937",
+            "status": "INACTIVE"
+        },
         "appboskue.appstore-orderconfirmation-id.com": {
             "included_at_epoch": 1591046999.650344,
             "included_at_iso": "2020-06-01T21:29:59.650344",
             "last_retested_at_epoch": 1591046999.650344,
             "last_retested_at_iso": "2020-06-01T21:29:59.650344",
+            "status": "INACTIVE"
+        },
+        "appcheats.co.uk": {
+            "included_at_epoch": 1591915248.589452,
+            "included_at_iso": "2020-06-11T22:40:48.589452",
+            "last_retested_at_epoch": 1591915248.589452,
+            "last_retested_at_iso": "2020-06-11T22:40:48.589452",
             "status": "INACTIVE"
         },
         "appel.anefinity.me": {
@@ -25373,6 +26976,13 @@
             "included_at_iso": "2020-06-01T21:30:02.733314",
             "last_retested_at_epoch": 1591047002.733314,
             "last_retested_at_iso": "2020-06-01T21:30:02.733314",
+            "status": "INACTIVE"
+        },
+        "appgerenciamento-tk-com-br.umbler.net": {
+            "included_at_epoch": 1591915250.340249,
+            "included_at_iso": "2020-06-11T22:40:50.340249",
+            "last_retested_at_epoch": 1591915250.340249,
+            "last_retested_at_iso": "2020-06-11T22:40:50.340249",
             "status": "INACTIVE"
         },
         "appid.account.japan.upinfo.info": {
@@ -25396,11 +27006,32 @@
             "last_retested_at_iso": "2020-06-01T21:30:04.756019",
             "status": "INACTIVE"
         },
+        "appidworldwide-com.serveirc.com": {
+            "included_at_epoch": 1591915252.494973,
+            "included_at_iso": "2020-06-11T22:40:52.494973",
+            "last_retested_at_epoch": 1591915252.494973,
+            "last_retested_at_iso": "2020-06-11T22:40:52.494973",
+            "status": "INACTIVE"
+        },
         "appie.iceios.cn": {
             "included_at_epoch": 1591047721.793622,
             "included_at_iso": "2020-06-01T21:42:01.793622",
             "last_retested_at_epoch": 1591047721.793622,
             "last_retested_at_iso": "2020-06-01T21:42:01.793622",
+            "status": "INACTIVE"
+        },
+        "appied-signin.apple-ca.music-appstore-monthly.info": {
+            "included_at_epoch": 1591915252.617835,
+            "included_at_iso": "2020-06-11T22:40:52.617835",
+            "last_retested_at_epoch": 1591915252.617835,
+            "last_retested_at_iso": "2020-06-11T22:40:52.617835",
+            "status": "INACTIVE"
+        },
+        "appieid-appie.ca-user-signin.jp-ios-user.com": {
+            "included_at_epoch": 1591915252.722489,
+            "included_at_iso": "2020-06-11T22:40:52.722489",
+            "last_retested_at_epoch": 1591915252.722489,
+            "last_retested_at_iso": "2020-06-11T22:40:52.722489",
             "status": "INACTIVE"
         },
         "appieid-manage.apple.ca-ios-user.com": {
@@ -25417,6 +27048,20 @@
             "last_retested_at_iso": "2020-06-01T21:42:01.868175",
             "status": "INACTIVE"
         },
+        "appios-icloudcx.com": {
+            "included_at_epoch": 1591915252.844512,
+            "included_at_iso": "2020-06-11T22:40:52.844512",
+            "last_retested_at_epoch": 1591915252.844512,
+            "last_retested_at_iso": "2020-06-11T22:40:52.844512",
+            "status": "INACTIVE"
+        },
+        "appl.kp.org": {
+            "included_at_epoch": 1591915252.948706,
+            "included_at_iso": "2020-06-11T22:40:52.948706",
+            "last_retested_at_epoch": 1591915252.948706,
+            "last_retested_at_iso": "2020-06-11T22:40:52.948706",
+            "status": "INACTIVE"
+        },
         "appl1eid.app1e.com.serv1ce-jp0243.com": {
             "included_at_epoch": 1591047723.966625,
             "included_at_iso": "2020-06-01T21:42:03.966625",
@@ -25429,6 +27074,13 @@
             "included_at_iso": "2020-06-01T21:42:04.040674",
             "last_retested_at_epoch": 1591047724.040674,
             "last_retested_at_iso": "2020-06-01T21:42:04.040674",
+            "status": "INACTIVE"
+        },
+        "apple--iphone5.com": {
+            "included_at_epoch": 1591915253.052564,
+            "included_at_iso": "2020-06-11T22:40:53.052564",
+            "last_retested_at_epoch": 1591915253.052564,
+            "last_retested_at_iso": "2020-06-11T22:40:53.052564",
             "status": "INACTIVE"
         },
         "apple-accoutt.tk": {
@@ -25452,11 +27104,32 @@
             "last_retested_at_iso": "2020-06-01T21:42:04.642128",
             "status": "INACTIVE"
         },
+        "apple-bitcoin.com": {
+            "included_at_epoch": 1591915253.566974,
+            "included_at_iso": "2020-06-11T22:40:53.566974",
+            "last_retested_at_epoch": 1591915253.566974,
+            "last_retested_at_iso": "2020-06-11T22:40:53.566974",
+            "status": "INACTIVE"
+        },
         "apple-br.lbusca.com": {
             "included_at_epoch": 1591047724.716893,
             "included_at_iso": "2020-06-01T21:42:04.716893",
             "last_retested_at_epoch": 1591047724.716893,
             "last_retested_at_iso": "2020-06-01T21:42:04.716893",
+            "status": "INACTIVE"
+        },
+        "apple-globe.com": {
+            "included_at_epoch": 1591915253.672546,
+            "included_at_iso": "2020-06-11T22:40:53.672546",
+            "last_retested_at_epoch": 1591915253.672546,
+            "last_retested_at_iso": "2020-06-11T22:40:53.672546",
+            "status": "INACTIVE"
+        },
+        "apple-gps-china.com": {
+            "included_at_epoch": 1591915253.778737,
+            "included_at_iso": "2020-06-11T22:40:53.778737",
+            "last_retested_at_epoch": 1591915253.778737,
+            "last_retested_at_iso": "2020-06-11T22:40:53.778737",
             "status": "INACTIVE"
         },
         "apple-idevices.info": {
@@ -25515,6 +27188,13 @@
             "last_retested_at_iso": "2020-06-01T22:11:23.174481",
             "status": "INACTIVE"
         },
+        "apple-service-systeam.com": {
+            "included_at_epoch": 1591915255.079345,
+            "included_at_iso": "2020-06-11T22:40:55.079345",
+            "last_retested_at_epoch": 1591915255.079345,
+            "last_retested_at_iso": "2020-06-11T22:40:55.079345",
+            "status": "INACTIVE"
+        },
         "apple-support.lforgot-br.in": {
             "included_at_epoch": 1591049484.024517,
             "included_at_iso": "2020-06-01T22:11:24.024517",
@@ -25550,6 +27230,13 @@
             "last_retested_at_iso": "2020-06-01T22:11:24.347239",
             "status": "INACTIVE"
         },
+        "apple-visit-reply.com": {
+            "included_at_epoch": 1591915255.982193,
+            "included_at_iso": "2020-06-11T22:40:55.982193",
+            "last_retested_at_epoch": 1591915255.982193,
+            "last_retested_at_iso": "2020-06-11T22:40:55.982193",
+            "status": "INACTIVE"
+        },
         "apple.5f7i9.cn": {
             "included_at_epoch": 1591049484.436732,
             "included_at_iso": "2020-06-01T22:11:24.436732",
@@ -25576,6 +27263,13 @@
             "included_at_iso": "2020-06-01T22:23:22.586172",
             "last_retested_at_epoch": 1591050202.586172,
             "last_retested_at_iso": "2020-06-01T22:23:22.586172",
+            "status": "INACTIVE"
+        },
+        "apple.com----macupdate.info": {
+            "included_at_epoch": 1591915256.084797,
+            "included_at_iso": "2020-06-11T22:40:56.084797",
+            "last_retested_at_epoch": 1591915256.084797,
+            "last_retested_at_iso": "2020-06-11T22:40:56.084797",
             "status": "INACTIVE"
         },
         "apple.com-cert.info": {
@@ -25611,6 +27305,13 @@
             "included_at_iso": "2020-06-01T22:23:23.047235",
             "last_retested_at_epoch": 1591050203.047235,
             "last_retested_at_iso": "2020-06-01T22:23:23.047235",
+            "status": "INACTIVE"
+        },
+        "apple.com.aahdjfd.org": {
+            "included_at_epoch": 1591915256.220557,
+            "included_at_iso": "2020-06-11T22:40:56.220557",
+            "last_retested_at_epoch": 1591915256.220557,
+            "last_retested_at_iso": "2020-06-11T22:40:56.220557",
             "status": "INACTIVE"
         },
         "apple.com.access-myaccountbill.com": {
@@ -25816,6 +27517,13 @@
             "last_retested_at_iso": "2020-06-01T23:11:18.759541",
             "status": "INACTIVE"
         },
+        "apple.com.th-user.info": {
+            "included_at_epoch": 1591915256.34416,
+            "included_at_iso": "2020-06-11T22:40:56.344160",
+            "last_retested_at_epoch": 1591915256.34416,
+            "last_retested_at_iso": "2020-06-11T22:40:56.344160",
+            "status": "INACTIVE"
+        },
         "apple.com.trzid.cn": {
             "included_at_epoch": 1591053078.832964,
             "included_at_iso": "2020-06-01T23:11:18.832964",
@@ -25900,6 +27608,13 @@
             "last_retested_at_iso": "2020-06-01T23:33:05.961049",
             "status": "INACTIVE"
         },
+        "apple.sign-in-los-gps.us": {
+            "included_at_epoch": 1591915256.484085,
+            "included_at_iso": "2020-06-11T22:40:56.484085",
+            "last_retested_at_epoch": 1591915256.484085,
+            "last_retested_at_iso": "2020-06-11T22:40:56.484085",
+            "status": "INACTIVE"
+        },
         "apple.sup.dinamicmedia3d.ro": {
             "included_at_epoch": 1591054386.032968,
             "included_at_iso": "2020-06-01T23:33:06.032968",
@@ -25921,11 +27636,25 @@
             "last_retested_at_iso": "2020-06-01T23:33:06.104823",
             "status": "INACTIVE"
         },
+        "apple.suppver1fication4892.rindu18.com": {
+            "included_at_epoch": 1591915256.589927,
+            "included_at_iso": "2020-06-11T22:40:56.589927",
+            "last_retested_at_epoch": 1591915256.589927,
+            "last_retested_at_iso": "2020-06-11T22:40:56.589927",
+            "status": "INACTIVE"
+        },
         "apple.uk-findmy.com": {
             "included_at_epoch": 1591054386.266419,
             "included_at_iso": "2020-06-01T23:33:06.266419",
             "last_retested_at_epoch": 1591054386.266419,
             "last_retested_at_iso": "2020-06-01T23:33:06.266419",
+            "status": "INACTIVE"
+        },
+        "applecoin.li": {
+            "included_at_epoch": 1591915257.106094,
+            "included_at_iso": "2020-06-11T22:40:57.106094",
+            "last_retested_at_epoch": 1591915257.106094,
+            "last_retested_at_iso": "2020-06-11T22:40:57.106094",
             "status": "INACTIVE"
         },
         "applecorp.ilmtrust.com": {
@@ -25963,6 +27692,27 @@
             "last_retested_at_iso": "2020-06-01T23:33:09.624604",
             "status": "INACTIVE"
         },
+        "applefreegifts.com": {
+            "included_at_epoch": 1591915258.012242,
+            "included_at_iso": "2020-06-11T22:40:58.012242",
+            "last_retested_at_epoch": 1591915258.012242,
+            "last_retested_at_iso": "2020-06-11T22:40:58.012242",
+            "status": "INACTIVE"
+        },
+        "applegiveaways.us": {
+            "included_at_epoch": 1591915258.114687,
+            "included_at_iso": "2020-06-11T22:40:58.114687",
+            "last_retested_at_epoch": 1591915258.114687,
+            "last_retested_at_iso": "2020-06-11T22:40:58.114687",
+            "status": "INACTIVE"
+        },
+        "appleharimsudhsecure-appstorepayment.zx21uj5basj.com": {
+            "included_at_epoch": 1591915258.218126,
+            "included_at_iso": "2020-06-11T22:40:58.218126",
+            "last_retested_at_epoch": 1591915258.218126,
+            "last_retested_at_iso": "2020-06-11T22:40:58.218126",
+            "status": "INACTIVE"
+        },
         "applehudajibapagosegura.asfagagadvertising.com": {
             "included_at_epoch": 1591054389.697025,
             "included_at_iso": "2020-06-01T23:33:09.697025",
@@ -25984,6 +27734,13 @@
             "last_retested_at_iso": "2020-06-01T23:33:09.913590",
             "status": "INACTIVE"
         },
+        "appleid-appvrf-infodata.camdvr.org": {
+            "included_at_epoch": 1591915258.337869,
+            "included_at_iso": "2020-06-11T22:40:58.337869",
+            "last_retested_at_epoch": 1591915258.337869,
+            "last_retested_at_iso": "2020-06-11T22:40:58.337869",
+            "status": "INACTIVE"
+        },
         "appleid-available.com": {
             "included_at_epoch": 1591054389.84181,
             "included_at_iso": "2020-06-01T23:33:09.841810",
@@ -25996,6 +27753,13 @@
             "included_at_iso": "2020-06-01T23:33:09.986496",
             "last_retested_at_epoch": 1591054389.986496,
             "last_retested_at_iso": "2020-06-01T23:33:09.986496",
+            "status": "INACTIVE"
+        },
+        "appleid-china-apple.com": {
+            "included_at_epoch": 1591915258.460773,
+            "included_at_iso": "2020-06-11T22:40:58.460773",
+            "last_retested_at_epoch": 1591915258.460773,
+            "last_retested_at_iso": "2020-06-11T22:40:58.460773",
             "status": "INACTIVE"
         },
         "appleid-findmydevice.icloud-y.com": {
@@ -26012,11 +27776,25 @@
             "last_retested_at_iso": "2020-06-01T23:33:10.202731",
             "status": "INACTIVE"
         },
+        "appleid-secure005.myvnc.com": {
+            "included_at_epoch": 1591915258.582472,
+            "included_at_iso": "2020-06-11T22:40:58.582472",
+            "last_retested_at_epoch": 1591915258.582472,
+            "last_retested_at_iso": "2020-06-11T22:40:58.582472",
+            "status": "INACTIVE"
+        },
         "appleid-webstorehelp-int.goaeif-frehai.com": {
             "included_at_epoch": 1591054390.130218,
             "included_at_iso": "2020-06-01T23:33:10.130218",
             "last_retested_at_epoch": 1591054390.130218,
             "last_retested_at_iso": "2020-06-01T23:33:10.130218",
+            "status": "INACTIVE"
+        },
+        "appleid.apple.account-manage-payment.login-financialpayment.com": {
+            "included_at_epoch": 1591915258.752763,
+            "included_at_iso": "2020-06-11T22:40:58.752763",
+            "last_retested_at_epoch": 1591915258.752763,
+            "last_retested_at_iso": "2020-06-11T22:40:58.752763",
             "status": "INACTIVE"
         },
         "appleid.apple.ca.227f0fe6ef11c1a.osx-ios-device.ca": {
@@ -26075,6 +27853,13 @@
             "last_retested_at_iso": "2020-06-01T23:50:14.571185",
             "status": "INACTIVE"
         },
+        "appleid.apple.com.account-page.page-us.me": {
+            "included_at_epoch": 1591915258.894269,
+            "included_at_iso": "2020-06-11T22:40:58.894269",
+            "last_retested_at_epoch": 1591915258.894269,
+            "last_retested_at_iso": "2020-06-11T22:40:58.894269",
+            "status": "INACTIVE"
+        },
         "appleid.apple.com.agsef.org": {
             "included_at_epoch": 1591055414.682894,
             "included_at_iso": "2020-06-01T23:50:14.682894",
@@ -26089,6 +27874,13 @@
             "last_retested_at_iso": "2020-06-01T23:50:14.822192",
             "status": "INACTIVE"
         },
+        "appleid.apple.com.alertupdateverify.org": {
+            "included_at_epoch": 1591915258.998796,
+            "included_at_iso": "2020-06-11T22:40:58.998796",
+            "last_retested_at_epoch": 1591915258.998796,
+            "last_retested_at_iso": "2020-06-11T22:40:58.998796",
+            "status": "INACTIVE"
+        },
         "appleid.apple.com.amxus.us": {
             "included_at_epoch": 1591055414.75287,
             "included_at_iso": "2020-06-01T23:50:14.752870",
@@ -26096,11 +27888,25 @@
             "last_retested_at_iso": "2020-06-01T23:50:14.752870",
             "status": "INACTIVE"
         },
+        "appleid.apple.com.appcheckout.passidkey.platinumfamilyhealth.com": {
+            "included_at_epoch": 1591915259.103441,
+            "included_at_iso": "2020-06-11T22:40:59.103441",
+            "last_retested_at_epoch": 1591915259.103441,
+            "last_retested_at_iso": "2020-06-11T22:40:59.103441",
+            "status": "INACTIVE"
+        },
         "appleid.apple.com.appverifylockedidf.org": {
             "included_at_epoch": 1591055414.892606,
             "included_at_iso": "2020-06-01T23:50:14.892606",
             "last_retested_at_epoch": 1591055414.892606,
             "last_retested_at_iso": "2020-06-01T23:50:14.892606",
+            "status": "INACTIVE"
+        },
+        "appleid.apple.com.centerednotinterested.com": {
+            "included_at_epoch": 1591915259.209195,
+            "included_at_iso": "2020-06-11T22:40:59.209195",
+            "last_retested_at_epoch": 1591915259.209195,
+            "last_retested_at_iso": "2020-06-11T22:40:59.209195",
             "status": "INACTIVE"
         },
         "appleid.apple.com.dartuntechnologies.com": {
@@ -26145,6 +27951,13 @@
             "last_retested_at_iso": "2020-06-01T23:50:15.313335",
             "status": "INACTIVE"
         },
+        "appleid.apple.com.jualdomain35.com": {
+            "included_at_epoch": 1591915259.33229,
+            "included_at_iso": "2020-06-11T22:40:59.332290",
+            "last_retested_at_epoch": 1591915259.33229,
+            "last_retested_at_iso": "2020-06-11T22:40:59.332290",
+            "status": "INACTIVE"
+        },
         "appleid.apple.com.kamukontolgoogle.com": {
             "included_at_epoch": 1591055415.388963,
             "included_at_iso": "2020-06-01T23:50:15.388963",
@@ -26157,6 +27970,13 @@
             "included_at_iso": "2020-06-01T23:50:15.529748",
             "last_retested_at_epoch": 1591055415.529748,
             "last_retested_at_iso": "2020-06-01T23:50:15.529748",
+            "status": "INACTIVE"
+        },
+        "appleid.apple.com.lestiloi.business": {
+            "included_at_epoch": 1591915259.436703,
+            "included_at_iso": "2020-06-11T22:40:59.436703",
+            "last_retested_at_epoch": 1591915259.436703,
+            "last_retested_at_iso": "2020-06-11T22:40:59.436703",
             "status": "INACTIVE"
         },
         "appleid.apple.com.login-info.online": {
@@ -26208,6 +28028,13 @@
             "last_retested_at_iso": "2020-06-01T23:50:15.959534",
             "status": "INACTIVE"
         },
+        "appleid.apple.com.paymenthistorysupicious.sudahisaja.com": {
+            "included_at_epoch": 1591915259.540686,
+            "included_at_iso": "2020-06-11T22:40:59.540686",
+            "last_retested_at_epoch": 1591915259.540686,
+            "last_retested_at_iso": "2020-06-11T22:40:59.540686",
+            "status": "INACTIVE"
+        },
         "appleid.apple.com.payments-activity.support": {
             "included_at_epoch": 1591055416.028512,
             "included_at_iso": "2020-06-01T23:50:16.028512",
@@ -26229,11 +28056,25 @@
             "last_retested_at_iso": "2020-06-01T23:50:16.167098",
             "status": "INACTIVE"
         },
+        "appleid.apple.com.purchasesupicious.suntikanmaut.com": {
+            "included_at_epoch": 1591915259.645188,
+            "included_at_iso": "2020-06-11T22:40:59.645188",
+            "last_retested_at_epoch": 1591915259.645188,
+            "last_retested_at_iso": "2020-06-11T22:40:59.645188",
+            "status": "INACTIVE"
+        },
         "appleid.apple.com.reactive.support": {
             "included_at_epoch": 1591055416.236082,
             "included_at_iso": "2020-06-01T23:50:16.236082",
             "last_retested_at_epoch": 1591055416.236082,
             "last_retested_at_iso": "2020-06-01T23:50:16.236082",
+            "status": "INACTIVE"
+        },
+        "appleid.apple.com.ulahceurikasu.net": {
+            "included_at_epoch": 1591915259.769364,
+            "included_at_iso": "2020-06-11T22:40:59.769364",
+            "last_retested_at_epoch": 1591915259.769364,
+            "last_retested_at_iso": "2020-06-11T22:40:59.769364",
             "status": "INACTIVE"
         },
         "appleid.apple.com.unusualactivityinfoa.net": {
@@ -26257,11 +28098,25 @@
             "last_retested_at_iso": "2020-06-01T23:50:16.443314",
             "status": "INACTIVE"
         },
+        "appleid.apple.com.xbdolan.com": {
+            "included_at_epoch": 1591915259.892451,
+            "included_at_iso": "2020-06-11T22:40:59.892451",
+            "last_retested_at_epoch": 1591915259.892451,
+            "last_retested_at_iso": "2020-06-11T22:40:59.892451",
+            "status": "INACTIVE"
+        },
         "appleid.apple.manageverifications.com": {
             "included_at_epoch": 1591055416.519591,
             "included_at_iso": "2020-06-01T23:50:16.519591",
             "last_retested_at_epoch": 1591055416.519591,
             "last_retested_at_iso": "2020-06-01T23:50:16.519591",
+            "status": "INACTIVE"
+        },
+        "appleid.apple.support-center.invoices-updates.secure-maill.com": {
+            "included_at_epoch": 1591915259.996432,
+            "included_at_iso": "2020-06-11T22:40:59.996432",
+            "last_retested_at_epoch": 1591915259.996432,
+            "last_retested_at_iso": "2020-06-11T22:40:59.996432",
             "status": "INACTIVE"
         },
         "appleid.apple.support.center.login-financialpayment.com": {
@@ -26276,6 +28131,13 @@
             "included_at_iso": "2020-06-01T23:50:16.669480",
             "last_retested_at_epoch": 1591055416.66948,
             "last_retested_at_iso": "2020-06-01T23:50:16.669480",
+            "status": "INACTIVE"
+        },
+        "appleid.applelogin.awszonesupport.com": {
+            "included_at_epoch": 1591915260.100545,
+            "included_at_iso": "2020-06-11T22:41:00.100545",
+            "last_retested_at_epoch": 1591915260.100545,
+            "last_retested_at_iso": "2020-06-11T22:41:00.100545",
             "status": "INACTIVE"
         },
         "appleid.com-4pple-centrees-infoes-detiles.com": {
@@ -26297,6 +28159,13 @@
             "included_at_iso": "2020-06-01T23:50:16.891533",
             "last_retested_at_epoch": 1591055416.891533,
             "last_retested_at_iso": "2020-06-01T23:50:16.891533",
+            "status": "INACTIVE"
+        },
+        "appleid.com-connecting.help": {
+            "included_at_epoch": 1591915260.204604,
+            "included_at_iso": "2020-06-11T22:41:00.204604",
+            "last_retested_at_epoch": 1591915260.204604,
+            "last_retested_at_iso": "2020-06-11T22:41:00.204604",
             "status": "INACTIVE"
         },
         "appleid.com-mailpurchase.compropogandesa.com": {
@@ -26353,6 +28222,13 @@
             "included_at_iso": "2020-06-01T23:50:17.459673",
             "last_retested_at_epoch": 1591055417.459673,
             "last_retested_at_iso": "2020-06-01T23:50:17.459673",
+            "status": "INACTIVE"
+        },
+        "appleid.isupport-alert.com": {
+            "included_at_epoch": 1591915260.308266,
+            "included_at_iso": "2020-06-11T22:41:00.308266",
+            "last_retested_at_epoch": 1591915260.308266,
+            "last_retested_at_iso": "2020-06-11T22:41:00.308266",
             "status": "INACTIVE"
         },
         "appleid.macios.org": {
@@ -26425,6 +28301,13 @@
             "last_retested_at_iso": "2020-06-02T00:14:56.681159",
             "status": "INACTIVE"
         },
+        "appleid.supportteam82195.fadefavourite.com": {
+            "included_at_epoch": 1591915260.411561,
+            "included_at_iso": "2020-06-11T22:41:00.411561",
+            "last_retested_at_epoch": 1591915260.411561,
+            "last_retested_at_iso": "2020-06-11T22:41:00.411561",
+            "status": "INACTIVE"
+        },
         "appleidcommunications.com": {
             "included_at_epoch": 1591056897.210279,
             "included_at_iso": "2020-06-02T00:14:57.210279",
@@ -26460,6 +28343,13 @@
             "last_retested_at_iso": "2020-06-02T00:14:57.809085",
             "status": "INACTIVE"
         },
+        "appleld-apple.accountlocked-feedback.us.kgkerbikg.com": {
+            "included_at_epoch": 1591915260.925631,
+            "included_at_iso": "2020-06-11T22:41:00.925631",
+            "last_retested_at_epoch": 1591915260.925631,
+            "last_retested_at_iso": "2020-06-11T22:41:00.925631",
+            "status": "INACTIVE"
+        },
         "appleld-apple.accountlocked-feedbackld.dcoabrescia.com": {
             "included_at_epoch": 1591056897.880329,
             "included_at_iso": "2020-06-02T00:14:57.880329",
@@ -26493,6 +28383,13 @@
             "included_at_iso": "2020-06-02T00:14:58.163316",
             "last_retested_at_epoch": 1591056898.163316,
             "last_retested_at_iso": "2020-06-02T00:14:58.163316",
+            "status": "INACTIVE"
+        },
+        "appleld-apple.accountslocked-feedback.us.servcase31.com": {
+            "included_at_epoch": 1591915261.083105,
+            "included_at_iso": "2020-06-11T22:41:01.083105",
+            "last_retested_at_epoch": 1591915261.083105,
+            "last_retested_at_iso": "2020-06-11T22:41:01.083105",
             "status": "INACTIVE"
         },
         "appleld-apple.accountslocked-feedbackld.dfoabrescia.com": {
@@ -26537,6 +28434,13 @@
             "last_retested_at_iso": "2020-06-02T00:14:58.587549",
             "status": "INACTIVE"
         },
+        "appleld-apple.accountslockeds-us.pageid.awdhahwa.com": {
+            "included_at_epoch": 1591915261.188102,
+            "included_at_iso": "2020-06-11T22:41:01.188102",
+            "last_retested_at_epoch": 1591915261.188102,
+            "last_retested_at_iso": "2020-06-11T22:41:01.188102",
+            "status": "INACTIVE"
+        },
         "appleld-apple.secureaccounts-feedbackid.page.aswfas.com": {
             "included_at_epoch": 1591056898.657968,
             "included_at_iso": "2020-06-02T00:14:58.657968",
@@ -26551,6 +28455,13 @@
             "last_retested_at_iso": "2020-06-02T00:14:58.800160",
             "status": "INACTIVE"
         },
+        "appleld-apple.securesaccounts-feedback.page.cgogs.com": {
+            "included_at_epoch": 1591915261.309579,
+            "included_at_iso": "2020-06-11T22:41:01.309579",
+            "last_retested_at_epoch": 1591915261.309579,
+            "last_retested_at_iso": "2020-06-11T22:41:01.309579",
+            "status": "INACTIVE"
+        },
         "appleld-apple.securesaccounts-us.pageld.awdhahwa.net": {
             "included_at_epoch": 1591056898.728832,
             "included_at_iso": "2020-06-02T00:14:58.728832",
@@ -26563,6 +28474,34 @@
             "included_at_iso": "2020-06-02T00:14:58.878321",
             "last_retested_at_epoch": 1591056898.878321,
             "last_retested_at_iso": "2020-06-02T00:14:58.878321",
+            "status": "INACTIVE"
+        },
+        "appleld-appsecurely.serveirc.com": {
+            "included_at_epoch": 1591915261.41412,
+            "included_at_iso": "2020-06-11T22:41:01.414120",
+            "last_retested_at_epoch": 1591915261.41412,
+            "last_retested_at_iso": "2020-06-11T22:41:01.414120",
+            "status": "INACTIVE"
+        },
+        "appleld-appsupdated.serveirc.com": {
+            "included_at_epoch": 1591915261.517735,
+            "included_at_iso": "2020-06-11T22:41:01.517735",
+            "last_retested_at_epoch": 1591915261.517735,
+            "last_retested_at_iso": "2020-06-11T22:41:01.517735",
+            "status": "INACTIVE"
+        },
+        "appleld-ios9.com": {
+            "included_at_epoch": 1591915261.622215,
+            "included_at_iso": "2020-06-11T22:41:01.622215",
+            "last_retested_at_epoch": 1591915261.622215,
+            "last_retested_at_iso": "2020-06-11T22:41:01.622215",
+            "status": "INACTIVE"
+        },
+        "applelid-ios.com": {
+            "included_at_epoch": 1591915261.728063,
+            "included_at_iso": "2020-06-11T22:41:01.728063",
+            "last_retested_at_epoch": 1591915261.728063,
+            "last_retested_at_iso": "2020-06-11T22:41:01.728063",
             "status": "INACTIVE"
         },
         "applesecurity-appleid.com": {
@@ -26598,6 +28537,20 @@
             "included_at_iso": "2020-06-02T00:27:53.733010",
             "last_retested_at_epoch": 1591057673.73301,
             "last_retested_at_iso": "2020-06-02T00:27:53.733010",
+            "status": "INACTIVE"
+        },
+        "applicationshacks.eu": {
+            "included_at_epoch": 1591915263.090567,
+            "included_at_iso": "2020-06-11T22:41:03.090567",
+            "last_retested_at_epoch": 1591915263.090567,
+            "last_retested_at_iso": "2020-06-11T22:41:03.090567",
+            "status": "INACTIVE"
+        },
+        "applicationsupport.serveirc.com": {
+            "included_at_epoch": 1591915263.194349,
+            "included_at_iso": "2020-06-11T22:41:03.194349",
+            "last_retested_at_epoch": 1591915263.194349,
+            "last_retested_at_iso": "2020-06-11T22:41:03.194349",
             "status": "INACTIVE"
         },
         "applift.comempty": {
@@ -26642,11 +28595,25 @@
             "last_retested_at_iso": "2020-06-02T00:28:02.042499",
             "status": "INACTIVE"
         },
+        "approvedhacks.com": {
+            "included_at_epoch": 1591915267.372648,
+            "included_at_iso": "2020-06-11T22:41:07.372648",
+            "last_retested_at_epoch": 1591915267.372648,
+            "last_retested_at_iso": "2020-06-11T22:41:07.372648",
+            "status": "INACTIVE"
+        },
         "apps-accountmaildasdas.com": {
             "included_at_epoch": 1591058723.109798,
             "included_at_iso": "2020-06-02T00:45:23.109798",
             "last_retested_at_epoch": 1591058723.109798,
             "last_retested_at_iso": "2020-06-02T00:45:23.109798",
+            "status": "INACTIVE"
+        },
+        "apps-hacks.com": {
+            "included_at_epoch": 1591915267.872352,
+            "included_at_iso": "2020-06-11T22:41:07.872352",
+            "last_retested_at_epoch": 1591915267.872352,
+            "last_retested_at_iso": "2020-06-11T22:41:07.872352",
             "status": "INACTIVE"
         },
         "apps-manageapp1e.servegame.com": {
@@ -26696,6 +28663,20 @@
             "included_at_iso": "2020-06-02T00:45:24.319704",
             "last_retested_at_epoch": 1591058724.319704,
             "last_retested_at_iso": "2020-06-02T00:45:24.319704",
+            "status": "INACTIVE"
+        },
+        "apps.confirmation-official-account.my.id": {
+            "included_at_epoch": 1591915268.812203,
+            "included_at_iso": "2020-06-11T22:41:08.812203",
+            "last_retested_at_epoch": 1591915268.812203,
+            "last_retested_at_iso": "2020-06-11T22:41:08.812203",
+            "status": "INACTIVE"
+        },
+        "apps.modernstudioart.com": {
+            "included_at_epoch": 1591915268.952911,
+            "included_at_iso": "2020-06-11T22:41:08.952911",
+            "last_retested_at_epoch": 1591915268.952911,
+            "last_retested_at_iso": "2020-06-11T22:41:08.952911",
             "status": "INACTIVE"
         },
         "apps.temsaly.com": {
@@ -26845,6 +28826,13 @@
             "last_retested_at_iso": "2020-06-02T00:45:30.577556",
             "status": "INACTIVE"
         },
+        "appsunlocker.com": {
+            "included_at_epoch": 1591915272.773558,
+            "included_at_iso": "2020-06-11T22:41:12.773558",
+            "last_retested_at_epoch": 1591915272.773558,
+            "last_retested_at_iso": "2020-06-11T22:41:12.773558",
+            "status": "INACTIVE"
+        },
         "appsup00rt.1og1napp1e1d.information-requied.com": {
             "included_at_epoch": 1591058730.508383,
             "included_at_iso": "2020-06-02T00:45:30.508383",
@@ -26859,6 +28847,62 @@
             "last_retested_at_iso": "2020-06-02T00:45:32.453452",
             "status": "INACTIVE"
         },
+        "appzplanet.org": {
+            "included_at_epoch": 1591915275.309658,
+            "included_at_iso": "2020-06-11T22:41:15.309658",
+            "last_retested_at_epoch": 1591915275.309658,
+            "last_retested_at_iso": "2020-06-11T22:41:15.309658",
+            "status": "INACTIVE"
+        },
+        "appzworld.org": {
+            "included_at_epoch": 1591915275.822149,
+            "included_at_iso": "2020-06-11T22:41:15.822149",
+            "last_retested_at_epoch": 1591915275.822149,
+            "last_retested_at_iso": "2020-06-11T22:41:15.822149",
+            "status": "INACTIVE"
+        },
+        "aprilteens.com": {
+            "included_at_epoch": 1591915277.127209,
+            "included_at_iso": "2020-06-11T22:41:17.127209",
+            "last_retested_at_epoch": 1591915277.127209,
+            "last_retested_at_iso": "2020-06-11T22:41:17.127209",
+            "status": "INACTIVE"
+        },
+        "aproposmedia.dk": {
+            "included_at_epoch": 1591915277.640508,
+            "included_at_iso": "2020-06-11T22:41:17.640508",
+            "last_retested_at_epoch": 1591915277.640508,
+            "last_retested_at_iso": "2020-06-11T22:41:17.640508",
+            "status": "INACTIVE"
+        },
+        "aprotectinfo.com": {
+            "included_at_epoch": 1591915277.744837,
+            "included_at_iso": "2020-06-11T22:41:17.744837",
+            "last_retested_at_epoch": 1591915277.744837,
+            "last_retested_at_iso": "2020-06-11T22:41:17.744837",
+            "status": "INACTIVE"
+        },
+        "aprotectionguide.com": {
+            "included_at_epoch": 1591915278.344935,
+            "included_at_iso": "2020-06-11T22:41:18.344935",
+            "last_retested_at_epoch": 1591915278.344935,
+            "last_retested_at_iso": "2020-06-11T22:41:18.344935",
+            "status": "INACTIVE"
+        },
+        "aprotectionwizard.com": {
+            "included_at_epoch": 1591915278.240502,
+            "included_at_iso": "2020-06-11T22:41:18.240502",
+            "last_retested_at_epoch": 1591915278.240502,
+            "last_retested_at_iso": "2020-06-11T22:41:18.240502",
+            "status": "INACTIVE"
+        },
+        "aprotectservice.com": {
+            "included_at_epoch": 1591915278.447935,
+            "included_at_iso": "2020-06-11T22:41:18.447935",
+            "last_retested_at_epoch": 1591915278.447935,
+            "last_retested_at_iso": "2020-06-11T22:41:18.447935",
+            "status": "INACTIVE"
+        },
         "aprovd-faceb00k.cf": {
             "included_at_epoch": 1591058733.26383,
             "included_at_iso": "2020-06-02T00:45:33.263830",
@@ -26871,6 +28915,20 @@
             "included_at_iso": "2020-06-02T00:45:35.923001",
             "last_retested_at_epoch": 1591058735.923001,
             "last_retested_at_iso": "2020-06-02T00:45:35.923001",
+            "status": "INACTIVE"
+        },
+        "aptrk5.com": {
+            "included_at_epoch": 1591915279.750866,
+            "included_at_iso": "2020-06-11T22:41:19.750866",
+            "last_retested_at_epoch": 1591915279.750866,
+            "last_retested_at_iso": "2020-06-11T22:41:19.750866",
+            "status": "INACTIVE"
+        },
+        "aptuk-online.org": {
+            "included_at_epoch": 1591915279.854658,
+            "included_at_iso": "2020-06-11T22:41:19.854658",
+            "last_retested_at_epoch": 1591915279.854658,
+            "last_retested_at_iso": "2020-06-11T22:41:19.854658",
             "status": "INACTIVE"
         },
         "apugod.work": {
@@ -26894,6 +28952,20 @@
             "last_retested_at_iso": "2020-06-02T01:02:53.687279",
             "status": "INACTIVE"
         },
+        "aqdrzqsuxxvd.com": {
+            "included_at_epoch": 1591915280.365467,
+            "included_at_iso": "2020-06-11T22:41:20.365467",
+            "last_retested_at_epoch": 1591915280.365467,
+            "last_retested_at_iso": "2020-06-11T22:41:20.365467",
+            "status": "INACTIVE"
+        },
+        "aqeukceruxzd.com": {
+            "included_at_epoch": 1591915280.46854,
+            "included_at_iso": "2020-06-11T22:41:20.468540",
+            "last_retested_at_epoch": 1591915280.46854,
+            "last_retested_at_iso": "2020-06-11T22:41:20.468540",
+            "status": "INACTIVE"
+        },
         "aqfpqzxzk.com": {
             "included_at_epoch": 1591059774.138001,
             "included_at_iso": "2020-06-02T01:02:54.138001",
@@ -26915,6 +28987,13 @@
             "last_retested_at_iso": "2020-06-02T01:02:55.792085",
             "status": "INACTIVE"
         },
+        "aqornnfwxmua.com": {
+            "included_at_epoch": 1591915280.572127,
+            "included_at_iso": "2020-06-11T22:41:20.572127",
+            "last_retested_at_epoch": 1591915280.572127,
+            "last_retested_at_iso": "2020-06-11T22:41:20.572127",
+            "status": "INACTIVE"
+        },
         "aqotbmnzra.com": {
             "included_at_epoch": 1591059776.234141,
             "included_at_iso": "2020-06-02T01:02:56.234141",
@@ -26927,6 +29006,13 @@
             "included_at_iso": "2020-06-02T01:02:56.305268",
             "last_retested_at_epoch": 1591059776.305268,
             "last_retested_at_iso": "2020-06-02T01:02:56.305268",
+            "status": "INACTIVE"
+        },
+        "aqryyhyzjveh.com": {
+            "included_at_epoch": 1591915280.676275,
+            "included_at_iso": "2020-06-11T22:41:20.676275",
+            "last_retested_at_epoch": 1591915280.676275,
+            "last_retested_at_iso": "2020-06-11T22:41:20.676275",
             "status": "INACTIVE"
         },
         "aqsxc.xyz": {
@@ -26957,6 +29043,76 @@
             "last_retested_at_iso": "2020-06-02T01:02:59.248450",
             "status": "INACTIVE"
         },
+        "ar9u.info": {
+            "included_at_epoch": 1591915282.392627,
+            "included_at_iso": "2020-06-11T22:41:22.392627",
+            "last_retested_at_epoch": 1591915282.392627,
+            "last_retested_at_iso": "2020-06-11T22:41:22.392627",
+            "status": "INACTIVE"
+        },
+        "arab-autobank.com": {
+            "included_at_epoch": 1591915282.496398,
+            "included_at_iso": "2020-06-11T22:41:22.496398",
+            "last_retested_at_epoch": 1591915282.496398,
+            "last_retested_at_iso": "2020-06-11T22:41:22.496398",
+            "status": "INACTIVE"
+        },
+        "arab-goldmining.com": {
+            "included_at_epoch": 1591915282.600174,
+            "included_at_iso": "2020-06-11T22:41:22.600174",
+            "last_retested_at_epoch": 1591915282.600174,
+            "last_retested_at_iso": "2020-06-11T22:41:22.600174",
+            "status": "INACTIVE"
+        },
+        "arab-hacker.org": {
+            "included_at_epoch": 1591915282.70491,
+            "included_at_iso": "2020-06-11T22:41:22.704910",
+            "last_retested_at_epoch": 1591915282.70491,
+            "last_retested_at_iso": "2020-06-11T22:41:22.704910",
+            "status": "INACTIVE"
+        },
+        "arab-oilwell.com": {
+            "included_at_epoch": 1591915283.199525,
+            "included_at_iso": "2020-06-11T22:41:23.199525",
+            "last_retested_at_epoch": 1591915283.199525,
+            "last_retested_at_iso": "2020-06-11T22:41:23.199525",
+            "status": "INACTIVE"
+        },
+        "arabhell.net": {
+            "included_at_epoch": 1591915283.303089,
+            "included_at_iso": "2020-06-11T22:41:23.303089",
+            "last_retested_at_epoch": 1591915283.303089,
+            "last_retested_at_iso": "2020-06-11T22:41:23.303089",
+            "status": "INACTIVE"
+        },
+        "arabic-x.com": {
+            "included_at_epoch": 1591915283.420743,
+            "included_at_iso": "2020-06-11T22:41:23.420743",
+            "last_retested_at_epoch": 1591915283.420743,
+            "last_retested_at_iso": "2020-06-11T22:41:23.420743",
+            "status": "INACTIVE"
+        },
+        "aramategroup-first.cc": {
+            "included_at_epoch": 1591915285.231839,
+            "included_at_iso": "2020-06-11T22:41:25.231839",
+            "last_retested_at_epoch": 1591915285.231839,
+            "last_retested_at_iso": "2020-06-11T22:41:25.231839",
+            "status": "INACTIVE"
+        },
+        "aramategroup-int.net": {
+            "included_at_epoch": 1591915285.127571,
+            "included_at_iso": "2020-06-11T22:41:25.127571",
+            "last_retested_at_epoch": 1591915285.127571,
+            "last_retested_at_iso": "2020-06-11T22:41:25.127571",
+            "status": "INACTIVE"
+        },
+        "aramoney.si": {
+            "included_at_epoch": 1591915285.334631,
+            "included_at_iso": "2020-06-11T22:41:25.334631",
+            "last_retested_at_epoch": 1591915285.334631,
+            "last_retested_at_iso": "2020-06-11T22:41:25.334631",
+            "status": "INACTIVE"
+        },
         "aramunca1980.blogspot.be": {
             "included_at_epoch": 1591059780.486198,
             "included_at_iso": "2020-06-02T01:03:00.486198",
@@ -26983,6 +29139,13 @@
             "included_at_iso": "2020-06-02T01:03:01.080029",
             "last_retested_at_epoch": 1591059781.080029,
             "last_retested_at_iso": "2020-06-02T01:03:01.080029",
+            "status": "INACTIVE"
+        },
+        "arboxyl.com": {
+            "included_at_epoch": 1591915287.83357,
+            "included_at_iso": "2020-06-11T22:41:27.833570",
+            "last_retested_at_epoch": 1591915287.83357,
+            "last_retested_at_iso": "2020-06-11T22:41:27.833570",
             "status": "INACTIVE"
         },
         "arc-apps3-ca.com": {
@@ -27013,6 +29176,34 @@
             "last_retested_at_iso": "2020-06-02T01:16:12.983350",
             "status": "INACTIVE"
         },
+        "archive.easydownloadsoft.com": {
+            "included_at_epoch": 1591915288.400079,
+            "included_at_iso": "2020-06-11T22:41:28.400079",
+            "last_retested_at_epoch": 1591915288.400079,
+            "last_retested_at_iso": "2020-06-11T22:41:28.400079",
+            "status": "INACTIVE"
+        },
+        "archiveviewsoftware.com": {
+            "included_at_epoch": 1591915288.909966,
+            "included_at_iso": "2020-06-11T22:41:28.909966",
+            "last_retested_at_epoch": 1591915288.909966,
+            "last_retested_at_iso": "2020-06-11T22:41:28.909966",
+            "status": "INACTIVE"
+        },
+        "archivio-film.com": {
+            "included_at_epoch": 1591915289.012895,
+            "included_at_iso": "2020-06-11T22:41:29.012895",
+            "last_retested_at_epoch": 1591915289.012895,
+            "last_retested_at_iso": "2020-06-11T22:41:29.012895",
+            "status": "INACTIVE"
+        },
+        "archiviohard.com": {
+            "included_at_epoch": 1591915289.116602,
+            "included_at_iso": "2020-06-11T22:41:29.116602",
+            "last_retested_at_epoch": 1591915289.116602,
+            "last_retested_at_iso": "2020-06-11T22:41:29.116602",
+            "status": "INACTIVE"
+        },
         "arcor-adserving.de": {
             "included_at_epoch": 1591060573.840767,
             "included_at_iso": "2020-06-02T01:16:13.840767",
@@ -27025,6 +29216,13 @@
             "included_at_iso": "2020-06-02T01:16:13.928979",
             "last_retested_at_epoch": 1591060573.928979,
             "last_retested_at_iso": "2020-06-02T01:16:13.928979",
+            "status": "INACTIVE"
+        },
+        "arcticrise.com": {
+            "included_at_epoch": 1591915290.827991,
+            "included_at_iso": "2020-06-11T22:41:30.827991",
+            "last_retested_at_epoch": 1591915290.827991,
+            "last_retested_at_iso": "2020-06-11T22:41:30.827991",
             "status": "INACTIVE"
         },
         "arddxjkwrp.xyz": {
@@ -27048,11 +29246,32 @@
             "last_retested_at_iso": "2020-06-02T01:16:18.226445",
             "status": "INACTIVE"
         },
+        "arenadownload.org": {
+            "included_at_epoch": 1591915292.976845,
+            "included_at_iso": "2020-06-11T22:41:32.976845",
+            "last_retested_at_epoch": 1591915292.976845,
+            "last_retested_at_iso": "2020-06-11T22:41:32.976845",
+            "status": "INACTIVE"
+        },
+        "aretheymales.com": {
+            "included_at_epoch": 1591915293.935677,
+            "included_at_iso": "2020-06-11T22:41:33.935677",
+            "last_retested_at_epoch": 1591915293.935677,
+            "last_retested_at_iso": "2020-06-11T22:41:33.935677",
+            "status": "INACTIVE"
+        },
         "arganostrella.com": {
             "included_at_epoch": 1591060580.32219,
             "included_at_iso": "2020-06-02T01:16:20.322190",
             "last_retested_at_epoch": 1591060580.32219,
             "last_retested_at_iso": "2020-06-02T01:16:20.322190",
+            "status": "INACTIVE"
+        },
+        "argusminer.ca": {
+            "included_at_epoch": 1591915296.859504,
+            "included_at_iso": "2020-06-11T22:41:36.859504",
+            "last_retested_at_epoch": 1591915296.859504,
+            "last_retested_at_iso": "2020-06-11T22:41:36.859504",
             "status": "INACTIVE"
         },
         "arkhamxojvr.com": {
@@ -27069,6 +29288,27 @@
             "last_retested_at_iso": "2020-06-02T01:28:31.320162",
             "status": "INACTIVE"
         },
+        "armitageinn.com": {
+            "included_at_epoch": 1591915301.800012,
+            "included_at_iso": "2020-06-11T22:41:41.800012",
+            "last_retested_at_epoch": 1591915301.800012,
+            "last_retested_at_iso": "2020-06-11T22:41:41.800012",
+            "status": "INACTIVE"
+        },
+        "aromine.io": {
+            "included_at_epoch": 1591915303.503739,
+            "included_at_iso": "2020-06-11T22:41:43.503739",
+            "last_retested_at_epoch": 1591915303.503739,
+            "last_retested_at_iso": "2020-06-11T22:41:43.503739",
+            "status": "INACTIVE"
+        },
+        "arphis-goldgroup.cc": {
+            "included_at_epoch": 1591915304.409979,
+            "included_at_iso": "2020-06-11T22:41:44.409979",
+            "last_retested_at_epoch": 1591915304.409979,
+            "last_retested_at_iso": "2020-06-11T22:41:44.409979",
+            "status": "INACTIVE"
+        },
         "arpuonline.com": {
             "included_at_epoch": 1591061315.093549,
             "included_at_iso": "2020-06-02T01:28:35.093549",
@@ -27076,11 +29316,32 @@
             "last_retested_at_iso": "2020-06-02T01:28:35.093549",
             "status": "INACTIVE"
         },
+        "arquivos.pop3.ru": {
+            "included_at_epoch": 1591915304.923572,
+            "included_at_iso": "2020-06-11T22:41:44.923572",
+            "last_retested_at_epoch": 1591915304.923572,
+            "last_retested_at_iso": "2020-06-11T22:41:44.923572",
+            "status": "INACTIVE"
+        },
         "arrassley.info": {
             "included_at_epoch": 1591061315.539206,
             "included_at_iso": "2020-06-02T01:28:35.539206",
             "last_retested_at_epoch": 1591061315.539206,
             "last_retested_at_iso": "2020-06-02T01:28:35.539206",
+            "status": "INACTIVE"
+        },
+        "art-various.com": {
+            "included_at_epoch": 1591915309.108741,
+            "included_at_iso": "2020-06-11T22:41:49.108741",
+            "last_retested_at_epoch": 1591915309.108741,
+            "last_retested_at_iso": "2020-06-11T22:41:49.108741",
+            "status": "INACTIVE"
+        },
+        "artesproduction.com": {
+            "included_at_epoch": 1591915310.824509,
+            "included_at_iso": "2020-06-11T22:41:50.824509",
+            "last_retested_at_epoch": 1591915310.824509,
+            "last_retested_at_iso": "2020-06-11T22:41:50.824509",
             "status": "INACTIVE"
         },
         "arti-mediagroup.com": {
