@@ -52871,11 +52871,32 @@
             "last_retested_at_iso": "2020-06-04T04:59:20.662735",
             "status": "INACTIVE"
         },
+        "cpcalendars.tmobile-eit.com": {
+            "included_at_epoch": 1591927611.328627,
+            "included_at_iso": "2020-06-12T02:06:51.328627",
+            "last_retested_at_epoch": 1591927611.328627,
+            "last_retested_at_iso": "2020-06-12T02:06:51.328627",
+            "status": "INACTIVE"
+        },
+        "cpcalendars.verification-my3.com": {
+            "included_at_epoch": 1591927611.912056,
+            "included_at_iso": "2020-06-12T02:06:51.912056",
+            "last_retested_at_epoch": 1591927611.912056,
+            "last_retested_at_iso": "2020-06-12T02:06:51.912056",
+            "status": "INACTIVE"
+        },
         "cpcalendars.whatsapp-bokep.tk": {
             "included_at_epoch": 1591248168.750774,
             "included_at_iso": "2020-06-04T05:22:48.750774",
             "last_retested_at_epoch": 1591248168.750774,
             "last_retested_at_iso": "2020-06-04T05:22:48.750774",
+            "status": "INACTIVE"
+        },
+        "cpcontacts.account-office365.gotdns.ch": {
+            "included_at_epoch": 1591927612.040368,
+            "included_at_iso": "2020-06-12T02:06:52.040368",
+            "last_retested_at_epoch": 1591927612.040368,
+            "last_retested_at_iso": "2020-06-12T02:06:52.040368",
             "status": "INACTIVE"
         },
         "cpcontacts.account-paypai-services.com": {
@@ -52906,6 +52927,13 @@
             "last_retested_at_iso": "2020-06-04T05:22:49.450707",
             "status": "INACTIVE"
         },
+        "cpcontacts.coronavirus-latest-update.info": {
+            "included_at_epoch": 1591927612.187376,
+            "included_at_iso": "2020-06-12T02:06:52.187376",
+            "last_retested_at_epoch": 1591927612.187376,
+            "last_retested_at_iso": "2020-06-12T02:06:52.187376",
+            "status": "INACTIVE"
+        },
         "cpcontacts.ecosouthafrica.icu": {
             "included_at_epoch": 1591248169.623721,
             "included_at_iso": "2020-06-04T05:22:49.623721",
@@ -52927,6 +52955,13 @@
             "last_retested_at_iso": "2020-06-04T05:40:43.310698",
             "status": "INACTIVE"
         },
+        "cpcontacts.loginpaypalid.serveirc.com": {
+            "included_at_epoch": 1591927612.313764,
+            "included_at_iso": "2020-06-12T02:06:52.313764",
+            "last_retested_at_epoch": 1591927612.313764,
+            "last_retested_at_iso": "2020-06-12T02:06:52.313764",
+            "status": "INACTIVE"
+        },
         "cpcontacts.messenger-beta.to": {
             "included_at_epoch": 1591249243.387804,
             "included_at_iso": "2020-06-04T05:40:43.387804",
@@ -52939,6 +52974,13 @@
             "included_at_iso": "2020-06-04T05:40:43.463965",
             "last_retested_at_epoch": 1591249243.463965,
             "last_retested_at_iso": "2020-06-04T05:40:43.463965",
+            "status": "INACTIVE"
+        },
+        "cpcontacts.paypal-verificationsupport.com": {
+            "included_at_epoch": 1591927612.46074,
+            "included_at_iso": "2020-06-12T02:06:52.460740",
+            "last_retested_at_epoch": 1591927612.46074,
+            "last_retested_at_iso": "2020-06-12T02:06:52.460740",
             "status": "INACTIVE"
         },
         "cpcontacts.pharmchecker.xyz": {
@@ -52969,11 +53011,67 @@
             "last_retested_at_iso": "2020-06-04T05:40:43.787585",
             "status": "INACTIVE"
         },
+        "cpcontacts.support3-pay.com": {
+            "included_at_epoch": 1591927612.588204,
+            "included_at_iso": "2020-06-12T02:06:52.588204",
+            "last_retested_at_epoch": 1591927612.588204,
+            "last_retested_at_iso": "2020-06-12T02:06:52.588204",
+            "status": "INACTIVE"
+        },
         "cpcontacts.tmobile-eit.com": {
             "included_at_epoch": 1591249243.864078,
             "included_at_iso": "2020-06-04T05:40:43.864078",
             "last_retested_at_epoch": 1591249243.864078,
             "last_retested_at_iso": "2020-06-04T05:40:43.864078",
+            "status": "INACTIVE"
+        },
+        "cpcontacts.verification-my3.com": {
+            "included_at_epoch": 1591927612.863497,
+            "included_at_iso": "2020-06-12T02:06:52.863497",
+            "last_retested_at_epoch": 1591927612.863497,
+            "last_retested_at_iso": "2020-06-12T02:06:52.863497",
+            "status": "INACTIVE"
+        },
+        "cpcontacts.verifypaypal-id2671.serveirc.com": {
+            "included_at_epoch": 1591927612.735205,
+            "included_at_iso": "2020-06-12T02:06:52.735205",
+            "last_retested_at_epoch": 1591927612.735205,
+            "last_retested_at_iso": "2020-06-12T02:06:52.735205",
+            "status": "INACTIVE"
+        },
+        "cpcontacts.verifypaypal-id4821.serveirc.com": {
+            "included_at_epoch": 1591927613.11711,
+            "included_at_iso": "2020-06-12T02:06:53.117110",
+            "last_retested_at_epoch": 1591927613.11711,
+            "last_retested_at_iso": "2020-06-12T02:06:53.117110",
+            "status": "INACTIVE"
+        },
+        "cpcontacts.verifypaypal-id6216.serveirc.com": {
+            "included_at_epoch": 1591927612.990407,
+            "included_at_iso": "2020-06-12T02:06:52.990407",
+            "last_retested_at_epoch": 1591927612.990407,
+            "last_retested_at_iso": "2020-06-12T02:06:52.990407",
+            "status": "INACTIVE"
+        },
+        "cpcontacts.verifypaypal-id7289.serveirc.com": {
+            "included_at_epoch": 1591927613.243379,
+            "included_at_iso": "2020-06-12T02:06:53.243379",
+            "last_retested_at_epoch": 1591927613.243379,
+            "last_retested_at_iso": "2020-06-12T02:06:53.243379",
+            "status": "INACTIVE"
+        },
+        "cpcontacts.verifypaypal-id7290.serveirc.com": {
+            "included_at_epoch": 1591927613.370111,
+            "included_at_iso": "2020-06-12T02:06:53.370111",
+            "last_retested_at_epoch": 1591927613.370111,
+            "last_retested_at_iso": "2020-06-12T02:06:53.370111",
+            "status": "INACTIVE"
+        },
+        "cpcontacts.web.page.appleid.apple.alert.service.satupasangantakcukupdua.com": {
+            "included_at_epoch": 1591927613.517347,
+            "included_at_iso": "2020-06-12T02:06:53.517347",
+            "last_retested_at_epoch": 1591927613.517347,
+            "last_retested_at_iso": "2020-06-12T02:06:53.517347",
             "status": "INACTIVE"
         },
         "cpcontacts.whatsapp-bokep.tk": {
@@ -52988,6 +53086,20 @@
             "included_at_iso": "2020-06-04T05:40:44.031556",
             "last_retested_at_epoch": 1591249244.031556,
             "last_retested_at_iso": "2020-06-04T05:40:44.031556",
+            "status": "INACTIVE"
+        },
+        "cpdoalzgwnwf.com": {
+            "included_at_epoch": 1591927614.067887,
+            "included_at_iso": "2020-06-12T02:06:54.067887",
+            "last_retested_at_epoch": 1591927614.067887,
+            "last_retested_at_iso": "2020-06-12T02:06:54.067887",
+            "status": "INACTIVE"
+        },
+        "cpkbdmkguggh.com": {
+            "included_at_epoch": 1591927614.234448,
+            "included_at_iso": "2020-06-12T02:06:54.234448",
+            "last_retested_at_epoch": 1591927614.234448,
+            "last_retested_at_iso": "2020-06-12T02:06:54.234448",
             "status": "INACTIVE"
         },
         "cpm-dev-tmp.appl.kp.org": {
@@ -53011,6 +53123,13 @@
             "last_retested_at_iso": "2020-06-04T05:40:47.304809",
             "status": "INACTIVE"
         },
+        "cpmjpcefbwqr.com": {
+            "included_at_epoch": 1591927615.668797,
+            "included_at_iso": "2020-06-12T02:06:55.668797",
+            "last_retested_at_epoch": 1591927615.668797,
+            "last_retested_at_iso": "2020-06-12T02:06:55.668797",
+            "status": "INACTIVE"
+        },
         "cprekl.com": {
             "included_at_epoch": 1591250309.576415,
             "included_at_iso": "2020-06-04T05:58:29.576415",
@@ -53025,6 +53144,13 @@
             "last_retested_at_iso": "2020-06-04T05:58:31.640501",
             "status": "INACTIVE"
         },
+        "cpumining.zapto.org": {
+            "included_at_epoch": 1591927618.354725,
+            "included_at_iso": "2020-06-12T02:06:58.354725",
+            "last_retested_at_epoch": 1591927618.354725,
+            "last_retested_at_iso": "2020-06-12T02:06:58.354725",
+            "status": "INACTIVE"
+        },
         "cpva.cc": {
             "included_at_epoch": 1591250311.73082,
             "included_at_iso": "2020-06-04T05:58:31.730820",
@@ -53032,11 +53158,46 @@
             "last_retested_at_iso": "2020-06-04T05:58:31.730820",
             "status": "INACTIVE"
         },
+        "cpxjivpayggg.com": {
+            "included_at_epoch": 1591927618.500054,
+            "included_at_iso": "2020-06-12T02:06:58.500054",
+            "last_retested_at_epoch": 1591927618.500054,
+            "last_retested_at_iso": "2020-06-12T02:06:58.500054",
+            "status": "INACTIVE"
+        },
+        "cpynfeqyqfby.com": {
+            "included_at_epoch": 1591927618.637177,
+            "included_at_iso": "2020-06-12T02:06:58.637177",
+            "last_retested_at_epoch": 1591927618.637177,
+            "last_retested_at_iso": "2020-06-12T02:06:58.637177",
+            "status": "INACTIVE"
+        },
         "cpyrltela.pw": {
             "included_at_epoch": 1591250315.243962,
             "included_at_iso": "2020-06-04T05:58:35.243962",
             "last_retested_at_epoch": 1591250315.243962,
             "last_retested_at_iso": "2020-06-04T05:58:35.243962",
+            "status": "INACTIVE"
+        },
+        "cqbabfsyfqse.com": {
+            "included_at_epoch": 1591927618.765804,
+            "included_at_iso": "2020-06-12T02:06:58.765804",
+            "last_retested_at_epoch": 1591927618.765804,
+            "last_retested_at_iso": "2020-06-12T02:06:58.765804",
+            "status": "INACTIVE"
+        },
+        "cqbphspgvhuk.com": {
+            "included_at_epoch": 1591927618.894768,
+            "included_at_iso": "2020-06-12T02:06:58.894768",
+            "last_retested_at_epoch": 1591927618.894768,
+            "last_retested_at_iso": "2020-06-12T02:06:58.894768",
+            "status": "INACTIVE"
+        },
+        "cqfnvznw.info": {
+            "included_at_epoch": 1591927619.024805,
+            "included_at_iso": "2020-06-12T02:06:59.024805",
+            "last_retested_at_epoch": 1591927619.024805,
+            "last_retested_at_iso": "2020-06-12T02:06:59.024805",
             "status": "INACTIVE"
         },
         "cqhciif9bjtplrc.ru": {
@@ -53074,11 +53235,193 @@
             "last_retested_at_iso": "2020-06-04T05:58:39.042810",
             "status": "INACTIVE"
         },
+        "cqoyvpldkmqt.com": {
+            "included_at_epoch": 1591927619.156239,
+            "included_at_iso": "2020-06-12T02:06:59.156239",
+            "last_retested_at_epoch": 1591927619.156239,
+            "last_retested_at_iso": "2020-06-12T02:06:59.156239",
+            "status": "INACTIVE"
+        },
         "cqytjzgc.com": {
             "included_at_epoch": 1591250323.657351,
             "included_at_iso": "2020-06-04T05:58:43.657351",
             "last_retested_at_epoch": 1591250323.657351,
             "last_retested_at_iso": "2020-06-04T05:58:43.657351",
+            "status": "INACTIVE"
+        },
+        "crack-keygen.net": {
+            "included_at_epoch": 1591927619.732194,
+            "included_at_iso": "2020-06-12T02:06:59.732194",
+            "last_retested_at_epoch": 1591927619.732194,
+            "last_retested_at_iso": "2020-06-12T02:06:59.732194",
+            "status": "INACTIVE"
+        },
+        "crackaapp.com": {
+            "included_at_epoch": 1591927620.734098,
+            "included_at_iso": "2020-06-12T02:07:00.734098",
+            "last_retested_at_epoch": 1591927620.734098,
+            "last_retested_at_iso": "2020-06-12T02:07:00.734098",
+            "status": "INACTIVE"
+        },
+        "crackagame.com": {
+            "included_at_epoch": 1591927621.28432,
+            "included_at_iso": "2020-06-12T02:07:01.284320",
+            "last_retested_at_epoch": 1591927621.28432,
+            "last_retested_at_iso": "2020-06-12T02:07:01.284320",
+            "status": "INACTIVE"
+        },
+        "crackandhack.info": {
+            "included_at_epoch": 1591927621.412618,
+            "included_at_iso": "2020-06-12T02:07:01.412618",
+            "last_retested_at_epoch": 1591927621.412618,
+            "last_retested_at_iso": "2020-06-12T02:07:01.412618",
+            "status": "INACTIVE"
+        },
+        "crackcreateworld.com": {
+            "included_at_epoch": 1591927621.54107,
+            "included_at_iso": "2020-06-12T02:07:01.541070",
+            "last_retested_at_epoch": 1591927621.54107,
+            "last_retested_at_iso": "2020-06-12T02:07:01.541070",
+            "status": "INACTIVE"
+        },
+        "crackdb.info": {
+            "included_at_epoch": 1591927622.523648,
+            "included_at_iso": "2020-06-12T02:07:02.523648",
+            "last_retested_at_epoch": 1591927622.523648,
+            "last_retested_at_iso": "2020-06-12T02:07:02.523648",
+            "status": "INACTIVE"
+        },
+        "crackedcraft.org": {
+            "included_at_epoch": 1591927623.501368,
+            "included_at_iso": "2020-06-12T02:07:03.501368",
+            "last_retested_at_epoch": 1591927623.501368,
+            "last_retested_at_iso": "2020-06-12T02:07:03.501368",
+            "status": "INACTIVE"
+        },
+        "crackedzone.org": {
+            "included_at_epoch": 1591927624.915845,
+            "included_at_iso": "2020-06-12T02:07:04.915845",
+            "last_retested_at_epoch": 1591927624.915845,
+            "last_retested_at_iso": "2020-06-12T02:07:04.915845",
+            "status": "INACTIVE"
+        },
+        "crackfbtool.com": {
+            "included_at_epoch": 1591927626.770398,
+            "included_at_iso": "2020-06-12T02:07:06.770398",
+            "last_retested_at_epoch": 1591927626.770398,
+            "last_retested_at_iso": "2020-06-12T02:07:06.770398",
+            "status": "INACTIVE"
+        },
+        "crackfifa13.com": {
+            "included_at_epoch": 1591927626.896462,
+            "included_at_iso": "2020-06-12T02:07:06.896462",
+            "last_retested_at_epoch": 1591927626.896462,
+            "last_retested_at_iso": "2020-06-12T02:07:06.896462",
+            "status": "INACTIVE"
+        },
+        "crackhackcheats.com": {
+            "included_at_epoch": 1591927627.467275,
+            "included_at_iso": "2020-06-12T02:07:07.467275",
+            "last_retested_at_epoch": 1591927627.467275,
+            "last_retested_at_iso": "2020-06-12T02:07:07.467275",
+            "status": "INACTIVE"
+        },
+        "crackhackkey.com": {
+            "included_at_epoch": 1591927627.595984,
+            "included_at_iso": "2020-06-12T02:07:07.595984",
+            "last_retested_at_epoch": 1591927627.595984,
+            "last_retested_at_iso": "2020-06-12T02:07:07.595984",
+            "status": "INACTIVE"
+        },
+        "crackingbuzz.com": {
+            "included_at_epoch": 1591927629.016361,
+            "included_at_iso": "2020-06-12T02:07:09.016361",
+            "last_retested_at_epoch": 1591927629.016361,
+            "last_retested_at_iso": "2020-06-12T02:07:09.016361",
+            "status": "INACTIVE"
+        },
+        "cracklook.com": {
+            "included_at_epoch": 1591927629.143593,
+            "included_at_iso": "2020-06-12T02:07:09.143593",
+            "last_retested_at_epoch": 1591927629.143593,
+            "last_retested_at_iso": "2020-06-12T02:07:09.143593",
+            "status": "INACTIVE"
+        },
+        "cracknhacks.net": {
+            "included_at_epoch": 1591927630.561303,
+            "included_at_iso": "2020-06-12T02:07:10.561303",
+            "last_retested_at_epoch": 1591927630.561303,
+            "last_retested_at_iso": "2020-06-12T02:07:10.561303",
+            "status": "INACTIVE"
+        },
+        "crackntrainers.com": {
+            "included_at_epoch": 1591927630.691131,
+            "included_at_iso": "2020-06-12T02:07:10.691131",
+            "last_retested_at_epoch": 1591927630.691131,
+            "last_retested_at_iso": "2020-06-12T02:07:10.691131",
+            "status": "INACTIVE"
+        },
+        "crackrapidshare.net": {
+            "included_at_epoch": 1591927630.818502,
+            "included_at_iso": "2020-06-12T02:07:10.818502",
+            "last_retested_at_epoch": 1591927630.818502,
+            "last_retested_at_iso": "2020-06-12T02:07:10.818502",
+            "status": "INACTIVE"
+        },
+        "cracks-keygens.com": {
+            "included_at_epoch": 1591927630.944978,
+            "included_at_iso": "2020-06-12T02:07:10.944978",
+            "last_retested_at_epoch": 1591927630.944978,
+            "last_retested_at_iso": "2020-06-12T02:07:10.944978",
+            "status": "INACTIVE"
+        },
+        "cracks-keygens.net": {
+            "included_at_epoch": 1591927631.081761,
+            "included_at_iso": "2020-06-12T02:07:11.081761",
+            "last_retested_at_epoch": 1591927631.081761,
+            "last_retested_at_iso": "2020-06-12T02:07:11.081761",
+            "status": "INACTIVE"
+        },
+        "cracks-serials.com": {
+            "included_at_epoch": 1591927631.208389,
+            "included_at_iso": "2020-06-12T02:07:11.208389",
+            "last_retested_at_epoch": 1591927631.208389,
+            "last_retested_at_iso": "2020-06-12T02:07:11.208389",
+            "status": "INACTIVE"
+        },
+        "cracksncheats.com": {
+            "included_at_epoch": 1591927637.494032,
+            "included_at_iso": "2020-06-12T02:07:17.494032",
+            "last_retested_at_epoch": 1591927637.494032,
+            "last_retested_at_iso": "2020-06-12T02:07:17.494032",
+            "status": "INACTIVE"
+        },
+        "cracksnhacks.net": {
+            "included_at_epoch": 1591927638.048467,
+            "included_at_iso": "2020-06-12T02:07:18.048467",
+            "last_retested_at_epoch": 1591927638.048467,
+            "last_retested_at_iso": "2020-06-12T02:07:18.048467",
+            "status": "INACTIVE"
+        },
+        "cracksplay.com": {
+            "included_at_epoch": 1591927639.488088,
+            "included_at_iso": "2020-06-12T02:07:19.488088",
+            "last_retested_at_epoch": 1591927639.488088,
+            "last_retested_at_iso": "2020-06-12T02:07:19.488088",
+            "status": "INACTIVE"
+        },
+        "crackyourworld.com": {
+            "included_at_epoch": 1591927641.397764,
+            "included_at_iso": "2020-06-12T02:07:21.397764",
+            "last_retested_at_epoch": 1591927641.397764,
+            "last_retested_at_iso": "2020-06-12T02:07:21.397764",
+            "status": "INACTIVE"
+        },
+        "crackyteam.com": {
+            "included_at_epoch": 1591927641.97063,
+            "included_at_iso": "2020-06-12T02:07:21.970630",
+            "last_retested_at_epoch": 1591927641.97063,
+            "last_retested_at_iso": "2020-06-12T02:07:21.970630",
             "status": "INACTIVE"
         },
         "cracwrddcb.com": {
@@ -53088,11 +53431,25 @@
             "last_retested_at_iso": "2020-06-04T06:11:24.597884",
             "status": "INACTIVE"
         },
+        "craftferfree.com": {
+            "included_at_epoch": 1591927643.419342,
+            "included_at_iso": "2020-06-12T02:07:23.419342",
+            "last_retested_at_epoch": 1591927643.419342,
+            "last_retested_at_iso": "2020-06-12T02:07:23.419342",
+            "status": "INACTIVE"
+        },
         "craigslist.com.follow.instructions.updatebillingcraigslist.com": {
             "included_at_epoch": 1591251086.283465,
             "included_at_iso": "2020-06-04T06:11:26.283465",
             "last_retested_at_epoch": 1591251086.283465,
             "last_retested_at_iso": "2020-06-04T06:11:26.283465",
+            "status": "INACTIVE"
+        },
+        "craigslist.infos-review.com": {
+            "included_at_epoch": 1591927643.558885,
+            "included_at_iso": "2020-06-12T02:07:23.558885",
+            "last_retested_at_epoch": 1591927643.558885,
+            "last_retested_at_iso": "2020-06-12T02:07:23.558885",
             "status": "INACTIVE"
         },
         "craigslist.listing-preview.us": {
@@ -53137,6 +53494,125 @@
             "last_retested_at_iso": "2020-06-04T06:11:28.190083",
             "status": "INACTIVE"
         },
+        "craps.md": {
+            "included_at_epoch": 1591927644.59864,
+            "included_at_iso": "2020-06-12T02:07:24.598640",
+            "last_retested_at_epoch": 1591927644.59864,
+            "last_retested_at_iso": "2020-06-12T02:07:24.598640",
+            "status": "INACTIVE"
+        },
+        "craveforcheats.com": {
+            "included_at_epoch": 1591927645.180247,
+            "included_at_iso": "2020-06-12T02:07:25.180247",
+            "last_retested_at_epoch": 1591927645.180247,
+            "last_retested_at_iso": "2020-06-12T02:07:25.180247",
+            "status": "INACTIVE"
+        },
+        "crazy-files.com": {
+            "included_at_epoch": 1591927645.75559,
+            "included_at_iso": "2020-06-12T02:07:25.755590",
+            "last_retested_at_epoch": 1591927645.75559,
+            "last_retested_at_iso": "2020-06-12T02:07:25.755590",
+            "status": "INACTIVE"
+        },
+        "crazy-jackpots.com": {
+            "included_at_epoch": 1591927645.882877,
+            "included_at_iso": "2020-06-12T02:07:25.882877",
+            "last_retested_at_epoch": 1591927645.882877,
+            "last_retested_at_iso": "2020-06-12T02:07:25.882877",
+            "status": "INACTIVE"
+        },
+        "crazy-shemale.net": {
+            "included_at_epoch": 1591927646.443154,
+            "included_at_iso": "2020-06-12T02:07:26.443154",
+            "last_retested_at_epoch": 1591927646.443154,
+            "last_retested_at_iso": "2020-06-12T02:07:26.443154",
+            "status": "INACTIVE"
+        },
+        "crazyclits.com": {
+            "included_at_epoch": 1591927646.582658,
+            "included_at_iso": "2020-06-12T02:07:26.582658",
+            "last_retested_at_epoch": 1591927646.582658,
+            "last_retested_at_iso": "2020-06-12T02:07:26.582658",
+            "status": "INACTIVE"
+        },
+        "crazycounter.net": {
+            "included_at_epoch": 1591927646.842675,
+            "included_at_iso": "2020-06-12T02:07:26.842675",
+            "last_retested_at_epoch": 1591927646.842675,
+            "last_retested_at_iso": "2020-06-12T02:07:26.842675",
+            "status": "INACTIVE"
+        },
+        "crazydownloadz.com": {
+            "included_at_epoch": 1591927646.712431,
+            "included_at_iso": "2020-06-12T02:07:26.712431",
+            "last_retested_at_epoch": 1591927646.712431,
+            "last_retested_at_iso": "2020-06-12T02:07:26.712431",
+            "status": "INACTIVE"
+        },
+        "crazygirls-world.com": {
+            "included_at_epoch": 1591927647.409187,
+            "included_at_iso": "2020-06-12T02:07:27.409187",
+            "last_retested_at_epoch": 1591927647.409187,
+            "last_retested_at_iso": "2020-06-12T02:07:27.409187",
+            "status": "INACTIVE"
+        },
+        "crazyhilariousvideoamazing.com": {
+            "included_at_epoch": 1591927647.537982,
+            "included_at_iso": "2020-06-12T02:07:27.537982",
+            "last_retested_at_epoch": 1591927647.537982,
+            "last_retested_at_iso": "2020-06-12T02:07:27.537982",
+            "status": "INACTIVE"
+        },
+        "crazyskins.fun": {
+            "included_at_epoch": 1591927649.893404,
+            "included_at_iso": "2020-06-12T02:07:29.893404",
+            "last_retested_at_epoch": 1591927649.893404,
+            "last_retested_at_iso": "2020-06-12T02:07:29.893404",
+            "status": "INACTIVE"
+        },
+        "crazywowamazingunreal.com": {
+            "included_at_epoch": 1591927650.498016,
+            "included_at_iso": "2020-06-12T02:07:30.498016",
+            "last_retested_at_epoch": 1591927650.498016,
+            "last_retested_at_iso": "2020-06-12T02:07:30.498016",
+            "status": "INACTIVE"
+        },
+        "crdrcr.com": {
+            "included_at_epoch": 1591927651.082133,
+            "included_at_iso": "2020-06-12T02:07:31.082133",
+            "last_retested_at_epoch": 1591927651.082133,
+            "last_retested_at_iso": "2020-06-12T02:07:31.082133",
+            "status": "INACTIVE"
+        },
+        "crdshipp.org": {
+            "included_at_epoch": 1591927651.209083,
+            "included_at_iso": "2020-06-12T02:07:31.209083",
+            "last_retested_at_epoch": 1591927651.209083,
+            "last_retested_at_iso": "2020-06-12T02:07:31.209083",
+            "status": "INACTIVE"
+        },
+        "creadordedinero.com": {
+            "included_at_epoch": 1591927651.336136,
+            "included_at_iso": "2020-06-12T02:07:31.336136",
+            "last_retested_at_epoch": 1591927651.336136,
+            "last_retested_at_iso": "2020-06-12T02:07:31.336136",
+            "status": "INACTIVE"
+        },
+        "creamedcutties.com": {
+            "included_at_epoch": 1591927651.91195,
+            "included_at_iso": "2020-06-12T02:07:31.911950",
+            "last_retested_at_epoch": 1591927651.91195,
+            "last_retested_at_iso": "2020-06-12T02:07:31.911950",
+            "status": "INACTIVE"
+        },
+        "creamedpussy.net": {
+            "included_at_epoch": 1591927652.039136,
+            "included_at_iso": "2020-06-12T02:07:32.039136",
+            "last_retested_at_epoch": 1591927652.039136,
+            "last_retested_at_iso": "2020-06-12T02:07:32.039136",
+            "status": "INACTIVE"
+        },
         "creara-media.com": {
             "included_at_epoch": 1591251096.073683,
             "included_at_iso": "2020-06-04T06:11:36.073683",
@@ -53144,11 +53620,46 @@
             "last_retested_at_iso": "2020-06-04T06:11:36.073683",
             "status": "INACTIVE"
         },
+        "create-examp-areas.support.token.update-account.information.billing.xromain.com": {
+            "included_at_epoch": 1591927652.616646,
+            "included_at_iso": "2020-06-12T02:07:32.616646",
+            "last_retested_at_epoch": 1591927652.616646,
+            "last_retested_at_iso": "2020-06-12T02:07:32.616646",
+            "status": "INACTIVE"
+        },
+        "create-memorableurl.access-com.support-managetoken.generate.address.nongolwaer.com": {
+            "included_at_epoch": 1591927652.747374,
+            "included_at_iso": "2020-06-12T02:07:32.747374",
+            "last_retested_at_epoch": 1591927652.747374,
+            "last_retested_at_iso": "2020-06-12T02:07:32.747374",
+            "status": "INACTIVE"
+        },
+        "creatence-groupllc.at": {
+            "included_at_epoch": 1591927652.877383,
+            "included_at_iso": "2020-06-12T02:07:32.877383",
+            "last_retested_at_epoch": 1591927652.877383,
+            "last_retested_at_iso": "2020-06-12T02:07:32.877383",
+            "status": "INACTIVE"
+        },
+        "creatence-groupllc.cc": {
+            "included_at_epoch": 1591927653.028442,
+            "included_at_iso": "2020-06-12T02:07:33.028442",
+            "last_retested_at_epoch": 1591927653.028442,
+            "last_retested_at_iso": "2020-06-12T02:07:33.028442",
+            "status": "INACTIVE"
+        },
         "creatives.as4x.tmcs.net": {
             "included_at_epoch": 1591251098.448347,
             "included_at_iso": "2020-06-04T06:11:38.448347",
             "last_retested_at_epoch": 1591251098.448347,
             "last_retested_at_iso": "2020-06-04T06:11:38.448347",
+            "status": "INACTIVE"
+        },
+        "creatonprojects.com": {
+            "included_at_epoch": 1591927653.672605,
+            "included_at_iso": "2020-06-12T02:07:33.672605",
+            "last_retested_at_epoch": 1591927653.672605,
+            "last_retested_at_iso": "2020-06-12T02:07:33.672605",
             "status": "INACTIVE"
         },
         "credenciales-microsoftt.zz.com.ve": {
@@ -53207,11 +53718,39 @@
             "last_retested_at_iso": "2020-06-04T06:28:32.986909",
             "status": "INACTIVE"
         },
+        "creditcard-2014.com": {
+            "included_at_epoch": 1591927654.262371,
+            "included_at_iso": "2020-06-12T02:07:34.262371",
+            "last_retested_at_epoch": 1591927654.262371,
+            "last_retested_at_iso": "2020-06-12T02:07:34.262371",
+            "status": "INACTIVE"
+        },
         "creditoitaucard.cf": {
             "included_at_epoch": 1591252113.853985,
             "included_at_iso": "2020-06-04T06:28:33.853985",
             "last_retested_at_epoch": 1591252113.853985,
             "last_retested_at_iso": "2020-06-04T06:28:33.853985",
+            "status": "INACTIVE"
+        },
+        "creditsearchonline.com": {
+            "included_at_epoch": 1591927655.239247,
+            "included_at_iso": "2020-06-12T02:07:35.239247",
+            "last_retested_at_epoch": 1591927655.239247,
+            "last_retested_at_iso": "2020-06-12T02:07:35.239247",
+            "status": "INACTIVE"
+        },
+        "creditsecretsguide.com": {
+            "included_at_epoch": 1591927655.370716,
+            "included_at_iso": "2020-06-12T02:07:35.370716",
+            "last_retested_at_epoch": 1591927655.370716,
+            "last_retested_at_iso": "2020-06-12T02:07:35.370716",
+            "status": "INACTIVE"
+        },
+        "cremierxxx.com": {
+            "included_at_epoch": 1591927656.333073,
+            "included_at_iso": "2020-06-12T02:07:36.333073",
+            "last_retested_at_epoch": 1591927656.333073,
+            "last_retested_at_iso": "2020-06-12T02:07:36.333073",
             "status": "INACTIVE"
         },
         "creofun.com": {
@@ -53242,11 +53781,53 @@
             "last_retested_at_iso": "2020-06-04T06:28:35.342723",
             "status": "INACTIVE"
         },
+        "criminal-vb6ers.one-crew.net": {
+            "included_at_epoch": 1591927657.29819,
+            "included_at_iso": "2020-06-12T02:07:37.298190",
+            "last_retested_at_epoch": 1591927657.29819,
+            "last_retested_at_iso": "2020-06-12T02:07:37.298190",
+            "status": "INACTIVE"
+        },
+        "criminalcase-cheats.com": {
+            "included_at_epoch": 1591927657.426183,
+            "included_at_iso": "2020-06-12T02:07:37.426183",
+            "last_retested_at_epoch": 1591927657.426183,
+            "last_retested_at_iso": "2020-06-12T02:07:37.426183",
+            "status": "INACTIVE"
+        },
+        "criminalcasegamehack.com": {
+            "included_at_epoch": 1591927657.555181,
+            "included_at_iso": "2020-06-12T02:07:37.555181",
+            "last_retested_at_epoch": 1591927657.555181,
+            "last_retested_at_iso": "2020-06-12T02:07:37.555181",
+            "status": "INACTIVE"
+        },
+        "crisisreverse.net": {
+            "included_at_epoch": 1591927657.68253,
+            "included_at_iso": "2020-06-12T02:07:37.682530",
+            "last_retested_at_epoch": 1591927657.68253,
+            "last_retested_at_iso": "2020-06-12T02:07:37.682530",
+            "status": "INACTIVE"
+        },
+        "cristine794profile.live-preview.us": {
+            "included_at_epoch": 1591927658.2303,
+            "included_at_iso": "2020-06-12T02:07:38.230300",
+            "last_retested_at_epoch": 1591927658.2303,
+            "last_retested_at_iso": "2020-06-12T02:07:38.230300",
+            "status": "INACTIVE"
+        },
         "crjsrbyybipozq.com": {
             "included_at_epoch": 1591252121.88374,
             "included_at_iso": "2020-06-04T06:28:41.883740",
             "last_retested_at_epoch": 1591252121.88374,
             "last_retested_at_iso": "2020-06-04T06:28:41.883740",
+            "status": "INACTIVE"
+        },
+        "crm.sgn.com": {
+            "included_at_epoch": 1591927659.204962,
+            "included_at_iso": "2020-06-12T02:07:39.204962",
+            "last_retested_at_epoch": 1591927659.204962,
+            "last_retested_at_iso": "2020-06-12T02:07:39.204962",
             "status": "INACTIVE"
         },
         "croco-ads.de": {
@@ -53270,11 +53851,81 @@
             "last_retested_at_iso": "2020-06-04T06:41:13.697113",
             "status": "INACTIVE"
         },
+        "croxdfrdjfnt.com": {
+            "included_at_epoch": 1591927663.207887,
+            "included_at_iso": "2020-06-12T02:07:43.207887",
+            "last_retested_at_epoch": 1591927663.207887,
+            "last_retested_at_iso": "2020-06-12T02:07:43.207887",
+            "status": "INACTIVE"
+        },
+        "crpiucewddag.com": {
+            "included_at_epoch": 1591927663.759353,
+            "included_at_iso": "2020-06-12T02:07:43.759353",
+            "last_retested_at_epoch": 1591927663.759353,
+            "last_retested_at_iso": "2020-06-12T02:07:43.759353",
+            "status": "INACTIVE"
+        },
         "crrgnnqidpf.com": {
             "included_at_epoch": 1591252874.534022,
             "included_at_iso": "2020-06-04T06:41:14.534022",
             "last_retested_at_epoch": 1591252874.534022,
             "last_retested_at_iso": "2020-06-04T06:41:14.534022",
+            "status": "INACTIVE"
+        },
+        "crsky2004.yeah.net": {
+            "included_at_epoch": 1591927665.573113,
+            "included_at_iso": "2020-06-12T02:07:45.573113",
+            "last_retested_at_epoch": 1591927665.573113,
+            "last_retested_at_iso": "2020-06-12T02:07:45.573113",
+            "status": "INACTIVE"
+        },
+        "cruel-mixed-galleries.com": {
+            "included_at_epoch": 1591927665.831492,
+            "included_at_iso": "2020-06-12T02:07:45.831492",
+            "last_retested_at_epoch": 1591927665.831492,
+            "last_retested_at_iso": "2020-06-12T02:07:45.831492",
+            "status": "INACTIVE"
+        },
+        "cruel-movs.com": {
+            "included_at_epoch": 1591927665.703707,
+            "included_at_iso": "2020-06-12T02:07:45.703707",
+            "last_retested_at_epoch": 1591927665.703707,
+            "last_retested_at_iso": "2020-06-12T02:07:45.703707",
+            "status": "INACTIVE"
+        },
+        "cruelhome.com": {
+            "included_at_epoch": 1591927667.208279,
+            "included_at_iso": "2020-06-12T02:07:47.208279",
+            "last_retested_at_epoch": 1591927667.208279,
+            "last_retested_at_iso": "2020-06-12T02:07:47.208279",
+            "status": "INACTIVE"
+        },
+        "cruelporn.net": {
+            "included_at_epoch": 1591927667.335497,
+            "included_at_iso": "2020-06-12T02:07:47.335497",
+            "last_retested_at_epoch": 1591927667.335497,
+            "last_retested_at_iso": "2020-06-12T02:07:47.335497",
+            "status": "INACTIVE"
+        },
+        "crueltoplist.com": {
+            "included_at_epoch": 1591927667.473097,
+            "included_at_iso": "2020-06-12T02:07:47.473097",
+            "last_retested_at_epoch": 1591927667.473097,
+            "last_retested_at_iso": "2020-06-12T02:07:47.473097",
+            "status": "INACTIVE"
+        },
+        "crunchy-block-checkings.com": {
+            "included_at_epoch": 1591927668.852935,
+            "included_at_iso": "2020-06-12T02:07:48.852935",
+            "last_retested_at_epoch": 1591927668.852935,
+            "last_retested_at_iso": "2020-06-12T02:07:48.852935",
+            "status": "INACTIVE"
+        },
+        "crutosearch.com": {
+            "included_at_epoch": 1591927669.820784,
+            "included_at_iso": "2020-06-12T02:07:49.820784",
+            "last_retested_at_epoch": 1591927669.820784,
+            "last_retested_at_iso": "2020-06-12T02:07:49.820784",
             "status": "INACTIVE"
         },
         "crxhbchbd.com": {
@@ -53284,6 +53935,13 @@
             "last_retested_at_iso": "2020-06-04T06:41:18.406842",
             "status": "INACTIVE"
         },
+        "crypt-term.net": {
+            "included_at_epoch": 1591927671.249152,
+            "included_at_iso": "2020-06-12T02:07:51.249152",
+            "last_retested_at_epoch": 1591927671.249152,
+            "last_retested_at_iso": "2020-06-12T02:07:51.249152",
+            "status": "INACTIVE"
+        },
         "crypta.js": {
             "included_at_epoch": 1591252879.24464,
             "included_at_iso": "2020-06-04T06:41:19.244640",
@@ -53291,11 +53949,172 @@
             "last_retested_at_iso": "2020-06-04T06:41:19.244640",
             "status": "INVALID"
         },
+        "crypthash.fr": {
+            "included_at_epoch": 1591927672.215469,
+            "included_at_iso": "2020-06-12T02:07:52.215469",
+            "last_retested_at_epoch": 1591927672.215469,
+            "last_retested_at_iso": "2020-06-12T02:07:52.215469",
+            "status": "INACTIVE"
+        },
         "cryptmyexe.pw": {
             "included_at_epoch": 1591252880.084691,
             "included_at_iso": "2020-06-04T06:41:20.084691",
             "last_retested_at_epoch": 1591252880.084691,
             "last_retested_at_iso": "2020-06-04T06:41:20.084691",
+            "status": "INACTIVE"
+        },
+        "crypto-coins-now.com": {
+            "included_at_epoch": 1591927672.342484,
+            "included_at_iso": "2020-06-12T02:07:52.342484",
+            "last_retested_at_epoch": 1591927672.342484,
+            "last_retested_at_iso": "2020-06-12T02:07:52.342484",
+            "status": "INACTIVE"
+        },
+        "crypto-coins.cl": {
+            "included_at_epoch": 1591927672.896563,
+            "included_at_iso": "2020-06-12T02:07:52.896563",
+            "last_retested_at_epoch": 1591927672.896563,
+            "last_retested_at_iso": "2020-06-12T02:07:52.896563",
+            "status": "INACTIVE"
+        },
+        "crypto-court.com": {
+            "included_at_epoch": 1591927673.027592,
+            "included_at_iso": "2020-06-12T02:07:53.027592",
+            "last_retested_at_epoch": 1591927673.027592,
+            "last_retested_at_iso": "2020-06-12T02:07:53.027592",
+            "status": "INACTIVE"
+        },
+        "cryptocoinabout.com": {
+            "included_at_epoch": 1591927680.890921,
+            "included_at_iso": "2020-06-12T02:08:00.890921",
+            "last_retested_at_epoch": 1591927680.890921,
+            "last_retested_at_iso": "2020-06-12T02:08:00.890921",
+            "status": "INACTIVE"
+        },
+        "cryptocoins-digging.space": {
+            "included_at_epoch": 1591927681.444275,
+            "included_at_iso": "2020-06-12T02:08:01.444275",
+            "last_retested_at_epoch": 1591927681.444275,
+            "last_retested_at_iso": "2020-06-12T02:08:01.444275",
+            "status": "INACTIVE"
+        },
+        "cryptofriends.org": {
+            "included_at_epoch": 1591927685.788649,
+            "included_at_iso": "2020-06-12T02:08:05.788649",
+            "last_retested_at_epoch": 1591927685.788649,
+            "last_retested_at_iso": "2020-06-12T02:08:05.788649",
+            "status": "INACTIVE"
+        },
+        "cryptogrot.io": {
+            "included_at_epoch": 1591927686.75738,
+            "included_at_iso": "2020-06-12T02:08:06.757380",
+            "last_retested_at_epoch": 1591927686.75738,
+            "last_retested_at_iso": "2020-06-12T02:08:06.757380",
+            "status": "INACTIVE"
+        },
+        "cryptokitties.co.herokudns.com": {
+            "included_at_epoch": 1591927688.145426,
+            "included_at_iso": "2020-06-12T02:08:08.145426",
+            "last_retested_at_epoch": 1591927688.145426,
+            "last_retested_at_iso": "2020-06-12T02:08:08.145426",
+            "status": "INACTIVE"
+        },
+        "cryptoknight.cl": {
+            "included_at_epoch": 1591927689.531826,
+            "included_at_iso": "2020-06-12T02:08:09.531826",
+            "last_retested_at_epoch": 1591927689.531826,
+            "last_retested_at_iso": "2020-06-12T02:08:09.531826",
+            "status": "INACTIVE"
+        },
+        "cryptominingpool.eu": {
+            "included_at_epoch": 1591927692.170561,
+            "included_at_iso": "2020-06-12T02:08:12.170561",
+            "last_retested_at_epoch": 1591927692.170561,
+            "last_retested_at_iso": "2020-06-12T02:08:12.170561",
+            "status": "INACTIVE"
+        },
+        "cryptonote.cl": {
+            "included_at_epoch": 1591927693.541633,
+            "included_at_iso": "2020-06-12T02:08:13.541633",
+            "last_retested_at_epoch": 1591927693.541633,
+            "last_retested_at_iso": "2020-06-12T02:08:13.541633",
+            "status": "INACTIVE"
+        },
+        "cryptonote.so": {
+            "included_at_epoch": 1591927693.669443,
+            "included_at_iso": "2020-06-12T02:08:13.669443",
+            "last_retested_at_epoch": 1591927693.669443,
+            "last_retested_at_iso": "2020-06-12T02:08:13.669443",
+            "status": "INACTIVE"
+        },
+        "cryptonotepool.org": {
+            "included_at_epoch": 1591927695.065074,
+            "included_at_iso": "2020-06-12T02:08:15.065074",
+            "last_retested_at_epoch": 1591927695.065074,
+            "last_retested_at_iso": "2020-06-12T02:08:15.065074",
+            "status": "INACTIVE"
+        },
+        "cryptopool.eu": {
+            "included_at_epoch": 1591927696.117712,
+            "included_at_iso": "2020-06-12T02:08:16.117712",
+            "last_retested_at_epoch": 1591927696.117712,
+            "last_retested_at_iso": "2020-06-12T02:08:16.117712",
+            "status": "INACTIVE"
+        },
+        "cryptopoolpond.com": {
+            "included_at_epoch": 1591927701.707324,
+            "included_at_iso": "2020-06-12T02:08:21.707324",
+            "last_retested_at_epoch": 1591927701.707324,
+            "last_retested_at_iso": "2020-06-12T02:08:21.707324",
+            "status": "INACTIVE"
+        },
+        "cryptoprizepool.com": {
+            "included_at_epoch": 1591927703.502078,
+            "included_at_iso": "2020-06-12T02:08:23.502078",
+            "last_retested_at_epoch": 1591927703.502078,
+            "last_retested_at_iso": "2020-06-12T02:08:23.502078",
+            "status": "INACTIVE"
+        },
+        "cryptowide.io": {
+            "included_at_epoch": 1591927706.241739,
+            "included_at_iso": "2020-06-12T02:08:26.241739",
+            "last_retested_at_epoch": 1591927706.241739,
+            "last_retested_at_iso": "2020-06-12T02:08:26.241739",
+            "status": "INACTIVE"
+        },
+        "cryptoxpool.com": {
+            "included_at_epoch": 1591927707.220656,
+            "included_at_iso": "2020-06-12T02:08:27.220656",
+            "last_retested_at_epoch": 1591927707.220656,
+            "last_retested_at_iso": "2020-06-12T02:08:27.220656",
+            "status": "INACTIVE"
+        },
+        "crysis3keygen.org": {
+            "included_at_epoch": 1591927707.349159,
+            "included_at_iso": "2020-06-12T02:08:27.349159",
+            "last_retested_at_epoch": 1591927707.349159,
+            "last_retested_at_iso": "2020-06-12T02:08:27.349159",
+            "status": "INACTIVE"
+        },
+        "crystalysmedia.com": {
+            "included_at_epoch": 1591927707.477627,
+            "included_at_iso": "2020-06-12T02:08:27.477627",
+            "last_retested_at_epoch": 1591927707.477627,
+            "last_retested_at_iso": "2020-06-12T02:08:27.477627",
+            "status": "INACTIVE"
+        },
+        "crywebber.github.io": {
+            "included_at_epoch": 1591927707.607099,
+            "included_at_iso": "2020-06-12T02:08:27.607099",
+            "last_retested_at_epoch": 1591927707.607099,
+            "last_retested_at_iso": "2020-06-12T02:08:27.607099",
+            "status": "INACTIVE"
+        },
+        "crzycheats.com": {
+            "included_at_epoch": 1591927707.755417,
+            "included_at_iso": "2020-06-12T02:08:27.755417",
+            "last_retested_at_epoch": 1591927707.755417,
+            "last_retested_at_iso": "2020-06-12T02:08:27.755417",
             "status": "INACTIVE"
         },
         "cs-analyzer.tk": {
@@ -53305,11 +54124,46 @@
             "last_retested_at_iso": "2020-06-04T06:41:25.859716",
             "status": "INACTIVE"
         },
+        "cs-go.deals": {
+            "included_at_epoch": 1591927707.914945,
+            "included_at_iso": "2020-06-12T02:08:27.914945",
+            "last_retested_at_epoch": 1591927707.914945,
+            "last_retested_at_iso": "2020-06-12T02:08:27.914945",
+            "status": "INACTIVE"
+        },
         "cs-s.hi2.ro": {
             "included_at_epoch": 1591252885.93518,
             "included_at_iso": "2020-06-04T06:41:25.935180",
             "last_retested_at_epoch": 1591252885.93518,
             "last_retested_at_iso": "2020-06-04T06:41:25.935180",
+            "status": "INACTIVE"
+        },
+        "cs-swap.pro": {
+            "included_at_epoch": 1591927708.879052,
+            "included_at_iso": "2020-06-12T02:08:28.879052",
+            "last_retested_at_epoch": 1591927708.879052,
+            "last_retested_at_iso": "2020-06-12T02:08:28.879052",
+            "status": "INACTIVE"
+        },
+        "cs-trader.pro": {
+            "included_at_epoch": 1591927709.007592,
+            "included_at_iso": "2020-06-12T02:08:29.007592",
+            "last_retested_at_epoch": 1591927709.007592,
+            "last_retested_at_iso": "2020-06-12T02:08:29.007592",
+            "status": "INACTIVE"
+        },
+        "cs.shopperreports.com": {
+            "included_at_epoch": 1591927709.673416,
+            "included_at_iso": "2020-06-12T02:08:29.673416",
+            "last_retested_at_epoch": 1591927709.673416,
+            "last_retested_at_iso": "2020-06-12T02:08:29.673416",
+            "status": "INACTIVE"
+        },
+        "cs1.money": {
+            "included_at_epoch": 1591927709.54469,
+            "included_at_iso": "2020-06-12T02:08:29.544690",
+            "last_retested_at_epoch": 1591927709.54469,
+            "last_retested_at_iso": "2020-06-12T02:08:29.544690",
             "status": "INACTIVE"
         },
         "csamicpem.appl.kp.org": {
