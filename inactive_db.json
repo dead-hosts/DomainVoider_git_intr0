@@ -63455,11 +63455,1033 @@
             "last_retested_at_iso": "2020-06-04T13:47:47.608409",
             "status": "INACTIVE"
         },
+        "download.vaccineprogram.co.kr": {
+            "included_at_epoch": 1591953967.69952,
+            "included_at_iso": "2020-06-12T09:26:07.699520",
+            "last_retested_at_epoch": 1591953967.69952,
+            "last_retested_at_iso": "2020-06-12T09:26:07.699520",
+            "status": "INACTIVE"
+        },
+        "download.viruscheck.co.kr": {
+            "included_at_epoch": 1591953967.554296,
+            "included_at_iso": "2020-06-12T09:26:07.554296",
+            "last_retested_at_epoch": 1591953967.554296,
+            "last_retested_at_iso": "2020-06-12T09:26:07.554296",
+            "status": "INACTIVE"
+        },
+        "download.vladzone.com": {
+            "included_at_epoch": 1591953967.839228,
+            "included_at_iso": "2020-06-12T09:26:07.839228",
+            "last_retested_at_epoch": 1591953967.839228,
+            "last_retested_at_iso": "2020-06-12T09:26:07.839228",
+            "status": "INACTIVE"
+        },
         "download.whatsapp.com": {
             "included_at_epoch": 1591278467.712674,
             "included_at_iso": "2020-06-04T13:47:47.712674",
             "last_retested_at_epoch": 1591278467.712674,
             "last_retested_at_iso": "2020-06-04T13:47:47.712674",
+            "status": "INACTIVE"
+        },
+        "download.windrivecleaner.com": {
+            "included_at_epoch": 1591953968.024351,
+            "included_at_iso": "2020-06-12T09:26:08.024351",
+            "last_retested_at_epoch": 1591953968.024351,
+            "last_retested_at_iso": "2020-06-12T09:26:08.024351",
+            "status": "INACTIVE"
+        },
+        "download10-25.ru": {
+            "included_at_epoch": 1591953968.207496,
+            "included_at_iso": "2020-06-12T09:26:08.207496",
+            "last_retested_at_epoch": 1591953968.207496,
+            "last_retested_at_iso": "2020-06-12T09:26:08.207496",
+            "status": "INACTIVE"
+        },
+        "download13-1c.ru": {
+            "included_at_epoch": 1591953968.510942,
+            "included_at_iso": "2020-06-12T09:26:08.510942",
+            "last_retested_at_epoch": 1591953968.510942,
+            "last_retested_at_iso": "2020-06-12T09:26:08.510942",
+            "status": "INACTIVE"
+        },
+        "download13-bissnesplan.ru": {
+            "included_at_epoch": 1591953968.368637,
+            "included_at_iso": "2020-06-12T09:26:08.368637",
+            "last_retested_at_epoch": 1591953968.368637,
+            "last_retested_at_iso": "2020-06-12T09:26:08.368637",
+            "status": "INACTIVE"
+        },
+        "download13-blank.ru": {
+            "included_at_epoch": 1591953968.65197,
+            "included_at_iso": "2020-06-12T09:26:08.651970",
+            "last_retested_at_epoch": 1591953968.65197,
+            "last_retested_at_iso": "2020-06-12T09:26:08.651970",
+            "status": "INACTIVE"
+        },
+        "download13-books.ru": {
+            "included_at_epoch": 1591953968.792532,
+            "included_at_iso": "2020-06-12T09:26:08.792532",
+            "last_retested_at_epoch": 1591953968.792532,
+            "last_retested_at_iso": "2020-06-12T09:26:08.792532",
+            "status": "INACTIVE"
+        },
+        "download13-chasi.ru": {
+            "included_at_epoch": 1591953969.075012,
+            "included_at_iso": "2020-06-12T09:26:09.075012",
+            "last_retested_at_epoch": 1591953969.075012,
+            "last_retested_at_iso": "2020-06-12T09:26:09.075012",
+            "status": "INACTIVE"
+        },
+        "download13-chertezhi.ru": {
+            "included_at_epoch": 1591953968.933572,
+            "included_at_iso": "2020-06-12T09:26:08.933572",
+            "last_retested_at_epoch": 1591953968.933572,
+            "last_retested_at_iso": "2020-06-12T09:26:08.933572",
+            "status": "INACTIVE"
+        },
+        "download13-chit.ru": {
+            "included_at_epoch": 1591953969.214797,
+            "included_at_iso": "2020-06-12T09:26:09.214797",
+            "last_retested_at_epoch": 1591953969.214797,
+            "last_retested_at_iso": "2020-06-12T09:26:09.214797",
+            "status": "INACTIVE"
+        },
+        "download13-cryak.ru": {
+            "included_at_epoch": 1591953969.355006,
+            "included_at_iso": "2020-06-12T09:26:09.355006",
+            "last_retested_at_epoch": 1591953969.355006,
+            "last_retested_at_iso": "2020-06-12T09:26:09.355006",
+            "status": "INACTIVE"
+        },
+        "download13-dll.ru": {
+            "included_at_epoch": 1591953969.653883,
+            "included_at_iso": "2020-06-12T09:26:09.653883",
+            "last_retested_at_epoch": 1591953969.653883,
+            "last_retested_at_iso": "2020-06-12T09:26:09.653883",
+            "status": "INACTIVE"
+        },
+        "download13-doklad.ru": {
+            "included_at_epoch": 1591953969.512607,
+            "included_at_iso": "2020-06-12T09:26:09.512607",
+            "last_retested_at_epoch": 1591953969.512607,
+            "last_retested_at_iso": "2020-06-12T09:26:09.512607",
+            "status": "INACTIVE"
+        },
+        "download13-driver.ru": {
+            "included_at_epoch": 1591953969.794538,
+            "included_at_iso": "2020-06-12T09:26:09.794538",
+            "last_retested_at_epoch": 1591953969.794538,
+            "last_retested_at_iso": "2020-06-12T09:26:09.794538",
+            "status": "INACTIVE"
+        },
+        "download13-exe.ru": {
+            "included_at_epoch": 1591953969.934336,
+            "included_at_iso": "2020-06-12T09:26:09.934336",
+            "last_retested_at_epoch": 1591953969.934336,
+            "last_retested_at_iso": "2020-06-12T09:26:09.934336",
+            "status": "INACTIVE"
+        },
+        "download13-filtr.ru": {
+            "included_at_epoch": 1591953970.074364,
+            "included_at_iso": "2020-06-12T09:26:10.074364",
+            "last_retested_at_epoch": 1591953970.074364,
+            "last_retested_at_iso": "2020-06-12T09:26:10.074364",
+            "status": "INACTIVE"
+        },
+        "download13-gdz.ru": {
+            "included_at_epoch": 1591953970.215043,
+            "included_at_iso": "2020-06-12T09:26:10.215043",
+            "last_retested_at_epoch": 1591953970.215043,
+            "last_retested_at_iso": "2020-06-12T09:26:10.215043",
+            "status": "INACTIVE"
+        },
+        "download13-hack.ru": {
+            "included_at_epoch": 1591953970.355188,
+            "included_at_iso": "2020-06-12T09:26:10.355188",
+            "last_retested_at_epoch": 1591953970.355188,
+            "last_retested_at_iso": "2020-06-12T09:26:10.355188",
+            "status": "INACTIVE"
+        },
+        "download13-istorii.ru": {
+            "included_at_epoch": 1591953970.495717,
+            "included_at_iso": "2020-06-12T09:26:10.495717",
+            "last_retested_at_epoch": 1591953970.495717,
+            "last_retested_at_iso": "2020-06-12T09:26:10.495717",
+            "status": "INACTIVE"
+        },
+        "download13-jar.ru": {
+            "included_at_epoch": 1591953970.776842,
+            "included_at_iso": "2020-06-12T09:26:10.776842",
+            "last_retested_at_epoch": 1591953970.776842,
+            "last_retested_at_iso": "2020-06-12T09:26:10.776842",
+            "status": "INACTIVE"
+        },
+        "download13-keygen.ru": {
+            "included_at_epoch": 1591953970.636492,
+            "included_at_iso": "2020-06-12T09:26:10.636492",
+            "last_retested_at_epoch": 1591953970.636492,
+            "last_retested_at_iso": "2020-06-12T09:26:10.636492",
+            "status": "INACTIVE"
+        },
+        "download13-kursori.ru": {
+            "included_at_epoch": 1591953971.057581,
+            "included_at_iso": "2020-06-12T09:26:11.057581",
+            "last_retested_at_epoch": 1591953971.057581,
+            "last_retested_at_iso": "2020-06-12T09:26:11.057581",
+            "status": "INACTIVE"
+        },
+        "download13-kursovaya.ru": {
+            "included_at_epoch": 1591953970.91689,
+            "included_at_iso": "2020-06-12T09:26:10.916890",
+            "last_retested_at_epoch": 1591953970.91689,
+            "last_retested_at_iso": "2020-06-12T09:26:10.916890",
+            "status": "INACTIVE"
+        },
+        "download13-microsoft.ru": {
+            "included_at_epoch": 1591953971.351966,
+            "included_at_iso": "2020-06-12T09:26:11.351966",
+            "last_retested_at_epoch": 1591953971.351966,
+            "last_retested_at_iso": "2020-06-12T09:26:11.351966",
+            "status": "INACTIVE"
+        },
+        "download13-mod.ru": {
+            "included_at_epoch": 1591953971.198371,
+            "included_at_iso": "2020-06-12T09:26:11.198371",
+            "last_retested_at_epoch": 1591953971.198371,
+            "last_retested_at_iso": "2020-06-12T09:26:11.198371",
+            "status": "INACTIVE"
+        },
+        "download13-mp3.ru": {
+            "included_at_epoch": 1591953971.493032,
+            "included_at_iso": "2020-06-12T09:26:11.493032",
+            "last_retested_at_epoch": 1591953971.493032,
+            "last_retested_at_iso": "2020-06-12T09:26:11.493032",
+            "status": "INACTIVE"
+        },
+        "download13-na-telefon.ru": {
+            "included_at_epoch": 1591953971.635043,
+            "included_at_iso": "2020-06-12T09:26:11.635043",
+            "last_retested_at_epoch": 1591953971.635043,
+            "last_retested_at_iso": "2020-06-12T09:26:11.635043",
+            "status": "INACTIVE"
+        },
+        "download13-navigaciya.ru": {
+            "included_at_epoch": 1591953971.775961,
+            "included_at_iso": "2020-06-12T09:26:11.775961",
+            "last_retested_at_epoch": 1591953971.775961,
+            "last_retested_at_iso": "2020-06-12T09:26:11.775961",
+            "status": "INACTIVE"
+        },
+        "download13-nocd.ru": {
+            "included_at_epoch": 1591953971.916961,
+            "included_at_iso": "2020-06-12T09:26:11.916961",
+            "last_retested_at_epoch": 1591953971.916961,
+            "last_retested_at_iso": "2020-06-12T09:26:11.916961",
+            "status": "INACTIVE"
+        },
+        "download13-nodvd.ru": {
+            "included_at_epoch": 1591953972.198737,
+            "included_at_iso": "2020-06-12T09:26:12.198737",
+            "last_retested_at_epoch": 1591953972.198737,
+            "last_retested_at_iso": "2020-06-12T09:26:12.198737",
+            "status": "INACTIVE"
+        },
+        "download13-notu.ru": {
+            "included_at_epoch": 1591953972.057858,
+            "included_at_iso": "2020-06-12T09:26:12.057858",
+            "last_retested_at_epoch": 1591953972.057858,
+            "last_retested_at_iso": "2020-06-12T09:26:12.057858",
+            "status": "INACTIVE"
+        },
+        "download13-obrazec.ru": {
+            "included_at_epoch": 1591953972.481567,
+            "included_at_iso": "2020-06-12T09:26:12.481567",
+            "last_retested_at_epoch": 1591953972.481567,
+            "last_retested_at_iso": "2020-06-12T09:26:12.481567",
+            "status": "INACTIVE"
+        },
+        "download13-patch.ru": {
+            "included_at_epoch": 1591953972.339606,
+            "included_at_iso": "2020-06-12T09:26:12.339606",
+            "last_retested_at_epoch": 1591953972.339606,
+            "last_retested_at_iso": "2020-06-12T09:26:12.339606",
+            "status": "INACTIVE"
+        },
+        "download13-porno.ru": {
+            "included_at_epoch": 1591953972.764532,
+            "included_at_iso": "2020-06-12T09:26:12.764532",
+            "last_retested_at_epoch": 1591953972.764532,
+            "last_retested_at_iso": "2020-06-12T09:26:12.764532",
+            "status": "INACTIVE"
+        },
+        "download13-pornoavi.ru": {
+            "included_at_epoch": 1591953972.623544,
+            "included_at_iso": "2020-06-12T09:26:12.623544",
+            "last_retested_at_epoch": 1591953972.623544,
+            "last_retested_at_iso": "2020-06-12T09:26:12.623544",
+            "status": "INACTIVE"
+        },
+        "download13-rasskaz.ru": {
+            "included_at_epoch": 1591953973.045937,
+            "included_at_iso": "2020-06-12T09:26:13.045937",
+            "last_retested_at_epoch": 1591953973.045937,
+            "last_retested_at_iso": "2020-06-12T09:26:13.045937",
+            "status": "INACTIVE"
+        },
+        "download13-referat.ru": {
+            "included_at_epoch": 1591953972.905258,
+            "included_at_iso": "2020-06-12T09:26:12.905258",
+            "last_retested_at_epoch": 1591953972.905258,
+            "last_retested_at_iso": "2020-06-12T09:26:12.905258",
+            "status": "INACTIVE"
+        },
+        "download13-rington.ru": {
+            "included_at_epoch": 1591953973.187123,
+            "included_at_iso": "2020-06-12T09:26:13.187123",
+            "last_retested_at_epoch": 1591953973.187123,
+            "last_retested_at_iso": "2020-06-12T09:26:13.187123",
+            "status": "INACTIVE"
+        },
+        "download13-russifikator.ru": {
+            "included_at_epoch": 1591953973.340152,
+            "included_at_iso": "2020-06-12T09:26:13.340152",
+            "last_retested_at_epoch": 1591953973.340152,
+            "last_retested_at_iso": "2020-06-12T09:26:13.340152",
+            "status": "INACTIVE"
+        },
+        "download13-samouchitel.ru": {
+            "included_at_epoch": 1591953973.623,
+            "included_at_iso": "2020-06-12T09:26:13.623000",
+            "last_retested_at_epoch": 1591953973.623,
+            "last_retested_at_iso": "2020-06-12T09:26:13.623000",
+            "status": "INACTIVE"
+        },
+        "download13-sbornic.ru": {
+            "included_at_epoch": 1591953973.48078,
+            "included_at_iso": "2020-06-12T09:26:13.480780",
+            "last_retested_at_epoch": 1591953973.48078,
+            "last_retested_at_iso": "2020-06-12T09:26:13.480780",
+            "status": "INACTIVE"
+        },
+        "download13-shema.ru": {
+            "included_at_epoch": 1591953973.906673,
+            "included_at_iso": "2020-06-12T09:26:13.906673",
+            "last_retested_at_epoch": 1591953973.906673,
+            "last_retested_at_iso": "2020-06-12T09:26:13.906673",
+            "status": "INACTIVE"
+        },
+        "download13-shporgalki.ru": {
+            "included_at_epoch": 1591953973.764226,
+            "included_at_iso": "2020-06-12T09:26:13.764226",
+            "last_retested_at_epoch": 1591953973.764226,
+            "last_retested_at_iso": "2020-06-12T09:26:13.764226",
+            "status": "INACTIVE"
+        },
+        "download13-sis.ru": {
+            "included_at_epoch": 1591953974.047605,
+            "included_at_iso": "2020-06-12T09:26:14.047605",
+            "last_retested_at_epoch": 1591953974.047605,
+            "last_retested_at_iso": "2020-06-12T09:26:14.047605",
+            "status": "INACTIVE"
+        },
+        "download13-socinenie.ru": {
+            "included_at_epoch": 1591953974.188521,
+            "included_at_iso": "2020-06-12T09:26:14.188521",
+            "last_retested_at_epoch": 1591953974.188521,
+            "last_retested_at_iso": "2020-06-12T09:26:14.188521",
+            "status": "INACTIVE"
+        },
+        "download13-studio.ru": {
+            "included_at_epoch": 1591953974.329145,
+            "included_at_iso": "2020-06-12T09:26:14.329145",
+            "last_retested_at_epoch": 1591953974.329145,
+            "last_retested_at_iso": "2020-06-12T09:26:14.329145",
+            "status": "INACTIVE"
+        },
+        "download13-texturu.ru": {
+            "included_at_epoch": 1591953974.471205,
+            "included_at_iso": "2020-06-12T09:26:14.471205",
+            "last_retested_at_epoch": 1591953974.471205,
+            "last_retested_at_iso": "2020-06-12T09:26:14.471205",
+            "status": "INACTIVE"
+        },
+        "download13-treyneri.ru": {
+            "included_at_epoch": 1591953974.613347,
+            "included_at_iso": "2020-06-12T09:26:14.613347",
+            "last_retested_at_epoch": 1591953974.613347,
+            "last_retested_at_iso": "2020-06-12T09:26:14.613347",
+            "status": "INACTIVE"
+        },
+        "download13-uchebnick.ru": {
+            "included_at_epoch": 1591953974.755306,
+            "included_at_iso": "2020-06-12T09:26:14.755306",
+            "last_retested_at_epoch": 1591953974.755306,
+            "last_retested_at_iso": "2020-06-12T09:26:14.755306",
+            "status": "INACTIVE"
+        },
+        "download13-update.ru": {
+            "included_at_epoch": 1591953975.03746,
+            "included_at_iso": "2020-06-12T09:26:15.037460",
+            "last_retested_at_epoch": 1591953975.03746,
+            "last_retested_at_iso": "2020-06-12T09:26:15.037460",
+            "status": "INACTIVE"
+        },
+        "download13-uroki.ru": {
+            "included_at_epoch": 1591953974.896096,
+            "included_at_iso": "2020-06-12T09:26:14.896096",
+            "last_retested_at_epoch": 1591953974.896096,
+            "last_retested_at_iso": "2020-06-12T09:26:14.896096",
+            "status": "INACTIVE"
+        },
+        "download13-zhurnal.ru": {
+            "included_at_epoch": 1591953975.331533,
+            "included_at_iso": "2020-06-12T09:26:15.331533",
+            "last_retested_at_epoch": 1591953975.331533,
+            "last_retested_at_iso": "2020-06-12T09:26:15.331533",
+            "status": "INACTIVE"
+        },
+        "download14.fifa4free.com": {
+            "included_at_epoch": 1591953975.190279,
+            "included_at_iso": "2020-06-12T09:26:15.190279",
+            "last_retested_at_epoch": 1591953975.190279,
+            "last_retested_at_iso": "2020-06-12T09:26:15.190279",
+            "status": "INACTIVE"
+        },
+        "download2.us4.outblaze.com": {
+            "included_at_epoch": 1591953975.473685,
+            "included_at_iso": "2020-06-12T09:26:15.473685",
+            "last_retested_at_epoch": 1591953975.473685,
+            "last_retested_at_iso": "2020-06-12T09:26:15.473685",
+            "status": "INACTIVE"
+        },
+        "download3.payoutpal.com": {
+            "included_at_epoch": 1591953975.636716,
+            "included_at_iso": "2020-06-12T09:26:15.636716",
+            "last_retested_at_epoch": 1591953975.636716,
+            "last_retested_at_iso": "2020-06-12T09:26:15.636716",
+            "status": "INACTIVE"
+        },
+        "download4.payoutpal.com": {
+            "included_at_epoch": 1591953975.777656,
+            "included_at_iso": "2020-06-12T09:26:15.777656",
+            "last_retested_at_epoch": 1591953975.777656,
+            "last_retested_at_iso": "2020-06-12T09:26:15.777656",
+            "status": "INACTIVE"
+        },
+        "download4win.org": {
+            "included_at_epoch": 1591953975.917882,
+            "included_at_iso": "2020-06-12T09:26:15.917882",
+            "last_retested_at_epoch": 1591953975.917882,
+            "last_retested_at_iso": "2020-06-12T09:26:15.917882",
+            "status": "INACTIVE"
+        },
+        "downloadaffiliazione1.com": {
+            "included_at_epoch": 1591953976.507407,
+            "included_at_iso": "2020-06-12T09:26:16.507407",
+            "last_retested_at_epoch": 1591953976.507407,
+            "last_retested_at_iso": "2020-06-12T09:26:16.507407",
+            "status": "INACTIVE"
+        },
+        "downloadallsoft-now.com": {
+            "included_at_epoch": 1591953976.648371,
+            "included_at_iso": "2020-06-12T09:26:16.648371",
+            "last_retested_at_epoch": 1591953976.648371,
+            "last_retested_at_iso": "2020-06-12T09:26:16.648371",
+            "status": "INACTIVE"
+        },
+        "downloadallsoftnow.com": {
+            "included_at_epoch": 1591953976.789856,
+            "included_at_iso": "2020-06-12T09:26:16.789856",
+            "last_retested_at_epoch": 1591953976.789856,
+            "last_retested_at_iso": "2020-06-12T09:26:16.789856",
+            "status": "INACTIVE"
+        },
+        "downloadavr2.com": {
+            "included_at_epoch": 1591953977.344707,
+            "included_at_iso": "2020-06-12T09:26:17.344707",
+            "last_retested_at_epoch": 1591953977.344707,
+            "last_retested_at_iso": "2020-06-12T09:26:17.344707",
+            "status": "INACTIVE"
+        },
+        "downloadavr60.com": {
+            "included_at_epoch": 1591953977.915881,
+            "included_at_iso": "2020-06-12T09:26:17.915881",
+            "last_retested_at_epoch": 1591953977.915881,
+            "last_retested_at_iso": "2020-06-12T09:26:17.915881",
+            "status": "INACTIVE"
+        },
+        "downloadcallofdutyghosts.com": {
+            "included_at_epoch": 1591953978.490692,
+            "included_at_iso": "2020-06-12T09:26:18.490692",
+            "last_retested_at_epoch": 1591953978.490692,
+            "last_retested_at_iso": "2020-06-12T09:26:18.490692",
+            "status": "INACTIVE"
+        },
+        "downloadcheatsfree.com": {
+            "included_at_epoch": 1591953978.633015,
+            "included_at_iso": "2020-06-12T09:26:18.633015",
+            "last_retested_at_epoch": 1591953978.633015,
+            "last_retested_at_iso": "2020-06-12T09:26:18.633015",
+            "status": "INACTIVE"
+        },
+        "downloadfetish.com": {
+            "included_at_epoch": 1591953980.893457,
+            "included_at_iso": "2020-06-12T09:26:20.893457",
+            "last_retested_at_epoch": 1591953980.893457,
+            "last_retested_at_iso": "2020-06-12T09:26:20.893457",
+            "status": "INACTIVE"
+        },
+        "downloadfreepsvitagames.com": {
+            "included_at_epoch": 1591953982.721245,
+            "included_at_iso": "2020-06-12T09:26:22.721245",
+            "last_retested_at_epoch": 1591953982.721245,
+            "last_retested_at_iso": "2020-06-12T09:26:22.721245",
+            "status": "INACTIVE"
+        },
+        "downloadgays.com": {
+            "included_at_epoch": 1591953984.569037,
+            "included_at_iso": "2020-06-12T09:26:24.569037",
+            "last_retested_at_epoch": 1591953984.569037,
+            "last_retested_at_iso": "2020-06-12T09:26:24.569037",
+            "status": "INACTIVE"
+        },
+        "downloadhackfacebook.com": {
+            "included_at_epoch": 1591953985.558854,
+            "included_at_iso": "2020-06-12T09:26:25.558854",
+            "last_retested_at_epoch": 1591953985.558854,
+            "last_retested_at_iso": "2020-06-12T09:26:25.558854",
+            "status": "INACTIVE"
+        },
+        "downloadhackprogram.com": {
+            "included_at_epoch": 1591953985.699851,
+            "included_at_iso": "2020-06-12T09:26:25.699851",
+            "last_retested_at_epoch": 1591953985.699851,
+            "last_retested_at_iso": "2020-06-12T09:26:25.699851",
+            "status": "INACTIVE"
+        },
+        "downloadhacks.net": {
+            "included_at_epoch": 1591953985.841014,
+            "included_at_iso": "2020-06-12T09:26:25.841014",
+            "last_retested_at_epoch": 1591953985.841014,
+            "last_retested_at_iso": "2020-06-12T09:26:25.841014",
+            "status": "INACTIVE"
+        },
+        "downloadhacks.org": {
+            "included_at_epoch": 1591953985.982254,
+            "included_at_iso": "2020-06-12T09:26:25.982254",
+            "last_retested_at_epoch": 1591953985.982254,
+            "last_retested_at_iso": "2020-06-12T09:26:25.982254",
+            "status": "INACTIVE"
+        },
+        "downloadhacksoftware.com": {
+            "included_at_epoch": 1591953986.552297,
+            "included_at_iso": "2020-06-12T09:26:26.552297",
+            "last_retested_at_epoch": 1591953986.552297,
+            "last_retested_at_iso": "2020-06-12T09:26:26.552297",
+            "status": "INACTIVE"
+        },
+        "downloadheaven666.com": {
+            "included_at_epoch": 1591953987.110331,
+            "included_at_iso": "2020-06-12T09:26:27.110331",
+            "last_retested_at_epoch": 1591953987.110331,
+            "last_retested_at_iso": "2020-06-12T09:26:27.110331",
+            "status": "INACTIVE"
+        },
+        "downloadingall.com": {
+            "included_at_epoch": 1591953987.683566,
+            "included_at_iso": "2020-06-12T09:26:27.683566",
+            "last_retested_at_epoch": 1591953987.683566,
+            "last_retested_at_iso": "2020-06-12T09:26:27.683566",
+            "status": "INACTIVE"
+        },
+        "downloadju.com": {
+            "included_at_epoch": 1591953988.240933,
+            "included_at_iso": "2020-06-12T09:26:28.240933",
+            "last_retested_at_epoch": 1591953988.240933,
+            "last_retested_at_iso": "2020-06-12T09:26:28.240933",
+            "status": "INACTIVE"
+        },
+        "downloadlesbians.com": {
+            "included_at_epoch": 1591953988.394647,
+            "included_at_iso": "2020-06-12T09:26:28.394647",
+            "last_retested_at_epoch": 1591953988.394647,
+            "last_retested_at_iso": "2020-06-12T09:26:28.394647",
+            "status": "INACTIVE"
+        },
+        "downloadmovieseasily.com": {
+            "included_at_epoch": 1591953989.391766,
+            "included_at_iso": "2020-06-12T09:26:29.391766",
+            "last_retested_at_epoch": 1591953989.391766,
+            "last_retested_at_iso": "2020-06-12T09:26:29.391766",
+            "status": "INACTIVE"
+        },
+        "downloadnowdirect.com": {
+            "included_at_epoch": 1591953990.383962,
+            "included_at_iso": "2020-06-12T09:26:30.383962",
+            "last_retested_at_epoch": 1591953990.383962,
+            "last_retested_at_iso": "2020-06-12T09:26:30.383962",
+            "status": "INACTIVE"
+        },
+        "downloadpokemonxy.com": {
+            "included_at_epoch": 1591953992.222934,
+            "included_at_iso": "2020-06-12T09:26:32.222934",
+            "last_retested_at_epoch": 1591953992.222934,
+            "last_retested_at_iso": "2020-06-12T09:26:32.222934",
+            "status": "INACTIVE"
+        },
+        "downloadpornstars.com": {
+            "included_at_epoch": 1591953992.800244,
+            "included_at_iso": "2020-06-12T09:26:32.800244",
+            "last_retested_at_epoch": 1591953992.800244,
+            "last_retested_at_iso": "2020-06-12T09:26:32.800244",
+            "status": "INACTIVE"
+        },
+        "downloadps3jailbreak.com": {
+            "included_at_epoch": 1591953992.941999,
+            "included_at_iso": "2020-06-12T09:26:32.941999",
+            "last_retested_at_epoch": 1591953992.941999,
+            "last_retested_at_iso": "2020-06-12T09:26:32.941999",
+            "status": "INACTIVE"
+        },
+        "downloadregistryeasy.com": {
+            "included_at_epoch": 1591953993.083269,
+            "included_at_iso": "2020-06-12T09:26:33.083269",
+            "last_retested_at_epoch": 1591953993.083269,
+            "last_retested_at_iso": "2020-06-12T09:26:33.083269",
+            "status": "INACTIVE"
+        },
+        "downloads.aaa1screensavers.com": {
+            "included_at_epoch": 1591953993.224551,
+            "included_at_iso": "2020-06-12T09:26:33.224551",
+            "last_retested_at_epoch": 1591953993.224551,
+            "last_retested_at_iso": "2020-06-12T09:26:33.224551",
+            "status": "INACTIVE"
+        },
+        "downloads.checkfots.com": {
+            "included_at_epoch": 1591953993.507359,
+            "included_at_iso": "2020-06-12T09:26:33.507359",
+            "last_retested_at_epoch": 1591953993.507359,
+            "last_retested_at_iso": "2020-06-12T09:26:33.507359",
+            "status": "INACTIVE"
+        },
+        "downloads.checkitfots.com": {
+            "included_at_epoch": 1591953993.365606,
+            "included_at_iso": "2020-06-12T09:26:33.365606",
+            "last_retested_at_epoch": 1591953993.365606,
+            "last_retested_at_iso": "2020-06-12T09:26:33.365606",
+            "status": "INACTIVE"
+        },
+        "downloads.checkitfots.org": {
+            "included_at_epoch": 1591953993.650018,
+            "included_at_iso": "2020-06-12T09:26:33.650018",
+            "last_retested_at_epoch": 1591953993.650018,
+            "last_retested_at_iso": "2020-06-12T09:26:33.650018",
+            "status": "INACTIVE"
+        },
+        "downloads.colofotos.net": {
+            "included_at_epoch": 1591953993.812618,
+            "included_at_iso": "2020-06-12T09:26:33.812618",
+            "last_retested_at_epoch": 1591953993.812618,
+            "last_retested_at_iso": "2020-06-12T09:26:33.812618",
+            "status": "INACTIVE"
+        },
+        "downloads.cometopix.com": {
+            "included_at_epoch": 1591953993.955813,
+            "included_at_iso": "2020-06-12T09:26:33.955813",
+            "last_retested_at_epoch": 1591953993.955813,
+            "last_retested_at_iso": "2020-06-12T09:26:33.955813",
+            "status": "INACTIVE"
+        },
+        "downloads.cometopix.net": {
+            "included_at_epoch": 1591953994.098704,
+            "included_at_iso": "2020-06-12T09:26:34.098704",
+            "last_retested_at_epoch": 1591953994.098704,
+            "last_retested_at_iso": "2020-06-12T09:26:34.098704",
+            "status": "INACTIVE"
+        },
+        "downloads.cometopix.org": {
+            "included_at_epoch": 1591953994.240843,
+            "included_at_iso": "2020-06-12T09:26:34.240843",
+            "last_retested_at_epoch": 1591953994.240843,
+            "last_retested_at_iso": "2020-06-12T09:26:34.240843",
+            "status": "INACTIVE"
+        },
+        "downloads.commonpix.com": {
+            "included_at_epoch": 1591953994.396012,
+            "included_at_iso": "2020-06-12T09:26:34.396012",
+            "last_retested_at_epoch": 1591953994.396012,
+            "last_retested_at_iso": "2020-06-12T09:26:34.396012",
+            "status": "INACTIVE"
+        },
+        "downloads.commonpix.net": {
+            "included_at_epoch": 1591953994.53959,
+            "included_at_iso": "2020-06-12T09:26:34.539590",
+            "last_retested_at_epoch": 1591953994.53959,
+            "last_retested_at_iso": "2020-06-12T09:26:34.539590",
+            "status": "INACTIVE"
+        },
+        "downloads.commonpix.org": {
+            "included_at_epoch": 1591953994.682911,
+            "included_at_iso": "2020-06-12T09:26:34.682911",
+            "last_retested_at_epoch": 1591953994.682911,
+            "last_retested_at_iso": "2020-06-12T09:26:34.682911",
+            "status": "INACTIVE"
+        },
+        "downloads.daspix.net": {
+            "included_at_epoch": 1591953994.825347,
+            "included_at_iso": "2020-06-12T09:26:34.825347",
+            "last_retested_at_epoch": 1591953994.825347,
+            "last_retested_at_iso": "2020-06-12T09:26:34.825347",
+            "status": "INACTIVE"
+        },
+        "downloads.dreamfotos.net": {
+            "included_at_epoch": 1591953995.110084,
+            "included_at_iso": "2020-06-12T09:26:35.110084",
+            "last_retested_at_epoch": 1591953995.110084,
+            "last_retested_at_iso": "2020-06-12T09:26:35.110084",
+            "status": "INACTIVE"
+        },
+        "downloads.f-o-t-o.org": {
+            "included_at_epoch": 1591953994.967614,
+            "included_at_iso": "2020-06-12T09:26:34.967614",
+            "last_retested_at_epoch": 1591953994.967614,
+            "last_retested_at_iso": "2020-06-12T09:26:34.967614",
+            "status": "INACTIVE"
+        },
+        "downloads.fotobums.com": {
+            "included_at_epoch": 1591953995.392487,
+            "included_at_iso": "2020-06-12T09:26:35.392487",
+            "last_retested_at_epoch": 1591953995.392487,
+            "last_retested_at_iso": "2020-06-12T09:26:35.392487",
+            "status": "INACTIVE"
+        },
+        "downloads.fotoclass.net": {
+            "included_at_epoch": 1591953995.251052,
+            "included_at_iso": "2020-06-12T09:26:35.251052",
+            "last_retested_at_epoch": 1591953995.251052,
+            "last_retested_at_iso": "2020-06-12T09:26:35.251052",
+            "status": "INACTIVE"
+        },
+        "downloads.fotoclondyke.net": {
+            "included_at_epoch": 1591953995.53482,
+            "included_at_iso": "2020-06-12T09:26:35.534820",
+            "last_retested_at_epoch": 1591953995.53482,
+            "last_retested_at_iso": "2020-06-12T09:26:35.534820",
+            "status": "INACTIVE"
+        },
+        "downloads.fotodok.net": {
+            "included_at_epoch": 1591953995.676318,
+            "included_at_iso": "2020-06-12T09:26:35.676318",
+            "last_retested_at_epoch": 1591953995.676318,
+            "last_retested_at_iso": "2020-06-12T09:26:35.676318",
+            "status": "INACTIVE"
+        },
+        "downloads.fotodome.net": {
+            "included_at_epoch": 1591953995.817658,
+            "included_at_iso": "2020-06-12T09:26:35.817658",
+            "last_retested_at_epoch": 1591953995.817658,
+            "last_retested_at_iso": "2020-06-12T09:26:35.817658",
+            "status": "INACTIVE"
+        },
+        "downloads.fotolead.com": {
+            "included_at_epoch": 1591953995.958937,
+            "included_at_iso": "2020-06-12T09:26:35.958937",
+            "last_retested_at_epoch": 1591953995.958937,
+            "last_retested_at_iso": "2020-06-12T09:26:35.958937",
+            "status": "INACTIVE"
+        },
+        "downloads.fotolead.net": {
+            "included_at_epoch": 1591953996.256803,
+            "included_at_iso": "2020-06-12T09:26:36.256803",
+            "last_retested_at_epoch": 1591953996.256803,
+            "last_retested_at_iso": "2020-06-12T09:26:36.256803",
+            "status": "INACTIVE"
+        },
+        "downloads.fotomind.net": {
+            "included_at_epoch": 1591953996.114108,
+            "included_at_iso": "2020-06-12T09:26:36.114108",
+            "last_retested_at_epoch": 1591953996.114108,
+            "last_retested_at_iso": "2020-06-12T09:26:36.114108",
+            "status": "INACTIVE"
+        },
+        "downloads.fotoofyou.com": {
+            "included_at_epoch": 1591953996.398251,
+            "included_at_iso": "2020-06-12T09:26:36.398251",
+            "last_retested_at_epoch": 1591953996.398251,
+            "last_retested_at_iso": "2020-06-12T09:26:36.398251",
+            "status": "INACTIVE"
+        },
+        "downloads.fotoofyou.net": {
+            "included_at_epoch": 1591953996.541073,
+            "included_at_iso": "2020-06-12T09:26:36.541073",
+            "last_retested_at_epoch": 1591953996.541073,
+            "last_retested_at_iso": "2020-06-12T09:26:36.541073",
+            "status": "INACTIVE"
+        },
+        "downloads.fotorome.com": {
+            "included_at_epoch": 1591953996.82397,
+            "included_at_iso": "2020-06-12T09:26:36.823970",
+            "last_retested_at_epoch": 1591953996.82397,
+            "last_retested_at_iso": "2020-06-12T09:26:36.823970",
+            "status": "INACTIVE"
+        },
+        "downloads.fotorome.net": {
+            "included_at_epoch": 1591953996.682861,
+            "included_at_iso": "2020-06-12T09:26:36.682861",
+            "last_retested_at_epoch": 1591953996.682861,
+            "last_retested_at_iso": "2020-06-12T09:26:36.682861",
+            "status": "INACTIVE"
+        },
+        "downloads.fotosdep.com": {
+            "included_at_epoch": 1591953996.964838,
+            "included_at_iso": "2020-06-12T09:26:36.964838",
+            "last_retested_at_epoch": 1591953996.964838,
+            "last_retested_at_iso": "2020-06-12T09:26:36.964838",
+            "status": "INACTIVE"
+        },
+        "downloads.fotosdep.net": {
+            "included_at_epoch": 1591953997.107327,
+            "included_at_iso": "2020-06-12T09:26:37.107327",
+            "last_retested_at_epoch": 1591953997.107327,
+            "last_retested_at_iso": "2020-06-12T09:26:37.107327",
+            "status": "INACTIVE"
+        },
+        "downloads.fotosdft.com": {
+            "included_at_epoch": 1591953997.248425,
+            "included_at_iso": "2020-06-12T09:26:37.248425",
+            "last_retested_at_epoch": 1591953997.248425,
+            "last_retested_at_iso": "2020-06-12T09:26:37.248425",
+            "status": "INACTIVE"
+        },
+        "downloads.fotosdft.net": {
+            "included_at_epoch": 1591953997.389671,
+            "included_at_iso": "2020-06-12T09:26:37.389671",
+            "last_retested_at_epoch": 1591953997.389671,
+            "last_retested_at_iso": "2020-06-12T09:26:37.389671",
+            "status": "INACTIVE"
+        },
+        "downloads.fotosfit.com": {
+            "included_at_epoch": 1591953997.67668,
+            "included_at_iso": "2020-06-12T09:26:37.676680",
+            "last_retested_at_epoch": 1591953997.67668,
+            "last_retested_at_iso": "2020-06-12T09:26:37.676680",
+            "status": "INACTIVE"
+        },
+        "downloads.fotosfit.net": {
+            "included_at_epoch": 1591953997.534564,
+            "included_at_iso": "2020-06-12T09:26:37.534564",
+            "last_retested_at_epoch": 1591953997.534564,
+            "last_retested_at_iso": "2020-06-12T09:26:37.534564",
+            "status": "INACTIVE"
+        },
+        "downloads.fotosmarch.com": {
+            "included_at_epoch": 1591953997.831384,
+            "included_at_iso": "2020-06-12T09:26:37.831384",
+            "last_retested_at_epoch": 1591953997.831384,
+            "last_retested_at_iso": "2020-06-12T09:26:37.831384",
+            "status": "INACTIVE"
+        },
+        "downloads.fotosmarch.net": {
+            "included_at_epoch": 1591953997.974053,
+            "included_at_iso": "2020-06-12T09:26:37.974053",
+            "last_retested_at_epoch": 1591953997.974053,
+            "last_retested_at_iso": "2020-06-12T09:26:37.974053",
+            "status": "INACTIVE"
+        },
+        "downloads.fotoz-class.com": {
+            "included_at_epoch": 1591953998.116885,
+            "included_at_iso": "2020-06-12T09:26:38.116885",
+            "last_retested_at_epoch": 1591953998.116885,
+            "last_retested_at_iso": "2020-06-12T09:26:38.116885",
+            "status": "INACTIVE"
+        },
+        "downloads.fotoz-class.net": {
+            "included_at_epoch": 1591953998.259576,
+            "included_at_iso": "2020-06-12T09:26:38.259576",
+            "last_retested_at_epoch": 1591953998.259576,
+            "last_retested_at_iso": "2020-06-12T09:26:38.259576",
+            "status": "INACTIVE"
+        },
+        "downloads.fotozdoc.net": {
+            "included_at_epoch": 1591953998.543085,
+            "included_at_iso": "2020-06-12T09:26:38.543085",
+            "last_retested_at_epoch": 1591953998.543085,
+            "last_retested_at_iso": "2020-06-12T09:26:38.543085",
+            "status": "INACTIVE"
+        },
+        "downloads.fotozdome.com": {
+            "included_at_epoch": 1591953998.400859,
+            "included_at_iso": "2020-06-12T09:26:38.400859",
+            "last_retested_at_epoch": 1591953998.400859,
+            "last_retested_at_iso": "2020-06-12T09:26:38.400859",
+            "status": "INACTIVE"
+        },
+        "downloads.fotozdome.net": {
+            "included_at_epoch": 1591953998.684616,
+            "included_at_iso": "2020-06-12T09:26:38.684616",
+            "last_retested_at_epoch": 1591953998.684616,
+            "last_retested_at_iso": "2020-06-12T09:26:38.684616",
+            "status": "INACTIVE"
+        },
+        "downloads.fotozpot.net": {
+            "included_at_epoch": 1591953998.826025,
+            "included_at_iso": "2020-06-12T09:26:38.826025",
+            "last_retested_at_epoch": 1591953998.826025,
+            "last_retested_at_iso": "2020-06-12T09:26:38.826025",
+            "status": "INACTIVE"
+        },
+        "downloads.fotz4me.com": {
+            "included_at_epoch": 1591953999.111363,
+            "included_at_iso": "2020-06-12T09:26:39.111363",
+            "last_retested_at_epoch": 1591953999.111363,
+            "last_retested_at_iso": "2020-06-12T09:26:39.111363",
+            "status": "INACTIVE"
+        },
+        "downloads.fotz4me.net": {
+            "included_at_epoch": 1591953998.967452,
+            "included_at_iso": "2020-06-12T09:26:38.967452",
+            "last_retested_at_epoch": 1591953998.967452,
+            "last_retested_at_iso": "2020-06-12T09:26:38.967452",
+            "status": "INACTIVE"
+        },
+        "downloads.glaasfoto.com": {
+            "included_at_epoch": 1591953999.394187,
+            "included_at_iso": "2020-06-12T09:26:39.394187",
+            "last_retested_at_epoch": 1591953999.394187,
+            "last_retested_at_iso": "2020-06-12T09:26:39.394187",
+            "status": "INACTIVE"
+        },
+        "downloads.glaasfoto.net": {
+            "included_at_epoch": 1591953999.252622,
+            "included_at_iso": "2020-06-12T09:26:39.252622",
+            "last_retested_at_epoch": 1591953999.252622,
+            "last_retested_at_iso": "2020-06-12T09:26:39.252622",
+            "status": "INACTIVE"
+        },
+        "downloads.hi-pix.net": {
+            "included_at_epoch": 1591953999.548305,
+            "included_at_iso": "2020-06-12T09:26:39.548305",
+            "last_retested_at_epoch": 1591953999.548305,
+            "last_retested_at_iso": "2020-06-12T09:26:39.548305",
+            "status": "INACTIVE"
+        },
+        "downloads.hiddenfotos.com": {
+            "included_at_epoch": 1591953999.69078,
+            "included_at_iso": "2020-06-12T09:26:39.690780",
+            "last_retested_at_epoch": 1591953999.69078,
+            "last_retested_at_iso": "2020-06-12T09:26:39.690780",
+            "status": "INACTIVE"
+        },
+        "downloads.hiddenfotos.net": {
+            "included_at_epoch": 1591953999.83267,
+            "included_at_iso": "2020-06-12T09:26:39.832670",
+            "last_retested_at_epoch": 1591953999.83267,
+            "last_retested_at_iso": "2020-06-12T09:26:39.832670",
+            "status": "INACTIVE"
+        },
+        "downloads.hiddenphotos.net": {
+            "included_at_epoch": 1591953999.973938,
+            "included_at_iso": "2020-06-12T09:26:39.973938",
+            "last_retested_at_epoch": 1591953999.973938,
+            "last_retested_at_iso": "2020-06-12T09:26:39.973938",
+            "status": "INACTIVE"
+        },
+        "downloads.idlepleasure.com": {
+            "included_at_epoch": 1591954000.256671,
+            "included_at_iso": "2020-06-12T09:26:40.256671",
+            "last_retested_at_epoch": 1591954000.256671,
+            "last_retested_at_iso": "2020-06-12T09:26:40.256671",
+            "status": "INACTIVE"
+        },
+        "downloads.idlepleasure.net": {
+            "included_at_epoch": 1591954000.115171,
+            "included_at_iso": "2020-06-12T09:26:40.115171",
+            "last_retested_at_epoch": 1591954000.115171,
+            "last_retested_at_iso": "2020-06-12T09:26:40.115171",
+            "status": "INACTIVE"
+        },
+        "downloads.leadfotos.com": {
+            "included_at_epoch": 1591954000.3979,
+            "included_at_iso": "2020-06-12T09:26:40.397900",
+            "last_retested_at_epoch": 1591954000.3979,
+            "last_retested_at_iso": "2020-06-12T09:26:40.397900",
+            "status": "INACTIVE"
+        },
+        "downloads.leadfotos.net": {
+            "included_at_epoch": 1591954000.540131,
+            "included_at_iso": "2020-06-12T09:26:40.540131",
+            "last_retested_at_epoch": 1591954000.540131,
+            "last_retested_at_iso": "2020-06-12T09:26:40.540131",
+            "status": "INACTIVE"
+        },
+        "downloads.litefotos.com": {
+            "included_at_epoch": 1591954000.682271,
+            "included_at_iso": "2020-06-12T09:26:40.682271",
+            "last_retested_at_epoch": 1591954000.682271,
+            "last_retested_at_iso": "2020-06-12T09:26:40.682271",
+            "status": "INACTIVE"
+        },
+        "downloads.live-photz.com": {
+            "included_at_epoch": 1591954000.824539,
+            "included_at_iso": "2020-06-12T09:26:40.824539",
+            "last_retested_at_epoch": 1591954000.824539,
+            "last_retested_at_iso": "2020-06-12T09:26:40.824539",
+            "status": "INACTIVE"
+        },
+        "downloads.live-photz.net": {
+            "included_at_epoch": 1591954000.966759,
+            "included_at_iso": "2020-06-12T09:26:40.966759",
+            "last_retested_at_epoch": 1591954000.966759,
+            "last_retested_at_iso": "2020-06-12T09:26:40.966759",
+            "status": "INACTIVE"
+        },
+        "downloads.llmfotos.com": {
+            "included_at_epoch": 1591954001.108534,
+            "included_at_iso": "2020-06-12T09:26:41.108534",
+            "last_retested_at_epoch": 1591954001.108534,
+            "last_retested_at_iso": "2020-06-12T09:26:41.108534",
+            "status": "INACTIVE"
+        },
+        "downloads.llmfotos.net": {
+            "included_at_epoch": 1591954001.263532,
+            "included_at_iso": "2020-06-12T09:26:41.263532",
+            "last_retested_at_epoch": 1591954001.263532,
+            "last_retested_at_iso": "2020-06-12T09:26:41.263532",
+            "status": "INACTIVE"
+        },
+        "downloads.lookitwow.com": {
+            "included_at_epoch": 1591954001.4058,
+            "included_at_iso": "2020-06-12T09:26:41.405800",
+            "last_retested_at_epoch": 1591954001.4058,
+            "last_retested_at_iso": "2020-06-12T09:26:41.405800",
+            "status": "INACTIVE"
+        },
+        "downloads.lookitwow.net": {
+            "included_at_epoch": 1591954001.547842,
+            "included_at_iso": "2020-06-12T09:26:41.547842",
+            "last_retested_at_epoch": 1591954001.547842,
+            "last_retested_at_iso": "2020-06-12T09:26:41.547842",
+            "status": "INACTIVE"
+        },
+        "downloads.mdeiafotos.com": {
+            "included_at_epoch": 1591954001.691133,
+            "included_at_iso": "2020-06-12T09:26:41.691133",
+            "last_retested_at_epoch": 1591954001.691133,
+            "last_retested_at_iso": "2020-06-12T09:26:41.691133",
+            "status": "INACTIVE"
+        },
+        "downloads.media-paradise.com": {
+            "included_at_epoch": 1591954001.97494,
+            "included_at_iso": "2020-06-12T09:26:41.974940",
+            "last_retested_at_epoch": 1591954001.97494,
+            "last_retested_at_iso": "2020-06-12T09:26:41.974940",
+            "status": "INACTIVE"
+        },
+        "downloads.media-paradise.net": {
+            "included_at_epoch": 1591954001.832995,
+            "included_at_iso": "2020-06-12T09:26:41.832995",
+            "last_retested_at_epoch": 1591954001.832995,
+            "last_retested_at_iso": "2020-06-12T09:26:41.832995",
             "status": "INACTIVE"
         },
         "downloatransfer.com": {
