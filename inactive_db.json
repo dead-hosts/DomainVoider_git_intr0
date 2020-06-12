@@ -54166,6 +54166,20 @@
             "last_retested_at_iso": "2020-06-12T02:08:29.544690",
             "status": "INACTIVE"
         },
+        "cs6serial.net": {
+            "included_at_epoch": 1591929271.441392,
+            "included_at_iso": "2020-06-12T02:34:31.441392",
+            "last_retested_at_epoch": 1591929271.441392,
+            "last_retested_at_iso": "2020-06-12T02:34:31.441392",
+            "status": "INACTIVE"
+        },
+        "cs6serialcrack.com": {
+            "included_at_epoch": 1591929271.585486,
+            "included_at_iso": "2020-06-12T02:34:31.585486",
+            "last_retested_at_epoch": 1591929271.585486,
+            "last_retested_at_iso": "2020-06-12T02:34:31.585486",
+            "status": "INACTIVE"
+        },
         "csamicpem.appl.kp.org": {
             "included_at_epoch": 1591252887.168947,
             "included_at_iso": "2020-06-04T06:41:27.168947",
@@ -54194,6 +54208,27 @@
             "last_retested_at_iso": "2020-06-04T06:41:27.395058",
             "status": "INACTIVE"
         },
+        "csbets.us": {
+            "included_at_epoch": 1591929271.720701,
+            "included_at_iso": "2020-06-12T02:34:31.720701",
+            "last_retested_at_epoch": 1591929271.720701,
+            "last_retested_at_iso": "2020-06-12T02:34:31.720701",
+            "status": "INACTIVE"
+        },
+        "csbol.pro": {
+            "included_at_epoch": 1591929271.852091,
+            "included_at_iso": "2020-06-12T02:34:31.852091",
+            "last_retested_at_epoch": 1591929271.852091,
+            "last_retested_at_iso": "2020-06-12T02:34:31.852091",
+            "status": "INACTIVE"
+        },
+        "cscactmkbfvn.com": {
+            "included_at_epoch": 1591929271.983786,
+            "included_at_iso": "2020-06-12T02:34:31.983786",
+            "last_retested_at_epoch": 1591929271.983786,
+            "last_retested_at_iso": "2020-06-12T02:34:31.983786",
+            "status": "INACTIVE"
+        },
         "cscomnsinc.tk": {
             "included_at_epoch": 1591252888.220905,
             "included_at_iso": "2020-06-04T06:41:28.220905",
@@ -54201,11 +54236,95 @@
             "last_retested_at_iso": "2020-06-04T06:41:28.220905",
             "status": "INACTIVE"
         },
+        "csdope.com": {
+            "included_at_epoch": 1591929273.031643,
+            "included_at_iso": "2020-06-12T02:34:33.031643",
+            "last_retested_at_epoch": 1591929273.031643,
+            "last_retested_at_iso": "2020-06-12T02:34:33.031643",
+            "status": "INACTIVE"
+        },
         "csdzhoku.com": {
             "included_at_epoch": 1591252888.678906,
             "included_at_iso": "2020-06-04T06:41:28.678906",
             "last_retested_at_epoch": 1591252888.678906,
             "last_retested_at_iso": "2020-06-04T06:41:28.678906",
+            "status": "INACTIVE"
+        },
+        "cserver.mii.instacontent.net": {
+            "included_at_epoch": 1591929274.162075,
+            "included_at_iso": "2020-06-12T02:34:34.162075",
+            "last_retested_at_epoch": 1591929274.162075,
+            "last_retested_at_iso": "2020-06-12T02:34:34.162075",
+            "status": "INACTIVE"
+        },
+        "csetournament.info": {
+            "included_at_epoch": 1591929274.030553,
+            "included_at_iso": "2020-06-12T02:34:34.030553",
+            "last_retested_at_epoch": 1591929274.030553,
+            "last_retested_at_iso": "2020-06-12T02:34:34.030553",
+            "status": "INACTIVE"
+        },
+        "csfast.net": {
+            "included_at_epoch": 1591929274.725369,
+            "included_at_iso": "2020-06-12T02:34:34.725369",
+            "last_retested_at_epoch": 1591929274.725369,
+            "last_retested_at_iso": "2020-06-12T02:34:34.725369",
+            "status": "INACTIVE"
+        },
+        "csfastbets.com": {
+            "included_at_epoch": 1591929274.856517,
+            "included_at_iso": "2020-06-12T02:34:34.856517",
+            "last_retested_at_epoch": 1591929274.856517,
+            "last_retested_at_iso": "2020-06-12T02:34:34.856517",
+            "status": "INACTIVE"
+        },
+        "csgetskin.com": {
+            "included_at_epoch": 1591929275.840351,
+            "included_at_iso": "2020-06-12T02:34:35.840351",
+            "last_retested_at_epoch": 1591929275.840351,
+            "last_retested_at_iso": "2020-06-12T02:34:35.840351",
+            "status": "INACTIVE"
+        },
+        "csglobalcoin.online": {
+            "included_at_epoch": 1591929276.103944,
+            "included_at_iso": "2020-06-12T02:34:36.103944",
+            "last_retested_at_epoch": 1591929276.103944,
+            "last_retested_at_iso": "2020-06-12T02:34:36.103944",
+            "status": "INACTIVE"
+        },
+        "csglobaltrader.org": {
+            "included_at_epoch": 1591929275.971759,
+            "included_at_iso": "2020-06-12T02:34:35.971759",
+            "last_retested_at_epoch": 1591929275.971759,
+            "last_retested_at_iso": "2020-06-12T02:34:35.971759",
+            "status": "INACTIVE"
+        },
+        "csgo--sxe.com": {
+            "included_at_epoch": 1591929276.236191,
+            "included_at_iso": "2020-06-12T02:34:36.236191",
+            "last_retested_at_epoch": 1591929276.236191,
+            "last_retested_at_iso": "2020-06-12T02:34:36.236191",
+            "status": "INACTIVE"
+        },
+        "csgo-amazing.com": {
+            "included_at_epoch": 1591929276.368213,
+            "included_at_iso": "2020-06-12T02:34:36.368213",
+            "last_retested_at_epoch": 1591929276.368213,
+            "last_retested_at_iso": "2020-06-12T02:34:36.368213",
+            "status": "INACTIVE"
+        },
+        "csgo-boss.com": {
+            "included_at_epoch": 1591929276.499635,
+            "included_at_iso": "2020-06-12T02:34:36.499635",
+            "last_retested_at_epoch": 1591929276.499635,
+            "last_retested_at_iso": "2020-06-12T02:34:36.499635",
+            "status": "INACTIVE"
+        },
+        "csgo-capital.online": {
+            "included_at_epoch": 1591929277.068357,
+            "included_at_iso": "2020-06-12T02:34:37.068357",
+            "last_retested_at_epoch": 1591929277.068357,
+            "last_retested_at_iso": "2020-06-12T02:34:37.068357",
             "status": "INACTIVE"
         },
         "csgo-case.ga": {
@@ -54229,6 +54348,27 @@
             "last_retested_at_iso": "2020-06-04T07:01:53.228330",
             "status": "INACTIVE"
         },
+        "csgo-dep.net": {
+            "included_at_epoch": 1591929277.199639,
+            "included_at_iso": "2020-06-12T02:34:37.199639",
+            "last_retested_at_epoch": 1591929277.199639,
+            "last_retested_at_iso": "2020-06-12T02:34:37.199639",
+            "status": "INACTIVE"
+        },
+        "csgo-dippy.com": {
+            "included_at_epoch": 1591929277.331926,
+            "included_at_iso": "2020-06-12T02:34:37.331926",
+            "last_retested_at_epoch": 1591929277.331926,
+            "last_retested_at_iso": "2020-06-12T02:34:37.331926",
+            "status": "INACTIVE"
+        },
+        "csgo-doit.com": {
+            "included_at_epoch": 1591929277.463573,
+            "included_at_iso": "2020-06-12T02:34:37.463573",
+            "last_retested_at_epoch": 1591929277.463573,
+            "last_retested_at_iso": "2020-06-12T02:34:37.463573",
+            "status": "INACTIVE"
+        },
         "csgo-double.fun": {
             "included_at_epoch": 1591254113.681719,
             "included_at_iso": "2020-06-04T07:01:53.681719",
@@ -54241,6 +54381,13 @@
             "included_at_iso": "2020-06-04T07:01:54.143967",
             "last_retested_at_epoch": 1591254114.143967,
             "last_retested_at_iso": "2020-06-04T07:01:54.143967",
+            "status": "INACTIVE"
+        },
+        "csgo-explosion.com": {
+            "included_at_epoch": 1591929278.043613,
+            "included_at_iso": "2020-06-12T02:34:38.043613",
+            "last_retested_at_epoch": 1591929278.043613,
+            "last_retested_at_iso": "2020-06-12T02:34:38.043613",
             "status": "INACTIVE"
         },
         "csgo-fast.xyz": {
@@ -54257,11 +54404,60 @@
             "last_retested_at_iso": "2020-06-04T07:01:54.295408",
             "status": "INACTIVE"
         },
+        "csgo-fierce.com": {
+            "included_at_epoch": 1591929278.175365,
+            "included_at_iso": "2020-06-12T02:34:38.175365",
+            "last_retested_at_epoch": 1591929278.175365,
+            "last_retested_at_iso": "2020-06-12T02:34:38.175365",
+            "status": "INACTIVE"
+        },
+        "csgo-finder.com": {
+            "included_at_epoch": 1591929278.307629,
+            "included_at_iso": "2020-06-12T02:34:38.307629",
+            "last_retested_at_epoch": 1591929278.307629,
+            "last_retested_at_iso": "2020-06-12T02:34:38.307629",
+            "status": "INACTIVE"
+        },
         "csgo-freecase.ml": {
             "included_at_epoch": 1591254114.748933,
             "included_at_iso": "2020-06-04T07:01:54.748933",
             "last_retested_at_epoch": 1591254114.748933,
             "last_retested_at_iso": "2020-06-04T07:01:54.748933",
+            "status": "INACTIVE"
+        },
+        "csgo-fresh.com": {
+            "included_at_epoch": 1591929279.308172,
+            "included_at_iso": "2020-06-12T02:34:39.308172",
+            "last_retested_at_epoch": 1591929279.308172,
+            "last_retested_at_iso": "2020-06-12T02:34:39.308172",
+            "status": "INACTIVE"
+        },
+        "csgo-gamble.net": {
+            "included_at_epoch": 1591929279.439948,
+            "included_at_iso": "2020-06-12T02:34:39.439948",
+            "last_retested_at_epoch": 1591929279.439948,
+            "last_retested_at_iso": "2020-06-12T02:34:39.439948",
+            "status": "INACTIVE"
+        },
+        "csgo-illusion.net": {
+            "included_at_epoch": 1591929279.988852,
+            "included_at_iso": "2020-06-12T02:34:39.988852",
+            "last_retested_at_epoch": 1591929279.988852,
+            "last_retested_at_iso": "2020-06-12T02:34:39.988852",
+            "status": "INACTIVE"
+        },
+        "csgo-inject.com": {
+            "included_at_epoch": 1591929280.134108,
+            "included_at_iso": "2020-06-12T02:34:40.134108",
+            "last_retested_at_epoch": 1591929280.134108,
+            "last_retested_at_iso": "2020-06-12T02:34:40.134108",
+            "status": "INACTIVE"
+        },
+        "csgo-injected.com": {
+            "included_at_epoch": 1591929280.266051,
+            "included_at_iso": "2020-06-12T02:34:40.266051",
+            "last_retested_at_epoch": 1591929280.266051,
+            "last_retested_at_iso": "2020-06-12T02:34:40.266051",
             "status": "INACTIVE"
         },
         "csgo-loot.ml": {
@@ -54271,11 +54467,60 @@
             "last_retested_at_iso": "2020-06-04T07:01:55.215480",
             "status": "INACTIVE"
         },
+        "csgo-lounge-trade.com": {
+            "included_at_epoch": 1591929280.821827,
+            "included_at_iso": "2020-06-12T02:34:40.821827",
+            "last_retested_at_epoch": 1591929280.821827,
+            "last_retested_at_iso": "2020-06-12T02:34:40.821827",
+            "status": "INACTIVE"
+        },
         "csgo-mantis.fun": {
             "included_at_epoch": 1591254115.664069,
             "included_at_iso": "2020-06-04T07:01:55.664069",
             "last_retested_at_epoch": 1591254115.664069,
             "last_retested_at_iso": "2020-06-04T07:01:55.664069",
+            "status": "INACTIVE"
+        },
+        "csgo-markets.com": {
+            "included_at_epoch": 1591929280.953272,
+            "included_at_iso": "2020-06-12T02:34:40.953272",
+            "last_retested_at_epoch": 1591929280.953272,
+            "last_retested_at_iso": "2020-06-12T02:34:40.953272",
+            "status": "INACTIVE"
+        },
+        "csgo-money.eu": {
+            "included_at_epoch": 1591929281.083937,
+            "included_at_iso": "2020-06-12T02:34:41.083937",
+            "last_retested_at_epoch": 1591929281.083937,
+            "last_retested_at_iso": "2020-06-12T02:34:41.083937",
+            "status": "INACTIVE"
+        },
+        "csgo-money.tech": {
+            "included_at_epoch": 1591929281.215107,
+            "included_at_iso": "2020-06-12T02:34:41.215107",
+            "last_retested_at_epoch": 1591929281.215107,
+            "last_retested_at_iso": "2020-06-12T02:34:41.215107",
+            "status": "INACTIVE"
+        },
+        "csgo-moon.online": {
+            "included_at_epoch": 1591929281.34696,
+            "included_at_iso": "2020-06-12T02:34:41.346960",
+            "last_retested_at_epoch": 1591929281.34696,
+            "last_retested_at_iso": "2020-06-12T02:34:41.346960",
+            "status": "INACTIVE"
+        },
+        "csgo-protected.ru": {
+            "included_at_epoch": 1591929282.037907,
+            "included_at_iso": "2020-06-12T02:34:42.037907",
+            "last_retested_at_epoch": 1591929282.037907,
+            "last_retested_at_iso": "2020-06-12T02:34:42.037907",
+            "status": "INACTIVE"
+        },
+        "csgo-quick.online": {
+            "included_at_epoch": 1591929281.907049,
+            "included_at_iso": "2020-06-12T02:34:41.907049",
+            "last_retested_at_epoch": 1591929281.907049,
+            "last_retested_at_iso": "2020-06-12T02:34:41.907049",
             "status": "INACTIVE"
         },
         "csgo-roll.ga": {
@@ -54299,6 +54544,13 @@
             "last_retested_at_iso": "2020-06-04T07:01:57.041889",
             "status": "INACTIVE"
         },
+        "csgo-secure.com": {
+            "included_at_epoch": 1591929282.168699,
+            "included_at_iso": "2020-06-12T02:34:42.168699",
+            "last_retested_at_epoch": 1591929282.168699,
+            "last_retested_at_iso": "2020-06-12T02:34:42.168699",
+            "status": "INACTIVE"
+        },
         "csgo-status.fun": {
             "included_at_epoch": 1591254117.118513,
             "included_at_iso": "2020-06-04T07:01:57.118513",
@@ -54313,6 +54565,27 @@
             "last_retested_at_iso": "2020-06-04T07:01:57.195421",
             "status": "INACTIVE"
         },
+        "csgo-sweetwin.com": {
+            "included_at_epoch": 1591929284.420195,
+            "included_at_iso": "2020-06-12T02:34:44.420195",
+            "last_retested_at_epoch": 1591929284.420195,
+            "last_retested_at_iso": "2020-06-12T02:34:44.420195",
+            "status": "INACTIVE"
+        },
+        "csgo-sxe.net": {
+            "included_at_epoch": 1591929284.551106,
+            "included_at_iso": "2020-06-12T02:34:44.551106",
+            "last_retested_at_epoch": 1591929284.551106,
+            "last_retested_at_iso": "2020-06-12T02:34:44.551106",
+            "status": "INACTIVE"
+        },
+        "csgo-tournament.com": {
+            "included_at_epoch": 1591929284.682611,
+            "included_at_iso": "2020-06-12T02:34:44.682611",
+            "last_retested_at_epoch": 1591929284.682611,
+            "last_retested_at_iso": "2020-06-12T02:34:44.682611",
+            "status": "INACTIVE"
+        },
         "csgo-tropic.online": {
             "included_at_epoch": 1591254117.646048,
             "included_at_iso": "2020-06-04T07:01:57.646048",
@@ -54320,11 +54593,151 @@
             "last_retested_at_iso": "2020-06-04T07:01:57.646048",
             "status": "INACTIVE"
         },
+        "csgo-zone.net": {
+            "included_at_epoch": 1591929284.812952,
+            "included_at_iso": "2020-06-12T02:34:44.812952",
+            "last_retested_at_epoch": 1591929284.812952,
+            "last_retested_at_iso": "2020-06-12T02:34:44.812952",
+            "status": "INACTIVE"
+        },
+        "csgo.ae": {
+            "included_at_epoch": 1591929285.507369,
+            "included_at_iso": "2020-06-12T02:34:45.507369",
+            "last_retested_at_epoch": 1591929285.507369,
+            "last_retested_at_iso": "2020-06-12T02:34:45.507369",
+            "status": "INACTIVE"
+        },
+        "csgo2casino.com": {
+            "included_at_epoch": 1591929285.376292,
+            "included_at_iso": "2020-06-12T02:34:45.376292",
+            "last_retested_at_epoch": 1591929285.376292,
+            "last_retested_at_iso": "2020-06-12T02:34:45.376292",
+            "status": "INACTIVE"
+        },
+        "csgo2happy.com": {
+            "included_at_epoch": 1591929285.770587,
+            "included_at_iso": "2020-06-12T02:34:45.770587",
+            "last_retested_at_epoch": 1591929285.770587,
+            "last_retested_at_iso": "2020-06-12T02:34:45.770587",
+            "status": "INACTIVE"
+        },
+        "csgo2lotto.com": {
+            "included_at_epoch": 1591929285.638734,
+            "included_at_iso": "2020-06-12T02:34:45.638734",
+            "last_retested_at_epoch": 1591929285.638734,
+            "last_retested_at_iso": "2020-06-12T02:34:45.638734",
+            "status": "INACTIVE"
+        },
+        "csgo2lucky.com": {
+            "included_at_epoch": 1591929285.901747,
+            "included_at_iso": "2020-06-12T02:34:45.901747",
+            "last_retested_at_epoch": 1591929285.901747,
+            "last_retested_at_iso": "2020-06-12T02:34:45.901747",
+            "status": "INACTIVE"
+        },
+        "csgo2you.com": {
+            "included_at_epoch": 1591929286.033267,
+            "included_at_iso": "2020-06-12T02:34:46.033267",
+            "last_retested_at_epoch": 1591929286.033267,
+            "last_retested_at_iso": "2020-06-12T02:34:46.033267",
+            "status": "INACTIVE"
+        },
+        "csgoabyss.com": {
+            "included_at_epoch": 1591929286.164245,
+            "included_at_iso": "2020-06-12T02:34:46.164245",
+            "last_retested_at_epoch": 1591929286.164245,
+            "last_retested_at_iso": "2020-06-12T02:34:46.164245",
+            "status": "INACTIVE"
+        },
+        "csgoagony.com": {
+            "included_at_epoch": 1591929286.734322,
+            "included_at_iso": "2020-06-12T02:34:46.734322",
+            "last_retested_at_epoch": 1591929286.734322,
+            "last_retested_at_iso": "2020-06-12T02:34:46.734322",
+            "status": "INACTIVE"
+        },
+        "csgoallbets.com": {
+            "included_at_epoch": 1591929287.28517,
+            "included_at_iso": "2020-06-12T02:34:47.285170",
+            "last_retested_at_epoch": 1591929287.28517,
+            "last_retested_at_iso": "2020-06-12T02:34:47.285170",
+            "status": "INACTIVE"
+        },
+        "csgoalley.com": {
+            "included_at_epoch": 1591929287.417025,
+            "included_at_iso": "2020-06-12T02:34:47.417025",
+            "last_retested_at_epoch": 1591929287.417025,
+            "last_retested_at_iso": "2020-06-12T02:34:47.417025",
+            "status": "INACTIVE"
+        },
+        "csgoarizona.com": {
+            "included_at_epoch": 1591929287.983661,
+            "included_at_iso": "2020-06-12T02:34:47.983661",
+            "last_retested_at_epoch": 1591929287.983661,
+            "last_retested_at_iso": "2020-06-12T02:34:47.983661",
+            "status": "INACTIVE"
+        },
         "csgoatse.pw": {
             "included_at_epoch": 1591254118.111306,
             "included_at_iso": "2020-06-04T07:01:58.111306",
             "last_retested_at_epoch": 1591254118.111306,
             "last_retested_at_iso": "2020-06-04T07:01:58.111306",
+            "status": "INACTIVE"
+        },
+        "csgoback.cash": {
+            "included_at_epoch": 1591929288.247096,
+            "included_at_iso": "2020-06-12T02:34:48.247096",
+            "last_retested_at_epoch": 1591929288.247096,
+            "last_retested_at_iso": "2020-06-12T02:34:48.247096",
+            "status": "INACTIVE"
+        },
+        "csgobeach.com": {
+            "included_at_epoch": 1591929288.114919,
+            "included_at_iso": "2020-06-12T02:34:48.114919",
+            "last_retested_at_epoch": 1591929288.114919,
+            "last_retested_at_iso": "2020-06-12T02:34:48.114919",
+            "status": "INACTIVE"
+        },
+        "csgobeatskins.com": {
+            "included_at_epoch": 1591929288.378536,
+            "included_at_iso": "2020-06-12T02:34:48.378536",
+            "last_retested_at_epoch": 1591929288.378536,
+            "last_retested_at_iso": "2020-06-12T02:34:48.378536",
+            "status": "INACTIVE"
+        },
+        "csgobently.com": {
+            "included_at_epoch": 1591929288.510276,
+            "included_at_iso": "2020-06-12T02:34:48.510276",
+            "last_retested_at_epoch": 1591929288.510276,
+            "last_retested_at_iso": "2020-06-12T02:34:48.510276",
+            "status": "INACTIVE"
+        },
+        "csgobest-trade.online": {
+            "included_at_epoch": 1591929288.774741,
+            "included_at_iso": "2020-06-12T02:34:48.774741",
+            "last_retested_at_epoch": 1591929288.774741,
+            "last_retested_at_iso": "2020-06-12T02:34:48.774741",
+            "status": "INACTIVE"
+        },
+        "csgobetlegion.com": {
+            "included_at_epoch": 1591929288.641905,
+            "included_at_iso": "2020-06-12T02:34:48.641905",
+            "last_retested_at_epoch": 1591929288.641905,
+            "last_retested_at_iso": "2020-06-12T02:34:48.641905",
+            "status": "INACTIVE"
+        },
+        "csgobigbet.com": {
+            "included_at_epoch": 1591929288.906619,
+            "included_at_iso": "2020-06-12T02:34:48.906619",
+            "last_retested_at_epoch": 1591929288.906619,
+            "last_retested_at_iso": "2020-06-12T02:34:48.906619",
+            "status": "INACTIVE"
+        },
+        "csgobigcash.com": {
+            "included_at_epoch": 1591929289.038354,
+            "included_at_iso": "2020-06-12T02:34:49.038354",
+            "last_retested_at_epoch": 1591929289.038354,
+            "last_retested_at_iso": "2020-06-12T02:34:49.038354",
             "status": "INACTIVE"
         },
         "csgobindo.xyz": {
@@ -54341,11 +54754,67 @@
             "last_retested_at_iso": "2020-06-04T07:01:58.267889",
             "status": "INACTIVE"
         },
+        "csgobong.com": {
+            "included_at_epoch": 1591929289.317149,
+            "included_at_iso": "2020-06-12T02:34:49.317149",
+            "last_retested_at_epoch": 1591929289.317149,
+            "last_retested_at_iso": "2020-06-12T02:34:49.317149",
+            "status": "INACTIVE"
+        },
+        "csgoboom.net": {
+            "included_at_epoch": 1591929289.170062,
+            "included_at_iso": "2020-06-12T02:34:49.170062",
+            "last_retested_at_epoch": 1591929289.170062,
+            "last_retested_at_iso": "2020-06-12T02:34:49.170062",
+            "status": "INACTIVE"
+        },
+        "csgobora.pro": {
+            "included_at_epoch": 1591929289.449365,
+            "included_at_iso": "2020-06-12T02:34:49.449365",
+            "last_retested_at_epoch": 1591929289.449365,
+            "last_retested_at_iso": "2020-06-12T02:34:49.449365",
+            "status": "INACTIVE"
+        },
+        "csgobot.store": {
+            "included_at_epoch": 1591929289.581756,
+            "included_at_iso": "2020-06-12T02:34:49.581756",
+            "last_retested_at_epoch": 1591929289.581756,
+            "last_retested_at_iso": "2020-06-12T02:34:49.581756",
+            "status": "INACTIVE"
+        },
+        "csgobulls.com": {
+            "included_at_epoch": 1591929289.71434,
+            "included_at_iso": "2020-06-12T02:34:49.714340",
+            "last_retested_at_epoch": 1591929289.71434,
+            "last_retested_at_iso": "2020-06-12T02:34:49.714340",
+            "status": "INACTIVE"
+        },
+        "csgobuster.com": {
+            "included_at_epoch": 1591929289.846989,
+            "included_at_iso": "2020-06-12T02:34:49.846989",
+            "last_retested_at_epoch": 1591929289.846989,
+            "last_retested_at_iso": "2020-06-12T02:34:49.846989",
+            "status": "INACTIVE"
+        },
+        "csgocake.com": {
+            "included_at_epoch": 1591929289.980588,
+            "included_at_iso": "2020-06-12T02:34:49.980588",
+            "last_retested_at_epoch": 1591929289.980588,
+            "last_retested_at_iso": "2020-06-12T02:34:49.980588",
+            "status": "INACTIVE"
+        },
         "csgocase.cf": {
             "included_at_epoch": 1591254118.344323,
             "included_at_iso": "2020-06-04T07:01:58.344323",
             "last_retested_at_epoch": 1591254118.344323,
             "last_retested_at_iso": "2020-06-04T07:01:58.344323",
+            "status": "INACTIVE"
+        },
+        "csgocasefun.com": {
+            "included_at_epoch": 1591929290.112776,
+            "included_at_iso": "2020-06-12T02:34:50.112776",
+            "last_retested_at_epoch": 1591929290.112776,
+            "last_retested_at_iso": "2020-06-12T02:34:50.112776",
             "status": "INACTIVE"
         },
         "csgocases.ga": {
@@ -54376,11 +54845,144 @@
             "last_retested_at_iso": "2020-06-04T07:01:59.028625",
             "status": "INACTIVE"
         },
+        "csgocasino.pro": {
+            "included_at_epoch": 1591929290.245523,
+            "included_at_iso": "2020-06-12T02:34:50.245523",
+            "last_retested_at_epoch": 1591929290.245523,
+            "last_retested_at_iso": "2020-06-12T02:34:50.245523",
+            "status": "INACTIVE"
+        },
+        "csgocoat.com": {
+            "included_at_epoch": 1591929290.378583,
+            "included_at_iso": "2020-06-12T02:34:50.378583",
+            "last_retested_at_epoch": 1591929290.378583,
+            "last_retested_at_iso": "2020-06-12T02:34:50.378583",
+            "status": "INACTIVE"
+        },
+        "csgocoinbet.com": {
+            "included_at_epoch": 1591929290.643281,
+            "included_at_iso": "2020-06-12T02:34:50.643281",
+            "last_retested_at_epoch": 1591929290.643281,
+            "last_retested_at_iso": "2020-06-12T02:34:50.643281",
+            "status": "INACTIVE"
+        },
+        "csgocolt.com": {
+            "included_at_epoch": 1591929290.511236,
+            "included_at_iso": "2020-06-12T02:34:50.511236",
+            "last_retested_at_epoch": 1591929290.511236,
+            "last_retested_at_iso": "2020-06-12T02:34:50.511236",
+            "status": "INACTIVE"
+        },
+        "csgocute.com": {
+            "included_at_epoch": 1591929291.211169,
+            "included_at_iso": "2020-06-12T02:34:51.211169",
+            "last_retested_at_epoch": 1591929291.211169,
+            "last_retested_at_iso": "2020-06-12T02:34:51.211169",
+            "status": "INACTIVE"
+        },
+        "csgodady.com": {
+            "included_at_epoch": 1591929291.34208,
+            "included_at_iso": "2020-06-12T02:34:51.342080",
+            "last_retested_at_epoch": 1591929291.34208,
+            "last_retested_at_iso": "2020-06-12T02:34:51.342080",
+            "status": "INACTIVE"
+        },
+        "csgodang.com": {
+            "included_at_epoch": 1591929291.473655,
+            "included_at_iso": "2020-06-12T02:34:51.473655",
+            "last_retested_at_epoch": 1591929291.473655,
+            "last_retested_at_iso": "2020-06-12T02:34:51.473655",
+            "status": "INACTIVE"
+        },
+        "csgodarkness.com": {
+            "included_at_epoch": 1591929291.606828,
+            "included_at_iso": "2020-06-12T02:34:51.606828",
+            "last_retested_at_epoch": 1591929291.606828,
+            "last_retested_at_iso": "2020-06-12T02:34:51.606828",
+            "status": "INACTIVE"
+        },
+        "csgodawg.com": {
+            "included_at_epoch": 1591929291.739482,
+            "included_at_iso": "2020-06-12T02:34:51.739482",
+            "last_retested_at_epoch": 1591929291.739482,
+            "last_retested_at_iso": "2020-06-12T02:34:51.739482",
+            "status": "INACTIVE"
+        },
+        "csgodc.com": {
+            "included_at_epoch": 1591929291.871337,
+            "included_at_iso": "2020-06-12T02:34:51.871337",
+            "last_retested_at_epoch": 1591929291.871337,
+            "last_retested_at_iso": "2020-06-12T02:34:51.871337",
+            "status": "INACTIVE"
+        },
+        "csgodino.net": {
+            "included_at_epoch": 1591929292.001883,
+            "included_at_iso": "2020-06-12T02:34:52.001883",
+            "last_retested_at_epoch": 1591929292.001883,
+            "last_retested_at_iso": "2020-06-12T02:34:52.001883",
+            "status": "INACTIVE"
+        },
+        "csgodmarket.com": {
+            "included_at_epoch": 1591929292.132775,
+            "included_at_iso": "2020-06-12T02:34:52.132775",
+            "last_retested_at_epoch": 1591929292.132775,
+            "last_retested_at_iso": "2020-06-12T02:34:52.132775",
+            "status": "INACTIVE"
+        },
+        "csgodolo.com": {
+            "included_at_epoch": 1591929292.698824,
+            "included_at_iso": "2020-06-12T02:34:52.698824",
+            "last_retested_at_epoch": 1591929292.698824,
+            "last_retested_at_iso": "2020-06-12T02:34:52.698824",
+            "status": "INACTIVE"
+        },
+        "csgodrone.net": {
+            "included_at_epoch": 1591929292.829617,
+            "included_at_iso": "2020-06-12T02:34:52.829617",
+            "last_retested_at_epoch": 1591929292.829617,
+            "last_retested_at_iso": "2020-06-12T02:34:52.829617",
+            "status": "INACTIVE"
+        },
+        "csgodropbet.com": {
+            "included_at_epoch": 1591929292.961161,
+            "included_at_iso": "2020-06-12T02:34:52.961161",
+            "last_retested_at_epoch": 1591929292.961161,
+            "last_retested_at_iso": "2020-06-12T02:34:52.961161",
+            "status": "INACTIVE"
+        },
         "csgodust.space": {
             "included_at_epoch": 1591254121.011857,
             "included_at_iso": "2020-06-04T07:02:01.011857",
             "last_retested_at_epoch": 1591254121.011857,
             "last_retested_at_iso": "2020-06-04T07:02:01.011857",
+            "status": "INACTIVE"
+        },
+        "csgoeasy.money": {
+            "included_at_epoch": 1591929293.528337,
+            "included_at_iso": "2020-06-12T02:34:53.528337",
+            "last_retested_at_epoch": 1591929293.528337,
+            "last_retested_at_iso": "2020-06-12T02:34:53.528337",
+            "status": "INACTIVE"
+        },
+        "csgoelect.com": {
+            "included_at_epoch": 1591929293.659424,
+            "included_at_iso": "2020-06-12T02:34:53.659424",
+            "last_retested_at_epoch": 1591929293.659424,
+            "last_retested_at_iso": "2020-06-12T02:34:53.659424",
+            "status": "INACTIVE"
+        },
+        "csgoelemental.com": {
+            "included_at_epoch": 1591929293.795872,
+            "included_at_iso": "2020-06-12T02:34:53.795872",
+            "last_retested_at_epoch": 1591929293.795872,
+            "last_retested_at_iso": "2020-06-12T02:34:53.795872",
+            "status": "INACTIVE"
+        },
+        "csgoemperialbet.com": {
+            "included_at_epoch": 1591929293.933201,
+            "included_at_iso": "2020-06-12T02:34:53.933201",
+            "last_retested_at_epoch": 1591929293.933201,
+            "last_retested_at_iso": "2020-06-12T02:34:53.933201",
             "status": "INACTIVE"
         },
         "csgoempires.xyz": {
@@ -54390,11 +54992,95 @@
             "last_retested_at_iso": "2020-06-04T07:02:01.461227",
             "status": "INACTIVE"
         },
+        "csgoend.net": {
+            "included_at_epoch": 1591929294.070343,
+            "included_at_iso": "2020-06-12T02:34:54.070343",
+            "last_retested_at_epoch": 1591929294.070343,
+            "last_retested_at_iso": "2020-06-12T02:34:54.070343",
+            "status": "INACTIVE"
+        },
+        "csgoesl.com": {
+            "included_at_epoch": 1591929294.208224,
+            "included_at_iso": "2020-06-12T02:34:54.208224",
+            "last_retested_at_epoch": 1591929294.208224,
+            "last_retested_at_iso": "2020-06-12T02:34:54.208224",
+            "status": "INACTIVE"
+        },
+        "csgoexc.com": {
+            "included_at_epoch": 1591929294.345231,
+            "included_at_iso": "2020-06-12T02:34:54.345231",
+            "last_retested_at_epoch": 1591929294.345231,
+            "last_retested_at_iso": "2020-06-12T02:34:54.345231",
+            "status": "INACTIVE"
+        },
+        "csgofairy.net": {
+            "included_at_epoch": 1591929294.482093,
+            "included_at_iso": "2020-06-12T02:34:54.482093",
+            "last_retested_at_epoch": 1591929294.482093,
+            "last_retested_at_iso": "2020-06-12T02:34:54.482093",
+            "status": "INACTIVE"
+        },
+        "csgofastmoney.com": {
+            "included_at_epoch": 1591929295.059792,
+            "included_at_iso": "2020-06-12T02:34:55.059792",
+            "last_retested_at_epoch": 1591929295.059792,
+            "last_retested_at_iso": "2020-06-12T02:34:55.059792",
+            "status": "INACTIVE"
+        },
+        "csgofenix.net": {
+            "included_at_epoch": 1591929295.614736,
+            "included_at_iso": "2020-06-12T02:34:55.614736",
+            "last_retested_at_epoch": 1591929295.614736,
+            "last_retested_at_iso": "2020-06-12T02:34:55.614736",
+            "status": "INACTIVE"
+        },
+        "csgofireboom.com": {
+            "included_at_epoch": 1591929296.183583,
+            "included_at_iso": "2020-06-12T02:34:56.183583",
+            "last_retested_at_epoch": 1591929296.183583,
+            "last_retested_at_iso": "2020-06-12T02:34:56.183583",
+            "status": "INACTIVE"
+        },
+        "csgofirewin.com": {
+            "included_at_epoch": 1591929296.316081,
+            "included_at_iso": "2020-06-12T02:34:56.316081",
+            "last_retested_at_epoch": 1591929296.316081,
+            "last_retested_at_iso": "2020-06-12T02:34:56.316081",
+            "status": "INACTIVE"
+        },
         "csgofisk.tk": {
             "included_at_epoch": 1591254122.689273,
             "included_at_iso": "2020-06-04T07:02:02.689273",
             "last_retested_at_epoch": 1591254122.689273,
             "last_retested_at_iso": "2020-06-04T07:02:02.689273",
+            "status": "INACTIVE"
+        },
+        "csgoflame.online": {
+            "included_at_epoch": 1591929296.8725,
+            "included_at_iso": "2020-06-12T02:34:56.872500",
+            "last_retested_at_epoch": 1591929296.8725,
+            "last_retested_at_iso": "2020-06-12T02:34:56.872500",
+            "status": "INACTIVE"
+        },
+        "csgoflaming.com": {
+            "included_at_epoch": 1591929297.016828,
+            "included_at_iso": "2020-06-12T02:34:57.016828",
+            "last_retested_at_epoch": 1591929297.016828,
+            "last_retested_at_iso": "2020-06-12T02:34:57.016828",
+            "status": "INACTIVE"
+        },
+        "csgoflap.com": {
+            "included_at_epoch": 1591929297.148567,
+            "included_at_iso": "2020-06-12T02:34:57.148567",
+            "last_retested_at_epoch": 1591929297.148567,
+            "last_retested_at_iso": "2020-06-12T02:34:57.148567",
+            "status": "INACTIVE"
+        },
+        "csgofoster.com": {
+            "included_at_epoch": 1591929298.578798,
+            "included_at_iso": "2020-06-12T02:34:58.578798",
+            "last_retested_at_epoch": 1591929298.578798,
+            "last_retested_at_iso": "2020-06-12T02:34:58.578798",
             "status": "INACTIVE"
         },
         "csgofreexskins.fun": {
@@ -54404,11 +55090,221 @@
             "last_retested_at_iso": "2020-06-04T07:17:03.476670",
             "status": "INACTIVE"
         },
+        "csgofrozl.com": {
+            "included_at_epoch": 1591929298.711793,
+            "included_at_iso": "2020-06-12T02:34:58.711793",
+            "last_retested_at_epoch": 1591929298.711793,
+            "last_retested_at_iso": "2020-06-12T02:34:58.711793",
+            "status": "INACTIVE"
+        },
+        "csgofrozy.com": {
+            "included_at_epoch": 1591929298.976474,
+            "included_at_iso": "2020-06-12T02:34:58.976474",
+            "last_retested_at_epoch": 1591929298.976474,
+            "last_retested_at_iso": "2020-06-12T02:34:58.976474",
+            "status": "INACTIVE"
+        },
+        "csgofuncase.com": {
+            "included_at_epoch": 1591929298.844035,
+            "included_at_iso": "2020-06-12T02:34:58.844035",
+            "last_retested_at_epoch": 1591929298.844035,
+            "last_retested_at_iso": "2020-06-12T02:34:58.844035",
+            "status": "INACTIVE"
+        },
+        "csgofunfun.com": {
+            "included_at_epoch": 1591929299.108092,
+            "included_at_iso": "2020-06-12T02:34:59.108092",
+            "last_retested_at_epoch": 1591929299.108092,
+            "last_retested_at_iso": "2020-06-12T02:34:59.108092",
+            "status": "INACTIVE"
+        },
+        "csgofunspin.com": {
+            "included_at_epoch": 1591929299.254829,
+            "included_at_iso": "2020-06-12T02:34:59.254829",
+            "last_retested_at_epoch": 1591929299.254829,
+            "last_retested_at_iso": "2020-06-12T02:34:59.254829",
+            "status": "INACTIVE"
+        },
+        "csgofurious.net": {
+            "included_at_epoch": 1591929299.387794,
+            "included_at_iso": "2020-06-12T02:34:59.387794",
+            "last_retested_at_epoch": 1591929299.387794,
+            "last_retested_at_iso": "2020-06-12T02:34:59.387794",
+            "status": "INACTIVE"
+        },
+        "csgofuture.net": {
+            "included_at_epoch": 1591929299.521152,
+            "included_at_iso": "2020-06-12T02:34:59.521152",
+            "last_retested_at_epoch": 1591929299.521152,
+            "last_retested_at_iso": "2020-06-12T02:34:59.521152",
+            "status": "INACTIVE"
+        },
         "csgogg.tk": {
             "included_at_epoch": 1591255023.566929,
             "included_at_iso": "2020-06-04T07:17:03.566929",
             "last_retested_at_epoch": 1591255023.566929,
             "last_retested_at_iso": "2020-06-04T07:17:03.566929",
+            "status": "INACTIVE"
+        },
+        "csgogorila.com": {
+            "included_at_epoch": 1591929300.211127,
+            "included_at_iso": "2020-06-12T02:35:00.211127",
+            "last_retested_at_epoch": 1591929300.211127,
+            "last_retested_at_iso": "2020-06-12T02:35:00.211127",
+            "status": "INACTIVE"
+        },
+        "csgograys.com": {
+            "included_at_epoch": 1591929300.079243,
+            "included_at_iso": "2020-06-12T02:35:00.079243",
+            "last_retested_at_epoch": 1591929300.079243,
+            "last_retested_at_iso": "2020-06-12T02:35:00.079243",
+            "status": "INACTIVE"
+        },
+        "csgoguesswin.com": {
+            "included_at_epoch": 1591929300.343067,
+            "included_at_iso": "2020-06-12T02:35:00.343067",
+            "last_retested_at_epoch": 1591929300.343067,
+            "last_retested_at_iso": "2020-06-12T02:35:00.343067",
+            "status": "INACTIVE"
+        },
+        "csgoguncase.com": {
+            "included_at_epoch": 1591929300.915225,
+            "included_at_iso": "2020-06-12T02:35:00.915225",
+            "last_retested_at_epoch": 1591929300.915225,
+            "last_retested_at_iso": "2020-06-12T02:35:00.915225",
+            "status": "INACTIVE"
+        },
+        "csgogunfire.com": {
+            "included_at_epoch": 1591929301.046944,
+            "included_at_iso": "2020-06-12T02:35:01.046944",
+            "last_retested_at_epoch": 1591929301.046944,
+            "last_retested_at_iso": "2020-06-12T02:35:01.046944",
+            "status": "INACTIVE"
+        },
+        "csgohall.com": {
+            "included_at_epoch": 1591929301.178641,
+            "included_at_iso": "2020-06-12T02:35:01.178641",
+            "last_retested_at_epoch": 1591929301.178641,
+            "last_retested_at_iso": "2020-06-12T02:35:01.178641",
+            "status": "INACTIVE"
+        },
+        "csgohank.com": {
+            "included_at_epoch": 1591929301.31054,
+            "included_at_iso": "2020-06-12T02:35:01.310540",
+            "last_retested_at_epoch": 1591929301.31054,
+            "last_retested_at_iso": "2020-06-12T02:35:01.310540",
+            "status": "INACTIVE"
+        },
+        "csgohead.pro": {
+            "included_at_epoch": 1591929302.01666,
+            "included_at_iso": "2020-06-12T02:35:02.016660",
+            "last_retested_at_epoch": 1591929302.01666,
+            "last_retested_at_iso": "2020-06-12T02:35:02.016660",
+            "status": "INACTIVE"
+        },
+        "csgohits.com": {
+            "included_at_epoch": 1591929301.884905,
+            "included_at_iso": "2020-06-12T02:35:01.884905",
+            "last_retested_at_epoch": 1591929301.884905,
+            "last_retested_at_iso": "2020-06-12T02:35:01.884905",
+            "status": "INACTIVE"
+        },
+        "csgohull.com": {
+            "included_at_epoch": 1591929302.580516,
+            "included_at_iso": "2020-06-12T02:35:02.580516",
+            "last_retested_at_epoch": 1591929302.580516,
+            "last_retested_at_iso": "2020-06-12T02:35:02.580516",
+            "status": "INACTIVE"
+        },
+        "csgohypetrade.com": {
+            "included_at_epoch": 1591929302.728658,
+            "included_at_iso": "2020-06-12T02:35:02.728658",
+            "last_retested_at_epoch": 1591929302.728658,
+            "last_retested_at_iso": "2020-06-12T02:35:02.728658",
+            "status": "INACTIVE"
+        },
+        "csgoincome.com": {
+            "included_at_epoch": 1591929303.294711,
+            "included_at_iso": "2020-06-12T02:35:03.294711",
+            "last_retested_at_epoch": 1591929303.294711,
+            "last_retested_at_iso": "2020-06-12T02:35:03.294711",
+            "status": "INACTIVE"
+        },
+        "csgoinpace.com": {
+            "included_at_epoch": 1591929303.426924,
+            "included_at_iso": "2020-06-12T02:35:03.426924",
+            "last_retested_at_epoch": 1591929303.426924,
+            "last_retested_at_iso": "2020-06-12T02:35:03.426924",
+            "status": "INACTIVE"
+        },
+        "csgoinrate.com": {
+            "included_at_epoch": 1591929303.692017,
+            "included_at_iso": "2020-06-12T02:35:03.692017",
+            "last_retested_at_epoch": 1591929303.692017,
+            "last_retested_at_iso": "2020-06-12T02:35:03.692017",
+            "status": "INACTIVE"
+        },
+        "csgoioung.com": {
+            "included_at_epoch": 1591929303.559718,
+            "included_at_iso": "2020-06-12T02:35:03.559718",
+            "last_retested_at_epoch": 1591929303.559718,
+            "last_retested_at_iso": "2020-06-12T02:35:03.559718",
+            "status": "INACTIVE"
+        },
+        "csgoitems.trading": {
+            "included_at_epoch": 1591929303.824636,
+            "included_at_iso": "2020-06-12T02:35:03.824636",
+            "last_retested_at_epoch": 1591929303.824636,
+            "last_retested_at_iso": "2020-06-12T02:35:03.824636",
+            "status": "INACTIVE"
+        },
+        "csgoiunge.com": {
+            "included_at_epoch": 1591929304.398126,
+            "included_at_iso": "2020-06-12T02:35:04.398126",
+            "last_retested_at_epoch": 1591929304.398126,
+            "last_retested_at_iso": "2020-06-12T02:35:04.398126",
+            "status": "INACTIVE"
+        },
+        "csgojack.net": {
+            "included_at_epoch": 1591929304.530351,
+            "included_at_iso": "2020-06-12T02:35:04.530351",
+            "last_retested_at_epoch": 1591929304.530351,
+            "last_retested_at_iso": "2020-06-12T02:35:04.530351",
+            "status": "INACTIVE"
+        },
+        "csgojackpot.be": {
+            "included_at_epoch": 1591929304.663314,
+            "included_at_iso": "2020-06-12T02:35:04.663314",
+            "last_retested_at_epoch": 1591929304.663314,
+            "last_retested_at_iso": "2020-06-12T02:35:04.663314",
+            "status": "INACTIVE"
+        },
+        "csgojackpot.co.uk": {
+            "included_at_epoch": 1591929304.797368,
+            "included_at_iso": "2020-06-12T02:35:04.797368",
+            "last_retested_at_epoch": 1591929304.797368,
+            "last_retested_at_iso": "2020-06-12T02:35:04.797368",
+            "status": "INACTIVE"
+        },
+        "csgojackpot.im": {
+            "included_at_epoch": 1591929305.061659,
+            "included_at_iso": "2020-06-12T02:35:05.061659",
+            "last_retested_at_epoch": 1591929305.061659,
+            "last_retested_at_iso": "2020-06-12T02:35:05.061659",
+            "status": "INACTIVE"
+        },
+        "csgojagger.com": {
+            "included_at_epoch": 1591929304.929666,
+            "included_at_iso": "2020-06-12T02:35:04.929666",
+            "last_retested_at_epoch": 1591929304.929666,
+            "last_retested_at_iso": "2020-06-12T02:35:04.929666",
+            "status": "INACTIVE"
+        },
+        "csgojust.ru": {
+            "included_at_epoch": 1591929305.327117,
+            "included_at_iso": "2020-06-12T02:35:05.327117",
+            "last_retested_at_epoch": 1591929305.327117,
+            "last_retested_at_iso": "2020-06-12T02:35:05.327117",
             "status": "INACTIVE"
         },
         "csgokeyss.tk": {
@@ -54418,11 +55314,158 @@
             "last_retested_at_iso": "2020-06-04T07:17:05.530255",
             "status": "INACTIVE"
         },
+        "csgokeystrade.online": {
+            "included_at_epoch": 1591929305.193803,
+            "included_at_iso": "2020-06-12T02:35:05.193803",
+            "last_retested_at_epoch": 1591929305.193803,
+            "last_retested_at_iso": "2020-06-12T02:35:05.193803",
+            "status": "INACTIVE"
+        },
+        "csgoknifeskins.com": {
+            "included_at_epoch": 1591929305.6138,
+            "included_at_iso": "2020-06-12T02:35:05.613800",
+            "last_retested_at_epoch": 1591929305.6138,
+            "last_retested_at_iso": "2020-06-12T02:35:05.613800",
+            "status": "INACTIVE"
+        },
+        "csgolaurel.com": {
+            "included_at_epoch": 1591929305.463728,
+            "included_at_iso": "2020-06-12T02:35:05.463728",
+            "last_retested_at_epoch": 1591929305.463728,
+            "last_retested_at_iso": "2020-06-12T02:35:05.463728",
+            "status": "INACTIVE"
+        },
+        "csgoldluck.com": {
+            "included_at_epoch": 1591929306.63468,
+            "included_at_iso": "2020-06-12T02:35:06.634680",
+            "last_retested_at_epoch": 1591929306.63468,
+            "last_retested_at_iso": "2020-06-12T02:35:06.634680",
+            "status": "INACTIVE"
+        },
+        "csgoleep.com": {
+            "included_at_epoch": 1591929306.767603,
+            "included_at_iso": "2020-06-12T02:35:06.767603",
+            "last_retested_at_epoch": 1591929306.767603,
+            "last_retested_at_iso": "2020-06-12T02:35:06.767603",
+            "status": "INACTIVE"
+        },
+        "csgoleto.com": {
+            "included_at_epoch": 1591929307.03229,
+            "included_at_iso": "2020-06-12T02:35:07.032290",
+            "last_retested_at_epoch": 1591929307.03229,
+            "last_retested_at_iso": "2020-06-12T02:35:07.032290",
+            "status": "INACTIVE"
+        },
+        "csgoletswin.com": {
+            "included_at_epoch": 1591929306.900272,
+            "included_at_iso": "2020-06-12T02:35:06.900272",
+            "last_retested_at_epoch": 1591929306.900272,
+            "last_retested_at_iso": "2020-06-12T02:35:06.900272",
+            "status": "INACTIVE"
+        },
+        "csgoletwin.com": {
+            "included_at_epoch": 1591929307.295615,
+            "included_at_iso": "2020-06-12T02:35:07.295615",
+            "last_retested_at_epoch": 1591929307.295615,
+            "last_retested_at_iso": "2020-06-12T02:35:07.295615",
+            "status": "INACTIVE"
+        },
+        "csgolevar.com": {
+            "included_at_epoch": 1591929307.163804,
+            "included_at_iso": "2020-06-12T02:35:07.163804",
+            "last_retested_at_epoch": 1591929307.163804,
+            "last_retested_at_iso": "2020-06-12T02:35:07.163804",
+            "status": "INACTIVE"
+        },
+        "csgolightspot.com": {
+            "included_at_epoch": 1591929307.558875,
+            "included_at_iso": "2020-06-12T02:35:07.558875",
+            "last_retested_at_epoch": 1591929307.558875,
+            "last_retested_at_iso": "2020-06-12T02:35:07.558875",
+            "status": "INACTIVE"
+        },
+        "csgologov.net": {
+            "included_at_epoch": 1591929307.426866,
+            "included_at_iso": "2020-06-12T02:35:07.426866",
+            "last_retested_at_epoch": 1591929307.426866,
+            "last_retested_at_iso": "2020-06-12T02:35:07.426866",
+            "status": "INACTIVE"
+        },
+        "csgolonuge.com": {
+            "included_at_epoch": 1591929307.693922,
+            "included_at_iso": "2020-06-12T02:35:07.693922",
+            "last_retested_at_epoch": 1591929307.693922,
+            "last_retested_at_iso": "2020-06-12T02:35:07.693922",
+            "status": "INACTIVE"
+        },
+        "csgolounge.exchange": {
+            "included_at_epoch": 1591929308.289538,
+            "included_at_iso": "2020-06-12T02:35:08.289538",
+            "last_retested_at_epoch": 1591929308.289538,
+            "last_retested_at_iso": "2020-06-12T02:35:08.289538",
+            "status": "INACTIVE"
+        },
+        "csgolounge.money": {
+            "included_at_epoch": 1591929308.422484,
+            "included_at_iso": "2020-06-12T02:35:08.422484",
+            "last_retested_at_epoch": 1591929308.422484,
+            "last_retested_at_iso": "2020-06-12T02:35:08.422484",
+            "status": "INACTIVE"
+        },
+        "csgoloveman.com": {
+            "included_at_epoch": 1591929308.557279,
+            "included_at_iso": "2020-06-12T02:35:08.557279",
+            "last_retested_at_epoch": 1591929308.557279,
+            "last_retested_at_iso": "2020-06-12T02:35:08.557279",
+            "status": "INACTIVE"
+        },
+        "csgolympia.com": {
+            "included_at_epoch": 1591929309.610965,
+            "included_at_iso": "2020-06-12T02:35:09.610965",
+            "last_retested_at_epoch": 1591929309.610965,
+            "last_retested_at_iso": "2020-06-12T02:35:09.610965",
+            "status": "INACTIVE"
+        },
         "csgomagic.ga": {
             "included_at_epoch": 1591255027.194591,
             "included_at_iso": "2020-06-04T07:17:07.194591",
             "last_retested_at_epoch": 1591255027.194591,
             "last_retested_at_iso": "2020-06-04T07:17:07.194591",
+            "status": "INACTIVE"
+        },
+        "csgomagnat.com": {
+            "included_at_epoch": 1591929310.211105,
+            "included_at_iso": "2020-06-12T02:35:10.211105",
+            "last_retested_at_epoch": 1591929310.211105,
+            "last_retested_at_iso": "2020-06-12T02:35:10.211105",
+            "status": "INACTIVE"
+        },
+        "csgomagnatcase.com": {
+            "included_at_epoch": 1591929310.348509,
+            "included_at_iso": "2020-06-12T02:35:10.348509",
+            "last_retested_at_epoch": 1591929310.348509,
+            "last_retested_at_iso": "2020-06-12T02:35:10.348509",
+            "status": "INACTIVE"
+        },
+        "csgomakeyourbet.com": {
+            "included_at_epoch": 1591929310.62154,
+            "included_at_iso": "2020-06-12T02:35:10.621540",
+            "last_retested_at_epoch": 1591929310.62154,
+            "last_retested_at_iso": "2020-06-12T02:35:10.621540",
+            "status": "INACTIVE"
+        },
+        "csgomana.com": {
+            "included_at_epoch": 1591929310.48561,
+            "included_at_iso": "2020-06-12T02:35:10.485610",
+            "last_retested_at_epoch": 1591929310.48561,
+            "last_retested_at_iso": "2020-06-12T02:35:10.485610",
+            "status": "INACTIVE"
+        },
+        "csgomanila.com": {
+            "included_at_epoch": 1591929310.756056,
+            "included_at_iso": "2020-06-12T02:35:10.756056",
+            "last_retested_at_epoch": 1591929310.756056,
+            "last_retested_at_iso": "2020-06-12T02:35:10.756056",
             "status": "INACTIVE"
         },
         "csgomell.space": {
@@ -54432,11 +55475,137 @@
             "last_retested_at_iso": "2020-06-04T07:17:07.118380",
             "status": "INACTIVE"
         },
+        "csgomix.online": {
+            "included_at_epoch": 1591929311.328594,
+            "included_at_iso": "2020-06-12T02:35:11.328594",
+            "last_retested_at_epoch": 1591929311.328594,
+            "last_retested_at_iso": "2020-06-12T02:35:11.328594",
+            "status": "INACTIVE"
+        },
+        "csgomoney.money": {
+            "included_at_epoch": 1591929311.607599,
+            "included_at_iso": "2020-06-12T02:35:11.607599",
+            "last_retested_at_epoch": 1591929311.607599,
+            "last_retested_at_iso": "2020-06-12T02:35:11.607599",
+            "status": "INACTIVE"
+        },
+        "csgomonstercase.com": {
+            "included_at_epoch": 1591929311.473971,
+            "included_at_iso": "2020-06-12T02:35:11.473971",
+            "last_retested_at_epoch": 1591929311.473971,
+            "last_retested_at_iso": "2020-06-12T02:35:11.473971",
+            "status": "INACTIVE"
+        },
         "csgomskins.online": {
             "included_at_epoch": 1591255027.656172,
             "included_at_iso": "2020-06-04T07:17:07.656172",
             "last_retested_at_epoch": 1591255027.656172,
             "last_retested_at_iso": "2020-06-04T07:17:07.656172",
+            "status": "INACTIVE"
+        },
+        "csgomuscles.com": {
+            "included_at_epoch": 1591929311.741109,
+            "included_at_iso": "2020-06-12T02:35:11.741109",
+            "last_retested_at_epoch": 1591929311.741109,
+            "last_retested_at_iso": "2020-06-12T02:35:11.741109",
+            "status": "INACTIVE"
+        },
+        "csgonight.pro": {
+            "included_at_epoch": 1591929311.873431,
+            "included_at_iso": "2020-06-12T02:35:11.873431",
+            "last_retested_at_epoch": 1591929311.873431,
+            "last_retested_at_iso": "2020-06-12T02:35:11.873431",
+            "status": "INACTIVE"
+        },
+        "csgooneitems.com": {
+            "included_at_epoch": 1591929312.90456,
+            "included_at_iso": "2020-06-12T02:35:12.904560",
+            "last_retested_at_epoch": 1591929312.90456,
+            "last_retested_at_iso": "2020-06-12T02:35:12.904560",
+            "status": "INACTIVE"
+        },
+        "csgoperry.com": {
+            "included_at_epoch": 1591929313.936629,
+            "included_at_iso": "2020-06-12T02:35:13.936629",
+            "last_retested_at_epoch": 1591929313.936629,
+            "last_retested_at_iso": "2020-06-12T02:35:13.936629",
+            "status": "INACTIVE"
+        },
+        "csgoplacebet.com": {
+            "included_at_epoch": 1591929314.068648,
+            "included_at_iso": "2020-06-12T02:35:14.068648",
+            "last_retested_at_epoch": 1591929314.068648,
+            "last_retested_at_iso": "2020-06-12T02:35:14.068648",
+            "status": "INACTIVE"
+        },
+        "csgoplat.com": {
+            "included_at_epoch": 1591929314.663422,
+            "included_at_iso": "2020-06-12T02:35:14.663422",
+            "last_retested_at_epoch": 1591929314.663422,
+            "last_retested_at_iso": "2020-06-12T02:35:14.663422",
+            "status": "INACTIVE"
+        },
+        "csgoplaytowin.com": {
+            "included_at_epoch": 1591929314.798448,
+            "included_at_iso": "2020-06-12T02:35:14.798448",
+            "last_retested_at_epoch": 1591929314.798448,
+            "last_retested_at_iso": "2020-06-12T02:35:14.798448",
+            "status": "INACTIVE"
+        },
+        "csgopoiygon.com": {
+            "included_at_epoch": 1591929314.930842,
+            "included_at_iso": "2020-06-12T02:35:14.930842",
+            "last_retested_at_epoch": 1591929314.930842,
+            "last_retested_at_iso": "2020-06-12T02:35:14.930842",
+            "status": "INACTIVE"
+        },
+        "csgoports.com": {
+            "included_at_epoch": 1591929315.064587,
+            "included_at_iso": "2020-06-12T02:35:15.064587",
+            "last_retested_at_epoch": 1591929315.064587,
+            "last_retested_at_iso": "2020-06-12T02:35:15.064587",
+            "status": "INACTIVE"
+        },
+        "csgopour.com": {
+            "included_at_epoch": 1591929315.197607,
+            "included_at_iso": "2020-06-12T02:35:15.197607",
+            "last_retested_at_epoch": 1591929315.197607,
+            "last_retested_at_iso": "2020-06-12T02:35:15.197607",
+            "status": "INACTIVE"
+        },
+        "csgoproskins.com": {
+            "included_at_epoch": 1591929315.774133,
+            "included_at_iso": "2020-06-12T02:35:15.774133",
+            "last_retested_at_epoch": 1591929315.774133,
+            "last_retested_at_iso": "2020-06-12T02:35:15.774133",
+            "status": "INACTIVE"
+        },
+        "csgoravebet.com": {
+            "included_at_epoch": 1591929317.270139,
+            "included_at_iso": "2020-06-12T02:35:17.270139",
+            "last_retested_at_epoch": 1591929317.270139,
+            "last_retested_at_iso": "2020-06-12T02:35:17.270139",
+            "status": "INACTIVE"
+        },
+        "csgorealwin.com": {
+            "included_at_epoch": 1591929317.536359,
+            "included_at_iso": "2020-06-12T02:35:17.536359",
+            "last_retested_at_epoch": 1591929317.536359,
+            "last_retested_at_iso": "2020-06-12T02:35:17.536359",
+            "status": "INACTIVE"
+        },
+        "csgoreamer.com": {
+            "included_at_epoch": 1591929317.403651,
+            "included_at_iso": "2020-06-12T02:35:17.403651",
+            "last_retested_at_epoch": 1591929317.403651,
+            "last_retested_at_iso": "2020-06-12T02:35:17.403651",
+            "status": "INACTIVE"
+        },
+        "csgoreaper.money": {
+            "included_at_epoch": 1591929317.801685,
+            "included_at_iso": "2020-06-12T02:35:17.801685",
+            "last_retested_at_epoch": 1591929317.801685,
+            "last_retested_at_iso": "2020-06-12T02:35:17.801685",
             "status": "INACTIVE"
         },
         "csgoregin.tk": {
@@ -54446,11 +55615,53 @@
             "last_retested_at_iso": "2020-06-04T07:17:09.662632",
             "status": "INACTIVE"
         },
+        "csgoretailer.com": {
+            "included_at_epoch": 1591929317.668838,
+            "included_at_iso": "2020-06-12T02:35:17.668838",
+            "last_retested_at_epoch": 1591929317.668838,
+            "last_retested_at_iso": "2020-06-12T02:35:17.668838",
+            "status": "INACTIVE"
+        },
+        "csgorider.com": {
+            "included_at_epoch": 1591929317.934434,
+            "included_at_iso": "2020-06-12T02:35:17.934434",
+            "last_retested_at_epoch": 1591929317.934434,
+            "last_retested_at_iso": "2020-06-12T02:35:17.934434",
+            "status": "INACTIVE"
+        },
+        "csgoriginal.com": {
+            "included_at_epoch": 1591929318.079622,
+            "included_at_iso": "2020-06-12T02:35:18.079622",
+            "last_retested_at_epoch": 1591929318.079622,
+            "last_retested_at_iso": "2020-06-12T02:35:18.079622",
+            "status": "INACTIVE"
+        },
+        "csgoroll.cash": {
+            "included_at_epoch": 1591929318.212276,
+            "included_at_iso": "2020-06-12T02:35:18.212276",
+            "last_retested_at_epoch": 1591929318.212276,
+            "last_retested_at_iso": "2020-06-12T02:35:18.212276",
+            "status": "INACTIVE"
+        },
+        "csgorollin.com": {
+            "included_at_epoch": 1591929318.345145,
+            "included_at_iso": "2020-06-12T02:35:18.345145",
+            "last_retested_at_epoch": 1591929318.345145,
+            "last_retested_at_iso": "2020-06-12T02:35:18.345145",
+            "status": "INACTIVE"
+        },
         "csgorovers.ml": {
             "included_at_epoch": 1591255029.75227,
             "included_at_iso": "2020-06-04T07:17:09.752270",
             "last_retested_at_epoch": 1591255029.75227,
             "last_retested_at_iso": "2020-06-04T07:17:09.752270",
+            "status": "INACTIVE"
+        },
+        "csgorsv.com": {
+            "included_at_epoch": 1591929318.478067,
+            "included_at_iso": "2020-06-12T02:35:18.478067",
+            "last_retested_at_epoch": 1591929318.478067,
+            "last_retested_at_iso": "2020-06-12T02:35:18.478067",
             "status": "INACTIVE"
         },
         "csgorun.cf": {
@@ -54467,6 +55678,62 @@
             "last_retested_at_iso": "2020-06-04T07:17:10.666212",
             "status": "INACTIVE"
         },
+        "csgosauros.com": {
+            "included_at_epoch": 1591929318.612015,
+            "included_at_iso": "2020-06-12T02:35:18.612015",
+            "last_retested_at_epoch": 1591929318.612015,
+            "last_retested_at_iso": "2020-06-12T02:35:18.612015",
+            "status": "INACTIVE"
+        },
+        "csgosebr.com": {
+            "included_at_epoch": 1591929318.746114,
+            "included_at_iso": "2020-06-12T02:35:18.746114",
+            "last_retested_at_epoch": 1591929318.746114,
+            "last_retested_at_iso": "2020-06-12T02:35:18.746114",
+            "status": "INACTIVE"
+        },
+        "csgoshakeit.com": {
+            "included_at_epoch": 1591929319.294215,
+            "included_at_iso": "2020-06-12T02:35:19.294215",
+            "last_retested_at_epoch": 1591929319.294215,
+            "last_retested_at_iso": "2020-06-12T02:35:19.294215",
+            "status": "INACTIVE"
+        },
+        "csgosheen.com": {
+            "included_at_epoch": 1591929319.432065,
+            "included_at_iso": "2020-06-12T02:35:19.432065",
+            "last_retested_at_epoch": 1591929319.432065,
+            "last_retested_at_iso": "2020-06-12T02:35:19.432065",
+            "status": "INACTIVE"
+        },
+        "csgoshipper.com": {
+            "included_at_epoch": 1591929319.581659,
+            "included_at_iso": "2020-06-12T02:35:19.581659",
+            "last_retested_at_epoch": 1591929319.581659,
+            "last_retested_at_iso": "2020-06-12T02:35:19.581659",
+            "status": "INACTIVE"
+        },
+        "csgoshuffle.co.uk": {
+            "included_at_epoch": 1591929320.133589,
+            "included_at_iso": "2020-06-12T02:35:20.133589",
+            "last_retested_at_epoch": 1591929320.133589,
+            "last_retested_at_iso": "2020-06-12T02:35:20.133589",
+            "status": "INACTIVE"
+        },
+        "csgoshuffle.in": {
+            "included_at_epoch": 1591929320.399984,
+            "included_at_iso": "2020-06-12T02:35:20.399984",
+            "last_retested_at_epoch": 1591929320.399984,
+            "last_retested_at_iso": "2020-06-12T02:35:20.399984",
+            "status": "INACTIVE"
+        },
+        "csgosign.net": {
+            "included_at_epoch": 1591929320.26691,
+            "included_at_iso": "2020-06-12T02:35:20.266910",
+            "last_retested_at_epoch": 1591929320.26691,
+            "last_retested_at_iso": "2020-06-12T02:35:20.266910",
+            "status": "INACTIVE"
+        },
         "csgoskini.xyz": {
             "included_at_epoch": 1591255031.88586,
             "included_at_iso": "2020-06-04T07:17:11.885860",
@@ -54481,11 +55748,410 @@
             "last_retested_at_iso": "2020-06-04T07:17:12.330841",
             "status": "INACTIVE"
         },
+        "csgoskinsinfo.com": {
+            "included_at_epoch": 1591929320.533154,
+            "included_at_iso": "2020-06-12T02:35:20.533154",
+            "last_retested_at_epoch": 1591929320.533154,
+            "last_retested_at_iso": "2020-06-12T02:35:20.533154",
+            "status": "INACTIVE"
+        },
+        "csgoskinspattern.com": {
+            "included_at_epoch": 1591929320.667248,
+            "included_at_iso": "2020-06-12T02:35:20.667248",
+            "last_retested_at_epoch": 1591929320.667248,
+            "last_retested_at_iso": "2020-06-12T02:35:20.667248",
+            "status": "INACTIVE"
+        },
+        "csgoskinsprice.com": {
+            "included_at_epoch": 1591929320.946232,
+            "included_at_iso": "2020-06-12T02:35:20.946232",
+            "last_retested_at_epoch": 1591929320.946232,
+            "last_retested_at_iso": "2020-06-12T02:35:20.946232",
+            "status": "INACTIVE"
+        },
+        "csgoskinsz.com": {
+            "included_at_epoch": 1591929320.801096,
+            "included_at_iso": "2020-06-12T02:35:20.801096",
+            "last_retested_at_epoch": 1591929320.801096,
+            "last_retested_at_iso": "2020-06-12T02:35:20.801096",
+            "status": "INACTIVE"
+        },
+        "csgoskrill.com": {
+            "included_at_epoch": 1591929321.212633,
+            "included_at_iso": "2020-06-12T02:35:21.212633",
+            "last_retested_at_epoch": 1591929321.212633,
+            "last_retested_at_iso": "2020-06-12T02:35:21.212633",
+            "status": "INACTIVE"
+        },
+        "csgoskulls.com": {
+            "included_at_epoch": 1591929321.079066,
+            "included_at_iso": "2020-06-12T02:35:21.079066",
+            "last_retested_at_epoch": 1591929321.079066,
+            "last_retested_at_iso": "2020-06-12T02:35:21.079066",
+            "status": "INACTIVE"
+        },
+        "csgoslayer.com": {
+            "included_at_epoch": 1591929321.345522,
+            "included_at_iso": "2020-06-12T02:35:21.345522",
+            "last_retested_at_epoch": 1591929321.345522,
+            "last_retested_at_iso": "2020-06-12T02:35:21.345522",
+            "status": "INACTIVE"
+        },
+        "csgosnakes.com": {
+            "included_at_epoch": 1591929321.479251,
+            "included_at_iso": "2020-06-12T02:35:21.479251",
+            "last_retested_at_epoch": 1591929321.479251,
+            "last_retested_at_iso": "2020-06-12T02:35:21.479251",
+            "status": "INACTIVE"
+        },
+        "csgosniper.net": {
+            "included_at_epoch": 1591929321.616845,
+            "included_at_iso": "2020-06-12T02:35:21.616845",
+            "last_retested_at_epoch": 1591929321.616845,
+            "last_retested_at_iso": "2020-06-12T02:35:21.616845",
+            "status": "INACTIVE"
+        },
+        "csgospare.com": {
+            "included_at_epoch": 1591929321.752229,
+            "included_at_iso": "2020-06-12T02:35:21.752229",
+            "last_retested_at_epoch": 1591929321.752229,
+            "last_retested_at_iso": "2020-06-12T02:35:21.752229",
+            "status": "INACTIVE"
+        },
+        "csgospice.com": {
+            "included_at_epoch": 1591929321.885373,
+            "included_at_iso": "2020-06-12T02:35:21.885373",
+            "last_retested_at_epoch": 1591929321.885373,
+            "last_retested_at_iso": "2020-06-12T02:35:21.885373",
+            "status": "INACTIVE"
+        },
+        "csgostage.com": {
+            "included_at_epoch": 1591929322.452353,
+            "included_at_iso": "2020-06-12T02:35:22.452353",
+            "last_retested_at_epoch": 1591929322.452353,
+            "last_retested_at_iso": "2020-06-12T02:35:22.452353",
+            "status": "INACTIVE"
+        },
+        "csgostix.com": {
+            "included_at_epoch": 1591929322.625619,
+            "included_at_iso": "2020-06-12T02:35:22.625619",
+            "last_retested_at_epoch": 1591929322.625619,
+            "last_retested_at_iso": "2020-06-12T02:35:22.625619",
+            "status": "INACTIVE"
+        },
+        "csgoswapper.online": {
+            "included_at_epoch": 1591929322.761836,
+            "included_at_iso": "2020-06-12T02:35:22.761836",
+            "last_retested_at_epoch": 1591929322.761836,
+            "last_retested_at_iso": "2020-06-12T02:35:22.761836",
+            "status": "INACTIVE"
+        },
+        "csgosxe.com": {
+            "included_at_epoch": 1591929322.895838,
+            "included_at_iso": "2020-06-12T02:35:22.895838",
+            "last_retested_at_epoch": 1591929322.895838,
+            "last_retested_at_iso": "2020-06-12T02:35:22.895838",
+            "status": "INACTIVE"
+        },
+        "csgoszone.net": {
+            "included_at_epoch": 1591929323.030882,
+            "included_at_iso": "2020-06-12T02:35:23.030882",
+            "last_retested_at_epoch": 1591929323.030882,
+            "last_retested_at_iso": "2020-06-12T02:35:23.030882",
+            "status": "INACTIVE"
+        },
+        "csgotakeoff.com": {
+            "included_at_epoch": 1591929323.1655,
+            "included_at_iso": "2020-06-12T02:35:23.165500",
+            "last_retested_at_epoch": 1591929323.1655,
+            "last_retested_at_iso": "2020-06-12T02:35:23.165500",
+            "status": "INACTIVE"
+        },
+        "csgotaunt.com": {
+            "included_at_epoch": 1591929323.734782,
+            "included_at_iso": "2020-06-12T02:35:23.734782",
+            "last_retested_at_epoch": 1591929323.734782,
+            "last_retested_at_iso": "2020-06-12T02:35:23.734782",
+            "status": "INACTIVE"
+        },
+        "csgotopplay.com": {
+            "included_at_epoch": 1591929324.28845,
+            "included_at_iso": "2020-06-12T02:35:24.288450",
+            "last_retested_at_epoch": 1591929324.28845,
+            "last_retested_at_iso": "2020-06-12T02:35:24.288450",
+            "status": "INACTIVE"
+        },
+        "csgotoptrader.pro": {
+            "included_at_epoch": 1591929324.422548,
+            "included_at_iso": "2020-06-12T02:35:24.422548",
+            "last_retested_at_epoch": 1591929324.422548,
+            "last_retested_at_iso": "2020-06-12T02:35:24.422548",
+            "status": "INACTIVE"
+        },
         "csgotover.ml": {
             "included_at_epoch": 1591255034.687773,
             "included_at_iso": "2020-06-04T07:17:14.687773",
             "last_retested_at_epoch": 1591255034.687773,
             "last_retested_at_iso": "2020-06-04T07:17:14.687773",
+            "status": "INACTIVE"
+        },
+        "csgotrade.co": {
+            "included_at_epoch": 1591929324.55712,
+            "included_at_iso": "2020-06-12T02:35:24.557120",
+            "last_retested_at_epoch": 1591929324.55712,
+            "last_retested_at_iso": "2020-06-12T02:35:24.557120",
+            "status": "INACTIVE"
+        },
+        "csgotradearea.com": {
+            "included_at_epoch": 1591929325.129764,
+            "included_at_iso": "2020-06-12T02:35:25.129764",
+            "last_retested_at_epoch": 1591929325.129764,
+            "last_retested_at_iso": "2020-06-12T02:35:25.129764",
+            "status": "INACTIVE"
+        },
+        "csgotradegear.com": {
+            "included_at_epoch": 1591929326.115214,
+            "included_at_iso": "2020-06-12T02:35:26.115214",
+            "last_retested_at_epoch": 1591929326.115214,
+            "last_retested_at_iso": "2020-06-12T02:35:26.115214",
+            "status": "INACTIVE"
+        },
+        "csgotrader.deals": {
+            "included_at_epoch": 1591929327.558642,
+            "included_at_iso": "2020-06-12T02:35:27.558642",
+            "last_retested_at_epoch": 1591929327.558642,
+            "last_retested_at_iso": "2020-06-12T02:35:27.558642",
+            "status": "INACTIVE"
+        },
+        "csgottr.com": {
+            "included_at_epoch": 1591929327.828622,
+            "included_at_iso": "2020-06-12T02:35:27.828622",
+            "last_retested_at_epoch": 1591929327.828622,
+            "last_retested_at_iso": "2020-06-12T02:35:27.828622",
+            "status": "INACTIVE"
+        },
+        "csgotunes.com": {
+            "included_at_epoch": 1591929327.692969,
+            "included_at_iso": "2020-06-12T02:35:27.692969",
+            "last_retested_at_epoch": 1591929327.692969,
+            "last_retested_at_iso": "2020-06-12T02:35:27.692969",
+            "status": "INACTIVE"
+        },
+        "csgoturbobets.com": {
+            "included_at_epoch": 1591929327.96083,
+            "included_at_iso": "2020-06-12T02:35:27.960830",
+            "last_retested_at_epoch": 1591929327.96083,
+            "last_retested_at_iso": "2020-06-12T02:35:27.960830",
+            "status": "INACTIVE"
+        },
+        "csgoultras.com": {
+            "included_at_epoch": 1591929328.093517,
+            "included_at_iso": "2020-06-12T02:35:28.093517",
+            "last_retested_at_epoch": 1591929328.093517,
+            "last_retested_at_iso": "2020-06-12T02:35:28.093517",
+            "status": "INACTIVE"
+        },
+        "csgouno.com": {
+            "included_at_epoch": 1591929328.227577,
+            "included_at_iso": "2020-06-12T02:35:28.227577",
+            "last_retested_at_epoch": 1591929328.227577,
+            "last_retested_at_iso": "2020-06-12T02:35:28.227577",
+            "status": "INACTIVE"
+        },
+        "csgoup.gg": {
+            "included_at_epoch": 1591929328.360988,
+            "included_at_iso": "2020-06-12T02:35:28.360988",
+            "last_retested_at_epoch": 1591929328.360988,
+            "last_retested_at_iso": "2020-06-12T02:35:28.360988",
+            "status": "INACTIVE"
+        },
+        "csgoupgrader.info": {
+            "included_at_epoch": 1591929328.49481,
+            "included_at_iso": "2020-06-12T02:35:28.494810",
+            "last_retested_at_epoch": 1591929328.49481,
+            "last_retested_at_iso": "2020-06-12T02:35:28.494810",
+            "status": "INACTIVE"
+        },
+        "csgouranus.com": {
+            "included_at_epoch": 1591929328.63018,
+            "included_at_iso": "2020-06-12T02:35:28.630180",
+            "last_retested_at_epoch": 1591929328.63018,
+            "last_retested_at_iso": "2020-06-12T02:35:28.630180",
+            "status": "INACTIVE"
+        },
+        "csgousp.com": {
+            "included_at_epoch": 1591929328.76429,
+            "included_at_iso": "2020-06-12T02:35:28.764290",
+            "last_retested_at_epoch": 1591929328.76429,
+            "last_retested_at_iso": "2020-06-12T02:35:28.764290",
+            "status": "INACTIVE"
+        },
+        "csgovabank.com": {
+            "included_at_epoch": 1591929328.897125,
+            "included_at_iso": "2020-06-12T02:35:28.897125",
+            "last_retested_at_epoch": 1591929328.897125,
+            "last_retested_at_iso": "2020-06-12T02:35:28.897125",
+            "status": "INACTIVE"
+        },
+        "csgovenge.com": {
+            "included_at_epoch": 1591929329.175921,
+            "included_at_iso": "2020-06-12T02:35:29.175921",
+            "last_retested_at_epoch": 1591929329.175921,
+            "last_retested_at_iso": "2020-06-12T02:35:29.175921",
+            "status": "INACTIVE"
+        },
+        "csgovex.com": {
+            "included_at_epoch": 1591929329.03037,
+            "included_at_iso": "2020-06-12T02:35:29.030370",
+            "last_retested_at_epoch": 1591929329.03037,
+            "last_retested_at_iso": "2020-06-12T02:35:29.030370",
+            "status": "INACTIVE"
+        },
+        "csgovulcan.net": {
+            "included_at_epoch": 1591929329.310264,
+            "included_at_iso": "2020-06-12T02:35:29.310264",
+            "last_retested_at_epoch": 1591929329.310264,
+            "last_retested_at_iso": "2020-06-12T02:35:29.310264",
+            "status": "INACTIVE"
+        },
+        "csgovulcano.online": {
+            "included_at_epoch": 1591929329.445452,
+            "included_at_iso": "2020-06-12T02:35:29.445452",
+            "last_retested_at_epoch": 1591929329.445452,
+            "last_retested_at_iso": "2020-06-12T02:35:29.445452",
+            "status": "INACTIVE"
+        },
+        "csgowake.net": {
+            "included_at_epoch": 1591929329.580294,
+            "included_at_iso": "2020-06-12T02:35:29.580294",
+            "last_retested_at_epoch": 1591929329.580294,
+            "last_retested_at_iso": "2020-06-12T02:35:29.580294",
+            "status": "INACTIVE"
+        },
+        "csgowelldone.com": {
+            "included_at_epoch": 1591929330.133084,
+            "included_at_iso": "2020-06-12T02:35:30.133084",
+            "last_retested_at_epoch": 1591929330.133084,
+            "last_retested_at_iso": "2020-06-12T02:35:30.133084",
+            "status": "INACTIVE"
+        },
+        "csgowildz.com": {
+            "included_at_epoch": 1591929330.699508,
+            "included_at_iso": "2020-06-12T02:35:30.699508",
+            "last_retested_at_epoch": 1591929330.699508,
+            "last_retested_at_iso": "2020-06-12T02:35:30.699508",
+            "status": "INACTIVE"
+        },
+        "csgowindrop.com": {
+            "included_at_epoch": 1591929330.833516,
+            "included_at_iso": "2020-06-12T02:35:30.833516",
+            "last_retested_at_epoch": 1591929330.833516,
+            "last_retested_at_iso": "2020-06-12T02:35:30.833516",
+            "status": "INACTIVE"
+        },
+        "csgowinpot.net": {
+            "included_at_epoch": 1591929330.967362,
+            "included_at_iso": "2020-06-12T02:35:30.967362",
+            "last_retested_at_epoch": 1591929330.967362,
+            "last_retested_at_iso": "2020-06-12T02:35:30.967362",
+            "status": "INACTIVE"
+        },
+        "csgowix.com": {
+            "included_at_epoch": 1591929331.102165,
+            "included_at_iso": "2020-06-12T02:35:31.102165",
+            "last_retested_at_epoch": 1591929331.102165,
+            "last_retested_at_iso": "2020-06-12T02:35:31.102165",
+            "status": "INACTIVE"
+        },
+        "csgowrap.pro": {
+            "included_at_epoch": 1591929331.237376,
+            "included_at_iso": "2020-06-12T02:35:31.237376",
+            "last_retested_at_epoch": 1591929331.237376,
+            "last_retested_at_iso": "2020-06-12T02:35:31.237376",
+            "status": "INACTIVE"
+        },
+        "csgoxzoner.com": {
+            "included_at_epoch": 1591929332.229193,
+            "included_at_iso": "2020-06-12T02:35:32.229193",
+            "last_retested_at_epoch": 1591929332.229193,
+            "last_retested_at_iso": "2020-06-12T02:35:32.229193",
+            "status": "INACTIVE"
+        },
+        "csgoyourbets.com": {
+            "included_at_epoch": 1591929332.510976,
+            "included_at_iso": "2020-06-12T02:35:32.510976",
+            "last_retested_at_epoch": 1591929332.510976,
+            "last_retested_at_iso": "2020-06-12T02:35:32.510976",
+            "status": "INACTIVE"
+        },
+        "csgoyourpots.com": {
+            "included_at_epoch": 1591929332.363587,
+            "included_at_iso": "2020-06-12T02:35:32.363587",
+            "last_retested_at_epoch": 1591929332.363587,
+            "last_retested_at_iso": "2020-06-12T02:35:32.363587",
+            "status": "INACTIVE"
+        },
+        "csgozone.co.uk": {
+            "included_at_epoch": 1591929332.646235,
+            "included_at_iso": "2020-06-12T02:35:32.646235",
+            "last_retested_at_epoch": 1591929332.646235,
+            "last_retested_at_iso": "2020-06-12T02:35:32.646235",
+            "status": "INACTIVE"
+        },
+        "csgozone.in": {
+            "included_at_epoch": 1591929332.916085,
+            "included_at_iso": "2020-06-12T02:35:32.916085",
+            "last_retested_at_epoch": 1591929332.916085,
+            "last_retested_at_iso": "2020-06-12T02:35:32.916085",
+            "status": "INACTIVE"
+        },
+        "csgozones.net": {
+            "included_at_epoch": 1591929332.781907,
+            "included_at_iso": "2020-06-12T02:35:32.781907",
+            "last_retested_at_epoch": 1591929332.781907,
+            "last_retested_at_iso": "2020-06-12T02:35:32.781907",
+            "status": "INACTIVE"
+        },
+        "csgreatwin.com": {
+            "included_at_epoch": 1591929333.05009,
+            "included_at_iso": "2020-06-12T02:35:33.050090",
+            "last_retested_at_epoch": 1591929333.05009,
+            "last_retested_at_iso": "2020-06-12T02:35:33.050090",
+            "status": "INACTIVE"
+        },
+        "csground.net": {
+            "included_at_epoch": 1591929333.738421,
+            "included_at_iso": "2020-06-12T02:35:33.738421",
+            "last_retested_at_epoch": 1591929333.738421,
+            "last_retested_at_iso": "2020-06-12T02:35:33.738421",
+            "status": "INACTIVE"
+        },
+        "csground.org": {
+            "included_at_epoch": 1591929333.600729,
+            "included_at_iso": "2020-06-12T02:35:33.600729",
+            "last_retested_at_epoch": 1591929333.600729,
+            "last_retested_at_iso": "2020-06-12T02:35:33.600729",
+            "status": "INACTIVE"
+        },
+        "cshacks.org": {
+            "included_at_epoch": 1591929333.891049,
+            "included_at_iso": "2020-06-12T02:35:33.891049",
+            "last_retested_at_epoch": 1591929333.891049,
+            "last_retested_at_iso": "2020-06-12T02:35:33.891049",
+            "status": "INACTIVE"
+        },
+        "cshighwin.com": {
+            "included_at_epoch": 1591929334.16391,
+            "included_at_iso": "2020-06-12T02:35:34.163910",
+            "last_retested_at_epoch": 1591929334.16391,
+            "last_retested_at_iso": "2020-06-12T02:35:34.163910",
+            "status": "INACTIVE"
+        },
+        "cshotwin.com": {
+            "included_at_epoch": 1591929334.02923,
+            "included_at_iso": "2020-06-12T02:35:34.029230",
+            "last_retested_at_epoch": 1591929334.02923,
+            "last_retested_at_iso": "2020-06-12T02:35:34.029230",
             "status": "INACTIVE"
         },
         "cshzkkihjnweb.com": {
@@ -54509,11 +56175,88 @@
             "last_retested_at_iso": "2020-06-04T07:17:19.828401",
             "status": "INACTIVE"
         },
+        "cslxhmchzgbx.com": {
+            "included_at_epoch": 1591929334.717249,
+            "included_at_iso": "2020-06-12T02:35:34.717249",
+            "last_retested_at_epoch": 1591929334.717249,
+            "last_retested_at_iso": "2020-06-12T02:35:34.717249",
+            "status": "INACTIVE"
+        },
+        "csmoney.es": {
+            "included_at_epoch": 1591929335.318072,
+            "included_at_iso": "2020-06-12T02:35:35.318072",
+            "last_retested_at_epoch": 1591929335.318072,
+            "last_retested_at_iso": "2020-06-12T02:35:35.318072",
+            "status": "INACTIVE"
+        },
+        "csmoney.exchange": {
+            "included_at_epoch": 1591929335.871372,
+            "included_at_iso": "2020-06-12T02:35:35.871372",
+            "last_retested_at_epoch": 1591929335.871372,
+            "last_retested_at_iso": "2020-06-12T02:35:35.871372",
+            "status": "INACTIVE"
+        },
+        "csmoney.pub": {
+            "included_at_epoch": 1591929336.017486,
+            "included_at_iso": "2020-06-12T02:35:36.017486",
+            "last_retested_at_epoch": 1591929336.017486,
+            "last_retested_at_iso": "2020-06-12T02:35:36.017486",
+            "status": "INACTIVE"
+        },
+        "csmoney1.ru": {
+            "included_at_epoch": 1591929336.15175,
+            "included_at_iso": "2020-06-12T02:35:36.151750",
+            "last_retested_at_epoch": 1591929336.15175,
+            "last_retested_at_iso": "2020-06-12T02:35:36.151750",
+            "status": "INACTIVE"
+        },
         "csouqeeviwo.com": {
             "included_at_epoch": 1591255042.186161,
             "included_at_iso": "2020-06-04T07:17:22.186161",
             "last_retested_at_epoch": 1591255042.186161,
             "last_retested_at_iso": "2020-06-04T07:17:22.186161",
+            "status": "INACTIVE"
+        },
+        "cspokemon.com": {
+            "included_at_epoch": 1591929337.56507,
+            "included_at_iso": "2020-06-12T02:35:37.565070",
+            "last_retested_at_epoch": 1591929337.56507,
+            "last_retested_at_iso": "2020-06-12T02:35:37.565070",
+            "status": "INACTIVE"
+        },
+        "csreaver.com": {
+            "included_at_epoch": 1591929337.700149,
+            "included_at_iso": "2020-06-12T02:35:37.700149",
+            "last_retested_at_epoch": 1591929337.700149,
+            "last_retested_at_iso": "2020-06-12T02:35:37.700149",
+            "status": "INACTIVE"
+        },
+        "csrnoney.com": {
+            "included_at_epoch": 1591929338.265055,
+            "included_at_iso": "2020-06-12T02:35:38.265055",
+            "last_retested_at_epoch": 1591929338.265055,
+            "last_retested_at_iso": "2020-06-12T02:35:38.265055",
+            "status": "INACTIVE"
+        },
+        "csrss-check-new.com": {
+            "included_at_epoch": 1591929338.404504,
+            "included_at_iso": "2020-06-12T02:35:38.404504",
+            "last_retested_at_epoch": 1591929338.404504,
+            "last_retested_at_iso": "2020-06-12T02:35:38.404504",
+            "status": "INACTIVE"
+        },
+        "csrss-update-new.com": {
+            "included_at_epoch": 1591929338.543869,
+            "included_at_iso": "2020-06-12T02:35:38.543869",
+            "last_retested_at_epoch": 1591929338.543869,
+            "last_retested_at_iso": "2020-06-12T02:35:38.543869",
+            "status": "INACTIVE"
+        },
+        "csrss-upgrade-new.com": {
+            "included_at_epoch": 1591929338.678686,
+            "included_at_iso": "2020-06-12T02:35:38.678686",
+            "last_retested_at_epoch": 1591929338.678686,
+            "last_retested_at_iso": "2020-06-12T02:35:38.678686",
             "status": "INACTIVE"
         },
         "css.juqingba.cn": {
@@ -54523,11 +56266,60 @@
             "last_retested_at_iso": "2020-06-04T07:30:35.477873",
             "status": "INACTIVE"
         },
+        "cstdfxkxbqbc.com": {
+            "included_at_epoch": 1591929339.247371,
+            "included_at_iso": "2020-06-12T02:35:39.247371",
+            "last_retested_at_epoch": 1591929339.247371,
+            "last_retested_at_iso": "2020-06-12T02:35:39.247371",
+            "status": "INACTIVE"
+        },
+        "cswin4bet.com": {
+            "included_at_epoch": 1591929339.80283,
+            "included_at_iso": "2020-06-12T02:35:39.802830",
+            "last_retested_at_epoch": 1591929339.80283,
+            "last_retested_at_iso": "2020-06-12T02:35:39.802830",
+            "status": "INACTIVE"
+        },
+        "cswinshigh.com": {
+            "included_at_epoch": 1591929340.37285,
+            "included_at_iso": "2020-06-12T02:35:40.372850",
+            "last_retested_at_epoch": 1591929340.37285,
+            "last_retested_at_iso": "2020-06-12T02:35:40.372850",
+            "status": "INACTIVE"
+        },
+        "csxiwwwcom.net": {
+            "included_at_epoch": 1591929340.643148,
+            "included_at_iso": "2020-06-12T02:35:40.643148",
+            "last_retested_at_epoch": 1591929340.643148,
+            "last_retested_at_iso": "2020-06-12T02:35:40.643148",
+            "status": "INACTIVE"
+        },
+        "csxpot.com": {
+            "included_at_epoch": 1591929340.508014,
+            "included_at_iso": "2020-06-12T02:35:40.508014",
+            "last_retested_at_epoch": 1591929340.508014,
+            "last_retested_at_iso": "2020-06-12T02:35:40.508014",
+            "status": "INACTIVE"
+        },
+        "csyngxtkifrh.com": {
+            "included_at_epoch": 1591929341.210739,
+            "included_at_iso": "2020-06-12T02:35:41.210739",
+            "last_retested_at_epoch": 1591929341.210739,
+            "last_retested_at_iso": "2020-06-12T02:35:41.210739",
+            "status": "INACTIVE"
+        },
         "ct.buzzfeed.com": {
             "included_at_epoch": 1591255838.588624,
             "included_at_iso": "2020-06-04T07:30:38.588624",
             "last_retested_at_epoch": 1591255838.588624,
             "last_retested_at_iso": "2020-06-04T07:30:38.588624",
+            "status": "INACTIVE"
+        },
+        "ct.sexadnet.com": {
+            "included_at_epoch": 1591929342.197125,
+            "included_at_iso": "2020-06-12T02:35:42.197125",
+            "last_retested_at_epoch": 1591929342.197125,
+            "last_retested_at_iso": "2020-06-12T02:35:42.197125",
             "status": "INACTIVE"
         },
         "ctcpwymaeuwnqd.com": {
@@ -54551,11 +56343,60 @@
             "last_retested_at_iso": "2020-06-04T07:30:40.802966",
             "status": "INACTIVE"
         },
+        "ctimfrfrmqip.com": {
+            "included_at_epoch": 1591929342.802592,
+            "included_at_iso": "2020-06-12T02:35:42.802592",
+            "last_retested_at_epoch": 1591929342.802592,
+            "last_retested_at_iso": "2020-06-12T02:35:42.802592",
+            "status": "INACTIVE"
+        },
+        "ctix8.cheaptickets.com": {
+            "included_at_epoch": 1591929342.937844,
+            "included_at_iso": "2020-06-12T02:35:42.937844",
+            "last_retested_at_epoch": 1591929342.937844,
+            "last_retested_at_iso": "2020-06-12T02:35:42.937844",
+            "status": "INACTIVE"
+        },
         "ctjtlrmy.com": {
             "included_at_epoch": 1591255840.891354,
             "included_at_iso": "2020-06-04T07:30:40.891354",
             "last_retested_at_epoch": 1591255840.891354,
             "last_retested_at_iso": "2020-06-04T07:30:40.891354",
+            "status": "INACTIVE"
+        },
+        "ctjwmzryhcoj.com": {
+            "included_at_epoch": 1591929343.085755,
+            "included_at_iso": "2020-06-12T02:35:43.085755",
+            "last_retested_at_epoch": 1591929343.085755,
+            "last_retested_at_iso": "2020-06-12T02:35:43.085755",
+            "status": "INACTIVE"
+        },
+        "ctleamconmunlty.com": {
+            "included_at_epoch": 1591929343.220574,
+            "included_at_iso": "2020-06-12T02:35:43.220574",
+            "last_retested_at_epoch": 1591929343.220574,
+            "last_retested_at_iso": "2020-06-12T02:35:43.220574",
+            "status": "INACTIVE"
+        },
+        "ctlrnwbv.ru": {
+            "included_at_epoch": 1591929343.37648,
+            "included_at_iso": "2020-06-12T02:35:43.376480",
+            "last_retested_at_epoch": 1591929343.37648,
+            "last_retested_at_iso": "2020-06-12T02:35:43.376480",
+            "status": "INACTIVE"
+        },
+        "ctompo.dyndns.org": {
+            "included_at_epoch": 1591929343.51118,
+            "included_at_iso": "2020-06-12T02:35:43.511180",
+            "last_retested_at_epoch": 1591929343.51118,
+            "last_retested_at_iso": "2020-06-12T02:35:43.511180",
+            "status": "INACTIVE"
+        },
+        "ctplyvuuzdcv.com": {
+            "included_at_epoch": 1591929344.063753,
+            "included_at_iso": "2020-06-12T02:35:44.063753",
+            "last_retested_at_epoch": 1591929344.063753,
+            "last_retested_at_iso": "2020-06-12T02:35:44.063753",
             "status": "INACTIVE"
         },
         "ctqniq.com": {
@@ -54593,11 +56434,137 @@
             "last_retested_at_iso": "2020-06-04T07:30:46.994728",
             "status": "INACTIVE"
         },
+        "ctxads.softure.com": {
+            "included_at_epoch": 1591929344.197683,
+            "included_at_iso": "2020-06-12T02:35:44.197683",
+            "last_retested_at_epoch": 1591929344.197683,
+            "last_retested_at_iso": "2020-06-12T02:35:44.197683",
+            "status": "INACTIVE"
+        },
+        "ctxstorage.softure.com": {
+            "included_at_epoch": 1591929344.480181,
+            "included_at_iso": "2020-06-12T02:35:44.480181",
+            "last_retested_at_epoch": 1591929344.480181,
+            "last_retested_at_iso": "2020-06-12T02:35:44.480181",
+            "status": "INACTIVE"
+        },
+        "ctynn.com": {
+            "included_at_epoch": 1591929344.345377,
+            "included_at_iso": "2020-06-12T02:35:44.345377",
+            "last_retested_at_epoch": 1591929344.345377,
+            "last_retested_at_iso": "2020-06-12T02:35:44.345377",
+            "status": "INACTIVE"
+        },
+        "ctzvtevpcssx.com": {
+            "included_at_epoch": 1591929344.615949,
+            "included_at_iso": "2020-06-12T02:35:44.615949",
+            "last_retested_at_epoch": 1591929344.615949,
+            "last_retested_at_iso": "2020-06-12T02:35:44.615949",
+            "status": "INACTIVE"
+        },
+        "cubepool.eu": {
+            "included_at_epoch": 1591929346.037471,
+            "included_at_iso": "2020-06-12T02:35:46.037471",
+            "last_retested_at_epoch": 1591929346.037471,
+            "last_retested_at_iso": "2020-06-12T02:35:46.037471",
+            "status": "INACTIVE"
+        },
+        "cuberound.ir": {
+            "included_at_epoch": 1591929346.317228,
+            "included_at_iso": "2020-06-12T02:35:46.317228",
+            "last_retested_at_epoch": 1591929346.317228,
+            "last_retested_at_iso": "2020-06-12T02:35:46.317228",
+            "status": "INACTIVE"
+        },
+        "cubeworld-download.org": {
+            "included_at_epoch": 1591929346.176804,
+            "included_at_iso": "2020-06-12T02:35:46.176804",
+            "last_retested_at_epoch": 1591929346.176804,
+            "last_retested_at_iso": "2020-06-12T02:35:46.176804",
+            "status": "INACTIVE"
+        },
+        "cubeworld-free.com": {
+            "included_at_epoch": 1591929346.612242,
+            "included_at_iso": "2020-06-12T02:35:46.612242",
+            "last_retested_at_epoch": 1591929346.612242,
+            "last_retested_at_iso": "2020-06-12T02:35:46.612242",
+            "status": "INACTIVE"
+        },
+        "cubeworld-freedownload.com": {
+            "included_at_epoch": 1591929346.470811,
+            "included_at_iso": "2020-06-12T02:35:46.470811",
+            "last_retested_at_epoch": 1591929346.470811,
+            "last_retested_at_iso": "2020-06-12T02:35:46.470811",
+            "status": "INACTIVE"
+        },
+        "cubeworld-game.net": {
+            "included_at_epoch": 1591929346.888711,
+            "included_at_iso": "2020-06-12T02:35:46.888711",
+            "last_retested_at_epoch": 1591929346.888711,
+            "last_retested_at_iso": "2020-06-12T02:35:46.888711",
+            "status": "INACTIVE"
+        },
+        "cubeworld-games.com": {
+            "included_at_epoch": 1591929346.749078,
+            "included_at_iso": "2020-06-12T02:35:46.749078",
+            "last_retested_at_epoch": 1591929346.749078,
+            "last_retested_at_iso": "2020-06-12T02:35:46.749078",
+            "status": "INACTIVE"
+        },
+        "cubeworld-telecharger.com": {
+            "included_at_epoch": 1591929347.451636,
+            "included_at_iso": "2020-06-12T02:35:47.451636",
+            "last_retested_at_epoch": 1591929347.451636,
+            "last_retested_at_iso": "2020-06-12T02:35:47.451636",
+            "status": "INACTIVE"
+        },
+        "cubeworldfree.org": {
+            "included_at_epoch": 1591929347.587632,
+            "included_at_iso": "2020-06-12T02:35:47.587632",
+            "last_retested_at_epoch": 1591929347.587632,
+            "last_retested_at_iso": "2020-06-12T02:35:47.587632",
+            "status": "INACTIVE"
+        },
+        "cubeworldhack.com": {
+            "included_at_epoch": 1591929347.721658,
+            "included_at_iso": "2020-06-12T02:35:47.721658",
+            "last_retested_at_epoch": 1591929347.721658,
+            "last_retested_at_iso": "2020-06-12T02:35:47.721658",
+            "status": "INACTIVE"
+        },
+        "cubeworldhack.net": {
+            "included_at_epoch": 1591929348.009303,
+            "included_at_iso": "2020-06-12T02:35:48.009303",
+            "last_retested_at_epoch": 1591929348.009303,
+            "last_retested_at_iso": "2020-06-12T02:35:48.009303",
+            "status": "INACTIVE"
+        },
+        "cubeworldhacks.net": {
+            "included_at_epoch": 1591929347.870374,
+            "included_at_iso": "2020-06-12T02:35:47.870374",
+            "last_retested_at_epoch": 1591929347.870374,
+            "last_retested_at_iso": "2020-06-12T02:35:47.870374",
+            "status": "INACTIVE"
+        },
+        "cubeworldpcgame.com": {
+            "included_at_epoch": 1591929348.145669,
+            "included_at_iso": "2020-06-12T02:35:48.145669",
+            "last_retested_at_epoch": 1591929348.145669,
+            "last_retested_at_iso": "2020-06-12T02:35:48.145669",
+            "status": "INACTIVE"
+        },
         "cubicmedia.net": {
             "included_at_epoch": 1591255849.372408,
             "included_at_iso": "2020-06-04T07:30:49.372408",
             "last_retested_at_epoch": 1591255849.372408,
             "last_retested_at_iso": "2020-06-04T07:30:49.372408",
+            "status": "INACTIVE"
+        },
+        "cuckkf.com": {
+            "included_at_epoch": 1591929348.28439,
+            "included_at_iso": "2020-06-12T02:35:48.284390",
+            "last_retested_at_epoch": 1591929348.28439,
+            "last_retested_at_iso": "2020-06-12T02:35:48.284390",
             "status": "INACTIVE"
         },
         "cudcfybkk.pw": {
@@ -54642,6 +56609,20 @@
             "last_retested_at_iso": "2020-06-04T07:30:52.495754",
             "status": "INACTIVE"
         },
+        "culvercountry.com": {
+            "included_at_epoch": 1591929350.137909,
+            "included_at_iso": "2020-06-12T02:35:50.137909",
+            "last_retested_at_epoch": 1591929350.137909,
+            "last_retested_at_iso": "2020-06-12T02:35:50.137909",
+            "status": "INACTIVE"
+        },
+        "cum-party.com": {
+            "included_at_epoch": 1591929350.277549,
+            "included_at_iso": "2020-06-12T02:35:50.277549",
+            "last_retested_at_epoch": 1591929350.277549,
+            "last_retested_at_iso": "2020-06-12T02:35:50.277549",
+            "status": "INACTIVE"
+        },
         "cumhurbaskanlik1009.com": {
             "included_at_epoch": 1591256914.187234,
             "included_at_iso": "2020-06-04T07:48:34.187234",
@@ -54661,6 +56642,48 @@
             "included_at_iso": "2020-06-04T07:48:35.481771",
             "last_retested_at_epoch": 1591256915.481771,
             "last_retested_at_iso": "2020-06-04T07:48:35.481771",
+            "status": "INACTIVE"
+        },
+        "cummonboys.com": {
+            "included_at_epoch": 1591929351.700685,
+            "included_at_iso": "2020-06-12T02:35:51.700685",
+            "last_retested_at_epoch": 1591929351.700685,
+            "last_retested_at_iso": "2020-06-12T02:35:51.700685",
+            "status": "INACTIVE"
+        },
+        "cumonboys.net": {
+            "included_at_epoch": 1591929352.818015,
+            "included_at_iso": "2020-06-12T02:35:52.818015",
+            "last_retested_at_epoch": 1591929352.818015,
+            "last_retested_at_iso": "2020-06-12T02:35:52.818015",
+            "status": "INACTIVE"
+        },
+        "cumonmonica.com": {
+            "included_at_epoch": 1591929352.682109,
+            "included_at_iso": "2020-06-12T02:35:52.682109",
+            "last_retested_at_epoch": 1591929352.682109,
+            "last_retested_at_iso": "2020-06-12T02:35:52.682109",
+            "status": "INACTIVE"
+        },
+        "cumriver.com": {
+            "included_at_epoch": 1591929353.368917,
+            "included_at_iso": "2020-06-12T02:35:53.368917",
+            "last_retested_at_epoch": 1591929353.368917,
+            "last_retested_at_iso": "2020-06-12T02:35:53.368917",
+            "status": "INACTIVE"
+        },
+        "cumsshut.com": {
+            "included_at_epoch": 1591929353.92987,
+            "included_at_iso": "2020-06-12T02:35:53.929870",
+            "last_retested_at_epoch": 1591929353.92987,
+            "last_retested_at_iso": "2020-06-12T02:35:53.929870",
+            "status": "INACTIVE"
+        },
+        "cunnilinguo.com": {
+            "included_at_epoch": 1591929354.507158,
+            "included_at_iso": "2020-06-12T02:35:54.507158",
+            "last_retested_at_epoch": 1591929354.507158,
+            "last_retested_at_iso": "2020-06-12T02:35:54.507158",
             "status": "INACTIVE"
         },
         "cup2board.gold": {
@@ -54684,11 +56707,53 @@
             "last_retested_at_iso": "2020-06-04T07:48:39.249239",
             "status": "INACTIVE"
         },
+        "curepcsolutions.com": {
+            "included_at_epoch": 1591929355.946203,
+            "included_at_iso": "2020-06-12T02:35:55.946203",
+            "last_retested_at_epoch": 1591929355.946203,
+            "last_retested_at_iso": "2020-06-12T02:35:55.946203",
+            "status": "INACTIVE"
+        },
+        "curerrores.com": {
+            "included_at_epoch": 1591929356.082837,
+            "included_at_iso": "2020-06-12T02:35:56.082837",
+            "last_retested_at_epoch": 1591929356.082837,
+            "last_retested_at_iso": "2020-06-12T02:35:56.082837",
+            "status": "INACTIVE"
+        },
         "curker.ru": {
             "included_at_epoch": 1591256919.339721,
             "included_at_iso": "2020-06-04T07:48:39.339721",
             "last_retested_at_epoch": 1591256919.339721,
             "last_retested_at_iso": "2020-06-04T07:48:39.339721",
+            "status": "INACTIVE"
+        },
+        "currentdating.com": {
+            "included_at_epoch": 1591929357.086813,
+            "included_at_iso": "2020-06-12T02:35:57.086813",
+            "last_retested_at_epoch": 1591929357.086813,
+            "last_retested_at_iso": "2020-06-12T02:35:57.086813",
+            "status": "INACTIVE"
+        },
+        "currentsession.net": {
+            "included_at_epoch": 1591929357.402327,
+            "included_at_iso": "2020-06-12T02:35:57.402327",
+            "last_retested_at_epoch": 1591929357.402327,
+            "last_retested_at_iso": "2020-06-12T02:35:57.402327",
+            "status": "INACTIVE"
+        },
+        "curse-talker.com": {
+            "included_at_epoch": 1591929357.695807,
+            "included_at_iso": "2020-06-12T02:35:57.695807",
+            "last_retested_at_epoch": 1591929357.695807,
+            "last_retested_at_iso": "2020-06-12T02:35:57.695807",
+            "status": "INACTIVE"
+        },
+        "cursorgizmo.com": {
+            "included_at_epoch": 1591929357.560061,
+            "included_at_iso": "2020-06-12T02:35:57.560061",
+            "last_retested_at_epoch": 1591929357.560061,
+            "last_retested_at_iso": "2020-06-12T02:35:57.560061",
             "status": "INACTIVE"
         },
         "customerdiscoverytrack.com": {
