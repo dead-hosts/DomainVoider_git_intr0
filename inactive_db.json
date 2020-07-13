@@ -6041,6 +6041,27 @@
             "last_retested_at_iso": "2020-07-13T21:24:09.360865",
             "status": "INACTIVE"
         },
+        "amztpps.com": {
+            "included_at_epoch": 1594677503.355277,
+            "included_at_iso": "2020-07-13T21:58:23.355277",
+            "last_retested_at_epoch": 1594677503.355277,
+            "last_retested_at_iso": "2020-07-13T21:58:23.355277",
+            "status": "INACTIVE"
+        },
+        "amzynsd.com": {
+            "included_at_epoch": 1594677503.424985,
+            "included_at_iso": "2020-07-13T21:58:23.424985",
+            "last_retested_at_epoch": 1594677503.424985,
+            "last_retested_at_iso": "2020-07-13T21:58:23.424985",
+            "status": "INACTIVE"
+        },
+        "analisadaily.com.nuqu.su": {
+            "included_at_epoch": 1594677503.924815,
+            "included_at_iso": "2020-07-13T21:58:23.924815",
+            "last_retested_at_epoch": 1594677503.924815,
+            "last_retested_at_iso": "2020-07-13T21:58:23.924815",
+            "status": "INACTIVE"
+        },
         "analytics.qoqa.com": {
             "included_at_epoch": 1592341731.858884,
             "included_at_iso": "2020-06-16T21:08:51.858884",
@@ -6069,6 +6090,20 @@
             "last_retested_at_iso": "2020-07-13T19:10:22.934201",
             "status": "INACTIVE"
         },
+        "andreasimons.org": {
+            "included_at_epoch": 1594677508.637548,
+            "included_at_iso": "2020-07-13T21:58:28.637548",
+            "last_retested_at_epoch": 1594677508.637548,
+            "last_retested_at_iso": "2020-07-13T21:58:28.637548",
+            "status": "INACTIVE"
+        },
+        "andregsilva.com": {
+            "included_at_epoch": 1594677509.13815,
+            "included_at_iso": "2020-07-13T21:58:29.138150",
+            "last_retested_at_epoch": 1594677509.13815,
+            "last_retested_at_iso": "2020-07-13T21:58:29.138150",
+            "status": "INACTIVE"
+        },
         "angelpardadaskuy.000webhostapp.com": {
             "included_at_epoch": 1594667422.962551,
             "included_at_iso": "2020-07-13T19:10:22.962551",
@@ -6083,11 +6118,116 @@
             "last_retested_at_iso": "2020-07-13T19:10:22.990976",
             "status": "INACTIVE"
         },
+        "angriestsemidomed.info": {
+            "included_at_epoch": 1594677510.149075,
+            "included_at_iso": "2020-07-13T21:58:30.149075",
+            "last_retested_at_epoch": 1594677510.149075,
+            "last_retested_at_iso": "2020-07-13T21:58:30.149075",
+            "status": "INACTIVE"
+        },
+        "anpriwop.heartchakracheckup.com": {
+            "included_at_epoch": 1594677515.715194,
+            "included_at_iso": "2020-07-13T21:58:35.715194",
+            "last_retested_at_epoch": 1594677515.715194,
+            "last_retested_at_iso": "2020-07-13T21:58:35.715194",
+            "status": "INACTIVE"
+        },
+        "ansi1.info": {
+            "included_at_epoch": 1594677516.272108,
+            "included_at_iso": "2020-07-13T21:58:36.272108",
+            "last_retested_at_epoch": 1594677516.272108,
+            "last_retested_at_iso": "2020-07-13T21:58:36.272108",
+            "status": "INACTIVE"
+        },
+        "anteriorly.thicangall.nl": {
+            "included_at_epoch": 1594677517.267835,
+            "included_at_iso": "2020-07-13T21:58:37.267835",
+            "last_retested_at_epoch": 1594677517.267835,
+            "last_retested_at_iso": "2020-07-13T21:58:37.267835",
+            "status": "INACTIVE"
+        },
+        "anthonydaugust.com": {
+            "included_at_epoch": 1594677517.774628,
+            "included_at_iso": "2020-07-13T21:58:37.774628",
+            "last_retested_at_epoch": 1594677517.774628,
+            "last_retested_at_iso": "2020-07-13T21:58:37.774628",
+            "status": "INACTIVE"
+        },
         "antiscriptural-song.000webhostapp.com": {
             "included_at_epoch": 1594667423.019347,
             "included_at_iso": "2020-07-13T19:10:23.019347",
             "last_retested_at_epoch": 1594667423.019347,
             "last_retested_at_iso": "2020-07-13T19:10:23.019347",
+            "status": "INACTIVE"
+        },
+        "anton-naturopathe.xyz": {
+            "included_at_epoch": 1594677520.054689,
+            "included_at_iso": "2020-07-13T21:58:40.054689",
+            "last_retested_at_epoch": 1594677520.054689,
+            "last_retested_at_iso": "2020-07-13T21:58:40.054689",
+            "status": "INACTIVE"
+        },
+        "anz.com.au.reviewactivity.limited": {
+            "included_at_epoch": 1594677521.016766,
+            "included_at_iso": "2020-07-13T21:58:41.016766",
+            "last_retested_at_epoch": 1594677521.016766,
+            "last_retested_at_iso": "2020-07-13T21:58:41.016766",
+            "status": "INACTIVE"
+        },
+        "aoek.heartchakracheckup.com": {
+            "included_at_epoch": 1594677521.597154,
+            "included_at_iso": "2020-07-13T21:58:41.597154",
+            "last_retested_at_epoch": 1594677521.597154,
+            "last_retested_at_iso": "2020-07-13T21:58:41.597154",
+            "status": "INACTIVE"
+        },
+        "aofcdady.shoesmogul.com": {
+            "included_at_epoch": 1594677521.529722,
+            "included_at_iso": "2020-07-13T21:58:41.529722",
+            "last_retested_at_epoch": 1594677521.529722,
+            "last_retested_at_iso": "2020-07-13T21:58:41.529722",
+            "status": "INACTIVE"
+        },
+        "aol.com.inboxreadl.icu": {
+            "included_at_epoch": 1594677521.691625,
+            "included_at_iso": "2020-07-13T21:58:41.691625",
+            "last_retested_at_epoch": 1594677521.691625,
+            "last_retested_at_iso": "2020-07-13T21:58:41.691625",
+            "status": "INACTIVE"
+        },
+        "aol.com.mailchkmessageb.icu": {
+            "included_at_epoch": 1594677521.839109,
+            "included_at_iso": "2020-07-13T21:58:41.839109",
+            "last_retested_at_epoch": 1594677521.839109,
+            "last_retested_at_iso": "2020-07-13T21:58:41.839109",
+            "status": "INACTIVE"
+        },
+        "aol.com.mobilepreviewt.icu": {
+            "included_at_epoch": 1594677521.758875,
+            "included_at_iso": "2020-07-13T21:58:41.758875",
+            "last_retested_at_epoch": 1594677521.758875,
+            "last_retested_at_iso": "2020-07-13T21:58:41.758875",
+            "status": "INACTIVE"
+        },
+        "aol.com.onlinepreviewa.icu": {
+            "included_at_epoch": 1594677521.906718,
+            "included_at_iso": "2020-07-13T21:58:41.906718",
+            "last_retested_at_epoch": 1594677521.906718,
+            "last_retested_at_iso": "2020-07-13T21:58:41.906718",
+            "status": "INACTIVE"
+        },
+        "aomazonniu.sujp.mingjiuweiiou.cn": {
+            "included_at_epoch": 1594677522.604614,
+            "included_at_iso": "2020-07-13T21:58:42.604614",
+            "last_retested_at_epoch": 1594677522.604614,
+            "last_retested_at_iso": "2020-07-13T21:58:42.604614",
+            "status": "INACTIVE"
+        },
+        "aomyq.heartchakracheckup.com": {
+            "included_at_epoch": 1594677522.672562,
+            "included_at_iso": "2020-07-13T21:58:42.672562",
+            "last_retested_at_epoch": 1594677522.672562,
+            "last_retested_at_iso": "2020-07-13T21:58:42.672562",
             "status": "INACTIVE"
         },
         "aoth-vk-com-ru.000webhostapp.com": {
@@ -6118,6 +6258,83 @@
             "last_retested_at_iso": "2020-07-13T19:10:23.133528",
             "status": "INACTIVE"
         },
+        "aoying88zixunwang.www-nl-knab.com": {
+            "included_at_epoch": 1594677522.768194,
+            "included_at_iso": "2020-07-13T21:58:42.768194",
+            "last_retested_at_epoch": 1594677522.768194,
+            "last_retested_at_iso": "2020-07-13T21:58:42.768194",
+            "status": "INACTIVE"
+        },
+        "aoyunhuinanzizuqiu.jeyh.cn": {
+            "included_at_epoch": 1594677523.285018,
+            "included_at_iso": "2020-07-13T21:58:43.285018",
+            "last_retested_at_epoch": 1594677523.285018,
+            "last_retested_at_iso": "2020-07-13T21:58:43.285018",
+            "status": "INACTIVE"
+        },
+        "ap8e41q56e132da.com": {
+            "included_at_epoch": 1594677523.786095,
+            "included_at_iso": "2020-07-13T21:58:43.786095",
+            "last_retested_at_epoch": 1594677523.786095,
+            "last_retested_at_iso": "2020-07-13T21:58:43.786095",
+            "status": "INACTIVE"
+        },
+        "apasspost-upgrade.ga": {
+            "included_at_epoch": 1594677524.300075,
+            "included_at_iso": "2020-07-13T21:58:44.300075",
+            "last_retested_at_epoch": 1594677524.300075,
+            "last_retested_at_iso": "2020-07-13T21:58:44.300075",
+            "status": "INACTIVE"
+        },
+        "apf.aplicativobbonline.com": {
+            "included_at_epoch": 1594677524.867007,
+            "included_at_iso": "2020-07-13T21:58:44.867007",
+            "last_retested_at_epoch": 1594677524.867007,
+            "last_retested_at_iso": "2020-07-13T21:58:44.867007",
+            "status": "INACTIVE"
+        },
+        "api.app1e.cc": {
+            "included_at_epoch": 1594677526.286672,
+            "included_at_iso": "2020-07-13T21:58:46.286672",
+            "last_retested_at_epoch": 1594677526.286672,
+            "last_retested_at_iso": "2020-07-13T21:58:46.286672",
+            "status": "INACTIVE"
+        },
+        "api.ar-lnstagram.com": {
+            "included_at_epoch": 1594677526.383469,
+            "included_at_iso": "2020-07-13T21:58:46.383469",
+            "last_retested_at_epoch": 1594677526.383469,
+            "last_retested_at_iso": "2020-07-13T21:58:46.383469",
+            "status": "INACTIVE"
+        },
+        "api.faceb00k.25march.com": {
+            "included_at_epoch": 1594677526.509116,
+            "included_at_iso": "2020-07-13T21:58:46.509116",
+            "last_retested_at_epoch": 1594677526.509116,
+            "last_retested_at_iso": "2020-07-13T21:58:46.509116",
+            "status": "INACTIVE"
+        },
+        "api.tw1tter.js3and404.com": {
+            "included_at_epoch": 1594677526.578217,
+            "included_at_iso": "2020-07-13T21:58:46.578217",
+            "last_retested_at_epoch": 1594677526.578217,
+            "last_retested_at_iso": "2020-07-13T21:58:46.578217",
+            "status": "INACTIVE"
+        },
+        "api.twltters.xyz": {
+            "included_at_epoch": 1594677526.646254,
+            "included_at_iso": "2020-07-13T21:58:46.646254",
+            "last_retested_at_epoch": 1594677526.646254,
+            "last_retested_at_iso": "2020-07-13T21:58:46.646254",
+            "status": "INACTIVE"
+        },
+        "aplinc-office.servebbs.com": {
+            "included_at_epoch": 1594677527.717929,
+            "included_at_iso": "2020-07-13T21:58:47.717929",
+            "last_retested_at_epoch": 1594677527.717929,
+            "last_retested_at_iso": "2020-07-13T21:58:47.717929",
+            "status": "INACTIVE"
+        },
         "app-1537966966.000webhostapp.com": {
             "included_at_epoch": 1594667423.162784,
             "included_at_iso": "2020-07-13T19:10:23.162784",
@@ -6146,11 +6363,25 @@
             "last_retested_at_iso": "2020-06-23T22:06:56.540700",
             "status": "INACTIVE"
         },
+        "app-facebook-confirmation.4xnzpabyka-v1p3zwo8l3ye.p.runcloud.link": {
+            "included_at_epoch": 1594677530.12253,
+            "included_at_iso": "2020-07-13T21:58:50.122530",
+            "last_retested_at_epoch": 1594677530.12253,
+            "last_retested_at_iso": "2020-07-13T21:58:50.122530",
+            "status": "INACTIVE"
+        },
         "app-gestao.000webhostapp.com": {
             "included_at_epoch": 1594667423.216158,
             "included_at_iso": "2020-07-13T19:10:23.216158",
             "last_retested_at_epoch": 1594667423.216158,
             "last_retested_at_iso": "2020-07-13T19:10:23.216158",
+            "status": "INACTIVE"
+        },
+        "app-idserviceaccountcloudactivator12392312.boldexperiencebyme.info": {
+            "included_at_epoch": 1594677531.069963,
+            "included_at_iso": "2020-07-13T21:58:51.069963",
+            "last_retested_at_epoch": 1594677531.069963,
+            "last_retested_at_iso": "2020-07-13T21:58:51.069963",
             "status": "INACTIVE"
         },
         "app-ita-unlock.000webhostapp.com": {
@@ -6160,11 +6391,81 @@
             "last_retested_at_iso": "2020-07-13T19:10:23.273758",
             "status": "INACTIVE"
         },
+        "app-n26-accountcliente.eu": {
+            "included_at_epoch": 1594677532.077945,
+            "included_at_iso": "2020-07-13T21:58:52.077945",
+            "last_retested_at_epoch": 1594677532.077945,
+            "last_retested_at_iso": "2020-07-13T21:58:52.077945",
+            "status": "INACTIVE"
+        },
+        "app-seg-com.umbler.net": {
+            "included_at_epoch": 1594677534.363742,
+            "included_at_iso": "2020-07-13T21:58:54.363742",
+            "last_retested_at_epoch": 1594677534.363742,
+            "last_retested_at_iso": "2020-07-13T21:58:54.363742",
+            "status": "INACTIVE"
+        },
         "app-verifyinformation-secureapplid.sbsbt157g.com": {
             "included_at_epoch": 1592950017.736437,
             "included_at_iso": "2020-06-23T22:06:57.736437",
             "last_retested_at_epoch": 1592950017.736437,
             "last_retested_at_iso": "2020-06-23T22:06:57.736437",
+            "status": "INACTIVE"
+        },
+        "app.aktifitypages2020.my.id": {
+            "included_at_epoch": 1594677535.393794,
+            "included_at_iso": "2020-07-13T21:58:55.393794",
+            "last_retested_at_epoch": 1594677535.393794,
+            "last_retested_at_iso": "2020-07-13T21:58:55.393794",
+            "status": "INACTIVE"
+        },
+        "app.americanas.servicosac24horas.com": {
+            "included_at_epoch": 1594677535.463816,
+            "included_at_iso": "2020-07-13T21:58:55.463816",
+            "last_retested_at_epoch": 1594677535.463816,
+            "last_retested_at_iso": "2020-07-13T21:58:55.463816",
+            "status": "INACTIVE"
+        },
+        "app.cartoriofederal.com.br": {
+            "included_at_epoch": 1594677535.590574,
+            "included_at_iso": "2020-07-13T21:58:55.590574",
+            "last_retested_at_epoch": 1594677535.590574,
+            "last_retested_at_iso": "2020-07-13T21:58:55.590574",
+            "status": "INACTIVE"
+        },
+        "app.correcao.mercadop.com": {
+            "included_at_epoch": 1594677535.661297,
+            "included_at_iso": "2020-07-13T21:58:55.661297",
+            "last_retested_at_epoch": 1594677535.661297,
+            "last_retested_at_iso": "2020-07-13T21:58:55.661297",
+            "status": "INACTIVE"
+        },
+        "app.correcaomodulo.com": {
+            "included_at_epoch": 1594677535.732942,
+            "included_at_iso": "2020-07-13T21:58:55.732942",
+            "last_retested_at_epoch": 1594677535.732942,
+            "last_retested_at_iso": "2020-07-13T21:58:55.732942",
+            "status": "INACTIVE"
+        },
+        "app.descargas1.xyz": {
+            "included_at_epoch": 1594677535.804489,
+            "included_at_iso": "2020-07-13T21:58:55.804489",
+            "last_retested_at_epoch": 1594677535.804489,
+            "last_retested_at_iso": "2020-07-13T21:58:55.804489",
+            "status": "INACTIVE"
+        },
+        "app.descargas2.xyz": {
+            "included_at_epoch": 1594677535.876441,
+            "included_at_iso": "2020-07-13T21:58:55.876441",
+            "last_retested_at_epoch": 1594677535.876441,
+            "last_retested_at_iso": "2020-07-13T21:58:55.876441",
+            "status": "INACTIVE"
+        },
+        "app.descargas3.xyz": {
+            "included_at_epoch": 1594677535.947856,
+            "included_at_iso": "2020-07-13T21:58:55.947856",
+            "last_retested_at_epoch": 1594677535.947856,
+            "last_retested_at_iso": "2020-07-13T21:58:55.947856",
             "status": "INACTIVE"
         },
         "app.emaillineapps.com": {
@@ -6174,11 +6475,179 @@
             "last_retested_at_iso": "2020-06-23T22:06:58.317071",
             "status": "INACTIVE"
         },
+        "app.globaltimework.my.id": {
+            "included_at_epoch": 1594677536.104754,
+            "included_at_iso": "2020-07-13T21:58:56.104754",
+            "last_retested_at_epoch": 1594677536.104754,
+            "last_retested_at_iso": "2020-07-13T21:58:56.104754",
+            "status": "INACTIVE"
+        },
+        "app.help-recovery-pages.my.id": {
+            "included_at_epoch": 1594677536.173665,
+            "included_at_iso": "2020-07-13T21:58:56.173665",
+            "last_retested_at_epoch": 1594677536.173665,
+            "last_retested_at_iso": "2020-07-13T21:58:56.173665",
+            "status": "INACTIVE"
+        },
+        "app.lojasamericanasonline.cf": {
+            "included_at_epoch": 1594677536.241877,
+            "included_at_iso": "2020-07-13T21:58:56.241877",
+            "last_retested_at_epoch": 1594677536.241877,
+            "last_retested_at_iso": "2020-07-13T21:58:56.241877",
+            "status": "INACTIVE"
+        },
+        "app.mailjet.com.login.7618.florida-yachting.com": {
+            "included_at_epoch": 1594677536.395073,
+            "included_at_iso": "2020-07-13T21:58:56.395073",
+            "last_retested_at_epoch": 1594677536.395073,
+            "last_retested_at_iso": "2020-07-13T21:58:56.395073",
+            "status": "INACTIVE"
+        },
+        "app.mailjet.com.login.7619.florida-yachting.com": {
+            "included_at_epoch": 1594677536.464691,
+            "included_at_iso": "2020-07-13T21:58:56.464691",
+            "last_retested_at_epoch": 1594677536.464691,
+            "last_retested_at_iso": "2020-07-13T21:58:56.464691",
+            "status": "INACTIVE"
+        },
+        "app.manage.apple.ca-region.info": {
+            "included_at_epoch": 1594677536.534554,
+            "included_at_iso": "2020-07-13T21:58:56.534554",
+            "last_retested_at_epoch": 1594677536.534554,
+            "last_retested_at_iso": "2020-07-13T21:58:56.534554",
+            "status": "INACTIVE"
+        },
+        "app.manage.purchescancel.ronakkordestani.com": {
+            "included_at_epoch": 1594677536.60447,
+            "included_at_iso": "2020-07-13T21:58:56.604470",
+            "last_retested_at_epoch": 1594677536.60447,
+            "last_retested_at_iso": "2020-07-13T21:58:56.604470",
+            "status": "INACTIVE"
+        },
+        "app.mmlgax.com": {
+            "included_at_epoch": 1594677536.702195,
+            "included_at_iso": "2020-07-13T21:58:56.702195",
+            "last_retested_at_epoch": 1594677536.702195,
+            "last_retested_at_iso": "2020-07-13T21:58:56.702195",
+            "status": "INACTIVE"
+        },
+        "app.netflix.com-toupd-privprofileopen.burrgerhub.com": {
+            "included_at_epoch": 1594677536.771832,
+            "included_at_iso": "2020-07-13T21:58:56.771832",
+            "last_retested_at_epoch": 1594677536.771832,
+            "last_retested_at_iso": "2020-07-13T21:58:56.771832",
+            "status": "INACTIVE"
+        },
+        "app.sendgrid.com.login.1943.cifuentescortegaza.com": {
+            "included_at_epoch": 1594677536.869617,
+            "included_at_iso": "2020-07-13T21:58:56.869617",
+            "last_retested_at_epoch": 1594677536.869617,
+            "last_retested_at_iso": "2020-07-13T21:58:56.869617",
+            "status": "INACTIVE"
+        },
+        "app.sendgrid.com.login.5442.jouri-clephas.de": {
+            "included_at_epoch": 1594677536.939076,
+            "included_at_iso": "2020-07-13T21:58:56.939076",
+            "last_retested_at_epoch": 1594677536.939076,
+            "last_retested_at_iso": "2020-07-13T21:58:56.939076",
+            "status": "INACTIVE"
+        },
+        "app.sendgrid.com.login.5442.wierlemann-edv.biz": {
+            "included_at_epoch": 1594677537.008618,
+            "included_at_iso": "2020-07-13T21:58:57.008618",
+            "last_retested_at_epoch": 1594677537.008618,
+            "last_retested_at_iso": "2020-07-13T21:58:57.008618",
+            "status": "INACTIVE"
+        },
+        "app.sign.in.amazon.jp.langk-jp.w0l.t.iratclici.com": {
+            "included_at_epoch": 1594677537.136334,
+            "included_at_iso": "2020-07-13T21:58:57.136334",
+            "last_retested_at_epoch": 1594677537.136334,
+            "last_retested_at_iso": "2020-07-13T21:58:57.136334",
+            "status": "INACTIVE"
+        },
         "app.webapps-etdrfcyhgvjhbahqw.rfychgvjb.com": {
             "included_at_epoch": 1592950018.471878,
             "included_at_iso": "2020-06-23T22:06:58.471878",
             "last_retested_at_epoch": 1592950018.471878,
             "last_retested_at_iso": "2020-06-23T22:06:58.471878",
+            "status": "INACTIVE"
+        },
+        "app1.inproblemaction.com": {
+            "included_at_epoch": 1594677537.205837,
+            "included_at_iso": "2020-07-13T21:58:57.205837",
+            "last_retested_at_epoch": 1594677537.205837,
+            "last_retested_at_iso": "2020-07-13T21:58:57.205837",
+            "status": "INACTIVE"
+        },
+        "app1e-id-manage-2f4j6vans024rljp14hc0becr5.eejtt4.com": {
+            "included_at_epoch": 1594677537.302871,
+            "included_at_iso": "2020-07-13T21:58:57.302871",
+            "last_retested_at_epoch": 1594677537.302871,
+            "last_retested_at_iso": "2020-07-13T21:58:57.302871",
+            "status": "INACTIVE"
+        },
+        "app1e-id-manage-baf1plj9p3tr8f4rujkf5cmnn9.eejtt4.com": {
+            "included_at_epoch": 1594677537.483674,
+            "included_at_iso": "2020-07-13T21:58:57.483674",
+            "last_retested_at_epoch": 1594677537.483674,
+            "last_retested_at_iso": "2020-07-13T21:58:57.483674",
+            "status": "INACTIVE"
+        },
+        "app1e-id-manage-d6b11fak7c7olgn0067fckvc4j.sn8pca.com": {
+            "included_at_epoch": 1594677537.553209,
+            "included_at_iso": "2020-07-13T21:58:57.553209",
+            "last_retested_at_epoch": 1594677537.553209,
+            "last_retested_at_iso": "2020-07-13T21:58:57.553209",
+            "status": "INACTIVE"
+        },
+        "app1e-id-manage-hraa5c1b0rioo19eg1n8hq2057.sn8pca.com": {
+            "included_at_epoch": 1594677537.622281,
+            "included_at_iso": "2020-07-13T21:58:57.622281",
+            "last_retested_at_epoch": 1594677537.622281,
+            "last_retested_at_iso": "2020-07-13T21:58:57.622281",
+            "status": "INACTIVE"
+        },
+        "app1e-id-manage-udkk6mpk2t0ol6soqq97mp7dk7.k5wsj3.com": {
+            "included_at_epoch": 1594677537.77418,
+            "included_at_iso": "2020-07-13T21:58:57.774180",
+            "last_retested_at_epoch": 1594677537.77418,
+            "last_retested_at_iso": "2020-07-13T21:58:57.774180",
+            "status": "INACTIVE"
+        },
+        "app1e.akahoney.live": {
+            "included_at_epoch": 1594677537.913009,
+            "included_at_iso": "2020-07-13T21:58:57.913009",
+            "last_retested_at_epoch": 1594677537.913009,
+            "last_retested_at_iso": "2020-07-13T21:58:57.913009",
+            "status": "INACTIVE"
+        },
+        "app1e.app1eid-support-1ocked.com": {
+            "included_at_epoch": 1594677537.843356,
+            "included_at_iso": "2020-07-13T21:58:57.843356",
+            "last_retested_at_epoch": 1594677537.843356,
+            "last_retested_at_iso": "2020-07-13T21:58:57.843356",
+            "status": "INACTIVE"
+        },
+        "app1e.management-app1e-access.com": {
+            "included_at_epoch": 1594677538.039335,
+            "included_at_iso": "2020-07-13T21:58:58.039335",
+            "last_retested_at_epoch": 1594677538.039335,
+            "last_retested_at_iso": "2020-07-13T21:58:58.039335",
+            "status": "INACTIVE"
+        },
+        "app1e.secure-verifysupport-app1e.com": {
+            "included_at_epoch": 1594677538.109478,
+            "included_at_iso": "2020-07-13T21:58:58.109478",
+            "last_retested_at_epoch": 1594677538.109478,
+            "last_retested_at_iso": "2020-07-13T21:58:58.109478",
+            "status": "INACTIVE"
+        },
+        "app1e.support-app1e-1ocked-myaccountsecure.com": {
+            "included_at_epoch": 1594677538.20833,
+            "included_at_iso": "2020-07-13T21:58:58.208330",
+            "last_retested_at_epoch": 1594677538.20833,
+            "last_retested_at_iso": "2020-07-13T21:58:58.208330",
             "status": "INACTIVE"
         },
         "app1e.theremedycenter.com": {
@@ -6188,11 +6657,25 @@
             "last_retested_at_iso": "2020-06-23T22:06:59.530372",
             "status": "INACTIVE"
         },
+        "app1eid.app1e.com.restore-idapp1e.com": {
+            "included_at_epoch": 1594677538.335164,
+            "included_at_iso": "2020-07-13T21:58:58.335164",
+            "last_retested_at_epoch": 1594677538.335164,
+            "last_retested_at_iso": "2020-07-13T21:58:58.335164",
+            "status": "INACTIVE"
+        },
         "app1es.silasbarta.com": {
             "included_at_epoch": 1592950020.559417,
             "included_at_iso": "2020-06-23T22:07:00.559417",
             "last_retested_at_epoch": 1592950020.559417,
             "last_retested_at_iso": "2020-06-23T22:07:00.559417",
+            "status": "INACTIVE"
+        },
+        "app2020aprilsup119219321.heybrothersong.com": {
+            "included_at_epoch": 1594677538.405114,
+            "included_at_iso": "2020-07-13T21:58:58.405114",
+            "last_retested_at_epoch": 1594677538.405114,
+            "last_retested_at_iso": "2020-07-13T21:58:58.405114",
             "status": "INACTIVE"
         },
         "app4886.hndry30.live": {
@@ -6202,11 +6685,67 @@
             "last_retested_at_iso": "2020-06-23T22:07:00.758947",
             "status": "INACTIVE"
         },
+        "app5157.nonameqwer87.live": {
+            "included_at_epoch": 1594677539.010526,
+            "included_at_iso": "2020-07-13T21:58:59.010526",
+            "last_retested_at_epoch": 1594677539.010526,
+            "last_retested_at_iso": "2020-07-13T21:58:59.010526",
+            "status": "INACTIVE"
+        },
         "appbitflyer-claimbonuses.000webhostapp.com": {
             "included_at_epoch": 1594667423.301983,
             "included_at_iso": "2020-07-13T19:10:23.301983",
             "last_retested_at_epoch": 1594667423.301983,
             "last_retested_at_iso": "2020-07-13T19:10:23.301983",
+            "status": "INACTIVE"
+        },
+        "appeal-1005625.com": {
+            "included_at_epoch": 1594677540.458189,
+            "included_at_iso": "2020-07-13T21:59:00.458189",
+            "last_retested_at_epoch": 1594677540.458189,
+            "last_retested_at_iso": "2020-07-13T21:59:00.458189",
+            "status": "INACTIVE"
+        },
+        "appeal-100928703989.com": {
+            "included_at_epoch": 1594677540.529391,
+            "included_at_iso": "2020-07-13T21:59:00.529391",
+            "last_retested_at_epoch": 1594677540.529391,
+            "last_retested_at_iso": "2020-07-13T21:59:00.529391",
+            "status": "INACTIVE"
+        },
+        "appeid.appieid.co.jp-itunes.music-appstore.i7cgiv01.info": {
+            "included_at_epoch": 1594677541.062736,
+            "included_at_iso": "2020-07-13T21:59:01.062736",
+            "last_retested_at_epoch": 1594677541.062736,
+            "last_retested_at_iso": "2020-07-13T21:59:01.062736",
+            "status": "INACTIVE"
+        },
+        "appid-information.complete.payment.haxjs.info": {
+            "included_at_epoch": 1594677541.187714,
+            "included_at_iso": "2020-07-13T21:59:01.187714",
+            "last_retested_at_epoch": 1594677541.187714,
+            "last_retested_at_iso": "2020-07-13T21:59:01.187714",
+            "status": "INACTIVE"
+        },
+        "appid-manageaccount-securebiling.fantasi-88.com": {
+            "included_at_epoch": 1594677541.284717,
+            "included_at_iso": "2020-07-13T21:59:01.284717",
+            "last_retested_at_epoch": 1594677541.284717,
+            "last_retested_at_iso": "2020-07-13T21:59:01.284717",
+            "status": "INACTIVE"
+        },
+        "appid-support.sumary-securetysc.com": {
+            "included_at_epoch": 1594677541.357431,
+            "included_at_iso": "2020-07-13T21:59:01.357431",
+            "last_retested_at_epoch": 1594677541.357431,
+            "last_retested_at_iso": "2020-07-13T21:59:01.357431",
+            "status": "INACTIVE"
+        },
+        "appid-updates.com": {
+            "included_at_epoch": 1594677541.427189,
+            "included_at_iso": "2020-07-13T21:59:01.427189",
+            "last_retested_at_epoch": 1594677541.427189,
+            "last_retested_at_iso": "2020-07-13T21:59:01.427189",
             "status": "INACTIVE"
         },
         "appid.ioaccn.top": {
@@ -6216,6 +6755,69 @@
             "last_retested_at_iso": "2020-06-23T22:07:00.914766",
             "status": "INACTIVE"
         },
+        "appid.manage.apple.ca-region.info": {
+            "included_at_epoch": 1594677541.526038,
+            "included_at_iso": "2020-07-13T21:59:01.526038",
+            "last_retested_at_epoch": 1594677541.526038,
+            "last_retested_at_iso": "2020-07-13T21:59:01.526038",
+            "status": "INACTIVE"
+        },
+        "appid.services.information.your.purchase.lonkdisbulas.net": {
+            "included_at_epoch": 1594677541.623157,
+            "included_at_iso": "2020-07-13T21:59:01.623157",
+            "last_retested_at_epoch": 1594677541.623157,
+            "last_retested_at_iso": "2020-07-13T21:59:01.623157",
+            "status": "INACTIVE"
+        },
+        "appid.support.secure-sumry.com": {
+            "included_at_epoch": 1594677541.692173,
+            "included_at_iso": "2020-07-13T21:59:01.692173",
+            "last_retested_at_epoch": 1594677541.692173,
+            "last_retested_at_iso": "2020-07-13T21:59:01.692173",
+            "status": "INACTIVE"
+        },
+        "appie.ld-security.com": {
+            "included_at_epoch": 1594677541.76026,
+            "included_at_iso": "2020-07-13T21:59:01.760260",
+            "last_retested_at_epoch": 1594677541.76026,
+            "last_retested_at_iso": "2020-07-13T21:59:01.760260",
+            "status": "INACTIVE"
+        },
+        "apple-acaypuki12.serveirc.com": {
+            "included_at_epoch": 1594677544.096118,
+            "included_at_iso": "2020-07-13T21:59:04.096118",
+            "last_retested_at_epoch": 1594677544.096118,
+            "last_retested_at_iso": "2020-07-13T21:59:04.096118",
+            "status": "INACTIVE"
+        },
+        "apple-card.applecardcausit.com": {
+            "included_at_epoch": 1594677545.196967,
+            "included_at_iso": "2020-07-13T21:59:05.196967",
+            "last_retested_at_epoch": 1594677545.196967,
+            "last_retested_at_iso": "2020-07-13T21:59:05.196967",
+            "status": "INACTIVE"
+        },
+        "apple-card.applesafecaus.com": {
+            "included_at_epoch": 1594677545.127507,
+            "included_at_iso": "2020-07-13T21:59:05.127507",
+            "last_retested_at_epoch": 1594677545.127507,
+            "last_retested_at_iso": "2020-07-13T21:59:05.127507",
+            "status": "INACTIVE"
+        },
+        "apple-card.applesafecausit.com": {
+            "included_at_epoch": 1594677545.336729,
+            "included_at_iso": "2020-07-13T21:59:05.336729",
+            "last_retested_at_epoch": 1594677545.336729,
+            "last_retested_at_iso": "2020-07-13T21:59:05.336729",
+            "status": "INACTIVE"
+        },
+        "apple-com-jp-sing5245586255812564asdbasyuhbfgas7iydbnilasdas.xyz": {
+            "included_at_epoch": 1594677545.266731,
+            "included_at_iso": "2020-07-13T21:59:05.266731",
+            "last_retested_at_epoch": 1594677545.266731,
+            "last_retested_at_iso": "2020-07-13T21:59:05.266731",
+            "status": "INACTIVE"
+        },
         "apple-find-lost.iteamsofts.com": {
             "included_at_epoch": 1592950022.883997,
             "included_at_iso": "2020-06-23T22:07:02.883997",
@@ -6223,11 +6825,102 @@
             "last_retested_at_iso": "2020-06-23T22:07:02.883997",
             "status": "INACTIVE"
         },
+        "apple-id.icloud.smartcleaningsolutions.co.uk": {
+            "included_at_epoch": 1594677546.341003,
+            "included_at_iso": "2020-07-13T21:59:06.341003",
+            "last_retested_at_epoch": 1594677546.341003,
+            "last_retested_at_iso": "2020-07-13T21:59:06.341003",
+            "status": "INACTIVE"
+        },
+        "apple-inc.signin-webaccountverification.com": {
+            "included_at_epoch": 1594677546.880677,
+            "included_at_iso": "2020-07-13T21:59:06.880677",
+            "last_retested_at_epoch": 1594677546.880677,
+            "last_retested_at_iso": "2020-07-13T21:59:06.880677",
+            "status": "INACTIVE"
+        },
+        "apple-inc.signin-webappstore-manage.com": {
+            "included_at_epoch": 1594677547.050178,
+            "included_at_iso": "2020-07-13T21:59:07.050178",
+            "last_retested_at_epoch": 1594677547.050178,
+            "last_retested_at_iso": "2020-07-13T21:59:07.050178",
+            "status": "INACTIVE"
+        },
+        "apple-inc.signin-webappstore-purchases.com": {
+            "included_at_epoch": 1594677546.978571,
+            "included_at_iso": "2020-07-13T21:59:06.978571",
+            "last_retested_at_epoch": 1594677546.978571,
+            "last_retested_at_iso": "2020-07-13T21:59:06.978571",
+            "status": "INACTIVE"
+        },
+        "apple-locationmx.icloud-y.com": {
+            "included_at_epoch": 1594677548.065952,
+            "included_at_iso": "2020-07-13T21:59:08.065952",
+            "last_retested_at_epoch": 1594677548.065952,
+            "last_retested_at_iso": "2020-07-13T21:59:08.065952",
+            "status": "INACTIVE"
+        },
+        "apple-saffety.ddnsking.com": {
+            "included_at_epoch": 1594677548.671215,
+            "included_at_iso": "2020-07-13T21:59:08.671215",
+            "last_retested_at_epoch": 1594677548.671215,
+            "last_retested_at_iso": "2020-07-13T21:59:08.671215",
+            "status": "INACTIVE"
+        },
         "apple-secuity.tk": {
             "included_at_epoch": 1592950023.911676,
             "included_at_iso": "2020-06-23T22:07:03.911676",
             "last_retested_at_epoch": 1592950023.911676,
             "last_retested_at_iso": "2020-06-23T22:07:03.911676",
+            "status": "INACTIVE"
+        },
+        "apple-secure1.store-cloud.directory": {
+            "included_at_epoch": 1594677548.739752,
+            "included_at_iso": "2020-07-13T21:59:08.739752",
+            "last_retested_at_epoch": 1594677548.739752,
+            "last_retested_at_iso": "2020-07-13T21:59:08.739752",
+            "status": "INACTIVE"
+        },
+        "apple-serviceaccountstore.hargafizr.com": {
+            "included_at_epoch": 1594677548.821396,
+            "included_at_iso": "2020-07-13T21:59:08.821396",
+            "last_retested_at_epoch": 1594677548.821396,
+            "last_retested_at_iso": "2020-07-13T21:59:08.821396",
+            "status": "INACTIVE"
+        },
+        "apple-store.appsettings.cloud": {
+            "included_at_epoch": 1594677549.86529,
+            "included_at_iso": "2020-07-13T21:59:09.865290",
+            "last_retested_at_epoch": 1594677549.86529,
+            "last_retested_at_iso": "2020-07-13T21:59:09.865290",
+            "status": "INACTIVE"
+        },
+        "apple-tv.security-acc.email": {
+            "included_at_epoch": 1594677550.063169,
+            "included_at_iso": "2020-07-13T21:59:10.063169",
+            "last_retested_at_epoch": 1594677550.063169,
+            "last_retested_at_iso": "2020-07-13T21:59:10.063169",
+            "status": "INACTIVE"
+        },
+        "apple-unlock--resolve.unlock-account-centers.org": {
+            "included_at_epoch": 1594677549.991713,
+            "included_at_iso": "2020-07-13T21:59:09.991713",
+            "last_retested_at_epoch": 1594677549.991713,
+            "last_retested_at_iso": "2020-07-13T21:59:09.991713",
+            "status": "INACTIVE"
+        },
+        "apple-verificatlon-account.sihfioeh.com": {
+            "included_at_epoch": 1594677552.016693,
+            "included_at_iso": "2020-07-13T21:59:12.016693",
+            "last_retested_at_epoch": 1594677552.016693,
+            "last_retested_at_iso": "2020-07-13T21:59:12.016693",
+            "status": "INACTIVE"
+        },
+        "apple.7865128l.com": {
+            "included_at_epoch": 1594677552.567282,
+            "included_at_iso": "2020-07-13T21:59:12.567282",
+            "last_retested_at_epoch": 1594677552.567282,
+            "last_retested_at_iso": "2020-07-13T21:59:12.567282",
             "status": "INACTIVE"
         },
         "apple.account-manage-payment.login-financialpayment.com": {
