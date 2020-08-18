@@ -9397,8 +9397,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597739216.107242,
-            "last_retested_at_iso": "2020-08-18T08:26:56.107242",
+            "last_retested_at_epoch": 1597740349.274418,
+            "last_retested_at_iso": "2020-08-18T08:45:49.274418",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -11450,6 +11450,153 @@
             "included_at_iso": "2020-08-18T08:28:43.338985",
             "last_retested_at_epoch": 1597739323.338985,
             "last_retested_at_iso": "2020-08-18T08:28:43.338985",
+            "status": "INACTIVE"
+        },
+        "lajpmujdntg.com": {
+            "included_at_epoch": 1597740352.855458,
+            "included_at_iso": "2020-08-18T08:45:52.855458",
+            "last_retested_at_epoch": 1597740352.855458,
+            "last_retested_at_iso": "2020-08-18T08:45:52.855458",
+            "status": "INACTIVE"
+        },
+        "lalabla.biz": {
+            "included_at_epoch": 1597740353.898299,
+            "included_at_iso": "2020-08-18T08:45:53.898299",
+            "last_retested_at_epoch": 1597740353.898299,
+            "last_retested_at_iso": "2020-08-18T08:45:53.898299",
+            "status": "INACTIVE"
+        },
+        "lamise.ru": {
+            "included_at_epoch": 1597740358.465712,
+            "included_at_iso": "2020-08-18T08:45:58.465712",
+            "last_retested_at_epoch": 1597740358.465712,
+            "last_retested_at_iso": "2020-08-18T08:45:58.465712",
+            "status": "INACTIVE"
+        },
+        "langosh.biz": {
+            "included_at_epoch": 1597740362.587624,
+            "included_at_iso": "2020-08-18T08:46:02.587624",
+            "last_retested_at_epoch": 1597740362.587624,
+            "last_retested_at_iso": "2020-08-18T08:46:02.587624",
+            "status": "INACTIVE"
+        },
+        "langtzet.info": {
+            "included_at_epoch": 1597740363.631845,
+            "included_at_iso": "2020-08-18T08:46:03.631845",
+            "last_retested_at_epoch": 1597740363.631845,
+            "last_retested_at_iso": "2020-08-18T08:46:03.631845",
+            "status": "INACTIVE"
+        },
+        "lanktydm.com": {
+            "included_at_epoch": 1597740363.682219,
+            "included_at_iso": "2020-08-18T08:46:03.682219",
+            "last_retested_at_epoch": 1597740363.682219,
+            "last_retested_at_iso": "2020-08-18T08:46:03.682219",
+            "status": "INACTIVE"
+        },
+        "lantocha.ru": {
+            "included_at_epoch": 1597740366.715003,
+            "included_at_iso": "2020-08-18T08:46:06.715003",
+            "last_retested_at_epoch": 1597740366.715003,
+            "last_retested_at_iso": "2020-08-18T08:46:06.715003",
+            "status": "INACTIVE"
+        },
+        "lasttopreg.top": {
+            "included_at_epoch": 1597740376.828049,
+            "included_at_iso": "2020-08-18T08:46:16.828049",
+            "last_retested_at_epoch": 1597740376.828049,
+            "last_retested_at_iso": "2020-08-18T08:46:16.828049",
+            "status": "INACTIVE"
+        },
+        "latlfa.biz": {
+            "included_at_epoch": 1597740377.393774,
+            "included_at_iso": "2020-08-18T08:46:17.393774",
+            "last_retested_at_epoch": 1597740377.393774,
+            "last_retested_at_iso": "2020-08-18T08:46:17.393774",
+            "status": "INACTIVE"
+        },
+        "lawvcpqtapzsh.com": {
+            "included_at_epoch": 1597740383.09189,
+            "included_at_iso": "2020-08-18T08:46:23.091890",
+            "last_retested_at_epoch": 1597740383.09189,
+            "last_retested_at_iso": "2020-08-18T08:46:23.091890",
+            "status": "INACTIVE"
+        },
+        "lbaybxwiklnfe.com": {
+            "included_at_epoch": 1597740387.697187,
+            "included_at_iso": "2020-08-18T08:46:27.697187",
+            "last_retested_at_epoch": 1597740387.697187,
+            "last_retested_at_iso": "2020-08-18T08:46:27.697187",
+            "status": "INACTIVE"
+        },
+        "lbkprcoosfgk.com": {
+            "included_at_epoch": 1597740388.749134,
+            "included_at_iso": "2020-08-18T08:46:28.749134",
+            "last_retested_at_epoch": 1597740388.749134,
+            "last_retested_at_iso": "2020-08-18T08:46:28.749134",
+            "status": "INACTIVE"
+        },
+        "lcsgdwlxrlgq.com": {
+            "included_at_epoch": 1597740399.477764,
+            "included_at_iso": "2020-08-18T08:46:39.477764",
+            "last_retested_at_epoch": 1597740399.477764,
+            "last_retested_at_iso": "2020-08-18T08:46:39.477764",
+            "status": "INACTIVE"
+        },
+        "lct.salesforce.com": {
+            "included_at_epoch": 1597740399.426921,
+            "included_at_iso": "2020-08-18T08:46:39.426921",
+            "last_retested_at_epoch": 1597740399.426921,
+            "last_retested_at_iso": "2020-08-18T08:46:39.426921",
+            "status": "INACTIVE"
+        },
+        "ldnxy.xyz": {
+            "included_at_epoch": 1597740408.167204,
+            "included_at_iso": "2020-08-18T08:46:48.167204",
+            "last_retested_at_epoch": 1597740408.167204,
+            "last_retested_at_iso": "2020-08-18T08:46:48.167204",
+            "status": "INACTIVE"
+        },
+        "lead-ad.jp": {
+            "included_at_epoch": 1597740413.863725,
+            "included_at_iso": "2020-08-18T08:46:53.863725",
+            "last_retested_at_epoch": 1597740413.863725,
+            "last_retested_at_iso": "2020-08-18T08:46:53.863725",
+            "status": "INACTIVE"
+        },
+        "leadtopays.com": {
+            "included_at_epoch": 1597740432.268548,
+            "included_at_iso": "2020-08-18T08:47:12.268548",
+            "last_retested_at_epoch": 1597740432.268548,
+            "last_retested_at_iso": "2020-08-18T08:47:12.268548",
+            "status": "INACTIVE"
+        },
+        "leashac.com": {
+            "included_at_epoch": 1597740437.490197,
+            "included_at_iso": "2020-08-18T08:47:17.490197",
+            "last_retested_at_epoch": 1597740437.490197,
+            "last_retested_at_iso": "2020-08-18T08:47:17.490197",
+            "status": "INACTIVE"
+        },
+        "lecnet.info": {
+            "included_at_epoch": 1597740441.116512,
+            "included_at_iso": "2020-08-18T08:47:21.116512",
+            "last_retested_at_epoch": 1597740441.116512,
+            "last_retested_at_iso": "2020-08-18T08:47:21.116512",
+            "status": "INACTIVE"
+        },
+        "ledgr.xyz": {
+            "included_at_epoch": 1597740441.167868,
+            "included_at_iso": "2020-08-18T08:47:21.167868",
+            "last_retested_at_epoch": 1597740441.167868,
+            "last_retested_at_iso": "2020-08-18T08:47:21.167868",
+            "status": "INACTIVE"
+        },
+        "ledvqaldtf.com": {
+            "included_at_epoch": 1597740445.287113,
+            "included_at_iso": "2020-08-18T08:47:25.287113",
+            "last_retested_at_epoch": 1597740445.287113,
+            "last_retested_at_iso": "2020-08-18T08:47:25.287113",
             "status": "INACTIVE"
         }
     }
