@@ -9397,8 +9397,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597753564.668898,
-            "last_retested_at_iso": "2020-08-18T12:26:04.668898",
+            "last_retested_at_epoch": 1597754664.678093,
+            "last_retested_at_iso": "2020-08-18T12:44:24.678093",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -13501,6 +13501,62 @@
             "included_at_iso": "2020-08-18T12:27:09.480310",
             "last_retested_at_epoch": 1597753629.48031,
             "last_retested_at_iso": "2020-08-18T12:27:09.480310",
+            "status": "INACTIVE"
+        },
+        "mirongotrof.ru": {
+            "included_at_epoch": 1597754666.864349,
+            "included_at_iso": "2020-08-18T12:44:26.864349",
+            "last_retested_at_epoch": 1597754666.864349,
+            "last_retested_at_iso": "2020-08-18T12:44:26.864349",
+            "status": "INACTIVE"
+        },
+        "misqb.xyz": {
+            "included_at_epoch": 1597754670.106192,
+            "included_at_iso": "2020-08-18T12:44:30.106192",
+            "last_retested_at_epoch": 1597754670.106192,
+            "last_retested_at_iso": "2020-08-18T12:44:30.106192",
+            "status": "INACTIVE"
+        },
+        "mitmeisseln.de": {
+            "included_at_epoch": 1597754673.749452,
+            "included_at_iso": "2020-08-18T12:44:33.749452",
+            "last_retested_at_epoch": 1597754673.749452,
+            "last_retested_at_iso": "2020-08-18T12:44:33.749452",
+            "status": "INACTIVE"
+        },
+        "mivrpcxlo.com": {
+            "included_at_epoch": 1597754674.339413,
+            "included_at_iso": "2020-08-18T12:44:34.339413",
+            "last_retested_at_epoch": 1597754674.339413,
+            "last_retested_at_iso": "2020-08-18T12:44:34.339413",
+            "status": "INACTIVE"
+        },
+        "mix1traff.ru": {
+            "included_at_epoch": 1597754675.413483,
+            "included_at_iso": "2020-08-18T12:44:35.413483",
+            "last_retested_at_epoch": 1597754675.413483,
+            "last_retested_at_iso": "2020-08-18T12:44:35.413483",
+            "status": "INACTIVE"
+        },
+        "mixtraff.silvercdn.com": {
+            "included_at_epoch": 1597754679.047672,
+            "included_at_iso": "2020-08-18T12:44:39.047672",
+            "last_retested_at_epoch": 1597754679.047672,
+            "last_retested_at_iso": "2020-08-18T12:44:39.047672",
+            "status": "INACTIVE"
+        },
+        "mkalruavzrtmh.com": {
+            "included_at_epoch": 1597754685.755028,
+            "included_at_iso": "2020-08-18T12:44:45.755028",
+            "last_retested_at_epoch": 1597754685.755028,
+            "last_retested_at_iso": "2020-08-18T12:44:45.755028",
+            "status": "INACTIVE"
+        },
+        "mkavkaz.ru": {
+            "included_at_epoch": 1597754686.817105,
+            "included_at_iso": "2020-08-18T12:44:46.817105",
+            "last_retested_at_epoch": 1597754686.817105,
+            "last_retested_at_iso": "2020-08-18T12:44:46.817105",
             "status": "INACTIVE"
         }
     }
