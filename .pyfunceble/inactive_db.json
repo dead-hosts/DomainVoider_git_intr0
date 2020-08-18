@@ -9397,8 +9397,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597748915.62321,
-            "last_retested_at_iso": "2020-08-18T11:08:35.623210",
+            "last_retested_at_epoch": 1597749994.513762,
+            "last_retested_at_iso": "2020-08-18T11:26:34.513762",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -12857,6 +12857,97 @@
             "included_at_iso": "2020-08-18T11:09:20.886742",
             "last_retested_at_epoch": 1597748960.886742,
             "last_retested_at_iso": "2020-08-18T11:09:20.886742",
+            "status": "INACTIVE"
+        },
+        "market015.com": {
+            "included_at_epoch": 1597749996.658709,
+            "included_at_iso": "2020-08-18T11:26:36.658709",
+            "last_retested_at_epoch": 1597749996.658709,
+            "last_retested_at_iso": "2020-08-18T11:26:36.658709",
+            "status": "INACTIVE"
+        },
+        "marketplace-ios-*.hyprmx.com": {
+            "included_at_epoch": 1597750005.207765,
+            "included_at_iso": "2020-08-18T11:26:45.207765",
+            "last_retested_at_epoch": 1597750005.207765,
+            "last_retested_at_iso": "2020-08-18T11:26:45.207765",
+            "status": "INVALID"
+        },
+        "martianstats.com": {
+            "included_at_epoch": 1597750009.16521,
+            "included_at_iso": "2020-08-18T11:26:49.165210",
+            "last_retested_at_epoch": 1597750009.16521,
+            "last_retested_at_iso": "2020-08-18T11:26:49.165210",
+            "status": "INACTIVE"
+        },
+        "maschina.xyz": {
+            "included_at_epoch": 1597750011.771714,
+            "included_at_iso": "2020-08-18T11:26:51.771714",
+            "last_retested_at_epoch": 1597750011.771714,
+            "last_retested_at_iso": "2020-08-18T11:26:51.771714",
+            "status": "INACTIVE"
+        },
+        "mascqybw.com": {
+            "included_at_epoch": 1597750011.716628,
+            "included_at_iso": "2020-08-18T11:26:51.716628",
+            "last_retested_at_epoch": 1597750011.716628,
+            "last_retested_at_iso": "2020-08-18T11:26:51.716628",
+            "status": "INACTIVE"
+        },
+        "masddf.pro": {
+            "included_at_epoch": 1597750011.8269,
+            "included_at_iso": "2020-08-18T11:26:51.826900",
+            "last_retested_at_epoch": 1597750011.8269,
+            "last_retested_at_iso": "2020-08-18T11:26:51.826900",
+            "status": "INACTIVE"
+        },
+        "mastervesti.ru": {
+            "included_at_epoch": 1597750017.84474,
+            "included_at_iso": "2020-08-18T11:26:57.844740",
+            "last_retested_at_epoch": 1597750017.84474,
+            "last_retested_at_iso": "2020-08-18T11:26:57.844740",
+            "status": "INACTIVE"
+        },
+        "masudel.com": {
+            "included_at_epoch": 1597750018.376566,
+            "included_at_iso": "2020-08-18T11:26:58.376566",
+            "last_retested_at_epoch": 1597750018.376566,
+            "last_retested_at_iso": "2020-08-18T11:26:58.376566",
+            "status": "INACTIVE"
+        },
+        "matchcows.com": {
+            "included_at_epoch": 1597750018.501429,
+            "included_at_iso": "2020-08-18T11:26:58.501429",
+            "last_retested_at_epoch": 1597750018.501429,
+            "last_retested_at_iso": "2020-08-18T11:26:58.501429",
+            "status": "INACTIVE"
+        },
+        "matchjia.cn": {
+            "included_at_epoch": 1597750020.051354,
+            "included_at_iso": "2020-08-18T11:27:00.051354",
+            "last_retested_at_epoch": 1597750020.051354,
+            "last_retested_at_iso": "2020-08-18T11:27:00.051354",
+            "status": "INACTIVE"
+        },
+        "maus77.ru": {
+            "included_at_epoch": 1597750029.005273,
+            "included_at_iso": "2020-08-18T11:27:09.005273",
+            "last_retested_at_epoch": 1597750029.005273,
+            "last_retested_at_iso": "2020-08-18T11:27:09.005273",
+            "status": "INACTIVE"
+        },
+        "maxoi.cn": {
+            "included_at_epoch": 1597750037.353787,
+            "included_at_iso": "2020-08-18T11:27:17.353787",
+            "last_retested_at_epoch": 1597750037.353787,
+            "last_retested_at_iso": "2020-08-18T11:27:17.353787",
+            "status": "INACTIVE"
+        },
+        "maxwino.ru": {
+            "included_at_epoch": 1597750040.807316,
+            "included_at_iso": "2020-08-18T11:27:20.807316",
+            "last_retested_at_epoch": 1597750040.807316,
+            "last_retested_at_iso": "2020-08-18T11:27:20.807316",
             "status": "INACTIVE"
         }
     }

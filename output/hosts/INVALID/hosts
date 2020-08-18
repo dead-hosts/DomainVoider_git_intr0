@@ -98,11 +98,12 @@
 0.0.0.0 linkexchange.
 0.0.0.0 lively-collect-elb-*.amazonaws.com
 0.0.0.0 log-*.previewnetworks.com
-0.0.0.0 log*.zing.vn
 0.0.0.0 log.zing*.vn
+0.0.0.0 log*.zing.vn
 0.0.0.0 logger-*.dailymotion.com
 0.0.0.0 lt*.tritondigital.com
 0.0.0.0 m.me|origami.design|fb.gg|giphy.world|workplace.com|messengerkids.com|fbwat.ch|msngr.com|las.so|wk.pl|fbcdn.net
+0.0.0.0 marketplace-ios-*.hyprmx.com
 0.0.0.0 *whatsapp
 0.0.0.0 whatsapp.net|messenger.com|m.me|origami.design|fb.gg|giphy.world|workplace.com|messengerkids.com|fbwat.ch|msngr.com|las.so|wk.pl|fbcdn.net
 0.0.0.0 8*.tianya.cn
