@@ -9397,8 +9397,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597780740.309784,
-            "last_retested_at_iso": "2020-08-18T19:59:00.309784",
+            "last_retested_at_epoch": 1597781784.374961,
+            "last_retested_at_iso": "2020-08-18T20:16:24.374961",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -14495,6 +14495,13 @@
             "included_at_iso": "2020-08-18T19:59:15.825350",
             "last_retested_at_epoch": 1597780755.82535,
             "last_retested_at_iso": "2020-08-18T19:59:15.825350",
+            "status": "INACTIVE"
+        },
+        "netcustos.com": {
+            "included_at_epoch": 1597781791.22681,
+            "included_at_iso": "2020-08-18T20:16:31.226810",
+            "last_retested_at_epoch": 1597781791.22681,
+            "last_retested_at_iso": "2020-08-18T20:16:31.226810",
             "status": "INACTIVE"
         }
     }
