@@ -9397,8 +9397,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597747838.567333,
-            "last_retested_at_iso": "2020-08-18T10:50:38.567333",
+            "last_retested_at_epoch": 1597748915.62321,
+            "last_retested_at_iso": "2020-08-18T11:08:35.623210",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -12717,6 +12717,146 @@
             "included_at_iso": "2020-08-18T10:51:00.959641",
             "last_retested_at_epoch": 1597747860.959641,
             "last_retested_at_iso": "2020-08-18T10:51:00.959641",
+            "status": "INACTIVE"
+        },
+        "madyna.ru": {
+            "included_at_epoch": 1597748922.782677,
+            "included_at_iso": "2020-08-18T11:08:42.782677",
+            "last_retested_at_epoch": 1597748922.782677,
+            "last_retested_at_iso": "2020-08-18T11:08:42.782677",
+            "status": "INACTIVE"
+        },
+        "magariusaqmuri.cf": {
+            "included_at_epoch": 1597748924.321329,
+            "included_at_iso": "2020-08-18T11:08:44.321329",
+            "last_retested_at_epoch": 1597748924.321329,
+            "last_retested_at_iso": "2020-08-18T11:08:44.321329",
+            "status": "INACTIVE"
+        },
+        "magic-traff.com": {
+            "included_at_epoch": 1597748924.377126,
+            "included_at_iso": "2020-08-18T11:08:44.377126",
+            "last_retested_at_epoch": 1597748924.377126,
+            "last_retested_at_iso": "2020-08-18T11:08:44.377126",
+            "status": "INACTIVE"
+        },
+        "magifirst.com": {
+            "included_at_epoch": 1597748926.062965,
+            "included_at_iso": "2020-08-18T11:08:46.062965",
+            "last_retested_at_epoch": 1597748926.062965,
+            "last_retested_at_iso": "2020-08-18T11:08:46.062965",
+            "status": "INACTIVE"
+        },
+        "magnomita.com": {
+            "included_at_epoch": 1597748931.630437,
+            "included_at_iso": "2020-08-18T11:08:51.630437",
+            "last_retested_at_epoch": 1597748931.630437,
+            "last_retested_at_iso": "2020-08-18T11:08:51.630437",
+            "status": "INACTIVE"
+        },
+        "mahaphanin.ru": {
+            "included_at_epoch": 1597748933.189349,
+            "included_at_iso": "2020-08-18T11:08:53.189349",
+            "last_retested_at_epoch": 1597748933.189349,
+            "last_retested_at_iso": "2020-08-18T11:08:53.189349",
+            "status": "INACTIVE"
+        },
+        "maidlytsnrn.com": {
+            "included_at_epoch": 1597748935.758213,
+            "included_at_iso": "2020-08-18T11:08:55.758213",
+            "last_retested_at_epoch": 1597748935.758213,
+            "last_retested_at_iso": "2020-08-18T11:08:55.758213",
+            "status": "INACTIVE"
+        },
+        "maik.ff-bt.net": {
+            "included_at_epoch": 1597748936.319571,
+            "included_at_iso": "2020-08-18T11:08:56.319571",
+            "last_retested_at_epoch": 1597748936.319571,
+            "last_retested_at_iso": "2020-08-18T11:08:56.319571",
+            "status": "INACTIVE"
+        },
+        "maispremium.com.br": {
+            "included_at_epoch": 1597748942.517074,
+            "included_at_iso": "2020-08-18T11:09:02.517074",
+            "last_retested_at_epoch": 1597748942.517074,
+            "last_retested_at_iso": "2020-08-18T11:09:02.517074",
+            "status": "INACTIVE"
+        },
+        "maizhenai.cn": {
+            "included_at_epoch": 1597748943.081898,
+            "included_at_iso": "2020-08-18T11:09:03.081898",
+            "last_retested_at_epoch": 1597748943.081898,
+            "last_retested_at_iso": "2020-08-18T11:09:03.081898",
+            "status": "INACTIVE"
+        },
+        "makemyvids.com": {
+            "included_at_epoch": 1597748944.639494,
+            "included_at_iso": "2020-08-18T11:09:04.639494",
+            "last_retested_at_epoch": 1597748944.639494,
+            "last_retested_at_iso": "2020-08-18T11:09:04.639494",
+            "status": "INACTIVE"
+        },
+        "malictuiar.com": {
+            "included_at_epoch": 1597748946.195349,
+            "included_at_iso": "2020-08-18T11:09:06.195349",
+            "last_retested_at_epoch": 1597748946.195349,
+            "last_retested_at_iso": "2020-08-18T11:09:06.195349",
+            "status": "INACTIVE"
+        },
+        "mama.foor-zik.com": {
+            "included_at_epoch": 1597748947.306686,
+            "included_at_iso": "2020-08-18T11:09:07.306686",
+            "last_retested_at_epoch": 1597748947.306686,
+            "last_retested_at_iso": "2020-08-18T11:09:07.306686",
+            "status": "INACTIVE"
+        },
+        "mamypos.com": {
+            "included_at_epoch": 1597748949.876494,
+            "included_at_iso": "2020-08-18T11:09:09.876494",
+            "last_retested_at_epoch": 1597748949.876494,
+            "last_retested_at_iso": "2020-08-18T11:09:09.876494",
+            "status": "INACTIVE"
+        },
+        "manchina.xyz": {
+            "included_at_epoch": 1597748952.036443,
+            "included_at_iso": "2020-08-18T11:09:12.036443",
+            "last_retested_at_epoch": 1597748952.036443,
+            "last_retested_at_iso": "2020-08-18T11:09:12.036443",
+            "status": "INACTIVE"
+        },
+        "maneta.info": {
+            "included_at_epoch": 1597748952.581261,
+            "included_at_iso": "2020-08-18T11:09:12.581261",
+            "last_retested_at_epoch": 1597748952.581261,
+            "last_retested_at_iso": "2020-08-18T11:09:12.581261",
+            "status": "INACTIVE"
+        },
+        "manuaisadultos.com.br": {
+            "included_at_epoch": 1597748956.174291,
+            "included_at_iso": "2020-08-18T11:09:16.174291",
+            "last_retested_at_epoch": 1597748956.174291,
+            "last_retested_at_iso": "2020-08-18T11:09:16.174291",
+            "status": "INACTIVE"
+        },
+        "mao1.jsnovel.com": {
+            "included_at_epoch": 1597748956.265147,
+            "included_at_iso": "2020-08-18T11:09:16.265147",
+            "last_retested_at_epoch": 1597748956.265147,
+            "last_retested_at_iso": "2020-08-18T11:09:16.265147",
+            "status": "INACTIVE"
+        },
+        "marchtv.ru": {
+            "included_at_epoch": 1597748960.326547,
+            "included_at_iso": "2020-08-18T11:09:20.326547",
+            "last_retested_at_epoch": 1597748960.326547,
+            "last_retested_at_iso": "2020-08-18T11:09:20.326547",
+            "status": "INACTIVE"
+        },
+        "margadoncat.com": {
+            "included_at_epoch": 1597748960.886742,
+            "included_at_iso": "2020-08-18T11:09:20.886742",
+            "last_retested_at_epoch": 1597748960.886742,
+            "last_retested_at_iso": "2020-08-18T11:09:20.886742",
             "status": "INACTIVE"
         }
     }
