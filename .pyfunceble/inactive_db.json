@@ -9397,8 +9397,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597766756.833702,
-            "last_retested_at_iso": "2020-08-18T16:05:56.833702",
+            "last_retested_at_epoch": 1597768005.527297,
+            "last_retested_at_iso": "2020-08-18T16:26:45.527297",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -13655,6 +13655,69 @@
             "included_at_iso": "2020-08-18T16:06:42.970066",
             "last_retested_at_epoch": 1597766802.970066,
             "last_retested_at_iso": "2020-08-18T16:06:42.970066",
+            "status": "INACTIVE"
+        },
+        "mobileanalytics.*.amazonaws.com": {
+            "included_at_epoch": 1597768017.462686,
+            "included_at_iso": "2020-08-18T16:26:57.462686",
+            "last_retested_at_epoch": 1597768017.462686,
+            "last_retested_at_iso": "2020-08-18T16:26:57.462686",
+            "status": "INVALID"
+        },
+        "mobitema.ru": {
+            "included_at_epoch": 1597768025.539895,
+            "included_at_iso": "2020-08-18T16:27:05.539895",
+            "last_retested_at_epoch": 1597768025.539895,
+            "last_retested_at_iso": "2020-08-18T16:27:05.539895",
+            "status": "INACTIVE"
+        },
+        "mobred.net": {
+            "included_at_epoch": 1597768030.096618,
+            "included_at_iso": "2020-08-18T16:27:10.096618",
+            "last_retested_at_epoch": 1597768030.096618,
+            "last_retested_at_iso": "2020-08-18T16:27:10.096618",
+            "status": "INACTIVE"
+        },
+        "mobsrv.in": {
+            "included_at_epoch": 1597768030.153492,
+            "included_at_iso": "2020-08-18T16:27:10.153492",
+            "last_retested_at_epoch": 1597768030.153492,
+            "last_retested_at_iso": "2020-08-18T16:27:10.153492",
+            "status": "INACTIVE"
+        },
+        "mobzver.ru": {
+            "included_at_epoch": 1597768033.696982,
+            "included_at_iso": "2020-08-18T16:27:13.696982",
+            "last_retested_at_epoch": 1597768033.696982,
+            "last_retested_at_iso": "2020-08-18T16:27:13.696982",
+            "status": "INACTIVE"
+        },
+        "moginhstnxswt.com": {
+            "included_at_epoch": 1597768042.050039,
+            "included_at_iso": "2020-08-18T16:27:22.050039",
+            "last_retested_at_epoch": 1597768042.050039,
+            "last_retested_at_iso": "2020-08-18T16:27:22.050039",
+            "status": "INACTIVE"
+        },
+        "moijs.com": {
+            "included_at_epoch": 1597768045.548074,
+            "included_at_iso": "2020-08-18T16:27:25.548074",
+            "last_retested_at_epoch": 1597768045.548074,
+            "last_retested_at_iso": "2020-08-18T16:27:25.548074",
+            "status": "INACTIVE"
+        },
+        "molefefiseranis.ru": {
+            "included_at_epoch": 1597768049.056999,
+            "included_at_iso": "2020-08-18T16:27:29.056999",
+            "last_retested_at_epoch": 1597768049.056999,
+            "last_retested_at_iso": "2020-08-18T16:27:29.056999",
+            "status": "INACTIVE"
+        },
+        "molesi.info": {
+            "included_at_epoch": 1597768049.114913,
+            "included_at_iso": "2020-08-18T16:27:29.114913",
+            "last_retested_at_epoch": 1597768049.114913,
+            "last_retested_at_iso": "2020-08-18T16:27:29.114913",
             "status": "INACTIVE"
         }
     }
