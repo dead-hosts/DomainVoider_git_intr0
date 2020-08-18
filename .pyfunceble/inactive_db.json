@@ -9397,8 +9397,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597768005.527297,
-            "last_retested_at_iso": "2020-08-18T16:26:45.527297",
+            "last_retested_at_epoch": 1597771797.561581,
+            "last_retested_at_iso": "2020-08-18T17:29:57.561581",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -13718,6 +13718,62 @@
             "included_at_iso": "2020-08-18T16:27:29.114913",
             "last_retested_at_epoch": 1597768049.114913,
             "last_retested_at_iso": "2020-08-18T16:27:29.114913",
+            "status": "INACTIVE"
+        },
+        "morar.biz": {
+            "included_at_epoch": 1597771819.828087,
+            "included_at_iso": "2020-08-18T17:30:19.828087",
+            "last_retested_at_epoch": 1597771819.828087,
+            "last_retested_at_iso": "2020-08-18T17:30:19.828087",
+            "status": "INACTIVE"
+        },
+        "mordi.fun": {
+            "included_at_epoch": 1597771821.82716,
+            "included_at_iso": "2020-08-18T17:30:21.827160",
+            "last_retested_at_epoch": 1597771821.82716,
+            "last_retested_at_iso": "2020-08-18T17:30:21.827160",
+            "status": "INACTIVE"
+        },
+        "morkovo4ki.org": {
+            "included_at_epoch": 1597771824.85112,
+            "included_at_iso": "2020-08-18T17:30:24.851120",
+            "last_retested_at_epoch": 1597771824.85112,
+            "last_retested_at_iso": "2020-08-18T17:30:24.851120",
+            "status": "INACTIVE"
+        },
+        "mostopana.ru": {
+            "included_at_epoch": 1597771829.432355,
+            "included_at_iso": "2020-08-18T17:30:29.432355",
+            "last_retested_at_epoch": 1597771829.432355,
+            "last_retested_at_iso": "2020-08-18T17:30:29.432355",
+            "status": "INACTIVE"
+        },
+        "movdec.com": {
+            "included_at_epoch": 1597771842.285784,
+            "included_at_iso": "2020-08-18T17:30:42.285784",
+            "last_retested_at_epoch": 1597771842.285784,
+            "last_retested_at_iso": "2020-08-18T17:30:42.285784",
+            "status": "INACTIVE"
+        },
+        "moviead.ru": {
+            "included_at_epoch": 1597771844.766313,
+            "included_at_iso": "2020-08-18T17:30:44.766313",
+            "last_retested_at_epoch": 1597771844.766313,
+            "last_retested_at_iso": "2020-08-18T17:30:44.766313",
+            "status": "INACTIVE"
+        },
+        "mozefakt.com": {
+            "included_at_epoch": 1597771847.290255,
+            "included_at_iso": "2020-08-18T17:30:47.290255",
+            "last_retested_at_epoch": 1597771847.290255,
+            "last_retested_at_iso": "2020-08-18T17:30:47.290255",
+            "status": "INACTIVE"
+        },
+        "mpays.pw": {
+            "included_at_epoch": 1597771854.651192,
+            "included_at_iso": "2020-08-18T17:30:54.651192",
+            "last_retested_at_epoch": 1597771854.651192,
+            "last_retested_at_iso": "2020-08-18T17:30:54.651192",
             "status": "INACTIVE"
         }
     }
