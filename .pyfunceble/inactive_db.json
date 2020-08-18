@@ -9397,8 +9397,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597775474.501734,
-            "last_retested_at_iso": "2020-08-18T18:31:14.501734",
+            "last_retested_at_epoch": 1597776556.108858,
+            "last_retested_at_iso": "2020-08-18T18:49:16.108858",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -14117,6 +14117,76 @@
             "included_at_iso": "2020-08-18T18:32:02.794938",
             "last_retested_at_epoch": 1597775522.794938,
             "last_retested_at_iso": "2020-08-18T18:32:02.794938",
+            "status": "INACTIVE"
+        },
+        "mykaren.ru": {
+            "included_at_epoch": 1597776559.702795,
+            "included_at_iso": "2020-08-18T18:49:19.702795",
+            "last_retested_at_epoch": 1597776559.702795,
+            "last_retested_at_iso": "2020-08-18T18:49:19.702795",
+            "status": "INACTIVE"
+        },
+        "mykinotochka.ru": {
+            "included_at_epoch": 1597776560.241022,
+            "included_at_iso": "2020-08-18T18:49:20.241022",
+            "last_retested_at_epoch": 1597776560.241022,
+            "last_retested_at_iso": "2020-08-18T18:49:20.241022",
+            "status": "INACTIVE"
+        },
+        "mylhebhwgim.com": {
+            "included_at_epoch": 1597776561.293743,
+            "included_at_iso": "2020-08-18T18:49:21.293743",
+            "last_retested_at_epoch": 1597776561.293743,
+            "last_retested_at_iso": "2020-08-18T18:49:21.293743",
+            "status": "INACTIVE"
+        },
+        "mynewdomen.ru": {
+            "included_at_epoch": 1597776563.85325,
+            "included_at_iso": "2020-08-18T18:49:23.853250",
+            "last_retested_at_epoch": 1597776563.85325,
+            "last_retested_at_iso": "2020-08-18T18:49:23.853250",
+            "status": "INACTIVE"
+        },
+        "mynikolaev.vn.ua": {
+            "included_at_epoch": 1597776563.795881,
+            "included_at_iso": "2020-08-18T18:49:23.795881",
+            "last_retested_at_epoch": 1597776563.795881,
+            "last_retested_at_iso": "2020-08-18T18:49:23.795881",
+            "status": "INACTIVE"
+        },
+        "myownads.space": {
+            "included_at_epoch": 1597776569.314448,
+            "included_at_iso": "2020-08-18T18:49:29.314448",
+            "last_retested_at_epoch": 1597776569.314448,
+            "last_retested_at_iso": "2020-08-18T18:49:29.314448",
+            "status": "INACTIVE"
+        },
+        "mypictures-onlinegood.info": {
+            "included_at_epoch": 1597776569.372088,
+            "included_at_iso": "2020-08-18T18:49:29.372088",
+            "last_retested_at_epoch": 1597776569.372088,
+            "last_retested_at_iso": "2020-08-18T18:49:29.372088",
+            "status": "INACTIVE"
+        },
+        "myqvhpjyd.com": {
+            "included_at_epoch": 1597776571.931479,
+            "included_at_iso": "2020-08-18T18:49:31.931479",
+            "last_retested_at_epoch": 1597776571.931479,
+            "last_retested_at_iso": "2020-08-18T18:49:31.931479",
+            "status": "INACTIVE"
+        },
+        "myserials.club": {
+            "included_at_epoch": 1597776575.959506,
+            "included_at_iso": "2020-08-18T18:49:35.959506",
+            "last_retested_at_epoch": 1597776575.959506,
+            "last_retested_at_iso": "2020-08-18T18:49:35.959506",
+            "status": "INACTIVE"
+        },
+        "mytizer.ru": {
+            "included_at_epoch": 1597776582.02809,
+            "included_at_iso": "2020-08-18T18:49:42.028090",
+            "last_retested_at_epoch": 1597776582.02809,
+            "last_retested_at_iso": "2020-08-18T18:49:42.028090",
             "status": "INACTIVE"
         }
     }
