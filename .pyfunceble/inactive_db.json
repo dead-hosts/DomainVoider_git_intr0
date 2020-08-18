@@ -9397,8 +9397,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597771797.561581,
-            "last_retested_at_iso": "2020-08-18T17:29:57.561581",
+            "last_retested_at_epoch": 1597772901.04336,
+            "last_retested_at_iso": "2020-08-18T17:48:21.043360",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -13774,6 +13774,83 @@
             "included_at_iso": "2020-08-18T17:30:54.651192",
             "last_retested_at_epoch": 1597771854.651192,
             "last_retested_at_iso": "2020-08-18T17:30:54.651192",
+            "status": "INACTIVE"
+        },
+        "mpfzgidlxsqtyt.com": {
+            "included_at_epoch": 1597772901.676603,
+            "included_at_iso": "2020-08-18T17:48:21.676603",
+            "last_retested_at_epoch": 1597772901.676603,
+            "last_retested_at_iso": "2020-08-18T17:48:21.676603",
+            "status": "INACTIVE"
+        },
+        "mqgpo.com": {
+            "included_at_epoch": 1597772914.657074,
+            "included_at_iso": "2020-08-18T17:48:34.657074",
+            "last_retested_at_epoch": 1597772914.657074,
+            "last_retested_at_iso": "2020-08-18T17:48:34.657074",
+            "status": "INACTIVE"
+        },
+        "mqgvsxqc.com": {
+            "included_at_epoch": 1597772914.749165,
+            "included_at_iso": "2020-08-18T17:48:34.749165",
+            "last_retested_at_epoch": 1597772914.749165,
+            "last_retested_at_iso": "2020-08-18T17:48:34.749165",
+            "status": "INACTIVE"
+        },
+        "mqobpsctcxnbi.com": {
+            "included_at_epoch": 1597772917.312382,
+            "included_at_iso": "2020-08-18T17:48:37.312382",
+            "last_retested_at_epoch": 1597772917.312382,
+            "last_retested_at_iso": "2020-08-18T17:48:37.312382",
+            "status": "INACTIVE"
+        },
+        "mrtehsag.com": {
+            "included_at_epoch": 1597772924.906495,
+            "included_at_iso": "2020-08-18T17:48:44.906495",
+            "last_retested_at_epoch": 1597772924.906495,
+            "last_retested_at_iso": "2020-08-18T17:48:44.906495",
+            "status": "INACTIVE"
+        },
+        "msbrandent.vo.llnwd.net": {
+            "included_at_epoch": 1597772929.54061,
+            "included_at_iso": "2020-08-18T17:48:49.540610",
+            "last_retested_at_epoch": 1597772929.54061,
+            "last_retested_at_iso": "2020-08-18T17:48:49.540610",
+            "status": "INACTIVE"
+        },
+        "msisvvxmnpm.com": {
+            "included_at_epoch": 1597772934.131486,
+            "included_at_iso": "2020-08-18T17:48:54.131486",
+            "last_retested_at_epoch": 1597772934.131486,
+            "last_retested_at_iso": "2020-08-18T17:48:54.131486",
+            "status": "INACTIVE"
+        },
+        "msoiqafieh.com": {
+            "included_at_epoch": 1597772936.191485,
+            "included_at_iso": "2020-08-18T17:48:56.191485",
+            "last_retested_at_epoch": 1597772936.191485,
+            "last_retested_at_iso": "2020-08-18T17:48:56.191485",
+            "status": "INACTIVE"
+        },
+        "mspnlttfp.com": {
+            "included_at_epoch": 1597772937.22812,
+            "included_at_iso": "2020-08-18T17:48:57.228120",
+            "last_retested_at_epoch": 1597772937.22812,
+            "last_retested_at_iso": "2020-08-18T17:48:57.228120",
+            "status": "INACTIVE"
+        },
+        "msrv.su": {
+            "included_at_epoch": 1597772937.794243,
+            "included_at_iso": "2020-08-18T17:48:57.794243",
+            "last_retested_at_epoch": 1597772937.794243,
+            "last_retested_at_iso": "2020-08-18T17:48:57.794243",
+            "status": "INACTIVE"
+        },
+        "mstmrspnqqevsu.com": {
+            "included_at_epoch": 1597772937.921429,
+            "included_at_iso": "2020-08-18T17:48:57.921429",
+            "last_retested_at_epoch": 1597772937.921429,
+            "last_retested_at_iso": "2020-08-18T17:48:57.921429",
             "status": "INACTIVE"
         }
     }
