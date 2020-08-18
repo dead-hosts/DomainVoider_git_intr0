@@ -9397,8 +9397,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597742821.77523,
-            "last_retested_at_iso": "2020-08-18T09:27:01.775230",
+            "last_retested_at_epoch": 1597743938.586638,
+            "last_retested_at_iso": "2020-08-18T09:45:38.586638",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -12017,6 +12017,153 @@
             "included_at_iso": "2020-08-18T09:28:32.768112",
             "last_retested_at_epoch": 1597742912.768112,
             "last_retested_at_iso": "2020-08-18T09:28:32.768112",
+            "status": "INACTIVE"
+        },
+        "log.bling.samuraiworks.com": {
+            "included_at_epoch": 1597743938.959275,
+            "included_at_iso": "2020-08-18T09:45:38.959275",
+            "last_retested_at_epoch": 1597743938.959275,
+            "last_retested_at_iso": "2020-08-18T09:45:38.959275",
+            "status": "INACTIVE"
+        },
+        "log.data.disney.com": {
+            "included_at_epoch": 1597743939.012454,
+            "included_at_iso": "2020-08-18T09:45:39.012454",
+            "last_retested_at_epoch": 1597743939.012454,
+            "last_retested_at_iso": "2020-08-18T09:45:39.012454",
+            "status": "INACTIVE"
+        },
+        "log.deutschegrammophon.com": {
+            "included_at_epoch": 1597743939.100463,
+            "included_at_iso": "2020-08-18T09:45:39.100463",
+            "last_retested_at_epoch": 1597743939.100463,
+            "last_retested_at_iso": "2020-08-18T09:45:39.100463",
+            "status": "INACTIVE"
+        },
+        "log.interest.mix.sina.com.cn": {
+            "included_at_epoch": 1597743939.501142,
+            "included_at_iso": "2020-08-18T09:45:39.501142",
+            "last_retested_at_epoch": 1597743939.501142,
+            "last_retested_at_iso": "2020-08-18T09:45:39.501142",
+            "status": "INACTIVE"
+        },
+        "log.thevideo.me": {
+            "included_at_epoch": 1597743940.601366,
+            "included_at_iso": "2020-08-18T09:45:40.601366",
+            "last_retested_at_epoch": 1597743940.601366,
+            "last_retested_at_iso": "2020-08-18T09:45:40.601366",
+            "status": "INACTIVE"
+        },
+        "log.vdn.apps.cntv.cn": {
+            "included_at_epoch": 1597743940.723192,
+            "included_at_iso": "2020-08-18T09:45:40.723192",
+            "last_retested_at_epoch": 1597743940.723192,
+            "last_retested_at_iso": "2020-08-18T09:45:40.723192",
+            "status": "INACTIVE"
+        },
+        "log.vietnamfinance.vn": {
+            "included_at_epoch": 1597743940.776526,
+            "included_at_iso": "2020-08-18T09:45:40.776526",
+            "last_retested_at_epoch": 1597743940.776526,
+            "last_retested_at_iso": "2020-08-18T09:45:40.776526",
+            "status": "INACTIVE"
+        },
+        "log.vntoday.news": {
+            "included_at_epoch": 1597743940.967216,
+            "included_at_iso": "2020-08-18T09:45:40.967216",
+            "last_retested_at_epoch": 1597743940.967216,
+            "last_retested_at_iso": "2020-08-18T09:45:40.967216",
+            "status": "INACTIVE"
+        },
+        "log.zing*.vn": {
+            "included_at_epoch": 1597743941.126931,
+            "included_at_iso": "2020-08-18T09:45:41.126931",
+            "last_retested_at_epoch": 1597743941.126931,
+            "last_retested_at_iso": "2020-08-18T09:45:41.126931",
+            "status": "INVALID"
+        },
+        "log1.24liveplus.com": {
+            "included_at_epoch": 1597743941.180449,
+            "included_at_iso": "2020-08-18T09:45:41.180449",
+            "last_retested_at_epoch": 1597743941.180449,
+            "last_retested_at_iso": "2020-08-18T09:45:41.180449",
+            "status": "INACTIVE"
+        },
+        "logcollector.viewster.com": {
+            "included_at_epoch": 1597743943.316536,
+            "included_at_iso": "2020-08-18T09:45:43.316536",
+            "last_retested_at_epoch": 1597743943.316536,
+            "last_retested_at_iso": "2020-08-18T09:45:43.316536",
+            "status": "INACTIVE"
+        },
+        "logdev.openload.co": {
+            "included_at_epoch": 1597743943.404141,
+            "included_at_iso": "2020-08-18T09:45:43.404141",
+            "last_retested_at_epoch": 1597743943.404141,
+            "last_retested_at_iso": "2020-08-18T09:45:43.404141",
+            "status": "INACTIVE"
+        },
+        "logethy.com": {
+            "included_at_epoch": 1597743944.924293,
+            "included_at_iso": "2020-08-18T09:45:44.924293",
+            "last_retested_at_epoch": 1597743944.924293,
+            "last_retested_at_iso": "2020-08-18T09:45:44.924293",
+            "status": "INACTIVE"
+        },
+        "logger-*.dailymotion.com": {
+            "included_at_epoch": 1597743945.985679,
+            "included_at_iso": "2020-08-18T09:45:45.985679",
+            "last_retested_at_epoch": 1597743945.985679,
+            "last_retested_at_iso": "2020-08-18T09:45:45.985679",
+            "status": "INVALID"
+        },
+        "logger.dailymotion.com": {
+            "included_at_epoch": 1597743946.074132,
+            "included_at_iso": "2020-08-18T09:45:46.074132",
+            "last_retested_at_epoch": 1597743946.074132,
+            "last_retested_at_iso": "2020-08-18T09:45:46.074132",
+            "status": "INACTIVE"
+        },
+        "logger.su": {
+            "included_at_epoch": 1597743947.237983,
+            "included_at_iso": "2020-08-18T09:45:47.237983",
+            "last_retested_at_epoch": 1597743947.237983,
+            "last_retested_at_iso": "2020-08-18T09:45:47.237983",
+            "status": "INACTIVE"
+        },
+        "logger.viki.io": {
+            "included_at_epoch": 1597743947.290586,
+            "included_at_iso": "2020-08-18T09:45:47.290586",
+            "last_retested_at_epoch": 1597743947.290586,
+            "last_retested_at_iso": "2020-08-18T09:45:47.290586",
+            "status": "INACTIVE"
+        },
+        "loggingservices.tribune.com": {
+            "included_at_epoch": 1597743947.585905,
+            "included_at_iso": "2020-08-18T09:45:47.585905",
+            "last_retested_at_epoch": 1597743947.585905,
+            "last_retested_at_iso": "2020-08-18T09:45:47.585905",
+            "status": "INACTIVE"
+        },
+        "loginbox.ru": {
+            "included_at_epoch": 1597743949.141274,
+            "included_at_iso": "2020-08-18T09:45:49.141274",
+            "last_retested_at_epoch": 1597743949.141274,
+            "last_retested_at_iso": "2020-08-18T09:45:49.141274",
+            "status": "INACTIVE"
+        },
+        "logkzudhrg.com": {
+            "included_at_epoch": 1597743949.674408,
+            "included_at_iso": "2020-08-18T09:45:49.674408",
+            "last_retested_at_epoch": 1597743949.674408,
+            "last_retested_at_iso": "2020-08-18T09:45:49.674408",
+            "status": "INACTIVE"
+        },
+        "logoole.yahoo.co.jp": {
+            "included_at_epoch": 1597743951.295375,
+            "included_at_iso": "2020-08-18T09:45:51.295375",
+            "last_retested_at_epoch": 1597743951.295375,
+            "last_retested_at_iso": "2020-08-18T09:45:51.295375",
             "status": "INACTIVE"
         }
     }
