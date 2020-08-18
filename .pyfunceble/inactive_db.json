@@ -9397,8 +9397,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597779412.372179,
-            "last_retested_at_iso": "2020-08-18T19:36:52.372179",
+            "last_retested_at_epoch": 1597780740.309784,
+            "last_retested_at_iso": "2020-08-18T19:59:00.309784",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -14439,6 +14439,62 @@
             "included_at_iso": "2020-08-18T19:37:41.997917",
             "last_retested_at_epoch": 1597779461.997917,
             "last_retested_at_iso": "2020-08-18T19:37:41.997917",
+            "status": "INACTIVE"
+        },
+        "nehuha.ru": {
+            "included_at_epoch": 1597780740.872581,
+            "included_at_iso": "2020-08-18T19:59:00.872581",
+            "last_retested_at_epoch": 1597780740.872581,
+            "last_retested_at_iso": "2020-08-18T19:59:00.872581",
+            "status": "INACTIVE"
+        },
+        "nepeoripa.biz": {
+            "included_at_epoch": 1597780747.991536,
+            "included_at_iso": "2020-08-18T19:59:07.991536",
+            "last_retested_at_epoch": 1597780747.991536,
+            "last_retested_at_iso": "2020-08-18T19:59:07.991536",
+            "status": "INACTIVE"
+        },
+        "neqky.com": {
+            "included_at_epoch": 1597780751.029938,
+            "included_at_iso": "2020-08-18T19:59:11.029938",
+            "last_retested_at_epoch": 1597780751.029938,
+            "last_retested_at_iso": "2020-08-18T19:59:11.029938",
+            "status": "INACTIVE"
+        },
+        "nererut.com": {
+            "included_at_epoch": 1597780751.598794,
+            "included_at_iso": "2020-08-18T19:59:11.598794",
+            "last_retested_at_epoch": 1597780751.598794,
+            "last_retested_at_iso": "2020-08-18T19:59:11.598794",
+            "status": "INACTIVE"
+        },
+        "neroom.ru": {
+            "included_at_epoch": 1597780753.662694,
+            "included_at_iso": "2020-08-18T19:59:13.662694",
+            "last_retested_at_epoch": 1597780753.662694,
+            "last_retested_at_iso": "2020-08-18T19:59:13.662694",
+            "status": "INACTIVE"
+        },
+        "neschaypaxkk.com": {
+            "included_at_epoch": 1597780754.227143,
+            "included_at_iso": "2020-08-18T19:59:14.227143",
+            "last_retested_at_epoch": 1597780754.227143,
+            "last_retested_at_iso": "2020-08-18T19:59:14.227143",
+            "status": "INACTIVE"
+        },
+        "nest.net.ru": {
+            "included_at_epoch": 1597780755.766904,
+            "included_at_iso": "2020-08-18T19:59:15.766904",
+            "last_retested_at_epoch": 1597780755.766904,
+            "last_retested_at_iso": "2020-08-18T19:59:15.766904",
+            "status": "INACTIVE"
+        },
+        "nestedmedia.com": {
+            "included_at_epoch": 1597780755.82535,
+            "included_at_iso": "2020-08-18T19:59:15.825350",
+            "last_retested_at_epoch": 1597780755.82535,
+            "last_retested_at_iso": "2020-08-18T19:59:15.825350",
             "status": "INACTIVE"
         }
     }
