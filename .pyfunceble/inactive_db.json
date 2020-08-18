@@ -9299,8 +9299,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597786187.992668,
-            "last_retested_at_iso": "2020-08-18T21:29:47.992668",
+            "last_retested_at_epoch": 1597787235.782464,
+            "last_retested_at_iso": "2020-08-18T21:47:15.782464",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -14418,6 +14418,90 @@
             "included_at_iso": "2020-08-18T21:29:56.388824",
             "last_retested_at_epoch": 1597786196.388824,
             "last_retested_at_iso": "2020-08-18T21:29:56.388824",
+            "status": "INACTIVE"
+        },
+        "newhdfilms.ru": {
+            "included_at_epoch": 1597787235.844208,
+            "included_at_iso": "2020-08-18T21:47:15.844208",
+            "last_retested_at_epoch": 1597787235.844208,
+            "last_retested_at_iso": "2020-08-18T21:47:15.844208",
+            "status": "INACTIVE"
+        },
+        "newisnews.info": {
+            "included_at_epoch": 1597787237.387132,
+            "included_at_iso": "2020-08-18T21:47:17.387132",
+            "last_retested_at_epoch": 1597787237.387132,
+            "last_retested_at_iso": "2020-08-18T21:47:17.387132",
+            "status": "INACTIVE"
+        },
+        "newlostrek.ru": {
+            "included_at_epoch": 1597787239.46549,
+            "included_at_iso": "2020-08-18T21:47:19.465490",
+            "last_retested_at_epoch": 1597787239.46549,
+            "last_retested_at_iso": "2020-08-18T21:47:19.465490",
+            "status": "INACTIVE"
+        },
+        "newpoints.info": {
+            "included_at_epoch": 1597787241.97289,
+            "included_at_iso": "2020-08-18T21:47:21.972890",
+            "last_retested_at_epoch": 1597787241.97289,
+            "last_retested_at_iso": "2020-08-18T21:47:21.972890",
+            "status": "INACTIVE"
+        },
+        "news-super.com": {
+            "included_at_epoch": 1597787243.974489,
+            "included_at_iso": "2020-08-18T21:47:23.974489",
+            "last_retested_at_epoch": 1597787243.974489,
+            "last_retested_at_iso": "2020-08-18T21:47:23.974489",
+            "status": "INACTIVE"
+        },
+        "news.govorjat.ru": {
+            "included_at_epoch": 1597787244.104067,
+            "included_at_iso": "2020-08-18T21:47:24.104067",
+            "last_retested_at_epoch": 1597787244.104067,
+            "last_retested_at_iso": "2020-08-18T21:47:24.104067",
+            "status": "INACTIVE"
+        },
+        "news.nest.msk.ru": {
+            "included_at_epoch": 1597787244.198478,
+            "included_at_iso": "2020-08-18T21:47:24.198478",
+            "last_retested_at_epoch": 1597787244.198478,
+            "last_retested_at_iso": "2020-08-18T21:47:24.198478",
+            "status": "INACTIVE"
+        },
+        "news.pustgovorjat.ru": {
+            "included_at_epoch": 1597787244.329883,
+            "included_at_iso": "2020-08-18T21:47:24.329883",
+            "last_retested_at_epoch": 1597787244.329883,
+            "last_retested_at_iso": "2020-08-18T21:47:24.329883",
+            "status": "INACTIVE"
+        },
+        "news.rk345dno.ru": {
+            "included_at_epoch": 1597787244.388662,
+            "included_at_iso": "2020-08-18T21:47:24.388662",
+            "last_retested_at_epoch": 1597787244.388662,
+            "last_retested_at_iso": "2020-08-18T21:47:24.388662",
+            "status": "INACTIVE"
+        },
+        "news.trendovo.com.ua": {
+            "included_at_epoch": 1597787244.447572,
+            "included_at_iso": "2020-08-18T21:47:24.447572",
+            "last_retested_at_epoch": 1597787244.447572,
+            "last_retested_at_iso": "2020-08-18T21:47:24.447572",
+            "status": "INACTIVE"
+        },
+        "news2you.ru": {
+            "included_at_epoch": 1597787244.506618,
+            "included_at_iso": "2020-08-18T21:47:24.506618",
+            "last_retested_at_epoch": 1597787244.506618,
+            "last_retested_at_iso": "2020-08-18T21:47:24.506618",
+            "status": "INACTIVE"
+        },
+        "newsforbest.net": {
+            "included_at_epoch": 1597787248.993056,
+            "included_at_iso": "2020-08-18T21:47:28.993056",
+            "last_retested_at_epoch": 1597787248.993056,
+            "last_retested_at_iso": "2020-08-18T21:47:28.993056",
             "status": "INACTIVE"
         }
     }
