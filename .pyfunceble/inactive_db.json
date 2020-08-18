@@ -9397,8 +9397,8 @@
         "iphone-caviar.ru*entranceid": {
             "included_at_epoch": 1597732013.160676,
             "included_at_iso": "2020-08-18T06:26:53.160676",
-            "last_retested_at_epoch": 1597772901.04336,
-            "last_retested_at_iso": "2020-08-18T17:48:21.043360",
+            "last_retested_at_epoch": 1597774429.458596,
+            "last_retested_at_iso": "2020-08-18T18:13:49.458596",
             "status": "INVALID"
         },
         "ipml-qvr8go.ru": {
@@ -13851,6 +13851,132 @@
             "included_at_iso": "2020-08-18T17:48:57.921429",
             "last_retested_at_epoch": 1597772937.921429,
             "last_retested_at_iso": "2020-08-18T17:48:57.921429",
+            "status": "INACTIVE"
+        },
+        "mtcat.cn": {
+            "included_at_epoch": 1597774430.599079,
+            "included_at_iso": "2020-08-18T18:13:50.599079",
+            "last_retested_at_epoch": 1597774430.599079,
+            "last_retested_at_iso": "2020-08-18T18:13:50.599079",
+            "status": "INACTIVE"
+        },
+        "mtdata1.ru": {
+            "included_at_epoch": 1597774431.177489,
+            "included_at_iso": "2020-08-18T18:13:51.177489",
+            "last_retested_at_epoch": 1597774431.177489,
+            "last_retested_at_iso": "2020-08-18T18:13:51.177489",
+            "status": "INACTIVE"
+        },
+        "mtdlcstsqt.com": {
+            "included_at_epoch": 1597774431.773542,
+            "included_at_iso": "2020-08-18T18:13:51.773542",
+            "last_retested_at_epoch": 1597774431.773542,
+            "last_retested_at_iso": "2020-08-18T18:13:51.773542",
+            "status": "INACTIVE"
+        },
+        "mtnobdfcgylhuj.com": {
+            "included_at_epoch": 1597774433.418903,
+            "included_at_iso": "2020-08-18T18:13:53.418903",
+            "last_retested_at_epoch": 1597774433.418903,
+            "last_retested_at_iso": "2020-08-18T18:13:53.418903",
+            "status": "INACTIVE"
+        },
+        "mtrcs.samba.tv": {
+            "included_at_epoch": 1597774434.63016,
+            "included_at_iso": "2020-08-18T18:13:54.630160",
+            "last_retested_at_epoch": 1597774434.63016,
+            "last_retested_at_iso": "2020-08-18T18:13:54.630160",
+            "status": "INACTIVE"
+        },
+        "mtrics.cdc.gov": {
+            "included_at_epoch": 1597774435.668677,
+            "included_at_iso": "2020-08-18T18:13:55.668677",
+            "last_retested_at_epoch": 1597774435.668677,
+            "last_retested_at_iso": "2020-08-18T18:13:55.668677",
+            "status": "INACTIVE"
+        },
+        "mts.sdtieta.com": {
+            "included_at_epoch": 1597774435.760608,
+            "included_at_iso": "2020-08-18T18:13:55.760608",
+            "last_retested_at_epoch": 1597774435.760608,
+            "last_retested_at_iso": "2020-08-18T18:13:55.760608",
+            "status": "INACTIVE"
+        },
+        "mtwbedsl.biz": {
+            "included_at_epoch": 1597774437.329394,
+            "included_at_iso": "2020-08-18T18:13:57.329394",
+            "last_retested_at_epoch": 1597774437.329394,
+            "last_retested_at_iso": "2020-08-18T18:13:57.329394",
+            "status": "INACTIVE"
+        },
+        "muasoctv.com": {
+            "included_at_epoch": 1597774439.356073,
+            "included_at_iso": "2020-08-18T18:13:59.356073",
+            "last_retested_at_epoch": 1597774439.356073,
+            "last_retested_at_iso": "2020-08-18T18:13:59.356073",
+            "status": "INACTIVE"
+        },
+        "mubite.cn": {
+            "included_at_epoch": 1597774439.413731,
+            "included_at_iso": "2020-08-18T18:13:59.413731",
+            "last_retested_at_epoch": 1597774439.413731,
+            "last_retested_at_iso": "2020-08-18T18:13:59.413731",
+            "status": "INACTIVE"
+        },
+        "mucocutaneousmyrmecophaga.com": {
+            "included_at_epoch": 1597774440.996015,
+            "included_at_iso": "2020-08-18T18:14:00.996015",
+            "last_retested_at_epoch": 1597774440.996015,
+            "last_retested_at_iso": "2020-08-18T18:14:00.996015",
+            "status": "INACTIVE"
+        },
+        "muhexvakuawzo.com": {
+            "included_at_epoch": 1597774442.582526,
+            "included_at_iso": "2020-08-18T18:14:02.582526",
+            "last_retested_at_epoch": 1597774442.582526,
+            "last_retested_at_iso": "2020-08-18T18:14:02.582526",
+            "status": "INACTIVE"
+        },
+        "muhtoni.ru": {
+            "included_at_epoch": 1597774443.13013,
+            "included_at_iso": "2020-08-18T18:14:03.130130",
+            "last_retested_at_epoch": 1597774443.13013,
+            "last_retested_at_iso": "2020-08-18T18:14:03.130130",
+            "status": "INACTIVE"
+        },
+        "mujuclaster.ru": {
+            "included_at_epoch": 1597774444.730736,
+            "included_at_iso": "2020-08-18T18:14:04.730736",
+            "last_retested_at_epoch": 1597774444.730736,
+            "last_retested_at_iso": "2020-08-18T18:14:04.730736",
+            "status": "INACTIVE"
+        },
+        "mukipol.com": {
+            "included_at_epoch": 1597774445.292878,
+            "included_at_iso": "2020-08-18T18:14:05.292878",
+            "last_retested_at_epoch": 1597774445.292878,
+            "last_retested_at_iso": "2020-08-18T18:14:05.292878",
+            "status": "INACTIVE"
+        },
+        "muligov.com": {
+            "included_at_epoch": 1597774445.349656,
+            "included_at_iso": "2020-08-18T18:14:05.349656",
+            "last_retested_at_epoch": 1597774445.349656,
+            "last_retested_at_iso": "2020-08-18T18:14:05.349656",
+            "status": "INACTIVE"
+        },
+        "multimedia-boom.com": {
+            "included_at_epoch": 1597774446.895345,
+            "included_at_iso": "2020-08-18T18:14:06.895345",
+            "last_retested_at_epoch": 1597774446.895345,
+            "last_retested_at_iso": "2020-08-18T18:14:06.895345",
+            "status": "INACTIVE"
+        },
+        "multirek.ru": {
+            "included_at_epoch": 1597774446.952341,
+            "included_at_iso": "2020-08-18T18:14:06.952341",
+            "last_retested_at_epoch": 1597774446.952341,
+            "last_retested_at_iso": "2020-08-18T18:14:06.952341",
             "status": "INACTIVE"
         }
     }
