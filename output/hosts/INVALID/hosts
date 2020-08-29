@@ -122,8 +122,8 @@
 0.0.0.0 pijama.*.elasticbeanstalk.com
 0.0.0.0 pop-parad.
 0.0.0.0 poptraf.
-0.0.0.0 pop-under.
 0.0.0.0 popunder.
+0.0.0.0 pop-under.
 0.0.0.0 popupclick.
 0.0.0.0 popuptraf.
 0.0.0.0 poshalim.
@@ -158,8 +158,8 @@
 0.0.0.0 tracking.*.miui.com
 0.0.0.0 tracking*.euroads.fi
 0.0.0.0 tracking.olx.
-0.0.0.0 under-click.
 0.0.0.0 underclick.
+0.0.0.0 under-click.
 0.0.0.0 union*.365inews.com
 0.0.0.0 v.newsportal*.ru
 0.0.0.0 v.tzbox*.xyz
@@ -172,6 +172,7 @@
 0.0.0.0 w*statistics.info
 0.0.0.0 www.fuze-hill*.xyz
 0.0.0.0 www.fuze-sea*.xyz
+0.0.0.0 ya*.dwstatic.com
 0.0.0.0 8*.tianya.cn
 0.0.0.0 24h*-ad.24hstatic.com
 0.0.0.0 111.175.219.*.js
