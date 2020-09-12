@@ -14,6 +14,15 @@
 0.0.0.0 adserver1.
 0.0.0.0 adv0*.msa.cdn.mediaset.net
 0.0.0.0 aff*.kolektiva.net
+0.0.0.0 alishop*.ru
+0.0.0.0 analytics*.carambo.la
+0.0.0.0 analytics*.clickdimensions.com
+0.0.0.0 analytics-beacon-*.amazonaws.com
+0.0.0.0 analytics-rollout-*.amazonaws.com
+0.0.0.0 analyzer*.fc2.com
+0.0.0.0 api*.batmobi.net
+0.0.0.0 api*.batmobil.net
+0.0.0.0 api-*.bidmachine.io
 0.0.0.0 8*.tianya.cn
 0.0.0.0 24h*-ad.24hstatic.com
 0.0.0.0 111.175.219.*.js
