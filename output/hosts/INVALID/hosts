@@ -53,6 +53,7 @@
 0.0.0.0 dn*.ixinwei.com
 0.0.0.0 dualstack.adbert-web-lbs-*.elb.amazonaws.com
 0.0.0.0 dw-informer-*.newsru.com
+0.0.0.0 eva*-ad.24hstatic.com
 0.0.0.0 8*.tianya.cn
 0.0.0.0 24h*-ad.24hstatic.com
 0.0.0.0 111.175.219.*.js
