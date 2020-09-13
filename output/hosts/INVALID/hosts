@@ -38,6 +38,9 @@
 0.0.0.0 bondzgi*.
 0.0.0.0 cdn*.swaxis.com
 0.0.0.0 cdn-adn-*.rayjump.com
+0.0.0.0 ce-global-track-*.amazonaws.com
+0.0.0.0 collect.*.miui.com
+0.0.0.0 collector-*.tvsquared.com
 0.0.0.0 8*.tianya.cn
 0.0.0.0 24h*-ad.24hstatic.com
 0.0.0.0 111.175.219.*.js
